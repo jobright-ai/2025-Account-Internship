@@ -65,14 +65,14 @@ For a complete list, see the full spreadsheet below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2025 (New Orleans, LA)](https://jobright.ai/jobs/info/66a2cbda327455bc297b12b1?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Jul 25 |
 | ↳ | **[Tax Intern - Spring 2025 (Santa, Fe, NM)](https://jobright.ai/jobs/info/66a2cbda327455bc297b12af?utm_campaign=1052&utm_source=git)** | Santa Fe, NM | On Site | Jul 25 |
 | **[ThyssenKrupp](https://www.thyssenkrupp.com)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/66a2d63e151114d559652519?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Jul 25 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Finance Internship](https://jobright.ai/jobs/info/667f904cd2830b52311e02c9?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 25 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Finance](https://jobright.ai/jobs/info/66a2c83bb4785fcea1faf856?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Jul 25 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Finance Internship](https://jobright.ai/jobs/info/667f80f042e63ae5af33eeae?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 25 |
 | ↳ | **[Sustainable and Inclusive Finance Internship](https://jobright.ai/jobs/info/66a2fc2e7d87c2086e260e96?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
+| ↳ | **[Finance Internship](https://jobright.ai/jobs/info/667f85ab85a547428ab7ce91?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 25 |
 | **[Lazard](http://www.lazard.com)** | **[2025 Emerging Markets Debt Internship](https://jobright.ai/jobs/info/66a2c040f775b92df26e379b?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jul 25 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Office of Equity and Investment Funds Internship](https://jobright.ai/jobs/info/66a2e32c621b00551f362c73?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Jul 25 |
 | ↳ | **[Finance Internship](https://jobright.ai/jobs/info/66a2e32c621b00551f362c79?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 25 |
-| ↳ | **[Finance Internship](https://jobright.ai/jobs/info/66a2cff111da4cbed1974b31?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 25 |
+| ↳ | **[Finance Internship](https://jobright.ai/jobs/info/66a2e32c621b00551f362c78?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 25 |
 | ↳ | **[Finance Internship](https://jobright.ai/jobs/info/66a2cfdb11da4cbed19748d2?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | ↳ | **[Office of Equity and Investment Funds Internship](https://jobright.ai/jobs/info/66a2cfe611da4cbed1974a2a?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 25 |
 | ↳ | **[Office of Equity and Investment Funds Internship](https://jobright.ai/jobs/info/66a31132a876354708d31fd8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 25 |
@@ -121,7 +121,6 @@ For a complete list, see the full spreadsheet below:
 | **[RSM](http://www.rsmus.com/)** | **[Audit Intern - Winter 2025](https://jobright.ai/jobs/info/65e472d0fdcc8b42e8f7b6ea?utm_campaign=1052&utm_source=git)** | Blue Bell, PA | Hybrid | Jul 25 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2025 (Valdosta, GA)](https://jobright.ai/jobs/info/66858393798cca6c381734fd?utm_campaign=1052&utm_source=git)** | Valdosta, GA | On Site | Jul 25 |
 | ↳ | **[Audit Intern - Spring 2025 (Tifton, GA)](https://jobright.ai/jobs/info/66858c7d1b1f4c2377c85e66?utm_campaign=1052&utm_source=git)** | Tifton, GA | On Site | Jul 25 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Graduate Intern - Actuarial Science](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df91?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 25 |
 | **[Wealth Enhancement Group](http://wealthenhancement.com/)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6685f2ecc18bebcab14e3e66?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Jul 25 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66a225b0642c1d827779dcc0?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Jul 25 |
 | ↳ | **[Tax Intern, Global Rewards Services / San Francisco Winter 2025](https://jobright.ai/jobs/info/66a2304c01e1969f1d5dcc8a?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 25 |
@@ -289,7 +288,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[2025 Summer Key Investment Services Internship (Certified Financial Planner Track)- Tacoma & Lakewood, WA](https://jobright.ai/jobs/info/669ef3e38f2d3be9ad51668e?utm_campaign=1052&utm_source=git)** | Lakewood, WA | On Site | Jul 23 |
 | ↳ | **[2025 Summer Key Investment Services Internship (Certified Financial Planner Track)- Warsaw, IN](https://jobright.ai/jobs/info/669f2279e259be7ea8b87b10?utm_campaign=1052&utm_source=git)** | Warsaw, IN | On Site | Jul 23 |
 | **[Manulife Financial](http://www.manulife.com/)** | **[John Hancock Actuarial Summer Internship Program 2025](https://jobright.ai/jobs/info/66a014582a171339ff150861?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | Hybrid | Jul 23 |
-| **[KeyBank](https://www.key.com)** | **[2025 Summer Key Investment Services Internship (Certified Financial Planner Track)- Albany, NY](https://jobright.ai/jobs/info/669ef3e38f2d3be9ad516696?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Jul 22 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Enterprise Credit Summer Analyst Program 2025 - Global Corporate & Investment Banking Credit and Global Markets Credit](https://jobright.ai/jobs/info/669ef2c81e8065cb2121e32c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 22 |
 | ↳ | **[Enterprise Credit Summer Analyst Program 2025 - Global Corporate & Investment Banking Credit and Global Markets Credit](https://jobright.ai/jobs/info/669ef2c81e8065cb2121e32e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
 | ↳ | **[Enterprise Credit Summer Analyst Program 2025 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit](https://jobright.ai/jobs/info/669f141697729703c331b6e6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 22 |
@@ -355,11 +353,11 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Summer 2025 Key Investment Services Internship (Certified Financial Planner Track)- Albany, OR](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b45?utm_campaign=1052&utm_source=git)** | Albany, OR | On Site | Jul 22 |
 | ↳ | **[Summer 2025 Key Investment Services Internship (Certified Financial Planner Track)- Vandalia, OH](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b44?utm_campaign=1052&utm_source=git)** | Vandalia, OH | On Site | Jul 22 |
 | ↳ | **[Summer 2025 Key Investment Services Internship (Certified Financial Planner Track)- Albany, NY](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b63?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Jul 22 |
+| ↳ | **[2025 Summer Key Investment Services Internship (Certified Financial Planner Track)- Albany, NY](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b6c?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Jul 22 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Accounting Internship- Spring 2025](https://jobright.ai/jobs/info/669ff63d13edbe30068704dc?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Jul 21 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Accounting Co-op (Valdosta Mill)](https://jobright.ai/jobs/info/66a12c735b67f66506bddd29?utm_campaign=1052&utm_source=git)** | Valdosta Area | On Site | Jul 21 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2024 - Finance](https://jobright.ai/jobs/info/669e60ca97d87febbccc63ec?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID | On Site | Jul 21 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Accounting Co-op (Valdosta Mill)](https://jobright.ai/jobs/info/66a0fff67e8eb381e8aa4b46?utm_campaign=1052&utm_source=git)** | Valdosta, GA | On Site | Jul 21 |
-| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2024 - Accounting](https://jobright.ai/jobs/info/669669f595acdb70e278276a?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID | On Site | Jul 21 |
 | **[FORVIS](https://www.forvis.com)** | **[Intern Audit Spring 2026 / San Antonio](https://jobright.ai/jobs/info/6677d1f197271e26801e2501?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jul 21 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2025](https://jobright.ai/jobs/info/66701ef64ebe061c23440185?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jul 21 |
 | ↳ | **[Tax Intern / Multiple Locations Winter 2025](https://jobright.ai/jobs/info/666ee013043f0a9bd850f288?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Jul 21 |
@@ -370,6 +368,7 @@ For a complete list, see the full spreadsheet below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Global Executive & Private Client Group / Atlanta Winter 2025](https://jobright.ai/jobs/info/666d8f2b73579c54c678e768?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[FORVIS](https://www.forvis.com)** | **[Intern Tax Spring 2026 / Austin](https://jobright.ai/jobs/info/6663e747148765110d3fa45e?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jul 21 |
 | **[RSM](http://www.rsmus.com/)** | **[Federal Tax Intern - Summer 2025](https://jobright.ai/jobs/info/6646f76477bde81d0c0b4cac?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jul 21 |
+| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2024 - Accounting](https://jobright.ai/jobs/info/66964e3139bf621cefc6cc4f?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID | On Site | Jul 21 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Accounting Internship Summer 2025](https://jobright.ai/jobs/info/664789d65d01ddcde5608391?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Jul 21 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/667f0f7e44a5e5bb25f56105?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Jul 21 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Accounting Intern - Fall 2024](https://jobright.ai/jobs/info/669f4cbffa70020a15d72106?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Jul 21 |
@@ -423,5 +422,6 @@ For a complete list, see the full spreadsheet below:
 | **[Robert W. Baird & Co.](http://www.rwbaird.com)** | **[Internship – Equity Research Analyst (Summer 2025)](https://jobright.ai/jobs/info/669aa85d0401c4baf934fbd4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jul 19 |
 | **[CDH](http://cdhcpa.com)** | **[2025 Tax Internship](https://jobright.ai/jobs/info/669aa30b7c95987868d83d54?utm_campaign=1052&utm_source=git)** | Itasca, IL | On Site | Jul 19 |
 | ↳ | **[Accounting Internship- Bilingual Japanese](https://jobright.ai/jobs/info/669aa8660401c4baf934fcc2?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | Hybrid | Jul 19 |
+| ↳ | **[2025 Assurance Internship](https://jobright.ai/jobs/info/669a98943b9ef773a6906645?utm_campaign=1052&utm_source=git)** | Itasca, IL | On Site | Jul 19 |
 | **[Associa](http://www.associaonline.com)** | **[Accounting Clerk - Intern](https://jobright.ai/jobs/info/669a225cacd112fab6484514?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
