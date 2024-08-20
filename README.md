@@ -16,7 +16,7 @@
     <br>
     <br>
     <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git">
-        <img src="./static/img/airtable.jpg" alt="jobright.ai">
+        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
     <br>
@@ -46,8 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Accounting and Finance">
 <a href="https://intern-list.com/?selectedKey=💰%20Accounting%20and%20Finance&utm_source=&utm_campaign={utm_campaign_str}">
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.pjg" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
 
@@ -957,6 +956,4 @@ For a complete list, see the full spreadsheet below:
 | **[Corient](https://www.corient.com/)** | **[Tax Intern: Winter 2025 (Spring Semester)](https://jobright.ai/jobs/info/66bb9b3b4a38bf23edb03cc4?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 | ↳ | **[Tax Intern: Winter 2025 (Spring Semester)](https://jobright.ai/jobs/info/66bb9b3b4a38bf23edb03ff6?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 13 |
 | ↳ | **[Tax Intern: Winter 2025 (Spring Semester)](https://jobright.ai/jobs/info/66bb9b3b4a38bf23edb03ff8?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Aug 13 |
-| ↳ | **[Tax Intern: Winter 2025 (Spring Semester)](https://jobright.ai/jobs/info/66bb9d6b78959ee6901e3f63?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Aug 13 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Closing](https://jobright.ai/jobs/info/66bba6346ed261830cac678b?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
