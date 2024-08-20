@@ -42,9 +42,9 @@
 <h4>
 Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
-For a complete list, see the full spreadsheet below:
+For a complete list, click the following sortable link below:
 </h4>
-<a href="https://intern-list.com/?selectedKey=💰%20Accounting%20and%20Finance&utm_source=&utm_campaign=Accounting and Finance">
+<a href="https://intern-list.com/?selectedKey=💰%20Accounting%20and%20Finance&utm_source=1101&utm_campaign=Accounting and Finance">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -950,6 +950,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Junior Finance Associate](https://jobright.ai/jobs/info/66bbdba812e8e49280cf0c34?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Aug 13 |
 | **[Stansell Electric Company, Inc.](http://stansellelectric.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/66bbafcceea70fb8dc969ce9?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 13 |
 | **[YMCA of Metropolitan Chicago](http://www.ymcachicago.org/)** | **[Accounting Internship - Paid](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9e88?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
-| **[BNY Mellon](http://www.bnymellon.com)** | **[2025 BNY Summer Internship Program - Finance (New York, NY)](https://jobright.ai/jobs/info/66be406766d0fac945421a5f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 13 |
-| **[Barrick Gold Corporation](http://barrick.com)** | **[2024 Fall Finance Internship Henderson Nevada](https://jobright.ai/jobs/info/66be406766d0fac945421a64?utm_campaign=1052&utm_source=git)** | Henderson, NV | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
