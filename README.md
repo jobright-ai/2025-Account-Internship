@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity](https://www.fidelity.com)** | **[Summer 2025 Undergraduate Internship - Legal, Risk, Compliance & Audit](https://jobright.ai/jobs/info/66e8cb9918a28c153fe4524e?utm_campaign=1052&utm_source=git)** | Merrimack, NH | Hybrid | Sep 25 |
+| **[Moss Adams](http://www.mossadams.com/)** | **[State and Local Tax Intern - 2026](https://jobright.ai/jobs/info/66f4d945338a412e91491928?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Sep 25 |
 | **[Noyack Logistics Income REIT](https://noyacklogistics.com)** | **[Commercial Real Estate Investment Internship](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a7eb?utm_campaign=1052&utm_source=git)** | Manhattan, NY | On Site | Sep 25 |
 | **[Fidelity](https://www.fidelity.com)** | **[Summer 2025 Undergraduate Internship - Finance](https://jobright.ai/jobs/info/66e8ba5df984892bbff9ea47?utm_campaign=1052&utm_source=git)** | Smithfield, RI | Hybrid | Sep 25 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/66f4c169441f3d5b10e0eefc?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Sep 25 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Accounting and CFO Advisory Internship](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a91b?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Sep 25 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/66f4d945338a412e9149193b?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Sep 25 |
 | **[Jones Lang LaSalle](http://www.jll.com/)** | **[Finance Summer 2025 Internship](https://jobright.ai/jobs/info/66f4cb830764ab22aa1969e9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf59e?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Sep 25 |
 | **[Persons Services Corporation](http://www.personsservices.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a7aa?utm_campaign=1052&utm_source=git)** | Mobile, AL | On Site | Sep 25 |
@@ -68,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Private Market Operations Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64e9?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
 | ↳ | **[Real Estate Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64fa?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
 | ↳ | **[Investment Analyst Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c651d?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
-| ↳ | **[Investment Risk Analyst Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64c8?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
 | ↳ | **[Passive Implementation Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64c1?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
 | ↳ | **[Portfolio Engineering Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64d9?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
+| ↳ | **[Investment Risk Analyst Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64c8?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 25 |
 | **[Platform Accounting Group](https://platformag.com)** | **[Tax Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c657c?utm_campaign=1052&utm_source=git)** | Mesa, AZ | Hybrid | Sep 25 |
 | **[SCO Family of Services](https://sco.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/66f4bdb8f62ca85e431e2c97?utm_campaign=1052&utm_source=git)** | Huntington Station, NY | On Site | Sep 25 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer Financial Analyst - Portfolio Valuation and Fund Advisory Services](https://jobright.ai/jobs/info/66f4afef06eba23b4c0ee754?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Talcott Financial Group](https://talcott.com)** | **[Risk Reporting Intern](https://jobright.ai/jobs/info/66f4ad88483aad13e8889c7d?utm_campaign=1052&utm_source=git)** | Greater Hartford | Hybrid | Sep 25 |
 | **[Point72](https://www.point72.com)** | **[Summer Internship - Treasury](https://jobright.ai/jobs/info/66f4bbad422176ea4150916e?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Sep 25 |
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Administrative Accounting Intern](https://jobright.ai/jobs/info/66f4ad88483aad13e8889c4a?utm_campaign=1052&utm_source=git)** | Woburn, MA | On Site | Sep 25 |
-| **[M. A. Mortenson Company](https://www.mortenson.com)** | **[Financial Reporting & Accounting Operations Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07cf?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Sep 25 |
-| ↳ | **[Project Accounting Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07fc?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Sep 25 |
+| **[M. A. Mortenson Company](https://www.mortenson.com)** | **[Project Accounting Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07fc?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Sep 25 |
+| ↳ | **[Financial Reporting & Accounting Operations Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07cf?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Sep 25 |
 | ↳ | **[Core Finance Operations Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07f3?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Sep 25 |
 | ↳ | **[Finance Process & Technology Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f086e?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Sep 25 |
 | **[AHF Products](https://www.ahfproducts.com/)** | **[Finance Intern Summer 2025](https://jobright.ai/jobs/info/66f4b617a1003749c95c6550?utm_campaign=1052&utm_source=git)** | Mountville, PA | On Site | Sep 25 |
@@ -140,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Greystone](https://www.greystone.com)** | **[FHA Healthcare Lending Internship](https://jobright.ai/jobs/info/66f47323bca0e767fe612d72?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | ↳ | **[FHA Multifamily Lending Internship](https://jobright.ai/jobs/info/66f47323bca0e767fe612d8e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[Caterpillar](https://www.caterpillar.com)** | **[Finance Intern](https://jobright.ai/jobs/info/66d3151075ee1adfc955cd23?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Sep 25 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/66f47927cc2908bd4f6de366?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Sep 25 |
 | **[Getmeonboard](www.getmeonbo.com)** | **[Actuary Intern](https://jobright.ai/jobs/info/66f47b70ed5281cf376f4306?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | **[CSX](http://www.csx.com)** | **[CSX IT Audit Internship - Summer 2025](https://jobright.ai/jobs/info/66f467601f194ab277a0b0c1?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Sep 25 |
 | **[Bissell](http://www.bissell.com)** | **[Co-Op Student - Accounting](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef79?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Sep 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Donaldson Company](http://donaldson.com)** | **[Intern - Finance Systems](https://jobright.ai/jobs/info/66f462b3f90aae3212afb342?utm_campaign=1052&utm_source=git)** | Bloomington, MN | On Site | Sep 25 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Finance Intern](https://jobright.ai/jobs/info/66f4551b27e58f9b72c879f1?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Sep 25 |
 | **[Talent2Win Perú](https://talent2win.com/pe/)** | **[Audit Associate](https://jobright.ai/jobs/info/66f462d907e17ad7328dfe43?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Sep 25 |
-| **[West Bend Mutual Insurance](http://www.thesilverlining.com/)** | **[Intern - Actuarial (Summer 2025)](https://jobright.ai/jobs/info/66f4551b27e58f9b72c879fc?utm_campaign=1052&utm_source=git)** | West Bend, WI | On Site | Sep 25 |
-| **[ITG Brands](http://www.itgbrands.com)** | **[Tax Intern](https://jobright.ai/jobs/info/66f451c50cb7d421371eff3f?utm_campaign=1052&utm_source=git)** | North Carolina, United States | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
