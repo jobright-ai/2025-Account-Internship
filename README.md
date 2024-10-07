@@ -58,11 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[UHY LLP, Certified Public Accountants](https://uhy-us.com/)** | **[2025 Winter Tax Intern - Manchester](https://jobright.ai/jobs/info/670317ea4cb6100d33848df4?utm_campaign=1052&utm_source=git)** | Manchester, NH | On Site | Oct 06 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/670300dff923165ac62a2ae5?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 06 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Audit Internship Summer 2025](https://jobright.ai/jobs/info/6702eec58b7271f4a0df0b1a?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | On Site | Oct 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2025 - San Antonio, TX](https://jobright.ai/jobs/info/6702c9ab96c0b227875514ac?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Oct 06 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6702ad1b591f3e6f233246a1?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Oct 06 |
-| **[PGIM](https://www.pgim.com)** | **[PGIM: 2025 Operations & Innovation, Investment Operations Internship Program (Newark, NJ)](https://jobright.ai/jobs/info/670300dff923165ac62a2af3?utm_campaign=1052&utm_source=git)** | Newark, NJ | On Site | Oct 06 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Transfer Pricing / Detroit Summer 2025](https://jobright.ai/jobs/info/6702803de4e14cee464c55db?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Oct 06 |
 | ↳ | **[Audit Intern / Multiple Locations Winter 2025](https://jobright.ai/jobs/info/6702803de4e14cee464c55ba?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 06 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/66cf28adc40029d3d3bed390?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 06 |
@@ -85,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern Summer 2025](https://jobright.ai/jobs/info/66e5625eb86b7ac179e1d038?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | ↳ | **[Audit Intern Summer 2025](https://jobright.ai/jobs/info/66e55540ec096de02a96ac3e?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Oct 06 |
 | ↳ | **[Audit Intern Summer 2025](https://jobright.ai/jobs/info/66e55540ec096de02a96ac40?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Oct 06 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/670254faa77b78f8fb77063b?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 06 |
 | **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Global Finance - Accountant Summer Associate (2025)](https://jobright.ai/jobs/info/6702579ba8ed3794d8226c90?utm_campaign=1052&utm_source=git)** | San Antonio | On Site | Oct 05 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6701de45c505a881ddeff095?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 05 |
 | **[First Student](http://www.firststudentinc.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6701fa0e9cf579c06db97988?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
@@ -92,14 +91,11 @@ For a complete list, click the following sortable link below:
 | **[Moss Adams](http://www.mossadams.com/)** | **[Family Office Intern - 2025](https://jobright.ai/jobs/info/6701b475973021d6b33d5392?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Oct 05 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Accounting and CFO Advisory Internship - Summer 2025 - San Francisco or San Diego](https://jobright.ai/jobs/info/6701a69e0b0ac3ca371173f2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Oct 05 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Des Moines or Cedar Rapids, IA](https://jobright.ai/jobs/info/67017948f9aec583a07ab850?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Oct 05 |
-| ↳ | **[Client Accounting and Advisory Services Intern - Spring 2025 - Phoenix, AZ](https://jobright.ai/jobs/info/67017948f9aec583a07ab726?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Oct 05 |
 | **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Asset Management and Affordable Housing Intern](https://jobright.ai/jobs/info/670167925d2743f71c75afd5?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Oct 05 |
 | **[GXO Logistics, Inc.](https://www.gxo.com/)** | **[Associate Auditor, Internal Audit](https://jobright.ai/jobs/info/6701636133a98eac9ee3d0e8?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | Oct 05 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/670180184235543f08392cdb?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Oct 05 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[2025 Finance Undergraduate Intern - Accounting](https://jobright.ai/jobs/info/670154f2102b347ce4f21283?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Government Internal Audit Intern](https://jobright.ai/jobs/info/67014946aba7a252248679de?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 05 |
 | ↳ | **[Audit Analytics Intern- AO](https://jobright.ai/jobs/info/67014946aba7a252248679e7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 05 |
-| **[GXO Logistics, Inc.](https://www.gxo.com/)** | **[Associate Auditor, Internal Audit](https://jobright.ai/jobs/info/67014e7db2e410a3fd8fb49b?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | Oct 05 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern - Business Insurance National Accounts](https://jobright.ai/jobs/info/66e4dd5733a88141338b785d?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 05 |
 | ↳ | **[Accounting Intern - Insurance](https://jobright.ai/jobs/info/66e4dd5733a88141338b79b2?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 05 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Investments & Wealth Solutions Intern](https://jobright.ai/jobs/info/66e4838959e59f33b27102b2?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
@@ -140,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern Summer 2025](https://jobright.ai/jobs/info/66e55540ec096de02a96ac57?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Oct 05 |
 | ↳ | **[Audit Intern Summer 2025](https://jobright.ai/jobs/info/66e5625eb86b7ac179e1d063?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Oct 05 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Intern - Income Franchise - Winter 2026](https://jobright.ai/jobs/info/66e4e0a54a3ab1d92eb7cc29?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Oct 05 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6701255b005c8cdd80539af5?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Oct 05 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Accounting Assistant](https://jobright.ai/jobs/info/6700fc40823350e983b87645?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Oct 05 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Northern MN](https://jobright.ai/jobs/info/6700d2fa6f9f48a27591cfc3?utm_campaign=1052&utm_source=git)** | Monticello, MN | On Site | Oct 04 |
 | **[Associa](http://www.associaonline.com)** | **[Accounting Clerk - Intern](https://jobright.ai/jobs/info/6700d043b1009e7f61e78191?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Oct 04 |
@@ -156,5 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2025 Audit Internship - NY Financial Services](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f09799?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 04 |
 | **[Fervo Energy](https://www.fervoenergy.com)** | **[Corporate Finance Internship](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f404?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Oct 04 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, IT Auditor-Dallas, TX](https://jobright.ai/jobs/info/6701725270196d21ef1d0247?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 04 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Government Internal Audit Intern](https://jobright.ai/jobs/info/67010df15fcdf548f94de285?utm_campaign=1052&utm_source=git)** | Downtown Denver | Hybrid | Oct 04 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Audit Analytics Intern- AO](https://jobright.ai/jobs/info/67010df15fcdf548f94de284?utm_campaign=1052&utm_source=git)** | Downtown Denver | Hybrid | Oct 04 |
+| ↳ | **[Government Internal Audit Intern](https://jobright.ai/jobs/info/67010df15fcdf548f94de285?utm_campaign=1052&utm_source=git)** | Downtown Denver | Hybrid | Oct 04 |
+| **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Global Finance - Financial Analyst Summer Associate (2025)](https://jobright.ai/jobs/info/6702579ba8ed3794d8226c8f?utm_campaign=1052&utm_source=git)** | Irvine | On Site | Oct 04 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Client Accounting and Advisory Services Intern - Spring 2025 - Phoenix, AZ](https://jobright.ai/jobs/info/67015f8c193d9d74b8dbbcd7?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
