@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/67144a410fadabc6421d65d3?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 19 |
+| **[Pratt & Whitney](https://prattwhitney.com)** | **[Spring 2025 Co-Op -  Financial Planning & Analysis - Onsite](https://jobright.ai/jobs/info/6714670461ee66b80d590afb?utm_campaign=1052&utm_source=git)** | Columbus, GA | Hybrid | Oct 19 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/67143176af0930fbadef3623?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Oct 19 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/67144a410fadabc6421d65d3?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 19 |
 | **[Moss Adams](http://www.mossadams.com/)** | **[Accounting Intern (Tax and Audit) - 2025](https://jobright.ai/jobs/info/6714384122992b4a30560ef9?utm_campaign=1052&utm_source=git)** | Placer County, CA | Hybrid | Oct 19 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/67141719420935811f13b5b6?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Summer 2025](https://jobright.ai/jobs/info/671411c893d07d8083dd9161?utm_campaign=1052&utm_source=git)** | Farmington, MI | On Site | Oct 19 |
@@ -106,12 +108,10 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](http://www.newyorklife.com)** | **[2025 Actuarial Summer Internship Program](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Global Audit Intern](https://jobright.ai/jobs/info/66f7afd89f7a8657931b38e4?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Oct 19 |
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc81b?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
-| **[Everest](https://www.everestre.com/)** | **[2025 Everest Underwriter Internship Program](https://jobright.ai/jobs/info/671445be8a2c53c95e35e948?utm_campaign=1052&utm_source=git)** | Warren, NJ | On Site | Oct 19 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Procurement Intern (Summer 2025)](https://jobright.ai/jobs/info/66f7ce366b20b612b72cc24c?utm_campaign=1052&utm_source=git)** | Wickliffe, OH | On Site | Oct 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Cleveland or Akron)](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e75c?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Finance and Accounting)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b0a1b?utm_campaign=1052&utm_source=git)** | Winchester, VA | Hybrid | Oct 19 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Underwriting - Schaumburg, IL (Summer 2025)](https://jobright.ai/jobs/info/66bf9b9bc4fc69920aa6e333?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 19 |
-| **[Fifth Third Bank](http://53.com)** | **[Finance and Accounting Leadership Program: Finance Intern](https://jobright.ai/jobs/info/671409e9149d50473a79f41e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Oct 19 |
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Financial Management Scholars Program - Pathways Internship Student Trainee Examiner, CG-599-04](https://jobright.ai/jobs/info/66fdd6306a7427af25156d75?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 19 |
 | ↳ | **[Financial Management Scholars Program - Pathways Internship Student Trainee Examiner, CG-599-04](https://jobright.ai/jobs/info/66fdd6306a7427af25156d74?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Oct 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Audit Intern - Winter 2025](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c5c9?utm_campaign=1052&utm_source=git)** | Blue Bell, PA | Hybrid | Oct 19 |
@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Underwriting](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839bb4?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
 | **[CSX](http://www.csx.com)** | **[CSX Internal Audit Internship - 9 Months (Paid)](https://jobright.ai/jobs/info/66f7b6b0375d0d47e88fadcb?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Power Market Finance Analyst Intern - Fall 2024](https://jobright.ai/jobs/info/66db8cca2783adc706000f54?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Oct 19 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2025)](https://jobright.ai/jobs/info/671478ffbed9bbe93e42d4c5?utm_campaign=1052&utm_source=git)** | Anacortes, WA | On Site | Oct 19 |
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Financial Management Scholars Program - Pathways Internship Student Trainee Examiner, CG-599-04](https://jobright.ai/jobs/info/66fdd6306a7427af25156d79?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Oct 19 |
 | **[Uline](http://www.uline.com)** | **[Credit Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc815?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Credit Review](https://jobright.ai/jobs/info/66f7464fbb90565c34c24f4e?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 19 |
@@ -132,9 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Credit Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c330?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2025)](https://jobright.ai/jobs/info/670f9a38e44b3bff393ced5c?utm_campaign=1052&utm_source=git)** | Kenai, AK | On Site | Oct 19 |
 | **[Uline](http://www.uline.com)** | **[Accounting Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cf0?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
-| ↳ | **[Credit Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d10?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
-| ↳ | **[Accounting Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cf3?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
 | ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/66be8302b232d66271b18d0c?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
+| ↳ | **[Accounting Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cf3?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
+| ↳ | **[Credit Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d10?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
 | ↳ | **[Financial Data Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cf6?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | ↳ | **[Accounting Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc820?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | ↳ | **[Financial Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8ab7fd5a5a5f2484d5fb?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Hancock Askew & Co., LLP](http://hancockaskew.com)** | **[Savannah Tax Intern- Spring 2026](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c483?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Oct 19 |
 | ↳ | **[Tampa Tax Intern- Spring 2026](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c4a2?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | ↳ | **[Orlando Tax Intern- Spring 2025](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c484?utm_campaign=1052&utm_source=git)** | Winter Park, FL | On Site | Oct 19 |
-| ↳ | **[Savannah Tax Intern- Summer 2025](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c4a3?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Oct 19 |
 | ↳ | **[Miami Tax Intern- Spring 2026](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c48a?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Oct 19 |
+| ↳ | **[Savannah Tax Intern- Summer 2025](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c4a3?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Oct 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Finance Intern, North Carolina CRG](https://jobright.ai/jobs/info/67137b2c38902e2230f09efa?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Oct 19 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/67137b2c38902e2230f09eee?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Oct 19 |
 | **[O'Neal Steel](http://www.onealsteel.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c4af?utm_campaign=1052&utm_source=git)** | Exton, PA | On Site | Oct 19 |
-| **[Farm Credit Administration](https://www.fca.gov/)** | **[Tax Internship](https://jobright.ai/jobs/info/671378275491b476d32011a2?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
