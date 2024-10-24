@@ -57,7 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Credits Incentives and Methods Tax Intern - Summer 2026](https://jobright.ai/jobs/info/671a03ae3d422bf5fcb36af0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/6719eb443862562efc547e29?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/6719eb443862562efc54810d?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/6719eb443862562efc547f4e?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/6719eb443862562efc547e28?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/6719eb443862562efc547f4f?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Oct 23 |
+| ↳ | **[State and Local Tax Intern – Winter 2026](https://jobright.ai/jobs/info/6719eb443862562efc547e2d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/6719eb443862562efc547e42?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/6719eb443862562efc547f50?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Oct 23 |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Negotiated Underwriting](https://jobright.ai/jobs/info/6719c9aade96d37b20f6ffce?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 23 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/6719c9aade96d37b20f6fe73?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/6719c9aade96d37b20f6ffd4?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Oct 23 |
+| ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/6719c9aade96d37b20f6ffd3?utm_campaign=1052&utm_source=git)** | Davenport, IA | Hybrid | Oct 23 |
+| ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/6719c9aade96d37b20f6fe79?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
+| ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/6719c9aade96d37b20f6ffd5?utm_campaign=1052&utm_source=git)** | Iowa City, IA | Hybrid | Oct 23 |
+| ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/6719c9aade96d37b20f6fe85?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Oct 23 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6719d3c4f5ffa82a7c8c27c8?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Oct 23 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6719eb443862562efc547fb0?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 23 |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Audit](https://jobright.ai/jobs/info/6719c6e7d8dece6402cfa0af?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
+| **[State Street](http://www.statestreet.com)** | **[Audit Data Analyst Intern](https://jobright.ai/jobs/info/671072208dc43a7053aa6e99?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 IT Finance FP&A Intern](https://jobright.ai/jobs/info/6719b69a1a140f6aa2638227?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Oct 23 |
+| **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/670d6cc53bd0d1725adf7635?utm_campaign=1052&utm_source=git)** | SeaTac, WA | On Site | Oct 23 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Controllership](https://jobright.ai/jobs/info/6719af1831561544bfbaaba3?utm_campaign=1052&utm_source=git)** | Indianapolis IN | On Site | Oct 23 |
 | ↳ | **[Intern - Payroll Specialist (Tax)](https://jobright.ai/jobs/info/6719af1831561544bfbaaba6?utm_campaign=1052&utm_source=git)** | Burlington NC | On Site | Oct 23 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Financial Analyst Intern, Summer 2025](https://jobright.ai/jobs/info/6719ab7a69d84f2a98b99124?utm_campaign=1052&utm_source=git)** | North Andover, MA | On Site | Oct 23 |
@@ -72,9 +93,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operation Services - Custody Intern](https://jobright.ai/jobs/info/6719a538aaa12845f522936c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[D.A. Davidson Equity Capital Markets](http://www.marlinllc.com/)** | **[Investment Banking Summer Analyst, Financial Institutions Group - Summer, 2025](https://jobright.ai/jobs/info/671997f986cfe58183604084?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Accounting Intern - Insurance](https://jobright.ai/jobs/info/67199479f239316f9937a118?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Appraisal Internship](https://jobright.ai/jobs/info/67073f0f3efa6a071a294ee2?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Oct 23 |
 | **[MITRE](http://www.mitre.org)** | **[Finance Intern](https://jobright.ai/jobs/info/67199f302d7069863968d25c?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Oct 23 |
 | **[Veritex Community Bank](https://www.veritexbank.com/)** | **[Intern](https://jobright.ai/jobs/info/67199ebe615ceb68bacbac69?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 23 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/67199f302d7069863968d3e6?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Oct 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[TSD Supply Chain & Trade Finance Section Intern](https://jobright.ai/jobs/info/6719b9d979f26da71f5dd678?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/671998ebadfa6201e87532e0?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Oct 23 |
 | ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/671998ebadfa6201e87531c6?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Oct 23 |
@@ -110,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Audit Intern - Winter 2026](https://jobright.ai/jobs/info/671985f6337a40c3b63aa5ee?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 23 |
 | **[State Street](http://www.statestreet.com)** | **[Fixed Income Research Intern - Summer 2025](https://jobright.ai/jobs/info/670d85fb3c1f121181426ec5?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Oct 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Intern – Winter 2026](https://jobright.ai/jobs/info/671964fc5fe89ad7a4f665d0?utm_campaign=1052&utm_source=git)** | Indianapolis | On Site | Oct 23 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Investment Analyst Summer Intern](https://jobright.ai/jobs/info/671a11ce32ebb33b10914613?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Finance and Accounting Internship - Summer 2025](https://jobright.ai/jobs/info/67198f91cb75f96a32767ff9?utm_campaign=1052&utm_source=git)** | Erie, PA | On Site | Oct 23 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Fort Worth, TX](https://jobright.ai/jobs/info/671964fc5fe89ad7a4f665d2?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Oct 23 |
 | **[LanzaTech](http://www.lanzatech.com)** | **[Project Finance and Corporate Development Intern](https://jobright.ai/jobs/info/671963adbae9c187ef112593?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Oct 23 |
@@ -133,28 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Bethlehem, PA](https://jobright.ai/jobs/info/6719672d36dbe39876d06911?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Oct 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/67194aeab9be1dfc2790da30?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Hybrid | Oct 23 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Finance - Plant 4](https://jobright.ai/jobs/info/67194aeab9be1dfc2790d99b?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Oct 23 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Naples/Ft. Myers, FL](https://jobright.ai/jobs/info/6719672d36dbe39876d06a55?utm_campaign=1052&utm_source=git)** | Fort Myers, FL | On Site | Oct 23 |
-| ↳ | **[Internal Operations Intern - Spring 2025 - West Hartford/Shelton, CT](https://jobright.ai/jobs/info/67194aeab9be1dfc2790d9c1?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Oct 23 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Intern - Tax Accounting](https://jobright.ai/jobs/info/671a11ce32ebb33b10914627?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Oct 23 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer MBA Intern - Treasury](https://jobright.ai/jobs/info/6719395752782f29758c3922?utm_campaign=1052&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Oct 23 |
-| **[Armanino LLP](http://www.armaninollp.com/)** | **[Summer 2025 Audit Associate (Dallas)](https://jobright.ai/jobs/info/6719a538aaa12845f5229544?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Central FL](https://jobright.ai/jobs/info/6719406251638e613635dcac?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Oct 23 |
-| ↳ | **[Internal Operations Intern - Spring 2025 - King of Prussia, PA](https://jobright.ai/jobs/info/6719406251638e613635dcc7?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | On Site | Oct 23 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Risk, Controls, and Assurance Intern](https://jobright.ai/jobs/info/671969ea3cbe0aee42b8abef?utm_campaign=1052&utm_source=git)** | Mason, OH | Hybrid | Oct 23 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/67194aeab9be1dfc2790da3c?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 23 |
-| **[Rackspace Technology](https://www.rackspace.com/)** | **[International Tax Intern (San Antonio,TX Hybrid)](https://jobright.ai/jobs/info/67192b92679dd5cb5f941eb4?utm_campaign=1052&utm_source=git)** | United States - San Antonio | Hybrid | Oct 23 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/671927dc672a6b1ce5581d14?utm_campaign=1052&utm_source=git)** | Naples, FL | Hybrid | Oct 23 |
-| ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/671927dc672a6b1ce5582021?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 23 |
-| ↳ | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/671927dc672a6b1ce5581d15?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Hybrid | Oct 23 |
-| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Intern, Investments Analyst](https://jobright.ai/jobs/info/671985f6337a40c3b63aa69a?utm_campaign=1052&utm_source=git)** | Deerfield Beach, FL | Hybrid | Oct 23 |
-| ↳ | **[Intern, Tax Accountant](https://jobright.ai/jobs/info/671931961492229269b948e3?utm_campaign=1052&utm_source=git)** | Deerfield Beach, FL | Hybrid | Oct 23 |
-| ↳ | **[Intern, Capital Markets](https://jobright.ai/jobs/info/671931961492229269b948ea?utm_campaign=1052&utm_source=git)** | Deerfield Beach, FL | Hybrid | Oct 23 |
-| **[DriveTime](https://www.drivetime.com)** | **[FP&A Intern (Summer 2025)](https://jobright.ai/jobs/info/67191f2e11cc84b034b72e11?utm_campaign=1052&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Oct 23 |
-| **[Southeast Toyota Finance](https://www.setf.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6719204ad8bf193e5bc70962?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | On Site | Oct 23 |
-| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Intern, IT Finance](https://jobright.ai/jobs/info/6719204ad8bf193e5bc7097e?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 23 |
-| **[Southeast Toyota Finance](https://www.setf.com/)** | **[Intern, Financial Analyst](https://jobright.ai/jobs/info/6719204ad8bf193e5bc70984?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 23 |
-| **[Blue Cross & Blue Shield of Mississippi](http://bcbsms.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/67191da970521c90ac042feb?utm_campaign=1052&utm_source=git)** | Flowood, MS | On Site | Oct 23 |
-| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Intern, Audit](https://jobright.ai/jobs/info/671947e928ed0323617c46e6?utm_campaign=1052&utm_source=git)** | Deerfield Beach, FL | Hybrid | Oct 23 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Intern - Tax Accounting](https://jobright.ai/jobs/info/67191c2fb576d7dec98b5024?utm_campaign=1052&utm_source=git)** | Irving-Irving Corporate Office-3939 West John Carpenter Freeway | On Site | Oct 23 |
-| **[Rackspace Technology](https://www.rackspace.com/)** | **[International Tax Intern (San Antonio,TX Hybrid)](https://jobright.ai/jobs/info/671927dc672a6b1ce5581deb?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Hybrid | Oct 23 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/67196d4f2c177ba8da489036?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
