@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central Insurance](http://www.central-insurance.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/673938546060befe340aa04a?utm_campaign=1052&utm_source=git)** | Van Wert, OH | Hybrid | Nov 16 |
 | **[D.A. Davidson Equity Capital Markets](http://www.marlinllc.com/)** | **[Investment Banking Summer Analyst, Technology Group - Summer, 2025](https://jobright.ai/jobs/info/6739139da514bc5a55077ef1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter/Spring 2025 Tax Internship](https://jobright.ai/jobs/info/6739139da514bc5a55077f64?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Nov 16 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[Senior Manager, Internal Audit](https://jobright.ai/jobs/info/6738f04add3372fe24cce10b?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Nov 16 |
@@ -142,19 +143,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 NAM Risk Management Summer Analyst Program – Tampa, Florida](https://jobright.ai/jobs/info/6738057ad9f214464c60d872?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 15 |
 | **[BD](https://www.bd.com)** | **[Finance Intern](https://jobright.ai/jobs/info/673802dd214c484711c4272e?utm_campaign=1052&utm_source=git)** | Covington, GA | On Site | Nov 15 |
 | **[Permobil](https://www.permobil.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6737f59fb444791c5246a4c1?utm_campaign=1052&utm_source=git)** | Belleville, IL | On Site | Nov 15 |
+| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Underwriting Intern -Non Profit](https://jobright.ai/jobs/info/671b0c049ba57ceb35bd15eb?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Public Finance (New York, NY)](https://jobright.ai/jobs/info/6737eeda6e53ca22bce009ec?utm_campaign=1052&utm_source=git)** | 485 Madison Ave, New York, NY, 10022, US | On Site | Nov 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Atlanta)](https://jobright.ai/jobs/info/6737eeda6e53ca22bce00a18?utm_campaign=1052&utm_source=git)** | 21 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Nov 15 |
 | **[Block](https://block.xyz)** | **[Technology Internal Audit Manager](https://jobright.ai/jobs/info/6737ec01155a185f8d78dd0d?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Nov 15 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Finance - R&D](https://jobright.ai/jobs/info/6733e6642b289772e921970e?utm_campaign=1052&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 15 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/6738007b47aaa020aba9a93d?utm_campaign=1052&utm_source=git)** | Yankton, SD | On Site | Nov 15 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6737f1c74108e9f205ca800e?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Nov 15 |
+| **[Ryan](http://ryan.com)** | **[Summer 2025 Intern, Severance Tax - Houston, TX](https://jobright.ai/jobs/info/6737ee5df7eefca392209f0c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2025 Summer Internship - Wealth Management](https://jobright.ai/jobs/info/6733e6642b289772e921970c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 15 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[2025 Corporate Finance Summer Associate (Class of 2026) – Dallas Healthcare](https://jobright.ai/jobs/info/6737dd55b732429229d5cf7e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Assurance Intern - Spring 2025 - Central WI](https://jobright.ai/jobs/info/6737db23b5876c43c9ac61c7?utm_campaign=1052&utm_source=git)** | Marshfield, WI | On Site | Nov 15 |
 | ↳ | **[Intern - Summer 2025 - Fox Cities WI](https://jobright.ai/jobs/info/6737e05a84eb1f4a06ec5c0b?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Nov 15 |
 | ↳ | **[Intern - Summer 2025 - Fox Cities WI](https://jobright.ai/jobs/info/6737db23b5876c43c9ac61f1?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Nov 15 |
 | ↳ | **[Intern - Summer 2025 - Fox Cities WI](https://jobright.ai/jobs/info/6737e05a84eb1f4a06ec5c0d?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Nov 15 |
-| ↳ | **[Intern - Spring 2025 - Albuquerque, NM](https://jobright.ai/jobs/info/6737db23b5876c43c9ac61fa?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
-| ↳ | **[Assurance Intern - Spring 2025 - Central WI](https://jobright.ai/jobs/info/6737e05a84eb1f4a06ec5c0e?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Nov 15 |
-| ↳ | **[Assurance Intern - Spring 2025 - Central WI](https://jobright.ai/jobs/info/6737e05a84eb1f4a06ec5c10?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
