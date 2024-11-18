@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/673b0189ee742f0b09338b9c?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Nov 17 |
+| **[Clark Insurance](https://www.clarkinsurance.com/)** | **[Accounting Intern - Accounting](https://jobright.ai/jobs/info/673afa229db1332fdc567a4a?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 17 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2025 Advancing Black Pathways Fellowship - Internal Audit Analyst Program Track](https://jobright.ai/jobs/info/673ae72945b27eac6376cfb9?utm_campaign=1052&utm_source=git)** | Jersey City, NJ, United States | On Site | Nov 17 |
+| ↳ | **[2025 Advancing Hispanics & Latinos Fellowship - Internal Audit Analyst Program Track](https://jobright.ai/jobs/info/673ae72945b27eac6376cfc6?utm_campaign=1052&utm_source=git)** | Jersey City, NJ, United States | On Site | Nov 17 |
+| ↳ | **[2025 Advancing Hispanics and Latinos Fellowship Program – Financial Advisor Development Track](https://jobright.ai/jobs/info/673ae72945b27eac6376cfb4?utm_campaign=1052&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuary Intern](https://jobright.ai/jobs/info/673ae00a615af843f9fc8610?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 17 |
+| **[HDI Global SE](https://www.hdi.global/)** | **[Risk and Insurance Intern](https://jobright.ai/jobs/info/673ac8fae538716f1a729cf9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
+| **[Smith + Howard](https://www.smith-howard.com/)** | **[Spring Tax Admin Intern](https://jobright.ai/jobs/info/673abc901ce7d41caad8f836?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuary Intern](https://jobright.ai/jobs/info/673ab2d1b546f3bcbfe1da74?utm_campaign=1052&utm_source=git)** | TX-Houston | On Site | Nov 17 |
-| ↳ | **[Actuary Intern](https://jobright.ai/jobs/info/673ab2d1b546f3bcbfe1da75?utm_campaign=1052&utm_source=git)** | TX-Houston | On Site | Nov 17 |
 | **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Intern Tax Winter 2026 / Irvine](https://jobright.ai/jobs/info/673a882a71d571f426bb8652?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Nov 17 |
 | **[Pegasystems](http://www.pega.com)** | **[Revenue Accounting Summer Intern](https://jobright.ai/jobs/info/673a78ae68205d650a7ae12f?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Nov 17 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Employee, Fiscal Affairs & Project Management](https://jobright.ai/jobs/info/673a7185a73bf37649d62e0d?utm_campaign=1052&utm_source=git)** | Richmond, KY | On Site | Nov 17 |
@@ -70,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6739eba1fc51979332b74f1f?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Nov 17 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Seasonal Intern BPG, Global Mobility Services - Compliance Center/ Dallas Winter 2025](https://jobright.ai/jobs/info/671ce9a3692d2652bec3bd05?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6739e11794aec36e9e4becc7?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Nov 17 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6739e11794aec36e9e4becc8?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Nov 17 |
 | **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e303?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 17 |
+| ↳ | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e49f?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Nov 17 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/66c9dc21ddb454ebb1e88053?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 17 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Finance Intern (Operations & Capex)](https://jobright.ai/jobs/info/671cce4a451817d9809dfd7e?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Nov 17 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Jeffersonville](https://jobright.ai/jobs/info/66c925dd8ab54a3f582c1f4f?utm_campaign=1052&utm_source=git)** | Jeffersonville, IN | On Site | Nov 17 |
@@ -85,12 +92,12 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Accounting Operations (Client Invoicing to Collections)  -  Summer Intern 2025](https://jobright.ai/jobs/info/66e54c79b406d6deb9b7f148?utm_campaign=1052&utm_source=git)** | Cary, NC | On Site | Nov 17 |
 | **[Moss Adams](http://www.mossadams.com/)** | **[State and Local Tax Intern – 2025](https://jobright.ai/jobs/info/6739c478d49e65615af051c8?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Nov 17 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Accounting Student Assistant - IE](https://jobright.ai/jobs/info/6739a8d955b4a34beeb9450f?utm_campaign=1052&utm_source=git)** | Harrisonburg, VA | On Site | Nov 16 |
+| **[Susquehanna International Group, LLP (SIG)](sig.com)** | **[Capital Markets Discovery Day: 2025](https://jobright.ai/jobs/info/673aeb795d6a55586b5c4eef?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 16 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Tax Intern](https://jobright.ai/jobs/info/671c0ffed2d470252a9660df?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Nov 16 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern](https://jobright.ai/jobs/info/66e495ece44fe7310e8ccf60?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
 | **[D.A. Davidson Equity Capital Markets](http://www.marlinllc.com/)** | **[Investment Banking Summer Analyst, Technology Group - Summer, 2025](https://jobright.ai/jobs/info/6739139da514bc5a55077ef1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter/Spring 2025 Tax Internship](https://jobright.ai/jobs/info/6739139da514bc5a55077f64?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Nov 16 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[Senior Manager, Internal Audit](https://jobright.ai/jobs/info/6738f04add3372fe24cce10b?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Nov 16 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6738f83f9c0cb0a1866e56d7?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Nov 16 |
 | **[Emory University](http://www.emory.edu)** | **[Senior Internal Auditor - Emory Healthcare Internal Audit Team](https://jobright.ai/jobs/info/6738d4752637c88c381db7de?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Nov 16 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Public Finance (New York, NY)](https://jobright.ai/jobs/info/6738e0342e0d90c71a2e2fab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Tax Accounting - Part-Time](https://jobright.ai/jobs/info/6738d6de43eaf93d93b7b991?utm_campaign=1052&utm_source=git)** | Tennessee, United States | On Site | Nov 16 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Holmdel, NJ](https://jobright.ai/jobs/info/671c0812e85cd4db21752794?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Nov 16 |
 | ↳ | **[Audit Summer 2026 Internship - Parsippany, NJ](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecbf8?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Nov 16 |
 | ↳ | **[Audit Winter 2026 Internship - Parsippany, NJ](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecc0d?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Nov 16 |
-| ↳ | **[Audit Winter 2026 Internship - Long Island, NY](https://jobright.ai/jobs/info/671bc2f331f9d5c0e015cc39?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
 | ↳ | **[Audit Winter 2026 Internship - White Plains, NY](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecbff?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Nov 16 |
+| ↳ | **[Audit Winter 2026 Internship - Long Island, NY](https://jobright.ai/jobs/info/671bc2f331f9d5c0e015cc39?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
 | ↳ | **[Audit Summer 2026 Internship - White Plains, NY](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecc0c?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Nov 16 |
 | ↳ | **[Audit Winter 2026 Internship - New York City, NY](https://jobright.ai/jobs/info/671bf2313fd7ed48b62dd05e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
 | ↳ | **[Audit Summer 2026 Internship - New York City, NY](https://jobright.ai/jobs/info/671bc2f331f9d5c0e015cc41?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
 | ↳ | **[Audit Summer 2026 Internship - Holmdel, NJ](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecc15?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Nov 16 |
-| ↳ | **[Audit Summer 2026 Internship - Long Island, NY](https://jobright.ai/jobs/info/671bf2313fd7ed48b62dd062?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Investment Services](https://jobright.ai/jobs/info/6739bd53249b4d8f8c3f66c8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 16 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2025 Summer Accounting, Financial & Investments Intern](https://jobright.ai/jobs/info/671b17a556d41e2e3d7ddc9e?utm_campaign=1052&utm_source=git)** | Portland, ME | On Site | Nov 16 |
-| **[Firelands Health](https://www.firelands.com)** | **[Accounting Intern: PRN](https://jobright.ai/jobs/info/673870dce999483d8ed775fa?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Nov 15 |
-| **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Student Billing and Accounts Payable Manager](https://jobright.ai/jobs/info/6738594da622f4f4dc833cce?utm_campaign=1052&utm_source=git)** | Lawrenceville, NJ | On Site | Nov 15 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Executive Office Research Intern / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/673849e0093aaf89fcdb22e6?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 15 |
-| ↳ | **[Alcoholic Beverages Control Commission Administration/Legal Intern / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/673849e0093aaf89fcdb22e3?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
