@@ -57,6 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USDA Animal and Plant Health Inspection Service (APHIS)](https://www.aphis.usda.gov/aphis/home/)** | **[Student Trainee (Financial Management)](https://jobright.ai/jobs/info/6746e72ff6a47d7e0d00df0a?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Nov 27 |
+| **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Accounting Intern - Windsor, CT (Summer 2025)](https://jobright.ai/jobs/info/6746e655ba47364e916ae5c1?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Nov 27 |
+| **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6746e655ba47364e916ae5e6?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | Nov 26 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Credit Underwriting Internship - Winter](https://jobright.ai/jobs/info/6746dd518858eab5d1aa9351?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Nov 26 |
+| **[Vision Financial Group, LLC - Iowa](https://vfghelps.com/)** | **[Financial Services Intern - Data Integrity Project Spring 2025](https://jobright.ai/jobs/info/6746e091f2fb4b4d1723be57?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Nov 26 |
+| **[Truist](https://www.truist.com)** | **[2025 Credit Delivery - Real Estate Corporate & Investment Banking - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/6746c84bb7c6f8bca30507e0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
+| **[Cumming Group](https://cumming-group.com/)** | **[Cost Management Intern](https://jobright.ai/jobs/info/6746d2689e101236ba03cc31?utm_campaign=1052&utm_source=git)** | Oakland, CA | On Site | Nov 26 |
+| ↳ | **[Cost Management Intern](https://jobright.ai/jobs/info/6746ce16cbbe16b505178346?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 26 |
+| ↳ | **[Cost Management Intern](https://jobright.ai/jobs/info/6746ce16cbbe16b505178347?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
+| ↳ | **[Cost Management Intern](https://jobright.ai/jobs/info/6746ce16cbbe16b505178348?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
+| **[GSA](https://www.gsa.gov)** | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/6746c788f99d52d60ce2c584?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 26 |
+| ↳ | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/6746c788f99d52d60ce2c585?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 26 |
+| ↳ | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/6746c4c393d4d79e7e353e60?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 26 |
+| ↳ | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/6746b53a693ece1b22461197?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Financial Planning & Analysis (FP&A) Intern](https://jobright.ai/jobs/info/6746ac66cb12fd338790936d?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Nov 26 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Billing Intern](https://jobright.ai/jobs/info/6746a3a6b9738c316e521194?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Spring 2025-Supply Chain/Accounting Intern (MLB, FL)](https://jobright.ai/jobs/info/67469fd856d29d06e3408e79?utm_campaign=1052&utm_source=git)** | Melbourne, FL | Hybrid | Nov 26 |
+| **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Commercial Finance - Syosset, NY](https://jobright.ai/jobs/info/673e66e961b2c2d395555cc4?utm_campaign=1052&utm_source=git)** | Syosset, NY | On Site | Nov 26 |
+| **[Visa](https://www.visa.com)** | **[Global Finance, MBA Intern - Summer 2025](https://jobright.ai/jobs/info/67469c1039b018649bbe48cf?utm_campaign=1052&utm_source=git)** | Foster City, CA | On Site | Nov 26 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Fairfax, VA Summer 2025)](https://jobright.ai/jobs/info/67469e0e3471b345491c7240?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Nov 26 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, AMS Finance](https://jobright.ai/jobs/info/67469337423aaaf00668429c?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Supply Chain & Operations Co-op/Intern Summer - Fall 2025](https://jobright.ai/jobs/info/674685d6c4822ce719096304?utm_campaign=1052&utm_source=git)** | Marysville, OH | On Site | Nov 26 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/67468abbf808c40ad8e2b06c?utm_campaign=1052&utm_source=git)** | Triangle, NC | On Site | Nov 26 |
@@ -82,19 +102,16 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/670eb4f315d17db3fefba7b7?utm_campaign=1052&utm_source=git)** | Foster City, CA | On Site | Nov 26 |
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d7108?utm_campaign=1052&utm_source=git)** | Westport, CT | On Site | Nov 26 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Credit Underwriting Internship - Winter](https://jobright.ai/jobs/info/67464e67ebb93fe4017b883b?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Nov 26 |
-| **[United Educators](https://www.ue.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/67469337423aaaf0066844da?utm_campaign=1052&utm_source=git)** | Bethesda, MD | On Site | Nov 26 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2025 Intern - Accounting](https://jobright.ai/jobs/info/67464b598b2f6a882b68a2fd?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Nov 26 |
 | **[Crane NXT](https://www.cranenxt.com)** | **[Finance Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70da?utm_campaign=1052&utm_source=git)** | Dalton, MA | On Site | Nov 26 |
-| **[Veritex Community Bank](https://www.veritexbank.com/)** | **[Intern](https://jobright.ai/jobs/info/6746613899dd261c8a7a9e90?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Corporations - Summer 2026](https://jobright.ai/jobs/info/67464f4681cc97c8a0796a4c?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Nov 26 |
 | **[Holcim Building Envelope](https://www.holcimbe.com/en)** | **[Duro-Last - Finance Internship](https://jobright.ai/jobs/info/674645a45be0a0a096c4e6ed?utm_campaign=1052&utm_source=git)** | Saginaw, MI | Hybrid | Nov 26 |
-| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Accounting Intern - Summer 2025](https://jobright.ai/jobs/info/67464f4681cc97c8a0796b25?utm_campaign=1052&utm_source=git)** | Athens, GA | On Site | Nov 26 |
 | **[Air Products](http://www.airproducts.com/)** | **[Spring Intern - Accounting / Finance (Internal Audit)](https://jobright.ai/jobs/info/67463e5122385024344357cf?utm_campaign=1052&utm_source=git)** | Corporate HQ Allentown - 1940 Air Products Blvd (0760) | On Site | Nov 26 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6746419881fec35e7e33ea00?utm_campaign=1052&utm_source=git)** | Anaheim, CA | On Site | Nov 26 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/674659dab73462a0529341e8?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 26 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/674659dab73462a0529340ac?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/674645a45be0a0a096c4ecd5?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Intern](https://jobright.ai/jobs/info/67463c633fcd9ee8861d537e?utm_campaign=1052&utm_source=git)** | San Mateo, California, United States of America | On Site | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67463c633fcd9ee8861d538c?utm_campaign=1052&utm_source=git)** | San Mateo, California, United States of America | On Site | Nov 26 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Intern](https://jobright.ai/jobs/info/67463c633fcd9ee8861d538c?utm_campaign=1052&utm_source=git)** | San Mateo, California, United States of America | On Site | Nov 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67463c633fcd9ee8861d537e?utm_campaign=1052&utm_source=git)** | San Mateo, California, United States of America | On Site | Nov 26 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/67464d29307203721e6d9854?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern - Global Transaction Analytics (GTA)](https://jobright.ai/jobs/info/67464b598b2f6a882b68a54e?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 26 |
 | ↳ | **[Intern - Global Transaction Analytics (GTA)](https://jobright.ai/jobs/info/67464b598b2f6a882b68a550?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 26 |
@@ -133,28 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2025 Financial Analyst (Class of 2026) - Corporate Valuation Advisory Services - Atlanta](https://jobright.ai/jobs/info/674613bbad65a84876b6fcc6?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2025](https://jobright.ai/jobs/info/6746117db0c848a28a30b9eb?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Nov 26 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Group Audit - Jacksonville 2025](https://jobright.ai/jobs/info/674602f0fbee60a6091ff7cb?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 26 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d2e?utm_campaign=1052&utm_source=git)** | Independence, OH | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d37?utm_campaign=1052&utm_source=git)** | Mason, OH | Hybrid | Nov 26 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d37?utm_campaign=1052&utm_source=git)** | Mason, OH | Hybrid | Nov 26 |
+| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d3f?utm_campaign=1052&utm_source=git)** | Metairie, LA | Hybrid | Nov 26 |
 | ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d41?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d45?utm_campaign=1052&utm_source=git)** | Columbus, GA | Hybrid | Nov 26 |
+| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d42?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Nov 26 |
 | ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d46?utm_campaign=1052&utm_source=git)** | Roanoke, VA | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d4b?utm_campaign=1052&utm_source=git)** | Manchester, NH | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d4d?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d50?utm_campaign=1052&utm_source=git)** | Gilbert, MN | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d53?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d52?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d55?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d56?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d54?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Nov 26 |
-| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d57?utm_campaign=1052&utm_source=git)** | Waukesha, WI | Hybrid | Nov 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Corporations - Summer 2026](https://jobright.ai/jobs/info/6745fe369ad2e062d2846ad3?utm_campaign=1052&utm_source=git)** | Omaha | On Site | Nov 26 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[Credit and Collections/Accounting Full Year Part Time Co-Op](https://jobright.ai/jobs/info/6746095fd30e2c5a1ad4c53f?utm_campaign=1052&utm_source=git)** | New Bremen, OH | On Site | Nov 26 |
-| **[DRW](http://drw.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6745f5db6f78fbf7b8b22340?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Internal Audit Manager- Broker Dealer/Asset Management](https://jobright.ai/jobs/info/6745fe35d6c49a9836681c9e?utm_campaign=1052&utm_source=git)** | Westlake, TX | On Site | Nov 26 |
-| ↳ | **[Internal Audit Manager- Broker Dealer/Asset Management](https://jobright.ai/jobs/info/6745fe35d6c49a9836681c9f?utm_campaign=1052&utm_source=git)** | Lone Tree, CO | On Site | Nov 26 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6745e5b352f397e09743f00f?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Nov 26 |
-| **[State Street](http://www.statestreet.com)** | **[Quantitative Research Analyst Intern, Systematic Equity](https://jobright.ai/jobs/info/6745df8eeab11e17aff86e4d?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Internal Audit Manager- Broker Dealer/Asset Management](https://jobright.ai/jobs/info/6745e5b352f397e09743f163?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 26 |
-| ↳ | **[Internal Audit Manager- Broker Dealer/Asset Management](https://jobright.ai/jobs/info/6745ed63b117e1daece2eb56?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Nov 26 |
-| **[State Street](http://www.statestreet.com)** | **[Quantitative Research Analyst Intern, Systematic Equity](https://jobright.ai/jobs/info/6745d1fb8f825af8b9969cd6?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | On Site | Nov 26 |
+| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d45?utm_campaign=1052&utm_source=git)** | Columbus, GA | Hybrid | Nov 26 |
+| ↳ | **[Internal Auditor Sr. - SOX & SOC1](https://jobright.ai/jobs/info/6746540cb5ab02eac6e14d47?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
