@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Bancorp](http://www.thebancorp.com/)** | **[Financial Risk Management Intern](https://jobright.ai/jobs/info/674a62a30ac8c60be46e7a6d?utm_campaign=1052&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Nov 29 |
+| **[UMB Bank](https://www.umb.com)** | **[Corporate Tax Intern](https://jobright.ai/jobs/info/674a62887546b993cd836a7e?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern - Summer 2025](https://jobright.ai/jobs/info/674a552b2bd58d749f8bd2e5?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Nov 29 |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Accounting Intern](https://jobright.ai/jobs/info/674a62887546b993cd836a85?utm_campaign=1052&utm_source=git)** | Orem, UT | On Site | Nov 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Winter/Spring Internship - Tax Site Coordinator Intern - Unpaid -](https://jobright.ai/jobs/info/674a392103d9ec741c03aadc?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 29 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Accounting Internship, Great American Ballpark](https://jobright.ai/jobs/info/674a2e8a0cbe18d005a2c917?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/674a142afe2b42a49243bbfe?utm_campaign=1052&utm_source=git)** | Lutherville-Timonium, MD | Hybrid | Nov 29 |
@@ -91,7 +94,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/674965fed62395fb8ee127db?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
 | ↳ | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/674965fed62395fb8ee127e5?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Nov 28 |
 | ↳ | **[Pathways Student Trainee (Accounting) - Office of the Chief Financial Officer](https://jobright.ai/jobs/info/674965fed62395fb8ee127f0?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 28 |
+| **[The Bancorp](http://www.thebancorp.com/)** | **[Financial Risk Management Intern](https://jobright.ai/jobs/info/674a66b00fec506b50992a40?utm_campaign=1052&utm_source=git)** | 345 North Reid Place, Sioux Falls, SD, US | On Site | Nov 28 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Finance Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/67494779cee924a249e35121?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 28 |
+| **[HPS Investment Partners, LLC](http://www.hpspartners.com/)** | **[Intern (Risk & Quant Strats)](https://jobright.ai/jobs/info/674a81959bb668062187a199?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
+| **[TIC - The Industrial Company](https://www.ticus.com)** | **[Finance Analyst Intern - TIC Marine (Summer 2025)](https://jobright.ai/jobs/info/670e9f9056b98c1a58e20d01?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Nov 28 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Internal Audit Intern - Summer 2025](https://jobright.ai/jobs/info/6749115616f50db2b373de99?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 28 |
 | **[WesBanco](http://wesbanco.com)** | **[Trust Investments Intern - Trust Investments](https://jobright.ai/jobs/info/6748fc3c54e101f4a9c30ef4?utm_campaign=1052&utm_source=git)** | Wheeling, WV | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Financial Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b5d49ca5ed361500c1090?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship: Investment & Client Solutions (Summer 2025)](https://jobright.ai/jobs/info/6747a5a09b4663e8065e28c7?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Nov 27 |
 | **[Snap-on](http://www.snapon.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/673c060ffa1697803c6e8609?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2025 Financial Analyst (Class of 2026) - Corporate Valuation Advisory Services - Atlanta](https://jobright.ai/jobs/info/6747ac20d3d884bdeef37a53?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[Kershner Trading Group](https://kershnertrading.com)** | **[Students - Austin Trading Desk Internship Summer 2025](https://jobright.ai/jobs/info/6747c523b0e42f0f0b6df329?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 27 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e187fa?utm_campaign=1052&utm_source=git)** | North Liberty, IA | On Site | Nov 27 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[National Accounts Casualty (NAC) Underwriting Summer Intern](https://jobright.ai/jobs/info/67479e7a40064f0183312133?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Americas Financial Planning & Analysis Intern - Summer 2025](https://jobright.ai/jobs/info/671dba759515236c33091607?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Nov 27 |
-| **[William Blair](http://www.williamblair.com)** | **[Investment Banking Summer Analyst, Financial Sponsors Group, Summer 2026](https://jobright.ai/jobs/info/670dedde0e9e092df6724fc5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Accounting and CFO Advisory Internship - Summer 2025 - San Diego or San Francisco](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee56?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
-| **[Wood](http://www.woodplc.com)** | **[Document Controller](https://jobright.ai/jobs/info/674788a1065c4f0d646bc2e2?utm_campaign=1052&utm_source=git)** | Mobile, AL, United States | On Site | Nov 27 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Intern](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e187e9?utm_campaign=1052&utm_source=git)** | North Liberty, IA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
