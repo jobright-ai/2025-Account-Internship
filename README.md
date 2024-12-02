@@ -57,20 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Associate Internal Auditor Intern/Co-op (May-Oct)](https://jobright.ai/jobs/info/674da72ac5c36a01ae14130c?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | Dec 02 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Director, Internal Audit & Advisory](https://jobright.ai/jobs/info/66bffec0e27f7a6e8d1f9d18?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Illinois Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd455?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
 | ↳ | **[Indiana (Chicago) Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd468?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
 | ↳ | **[Michigan (Chicago) Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd48c?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
 | ↳ | **[Iowa Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd483?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
-| ↳ | **[Notre Dame Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd486?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
 | ↳ | **[Wisconsin Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd45b?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
+| ↳ | **[Notre Dame Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d5de5ff9121722eefd486?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 01 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/674d5f622db0ef91908905db?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Dec 01 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Spelman Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6e5?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
-| ↳ | **[Howard Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6e0?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Baruch Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6d8?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
+| ↳ | **[Spelman Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6e5?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
 | ↳ | **[Georgetown Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6df?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
+| ↳ | **[Howard Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6e0?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
 | ↳ | **[Morehouse Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6d7?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
 | ↳ | **[Michigan Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6dc?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
 | ↳ | **[Indiana (New York) Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6d6?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
-| ↳ | **[Baruch Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6d8?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
 | ↳ | **[Yale Summer 2026 Internship - Investment Banking](https://jobright.ai/jobs/info/674d45dd25c93ba469ebf6da?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Dec 01 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/674d112015154771482304a3?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 01 |
 | ↳ | **[Cost Containment Summer Intern](https://jobright.ai/jobs/info/674d1120151547714823049e?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 01 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/674ce0d6970701d7eb4c1b92?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Dec 01 |
 | ↳ | **[Finance Summer Intern](https://jobright.ai/jobs/info/674ce0d6970701d7eb4c1b94?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Dec 01 |
 | ↳ | **[Cost Containment Summer Intern](https://jobright.ai/jobs/info/674ce0d6970701d7eb4c1b93?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Dec 01 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Cost Management Intern](https://jobright.ai/jobs/info/66b3cae403bfc3782e0e0fce?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Dec 01 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[2026 Investment Associate Internship](https://jobright.ai/jobs/info/674cb4c1de1d8ecccd7e4f85?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Barnes](https://www.onebarnes.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/674c9d82fef456717d2a1e28?utm_campaign=1052&utm_source=git)** | Bristol, CT | On Site | Dec 01 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2025](https://jobright.ai/jobs/info/674c9b96deb46456c2048406?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 01 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Reinsurance Actuarial Intern (Minneapolis)](https://jobright.ai/jobs/info/66d9122b11a19720b28f5056?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Nov 29 |
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2026 Winter Audit Intern - Washington DC (Bethesda, MD)](https://jobright.ai/jobs/info/66e23dd66ad63857eb1a4015?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Nov 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2025 (Anchorage)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0f7b?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Nov 29 |
-| **[GQG Partners](https://gqgpartners.com/)** | **[Non-Traditional Investment Team Intern](https://jobright.ai/jobs/info/674d36c9d0ea541043db56a2?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 29 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Milwaukee)](https://jobright.ai/jobs/info/66da5ef7d160bd2f4e83b658?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
+| ↳ | **[Core Tax Intern - Winter 2026 (Milwaukee)](https://jobright.ai/jobs/info/66da5ef7d160bd2f4e83b658?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
 | **[Menasha Packaging](http://menasha.com)** | **[Finance Intern](https://jobright.ai/jobs/info/672d629485ed943ec09be8ce?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Nov 29 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2025 Strategic Tax Advisory - Sales Tax Support Intern](https://jobright.ai/jobs/info/66d8c7c47c3120158f81ad5f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
-| **[National Life Group](https://www.nationallife.com)** | **[IT Financial Analysis Intern - Summer 2025](https://jobright.ai/jobs/info/672cf08a785f6b8efe987850?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Nov 29 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/67483d260a5e0dc82caf5e74?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
