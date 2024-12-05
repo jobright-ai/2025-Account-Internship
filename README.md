@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM Global](https://www.fmglobal.com)** | **[FM Affiliated Underwriter Summer Intern](https://jobright.ai/jobs/info/6751a585ba2c3676f1a1100c?utm_campaign=1052&utm_source=git)** | Park Ridge, IL | On Site | Dec 05 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Audit Internship - Spring 2026](https://jobright.ai/jobs/info/6724e34267a3c2ea87938428?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 05 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2025 - Central WI](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117fb?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | Dec 05 |
+| ↳ | **[Internal Operations Intern - Spring 2025 - Northeast WI](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117fe?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Dec 05 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, FinOps Audit, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6751986bac1f40a81c9429a4?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 05 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Third Party Audit, GFO-PRA, Intern - Spring 2025](https://jobright.ai/jobs/info/67350f9a83daf00e557851b8?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Dec 05 |
+| **[GlobalFoundries](https://gf.com/)** | **[Strategic Pricing & Operations Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/6734bc6ff41002a5398a5919?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 05 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **[Global Audit Intern](https://jobright.ai/jobs/info/6734c55d04d471e5296498d7?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| ↳ | **[Entertainment FP&A Intern](https://jobright.ai/jobs/info/6734b04be174e284c60f8442?utm_campaign=1052&utm_source=git)** | Redwood City, CA | Hybrid | Dec 05 |
+| **[Menasha Packaging](http://menasha.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/67355b698953df310ef566aa?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Dec 05 |
+| **[Vidoori Inc.](https://www.vidoori.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/67517b10b6f5bb6683f7b478?utm_campaign=1052&utm_source=git)** | Hyattsville, MD | Hybrid | Dec 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Accounting Intern (Corporate HQ) - Jan-May 2025](https://jobright.ai/jobs/info/67516af9913b556684ad8da8?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 05 |
 | **[Community Bank System, Inc.](https://ir.communitybanksystem.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/67516c81b185c865c0eef8f2?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Dec 04 |
 | **[Amphenol RF](http://www.amphenolrf.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/67517042c3cc5ecf0b693c24?utm_campaign=1052&utm_source=git)** | Danbury, CT | On Site | Dec 04 |
@@ -84,6 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/67510b66bb4b374d4398d893?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Dec 04 |
 | **[Truist](https://www.truist.com)** | **[2025 Truist Securities - Credit S&T (Sales, Trading & Research) - Summer Analyst Program](https://jobright.ai/jobs/info/675102689ced628e2777b97f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | ↳ | **[2025 Truist Securities - Public Finance (Capital Markets) - Summer Analyst Program](https://jobright.ai/jobs/info/675102689ced628e2777bab7?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 04 |
+| **[Entegris](http://www.entegris.com)** | **[Procurement Center of Excellence Intern](https://jobright.ai/jobs/info/6750ef49a05885b6f5d6dff5?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Dec 04 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Internal Audit Summer Internship - Irving, TX](https://jobright.ai/jobs/info/675173b14f8eea54f4fa1172?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Dec 04 |
 | **[iRobot](https://www.irobot.com)** | **[Financial Planning & Analysis Intern/Co-op Spring 2025](https://jobright.ai/jobs/info/6750f92d3e166bc786e553f9?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Dec 04 |
 | **[Glacier Bancorp, Inc.](http://www.glacierbancorp.com)** | **[Intern Credit](https://jobright.ai/jobs/info/6750fda0e8fbf394c35b7b6e?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 04 |
 | **[Sumitomo Mitsui Banking Corporation – SMBC Group](https://www.smbcgroup.com/americas)** | **[Market Risk Intern](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4aac?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
@@ -109,17 +122,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Internship - Summer 2025, Spring 2026](https://jobright.ai/jobs/info/6750ce023483f07dd09a6f88?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | Dec 04 |
 | ↳ | **[Tax Internship - Summer 2025, Spring 2026](https://jobright.ai/jobs/info/6750ce023483f07dd09a6f89?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
 | ↳ | **[Tax Internship - Summer 2025, Spring 2026](https://jobright.ai/jobs/info/6750ce023483f07dd09a6f8b?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
-| **[Entegris](http://www.entegris.com)** | **[Procurement Center of Excellence Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d4fa?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Dec 04 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Global ETFs - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a5?utm_campaign=1052&utm_source=git)** | USA-SM920/3-San Mateo | On Site | Dec 04 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Valuation Services - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a1?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 04 |
+| ↳ | **[Global Pricing - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a3?utm_campaign=1052&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 04 |
+| ↳ | **[Valuation Services - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d59f?utm_campaign=1052&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 04 |
+| ↳ | **[Global ETFs - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a5?utm_campaign=1052&utm_source=git)** | USA-SM920/3-San Mateo | On Site | Dec 04 |
 | ↳ | **[Global ETFs - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a4?utm_campaign=1052&utm_source=git)** | San Ramon, California, United States of America | On Site | Dec 04 |
 | ↳ | **[Valuation Services - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a2?utm_campaign=1052&utm_source=git)** | Rancho Cordova, California, United States of America | On Site | Dec 04 |
-| ↳ | **[Valuation Services - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a1?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 04 |
-| ↳ | **[Global Pricing - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a3?utm_campaign=1052&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 04 |
-| ↳ | **[Global Pricing - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d59e?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 04 |
 | ↳ | **[Global Pricing - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a0?utm_campaign=1052&utm_source=git)** | Rancho Cordova, California, United States of America | On Site | Dec 04 |
-| ↳ | **[Valuation Services - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d59f?utm_campaign=1052&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 04 |
-| ↳ | **[Shareholder Reports Team - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a7?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 04 |
+| ↳ | **[Global Pricing - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d59e?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 04 |
 | ↳ | **[Shareholder Reports Team - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a9?utm_campaign=1052&utm_source=git)** | Rancho Cordova, California, United States of America | On Site | Dec 04 |
+| ↳ | **[Shareholder Reports Team - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5a7?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 04 |
 | ↳ | **[ETF Capital Markets - Undergrad Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d5ad?utm_campaign=1052&utm_source=git)** | San Ramon, California, United States of America | On Site | Dec 04 |
 | **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern (Commercial Credit Administration)](https://jobright.ai/jobs/info/6750c27c5972738e13bcd1cc?utm_campaign=1052&utm_source=git)** | Red Bank, NJ | On Site | Dec 04 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Finance and Treasury Intern, Summer 2025 ( PA-Hybrid)](https://jobright.ai/jobs/info/6750bd5e1914924ceeca220f?utm_campaign=1052&utm_source=git)** | Allentown, PA | Hybrid | Dec 04 |
@@ -129,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Corient](https://www.corient.com/)** | **[Wealth Planning Intern: Shaker Heights, OH (Summer 2025)](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad657?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH | On Site | Dec 04 |
 | **[DUAL North America](https://www.dualna.com)** | **[Reinsurance Broker Intern](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8a71?utm_campaign=1052&utm_source=git)** | Edina, MN Office | On Site | Dec 04 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[1919 Internship - Equity Research](https://jobright.ai/jobs/info/6750b41b8bdf1a57fd8bdd0d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 04 |
-| **[PwC](http://pwc.com)** | **[While You Work - CPA Acceleration Program Audit Fellow - Summer 2025](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8af8?utm_campaign=1052&utm_source=git)** | CA-Silicon Valley | On Site | Dec 04 |
+| **[PwC](http://pwc.com)** | **[While You Work - CPA Acceleration Program Audit Fellow - Summer 2025](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9bbf?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Dec 04 |
+| ↳ | **[While You Work - CPA Acceleration Program Audit Fellow - Summer 2025](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8af8?utm_campaign=1052&utm_source=git)** | CA-Silicon Valley | On Site | Dec 04 |
 | ↳ | **[While You Work - CPA Acceleration Program Audit Fellow - Summer 2025](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9bc0?utm_campaign=1052&utm_source=git)** | MD-Baltimore | On Site | Dec 04 |
-| ↳ | **[While You Work - CPA Acceleration Program Audit Fellow - Summer 2025](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9bbf?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Dec 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/6750a6c211f01a490eb2c8e2?utm_campaign=1052&utm_source=git)** | Itasca, IL | On Site | Dec 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/6750a6c211f01a490eb2c8ee?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Dec 04 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Summer Intern - Underwriting - Professional Liability, Chicago, IL](https://jobright.ai/jobs/info/6750b127d02fe7301cd4a52e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/675099231d709c23fbe598d1?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 04 |
 | ↳ | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/675099231d709c23fbe598d9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | ↳ | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/675099231d709c23fbe598dd?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ | On Site | Dec 04 |
-| ↳ | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/675099231d709c23fbe598e7?utm_campaign=1052&utm_source=git)** | Kittery, ME | On Site | Dec 04 |
-| ↳ | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/675099231d709c23fbe598e8?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Dec 04 |
-| ↳ | **[Finance Analyst Intern - Eastern (Summer 2025)](https://jobright.ai/jobs/info/675092c3902844f8054acfcb?utm_campaign=1052&utm_source=git)** | Ellicott City, MD | On Site | Dec 04 |
-| **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[2025 Summer Intern Corp Finance, Corporate Finance/Accounting](https://jobright.ai/jobs/info/6750a050f8a9c8c848546b00?utm_campaign=1052&utm_source=git)** | Washington DC, United States | On Site | Dec 04 |
-| **[BioSpace](http://www.biospace.com/)** | **[Global Internal Audit Intern](https://jobright.ai/jobs/info/67508e5792f694aabdfbf69c?utm_campaign=1052&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 04 |
-| **[CELSIUS Holdings, Inc.](http://celsius.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/67507c3572728b338d768308?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Dec 04 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/67508476c83ccd1a824346de?utm_campaign=1052&utm_source=git)** | East Rutherford, NJ | On Site | Dec 04 |
-| **[BioSpace](http://www.biospace.com/)** | **[Global Asset and Portfolio Management Finance Intern](https://jobright.ai/jobs/info/6750af9aeefe5f2f6f869dd6?utm_campaign=1052&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 04 |
-| **[Corient](https://www.corient.com/)** | **[Wealth Planning Intern: Shaker Heights, OH (Summer 2025)](https://jobright.ai/jobs/info/675081be7fbbc23d8c3d301d?utm_campaign=1052&utm_source=git)** | US-OH-Shaker Heights-3401 Tuttle-0290 | On Site | Dec 04 |
-| **[Visa](https://www.visa.com)** | **[Global Finance, MBA Intern - Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c325?utm_campaign=1052&utm_source=git)** | Foster City, CA | On Site | Dec 04 |
-| **[US Army Corps of Engineers](https://www.usace.army.mil/)** | **[Financial Specialist](https://jobright.ai/jobs/info/675071dd15b1305b125cecf2?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Dec 04 |
-| **[Novogradac & Company LLP](https://www.novoco.com)** | **[2025 Staff Accountant Intern - Toms River](https://jobright.ai/jobs/info/67507d9b9d682f3dd266a3b0?utm_campaign=1052&utm_source=git)** | Toms River, NJ | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
