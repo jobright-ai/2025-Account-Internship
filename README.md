@@ -57,22 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/676172910d9189c25dd1a4fd?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Dec 17 |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Voyage US Accounting](https://jobright.ai/jobs/info/676172910d9189c25dd1a440?utm_campaign=1052&utm_source=git)** | Bethesda, MD | On Site | Dec 17 |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Tax & Treasury](https://jobright.ai/jobs/info/67615232c8fd5b2f11ed329a?utm_campaign=1052&utm_source=git)** | San Mateo, CA | On Site | Dec 17 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/67614a2420bd5c6afdf35667?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 17 |
+| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Tax Intern](https://jobright.ai/jobs/info/671c0ffed2d470252a9660df?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Dec 17 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[SOX Intern](https://jobright.ai/jobs/info/6761607f35fd04c5b5b33ee4?utm_campaign=1052&utm_source=git)** | Federal Way, WA | On Site | Dec 17 |
+| **[PlanIT Group, LLC](http://planitgroup.com)** | **[Accounting Assistant](https://jobright.ai/jobs/info/67614a2420bd5c6afdf356ac?utm_campaign=1052&utm_source=git)** | Ocala, FL | On Site | Dec 17 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Finance Assistant](https://jobright.ai/jobs/info/67613e01e512b2f17f667d5a?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Dec 16 |
-| **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern - Financial Lines Underwriting](https://jobright.ai/jobs/info/67613ae7a055778bb2c08714?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
-| ↳ | **[Student Intern - Property Underwriting](https://jobright.ai/jobs/info/67613ae7a055778bb2c0871b?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
+| **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern - Property Underwriting](https://jobright.ai/jobs/info/67613ae7a055778bb2c0871b?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | ↳ | **[Student Intern - Property Underwriting](https://jobright.ai/jobs/info/67613ae7a055778bb2c086cb?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 16 |
 | ↳ | **[Student Intern - Liability Underwriting](https://jobright.ai/jobs/info/67613511e2f614c61235fc9b?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
+| ↳ | **[Student Intern - Financial Lines Underwriting](https://jobright.ai/jobs/info/67613511e2f614c61235fc9e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | ↳ | **[Student Intern - Property Underwriting](https://jobright.ai/jobs/info/67613511e2f614c61235fc8a?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | ↳ | **[Student Intern - Liability Underwriting](https://jobright.ai/jobs/info/67612cf9474ddd3d8a57ab06?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[SOX Intern](https://jobright.ai/jobs/info/67611281e6e2e6ec0742099c?utm_campaign=1052&utm_source=git)** | Auburn, WA | On Site | Dec 16 |
+| ↳ | **[SOX Intern](https://jobright.ai/jobs/info/67611281e6e2e6ec074209d1?utm_campaign=1052&utm_source=git)** | Auburn, WA | On Site | Dec 16 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/67614d38615a94c08373213a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 16 |
+| ↳ | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/67614d38615a94c08373213f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
+| ↳ | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/67614d38615a94c083732140?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 16 |
+| ↳ | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/67614d38615a94c08373213e?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 16 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Finance Internship - Summer 2025](https://jobright.ai/jobs/info/676100475840bf4ad347f159?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Junior Advisory Analyst Intern](https://jobright.ai/jobs/info/6760f9f2bd75694f86948d21?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Gallagher](http://www.ajg.com)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/6760f9a38f0a660b7f6587f2?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | Hybrid | Dec 16 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/67610995ad2df9e6023923fa?utm_campaign=1052&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
 | ↳ | **[Real Estate Portfolio Management Intern](https://jobright.ai/jobs/info/67610995ad2df9e6023923db?utm_campaign=1052&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2025 ETP Intern - Wealth Management](https://jobright.ai/jobs/info/6760ef68b07b06b8b837ae82?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 16 |
-| ↳ | **[2025 ETP Intern - Wealth Management](https://jobright.ai/jobs/info/6760f5bf36e6f5b3fe0fe35f?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 16 |
 | ↳ | **[2025 ETP Intern - Wealth Management](https://jobright.ai/jobs/info/6760f5bf36e6f5b3fe0fe35e?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 16 |
+| ↳ | **[2025 ETP Intern - Wealth Management](https://jobright.ai/jobs/info/6760f5bf36e6f5b3fe0fe35f?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 16 |
 | ↳ | **[2025 ETP Intern - Wealth Management](https://jobright.ai/jobs/info/6760f5bf36e6f5b3fe0fe361?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | **[Pratt & Whitney](https://prattwhitney.com)** | **[Intern 2025 - Geared Turbofan (GTF) Commercial Accounting (Remote)](https://jobright.ai/jobs/info/6760f0f09dc550bed20705aa?utm_campaign=1052&utm_source=git)** | Granby, CT | Hybrid | Dec 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Treasury & Payment Solutions Strategy Intern - Summer 2025 - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1eea5?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
@@ -97,11 +109,10 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2026 Corporate, Investment Banking and Markets (CIBM) Summer Analyst Program / New York](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb812?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Vulcan](https://www.vulcanequipment.com/)** | **[Accounting Intern (Year-Round, Part-Time)](https://jobright.ai/jobs/info/6760d30c2f1bfd34034282ac?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Dec 16 |
 | **[Obra Capital](https://www.obra.com/)** | **[2025 Summer Analyst, Fund Accounting](https://jobright.ai/jobs/info/6760d30c2f1bfd3403428297?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 16 |
-| **[Truist](https://www.truist.com)** | **[2025 Truist Securities - Credit Delivery - Asset Based Lending - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/6760bd0ef76211521ea2735c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Corporate Tax Accounting Intern - Summer 2025](https://jobright.ai/jobs/info/6760bd337ad883ffa056a3f6?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Dec 16 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2025 Corporate, Investment Banking and Markets (CIBM) Summer Analyst Program / New York](https://jobright.ai/jobs/info/6760c9a9a86abb290e394934?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
-| ↳ | **[2025 Corporate, Investment Banking and Markets (CIBM) Summer Analyst Program / New York](https://jobright.ai/jobs/info/6760c9a9a86abb290e394a99?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
 | ↳ | **[2025 Corporate, Investment Banking and Markets (CIBM) Summer Analyst Program / New York](https://jobright.ai/jobs/info/6760c9a9a86abb290e394a9a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 16 |
+| ↳ | **[2025 Corporate, Investment Banking and Markets (CIBM) Summer Analyst Program / New York](https://jobright.ai/jobs/info/6760c9a9a86abb290e394a99?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
 | **[University of Phoenix](http://www.phoenix.edu)** | **[Intern: Internal Audit](https://jobright.ai/jobs/info/6760ba871ff8529699c82919?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 16 |
 | **[OneDigital](https://www.onedigital.com)** | **[Investment Intern - Hybrid (Overland Park, KS / Sandy, UT)](https://jobright.ai/jobs/info/6760c9a9a86abb290e39495c?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Dec 16 |
 | ↳ | **[Investment Intern - Hybrid (Overland Park, KS / Sandy, UT)](https://jobright.ai/jobs/info/6760c9a9a86abb290e394a9b?utm_campaign=1052&utm_source=git)** | Sandy, UT | Hybrid | Dec 16 |
@@ -120,18 +131,17 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com/)** | **[Santander CIB 2026 Investment Banking Energy & Energy Transition Summer Analyst Program – US](https://jobright.ai/jobs/info/6760c99faca71609d07b1861?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – FHN Financial](https://jobright.ai/jobs/info/6760ba871ff8529699c82971?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 16 |
 | **[Entegral](https://Entegral.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6761221054538aa566b29392?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 16 |
+| **[Truist](https://www.truist.com)** | **[2025 Truist Securities - Credit Delivery - Asset Based Lending - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/6760ab16acc0933da458653e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | **[Valero](http://www.valero.com)** | **[Credit Intern (Summer 2025)](https://jobright.ai/jobs/info/6760ab16acc0933da4586513?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | Dec 16 |
 | **[Mortenson](https://www.mortenson.com)** | **[Project Accounting Intern / Mortenson](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb646?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 16 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb66b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb659?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | ↳ | **[Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb830?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 16 |
-| ↳ | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb831?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | ↳ | **[Audit Intern, Federal Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb679?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb832?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Dec 16 |
+| ↳ | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb831?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | ↳ | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb711?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 16 |
+| ↳ | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb832?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Dec 16 |
 | ↳ | **[Tax Intern, Business Tax Services - Korean Practice / Atlanta Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb669?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
-| ↳ | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebaaf?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Dec 16 |
-| ↳ | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebab0?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | ↳ | **[Audit Intern / Atlanta Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb6e9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebab2?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Dec 16 |
 | ↳ | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb835?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
@@ -142,19 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Seasonal Intern, Business Tax Services / Albany Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb694?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 16 |
 | ↳ | **[Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb83e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
 | ↳ | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb83f?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
-| ↳ | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb841?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Dec 16 |
 | ↳ | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb840?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
+| ↳ | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb841?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Dec 16 |
 | ↳ | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb842?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Dec 16 |
 | ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebae3?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
 | ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb6bb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 16 |
-| ↳ | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebaed?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 16 |
-| ↳ | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb84c?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Dec 16 |
-| ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebaf2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
-| ↳ | **[Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb84d?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Dec 16 |
-| ↳ | **[Audit Intern, Korean Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb6e5?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
-| ↳ | **[Tax Intern, Global Executive & Private Client Group / Atlanta Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb6de?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
-| ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebb05?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
-| ↳ | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb856?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Dec 16 |
-| ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596ebb0f?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 16 |
-| ↳ | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb858?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
