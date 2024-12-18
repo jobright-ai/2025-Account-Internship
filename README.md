@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Tax](https://jobright.ai/jobs/info/6762cb0c1c727d69c1941149?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Dec 18 |
+| **[Santander](https://www.santander.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/6762d0403828fc9518485da3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 18 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[DaVita Accounting Intern](https://jobright.ai/jobs/info/6762c42d5a59fd3e24e51600?utm_campaign=1052&utm_source=git)** | Federal Way, WA | On Site | Dec 18 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern / Atlanta Summer 2026](https://jobright.ai/jobs/info/67629e5c42450d623bee4353?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
+| ↳ | **[Tax Intern, Global Mobility Services / McLean Winter 2025](https://jobright.ai/jobs/info/67629dbc42450d623bee3b6a?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Dec 18 |
+| ↳ | **[Audit Intern, Federal Practice / Indianapolis Summer 2025](https://jobright.ai/jobs/info/67629dbc42450d623bee3c05?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
+| ↳ | **[Technology Assurance Audit Intern / Nashville Summer 2025](https://jobright.ai/jobs/info/67629e5c42450d623bee43bb?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 18 |
+| ↳ | **[Tax Intern, Indirect Tax Technology / Nashville Summer 2025](https://jobright.ai/jobs/info/67629e5c42450d623bee43ce?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 18 |
+| ↳ | **[Audit Intern, Federal Practice / Washington Winter 2026](https://jobright.ai/jobs/info/67629e5c42450d623bee43cf?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Dec 18 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Intern - Scott Depot, WV](https://jobright.ai/jobs/info/6762921949127b9611a7eab3?utm_campaign=1052&utm_source=git)** | Scott Depot, WV | On Site | Dec 18 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Tax Internship - Summer 2025, Spring 2026](https://jobright.ai/jobs/info/6762a306e885464c44ca5f3e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Bowling Green, KY Summer 2025)](https://jobright.ai/jobs/info/67628f978d1a1a3c7ea36654?utm_campaign=1052&utm_source=git)** | Bowling Green, KY | On Site | Dec 18 |
 | **[Hancock Askew & Co., LLP](http://hancockaskew.com)** | **[Savannah Tax Intern- Spring 2026](https://jobright.ai/jobs/info/67628f978d1a1a3c7ea36938?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Dec 17 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/67628272e2ba3d3fffa5e79a?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Dec 17 |
@@ -72,8 +82,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/67624b46a0358d61b542eb65?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 17 |
 | ↳ | **[Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/67624b46a0358d61b542eb6f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 17 |
 | ↳ | **[Tax Intern / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/67624b46a0358d61b542e752?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Dec 17 |
-| ↳ | **[Technology Assurance Audit Intern / Nashville Summer 2025](https://jobright.ai/jobs/info/67624b46a0358d61b542e7fa?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 17 |
-| ↳ | **[Audit Intern / Atlanta Summer 2026](https://jobright.ai/jobs/info/67624b46a0358d61b542e7b1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | ↳ | **[Audit Intern / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/67624b46a0358d61b542eba3?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | ↳ | **[Audit Intern / Atlanta Winter 2026](https://jobright.ai/jobs/info/67624b46a0358d61b542e829?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | ↳ | **[Audit Intern / Kansas City Summer 2026](https://jobright.ai/jobs/info/67624b46a0358d61b542e81a?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Dec 17 |
@@ -83,35 +91,39 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hajimari Intern, Finance LSE](https://jobright.ai/jobs/info/6762423846af3380dd8a649e?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
 | **[Genworth](https://www.genworth.com)** | **[Finance Development Program Internship](https://jobright.ai/jobs/info/67625c98a9fe17c5454e7672?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Dec 17 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/676251c096710f2d007f2ee0?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 17 |
-| ↳ | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b68?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 17 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b69?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 17 |
+| ↳ | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b68?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 17 |
 | ↳ | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b6a?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 17 |
 | ↳ | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b6b?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 17 |
 | ↳ | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b6c?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 17 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b6d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 17 |
 | ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b6e?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 17 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/6762a0c2783d346b13f538aa?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Dec 17 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Accounting Intern (Motor Fuel) - Summer 2025](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079a82?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b2c?utm_campaign=1052&utm_source=git)** | Florence, SC | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b30?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b2f?utm_campaign=1052&utm_source=git)** | Ocala, FL | On Site | Dec 17 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b30?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b31?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e5fe?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e601?utm_campaign=1052&utm_source=git)** | Cary, NC | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e600?utm_campaign=1052&utm_source=git)** | Bluffton, SC | On Site | Dec 17 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e604?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e601?utm_campaign=1052&utm_source=git)** | Cary, NC | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b34?utm_campaign=1052&utm_source=git)** | Green Cove Springs, FL | On Site | Dec 17 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e604?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e605?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e607?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Dec 17 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b36?utm_campaign=1052&utm_source=git)** | Riverview, FL | On Site | Dec 17 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b37?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e608?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b39?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b37?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b3d?utm_campaign=1052&utm_source=git)** | New Jersey, United States | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b43?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/6762a0c2783d346b13f538af?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Dec 17 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/6762a0c2783d346b13f538b0?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b46?utm_campaign=1052&utm_source=git)** | Bluffton, SC | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b47?utm_campaign=1052&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b48?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 17 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b47?utm_campaign=1052&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b4c?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b49?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Dec 17 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b4b?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b4d?utm_campaign=1052&utm_source=git)** | DFW Metroplex | On Site | Dec 17 |
 | ↳ | **[NSS Intern - Atlanta, Ga](https://jobright.ai/jobs/info/67629533c5c3ef873d069b54?utm_campaign=1052&utm_source=git)** | Atlanta Metro | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/67629533c5c3ef873d069b53?utm_campaign=1052&utm_source=git)** | Columbia, SC | On Site | Dec 17 |
@@ -130,6 +142,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e618?utm_campaign=1052&utm_source=git)** | Maitland, FL | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e61a?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e61c?utm_campaign=1052&utm_source=git)** | Bloomfield Hills, MI | On Site | Dec 17 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e620?utm_campaign=1052&utm_source=git)** | Mission Viejo, CA | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e621?utm_campaign=1052&utm_source=git)** | Trevose, PA | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e61f?utm_campaign=1052&utm_source=git)** | New Port Richey, FL | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e626?utm_campaign=1052&utm_source=git)** | Westborough, MA | On Site | Dec 17 |
@@ -139,22 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e633?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e639?utm_campaign=1052&utm_source=git)** | Bloomington, MN | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e63f?utm_campaign=1052&utm_source=git)** | Columbia, SC | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e648?utm_campaign=1052&utm_source=git)** | Riverview, FL | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e647?utm_campaign=1052&utm_source=git)** | Trinity, FL | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e649?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Dec 17 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e650?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e653?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Dec 17 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e652?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Dec 17 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e65d?utm_campaign=1052&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 17 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e658?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e65e?utm_campaign=1052&utm_source=git)** | Venice, FL | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e663?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e662?utm_campaign=1052&utm_source=git)** | Metro Jacksonville | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e665?utm_campaign=1052&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 17 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e66e?utm_campaign=1052&utm_source=git)** | DFW Metroplex | On Site | Dec 17 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e66b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 17 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e66a?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e671?utm_campaign=1052&utm_source=git)** | Maitland, FL | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e677?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/676277a477e99f145122e679?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
