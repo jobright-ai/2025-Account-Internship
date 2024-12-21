@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program:  Manufacturing Controller Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10df?utm_campaign=1052&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern, Federal Practice / Indianapolis Summer 2025](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe12ae?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 21 |
+| **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Accounting & Finance Student Intern](https://jobright.ai/jobs/info/6766e75fa3ab8fa6a99f5511?utm_campaign=1052&utm_source=git)** | San Bernardino County, CA | On Site | Dec 21 |
+| **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[Capital Planning Assistant (Co-op)](https://jobright.ai/jobs/info/6766dfda082f46eb2a810fcc?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Dec 21 |
+| **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6766d16558480f10819ed46f?utm_campaign=1052&utm_source=git)** | Triangle, NC | On Site | Dec 21 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Spring Internship – Inventory Accounting](https://jobright.ai/jobs/info/6766aede1c58ca342d9560ae?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 21 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2025](https://jobright.ai/jobs/info/6766aac540ac02af77633927?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 21 |
+| **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/66f6033232e41d156dd41800?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
 | **[LivaNova](http://www.livanova.com)** | **[October 22nd: 12 - 3:30 PM. University of Texas, McCombs Accounting & Finance Fair - Finance & Accounting Internship (Summer 2025)](https://jobright.ai/jobs/info/67669b263552c3cc0feff251?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Dec 21 |
-| **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Global Markets Origination Summer Analyst](https://jobright.ai/jobs/info/66f813ea1c05642b6a121d43?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
+| **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Global Markets Sales & Trading Summer Analyst](https://jobright.ai/jobs/info/66f7bd4973e8d7f8093cc167?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
+| ↳ | **[2026 Capital Markets, Global Markets Origination Summer Analyst](https://jobright.ai/jobs/info/66f813ea1c05642b6a121d43?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
+| ↳ | **[Financial Internship - Private Client Group](https://jobright.ai/jobs/info/672bdd00a90bf61f04cf9fa4?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Dec 21 |
+| ↳ | **[2026 Capital Markets, Global Investment Banking Summer Analyst](https://jobright.ai/jobs/info/66f7bd4973e8d7f8093cc161?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[Accounting & Finance Student Intern](https://jobright.ai/jobs/info/676681d7c249cee2b447463f?utm_campaign=1052&utm_source=git)** | Throughout San Bernardino County, CA | On Site | Dec 21 |
 | **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Global Markets Quantitative Trading Summer Analyst](https://jobright.ai/jobs/info/66f813ea1c05642b6a121d4c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[2026 Capital Markets, Global Investment Banking Summer Analyst](https://jobright.ai/jobs/info/66f7a9a7735f98eaaf132e5a?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 21 |
@@ -70,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Financial Analyst 3-Month Summer Intern (Armonk, NY): 2025](https://jobright.ai/jobs/info/676656f254c9d58a8a996c47?utm_campaign=1052&utm_source=git)** | Armonk, NY | On Site | Dec 20 |
 | **[Amica Insurance](http://www.amica.com)** | **[Actuarial Intern - Life Finance](https://jobright.ai/jobs/info/676255c29b554984a3f2ab24?utm_campaign=1052&utm_source=git)** | Rhode Island, United States | Hybrid | Dec 20 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Accounting Intern (Summer 2025)](https://jobright.ai/jobs/info/67666252c8ae804e27984684?utm_campaign=1052&utm_source=git)** | West Bend, WI | On Site | Dec 20 |
+| **[Amazon](https://amazon.com)** | **[2025 Industrial Innovation Fund MBA Intern (Summer), Corporate Development (Corp Dev)](https://jobright.ai/jobs/info/6766cc64e990dad462ec3f10?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Tax Analyst Intern](https://jobright.ai/jobs/info/676649845cdf91cf57522ff4?utm_campaign=1052&utm_source=git)** | Norwell, MA | On Site | Dec 20 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Credit Analysis Intern](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfe06?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Dec 20 |
 | **[Unum](http://www.unum.com)** | **[MBA Investments - Credit Research Intern](https://jobright.ai/jobs/info/67664289ce8b1d7d1b729f5e?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | Hybrid | Dec 20 |
@@ -100,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[The Baldwin Group](https://baldwin.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/67660b0c43247b7336b77122?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern - US/CAN Finance](https://jobright.ai/jobs/info/67660b0c43247b7336b77124?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Finance](https://jobright.ai/jobs/info/6765fb7d9aadba016b017aa7?utm_campaign=1052&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 20 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca42?utm_campaign=1052&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Dec 20 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca29?utm_campaign=1052&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Dec 20 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca29?utm_campaign=1052&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Dec 20 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca42?utm_campaign=1052&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Dec 20 |
 | ↳ | **[Credit Analysis Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61c945?utm_campaign=1052&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Dec 20 |
 | **[Farm Credit Administration](https://www.fca.gov/)** | **[Capital Markets Intern (Hybrid - Columbia, SC)](https://jobright.ai/jobs/info/67660e62b7d3d11b751b49f0?utm_campaign=1052&utm_source=git)** | Mankato, MN | Hybrid | Dec 20 |
 | **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Risk Analyst Intern](https://jobright.ai/jobs/info/6766012f4c33903e4fdb51dc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -138,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Tax Analyst Intern](https://jobright.ai/jobs/info/6765c28137c87dfe5ac0c51c?utm_campaign=1052&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 20 |
 | **[InSite Property Group](https://insitepg.com/)** | **[Acquisitions Analyst](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d866?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Treasury Services - Implementation and Support](https://jobright.ai/jobs/info/674e4f57a9ec4e73569a5693?utm_campaign=1052&utm_source=git)** | Suffolk, VA | On Site | Dec 20 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6765d7de5c6ae984fdd2f468?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Project Finance Summer Associate (Intern)](https://jobright.ai/jobs/info/6765b87e359603117b11e533?utm_campaign=1052&utm_source=git)** | Charlottesville, VA, USA | On Site | Dec 20 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Audit & Risk Data Analytics Intern, Summer 2025](https://jobright.ai/jobs/info/6765ce4f86e603f83ea4b2e3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Summer Intern - Equity Research](https://jobright.ai/jobs/info/6765ae2ee4702f13736781ad?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 20 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/6765aebfb68df18d3bea3c2d?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Dec 20 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2025 - Atlanta, GA](https://jobright.ai/jobs/info/6765aac2085e798ceeadef61?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Actuarial Analyst Bachelor's Intern](https://jobright.ai/jobs/info/6765b5a53111067f9b492a89?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Remote | Dec 20 |
-| **[WM](https://www.wm.com/)** | **[Intern - Finance and Pricing](https://jobright.ai/jobs/info/6765ad309ef0575d923d11ad?utm_campaign=1052&utm_source=git)** | Plymouth, MI | Hybrid | Dec 20 |
-| **[Munich Re](https://www.munichre.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6765ad309ef0575d923d118b?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
-| ↳ | **[Underwriting Quality Intern](https://jobright.ai/jobs/info/6765ad309ef0575d923d11ae?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
-| ↳ | **[Actuarial Intern_Philadelphia](https://jobright.ai/jobs/info/6765ad309ef0575d923d118a?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 20 |
-| ↳ | **[Intern - Actuary](https://jobright.ai/jobs/info/6765ad309ef0575d923d11ac?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
-| **[Norsk Hydro](http://www.hydro.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6765a05e89043a1f818921db?utm_campaign=1052&utm_source=git)** | South Dakota, United States | On Site | Dec 20 |
-| **[Munich Re](https://www.munichre.com)** | **[Intern - Portfolio Management](https://jobright.ai/jobs/info/67659ff1618bc2cdb0261311?utm_campaign=1052&utm_source=git)** | Amelia, OH | Hybrid | Dec 20 |
-| ↳ | **[Intern - Corporate Underwriting](https://jobright.ai/jobs/info/67659ff1618bc2cdb0261347?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
-| ↳ | **[Actuarial Intern](https://jobright.ai/jobs/info/67659ff1618bc2cdb026131e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Actuarial Intern_Chicago](https://jobright.ai/jobs/info/67659ff1618bc2cdb0261301?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
-| ↳ | **[Intern Underwriting & Product](https://jobright.ai/jobs/info/67659ff1618bc2cdb02612f9?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
