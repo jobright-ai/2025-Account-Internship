@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program:  Manufacturing Controller Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10df?utm_campaign=1052&utm_source=git)** | Lexington, MA | On Site | Dec 22 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Corporate Finance Internship Summer 2025](https://jobright.ai/jobs/info/675274e96da641cb07bf23dd?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Dec 22 |
+| **[B. Riley Financial](http://www.brileyfin.com)** | **[Wealth: Intern - Red Bank, NJ](https://jobright.ai/jobs/info/6768292c6ee0e5d07d609ef2?utm_campaign=1052&utm_source=git)** | Red Bank, NJ | On Site | Dec 22 |
+| **[Echelon Advisors](https://www.echelonrisk.com/)** | **[Tax Associate and Tax Intern](https://jobright.ai/jobs/info/67681a2f86bbf96bf8269813?utm_campaign=1052&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern – Global Transaction Advisory Group (TAG)](https://jobright.ai/jobs/info/672dfe5bc7f1c85c2b3257be?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Dec 22 |
 | **[Kiewit](http://www.kiewit.com)** | **[Tax Intern (Summer 2025)](https://jobright.ai/jobs/info/6767990c34a45799123b73fb?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Dec 21 |
 | **[PwC](http://pwc.com)** | **[Audit Intern - Summer 2026 - Destination CPA](https://jobright.ai/jobs/info/67679d8169afa7eb218a842a?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 21 |
@@ -74,10 +78,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Global Mobility Services / McLean Winter 2025](https://jobright.ai/jobs/info/6767fbfdf5a7438328955926?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Dec 21 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Internal Audit IT Intern - Summer 2025](https://jobright.ai/jobs/info/6737cd73701eb2d098c0194c?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 21 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Finance Internship](https://jobright.ai/jobs/info/67673997f771ed622bd8a898?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | Dec 21 |
-| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program:  Manufacturing Controller Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10df?utm_campaign=1052&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
+| **[University of Phoenix](http://www.phoenix.edu)** | **[Intern: Internal Audit](https://jobright.ai/jobs/info/6760ba871ff8529699c82919?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 21 |
 | **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Accounting & Finance Student Intern](https://jobright.ai/jobs/info/6766e75fa3ab8fa6a99f5511?utm_campaign=1052&utm_source=git)** | San Bernardino County, CA | On Site | Dec 21 |
 | **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[Capital Planning Assistant (Co-op)](https://jobright.ai/jobs/info/6766dfda082f46eb2a810fcc?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Dec 21 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6766d16558480f10819ed46f?utm_campaign=1052&utm_source=git)** | Triangle, NC | On Site | Dec 21 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, FinOps Audit, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6752a9f20ae601acc42a85b5?utm_campaign=1052&utm_source=git)** | Brown Deer, WI | On Site | Dec 21 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Spring Internship – Inventory Accounting](https://jobright.ai/jobs/info/6766aede1c58ca342d9560ae?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 21 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2025](https://jobright.ai/jobs/info/6766aac540ac02af77633927?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 21 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/66f6033232e41d156dd41800?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[The Baldwin Group](https://baldwin.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/67660b0c43247b7336b77122?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern - US/CAN Finance](https://jobright.ai/jobs/info/67660b0c43247b7336b77124?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Finance](https://jobright.ai/jobs/info/6765fb7d9aadba016b017aa7?utm_campaign=1052&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 20 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca29?utm_campaign=1052&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Dec 20 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca42?utm_campaign=1052&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Dec 20 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca42?utm_campaign=1052&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Dec 20 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca29?utm_campaign=1052&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Dec 20 |
 | ↳ | **[Credit Analysis Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61c945?utm_campaign=1052&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Dec 20 |
 | **[Farm Credit Administration](https://www.fca.gov/)** | **[Capital Markets Intern (Hybrid - Columbia, SC)](https://jobright.ai/jobs/info/67660e62b7d3d11b751b49f0?utm_campaign=1052&utm_source=git)** | Mankato, MN | Hybrid | Dec 20 |
 | **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Risk Analyst Intern](https://jobright.ai/jobs/info/6766012f4c33903e4fdb51dc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6765f261a8e6f4f315137cc7?utm_campaign=1052&utm_source=git)** | Denham Springs, LA | On Site | Dec 20 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2025 - Western Region Property and Casualty](https://jobright.ai/jobs/info/6765f261a8e6f4f315137d3c?utm_campaign=1052&utm_source=git)** | Texas, United States | Hybrid | Dec 20 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6765df2d73a8cd3954fbee83?utm_campaign=1052&utm_source=git)** | Denham Springs Annex - Denham Springs, LA | On Site | Dec 20 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/6765e86e79b4dcede75bb1ba?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Dec 20 |
-| **[LHH](http://www.lhh.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6765dd80a428dd24202fe7cf?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Dec 20 |
-| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6765e86e79b4dcede75bb217?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 20 |
-| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Student Extern - General Accounting](https://jobright.ai/jobs/info/6765e71af6406944246cdb9c?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Dec 20 |
-| **[HNTB](http://www.hntb.com/)** | **[Project Finance Assistant Intern - Summer 2025](https://jobright.ai/jobs/info/6760e07ab3ad0d97f58daa6a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
