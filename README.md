@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Finance Internship](https://jobright.ai/jobs/info/67673997f771ed622bd8a898?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program:  Manufacturing Controller Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10df?utm_campaign=1052&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern, Federal Practice / Indianapolis Summer 2025](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe12ae?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 21 |
 | **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Accounting & Finance Student Intern](https://jobright.ai/jobs/info/6766e75fa3ab8fa6a99f5511?utm_campaign=1052&utm_source=git)** | San Bernardino County, CA | On Site | Dec 21 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Spring Internship – Inventory Accounting](https://jobright.ai/jobs/info/6766aede1c58ca342d9560ae?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 21 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2025](https://jobright.ai/jobs/info/6766aac540ac02af77633927?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 21 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/66f6033232e41d156dd41800?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
-| **[LivaNova](http://www.livanova.com)** | **[October 22nd: 12 - 3:30 PM. University of Texas, McCombs Accounting & Finance Fair - Finance & Accounting Internship (Summer 2025)](https://jobright.ai/jobs/info/67669b263552c3cc0feff251?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Dec 21 |
 | **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Global Markets Sales & Trading Summer Analyst](https://jobright.ai/jobs/info/66f7bd4973e8d7f8093cc167?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[2026 Capital Markets, Global Markets Origination Summer Analyst](https://jobright.ai/jobs/info/66f813ea1c05642b6a121d43?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Financial Internship - Private Client Group](https://jobright.ai/jobs/info/672bdd00a90bf61f04cf9fa4?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Dec 21 |
