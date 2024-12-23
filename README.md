@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Financial Analyst (Summer 2025)](https://jobright.ai/jobs/info/6768d9cbdf94409fb74cfdcb?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program:  Manufacturing Controller Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10df?utm_campaign=1052&utm_source=git)** | Lexington, MA | On Site | Dec 22 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Corporate Finance Internship Summer 2025](https://jobright.ai/jobs/info/675274e96da641cb07bf23dd?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Dec 22 |
 | **[B. Riley Financial](http://www.brileyfin.com)** | **[Wealth: Intern - Red Bank, NJ](https://jobright.ai/jobs/info/6768292c6ee0e5d07d609ef2?utm_campaign=1052&utm_source=git)** | Red Bank, NJ | On Site | Dec 22 |
@@ -111,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Credit Analysis Intern](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfe06?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Dec 20 |
 | **[Unum](http://www.unum.com)** | **[MBA Investments - Credit Research Intern](https://jobright.ai/jobs/info/67664289ce8b1d7d1b729f5e?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | Hybrid | Dec 20 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/676637f8b7272e8cac4c5477?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Dec 20 |
+| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Corporate Analyst Intern](https://jobright.ai/jobs/info/6768d79b0573dd5c781c7bd7?utm_campaign=1052&utm_source=git)** | Campbell, CA | On Site | Dec 20 |
 | **[Georgia Transmission](http://gatrans.com)** | **[Co-op Student, Accounting &amp; Treasury](https://jobright.ai/jobs/info/676642cae76cbe011aac4d1f?utm_campaign=1052&utm_source=git)** | Tucker, GA | On Site | Dec 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Finance](https://jobright.ai/jobs/info/6766327ea565e8314b20d95a?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Commercial Credit Administration Summer Intern](https://jobright.ai/jobs/info/6766589522fa4a9ad09e7753?utm_campaign=1052&utm_source=git)** | Brockton, MA | On Site | Dec 20 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[The Baldwin Group](https://baldwin.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/67660b0c43247b7336b77122?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern - US/CAN Finance](https://jobright.ai/jobs/info/67660b0c43247b7336b77124?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Finance](https://jobright.ai/jobs/info/6765fb7d9aadba016b017aa7?utm_campaign=1052&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 20 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca29?utm_campaign=1052&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Dec 20 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca42?utm_campaign=1052&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Dec 20 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca42?utm_campaign=1052&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Dec 20 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca29?utm_campaign=1052&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Dec 20 |
 | ↳ | **[Credit Analysis Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61c945?utm_campaign=1052&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Dec 20 |
 | **[Farm Credit Administration](https://www.fca.gov/)** | **[Capital Markets Intern (Hybrid - Columbia, SC)](https://jobright.ai/jobs/info/67660e62b7d3d11b751b49f0?utm_campaign=1052&utm_source=git)** | Mankato, MN | Hybrid | Dec 20 |
 | **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Risk Analyst Intern](https://jobright.ai/jobs/info/6766012f4c33903e4fdb51dc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Managerial Accountant - Internship](https://jobright.ai/jobs/info/6765ef7875b93d2604f213df?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern - US/CAN Finance](https://jobright.ai/jobs/info/6765e487add1be19f67927e8?utm_campaign=1052&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Dec 20 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6765f261a8e6f4f315137cc7?utm_campaign=1052&utm_source=git)** | Denham Springs, LA | On Site | Dec 20 |
-| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2025 - Western Region Property and Casualty](https://jobright.ai/jobs/info/6765f261a8e6f4f315137d3c?utm_campaign=1052&utm_source=git)** | Texas, United States | Hybrid | Dec 20 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6765df2d73a8cd3954fbee83?utm_campaign=1052&utm_source=git)** | Denham Springs Annex - Denham Springs, LA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
