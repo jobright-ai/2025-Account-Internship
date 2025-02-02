@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Withum](http://www.withum.com)** | **[Summer Interns 2025](https://jobright.ai/jobs/info/679f5562628d4565313e4e43?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Feb 02 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Research Summer Analyst Program - 2026](https://jobright.ai/jobs/info/679ef9f0008ec289a75ea234?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2025](https://jobright.ai/jobs/info/679ebc7ef53ba8c197219182?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 01 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2026 - Destination CPA](https://jobright.ai/jobs/info/679ea69898e3b51a41fdf6d7?utm_campaign=1052&utm_source=git)** | Detroit Metro | On Site | Feb 01 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Rates and Currencies Solutions Summer Analyst Program - 2026](https://jobright.ai/jobs/info/679ea69bbde1c07729847c15?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Chapman University](https://www.chapman.edu/)** | **[Student Financial Assistant](https://jobright.ai/jobs/info/679e980ae15c71103615577f?utm_campaign=1052&utm_source=git)** | Orange, CA | On Site | Feb 01 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Financial Analyst Intern (Istanbul-Remote)](https://jobright.ai/jobs/info/679ea418445264b03eec065f?utm_campaign=1052&utm_source=git)** | Oregon, United States | Remote | Feb 01 |
-| ↳ | **[Financial Analyst Intern (Karachi-Remote)](https://jobright.ai/jobs/info/679ea418445264b03eec065e?utm_campaign=1052&utm_source=git)** | Oregon, United States | Remote | Feb 01 |
 | ↳ | **[Financial Analyst Intern (Vietnam-Remote)](https://jobright.ai/jobs/info/679ea418445264b03eec0665?utm_campaign=1052&utm_source=git)** | Oregon, United States | Remote | Feb 01 |
+| ↳ | **[Financial Analyst Intern (Karachi-Remote)](https://jobright.ai/jobs/info/679ea418445264b03eec065e?utm_campaign=1052&utm_source=git)** | Oregon, United States | Remote | Feb 01 |
 | ↳ | **[Financial Analyst Intern (Athens-Remote)](https://jobright.ai/jobs/info/679e8817892e51121960a281?utm_campaign=1052&utm_source=git)** | Oregon, United States | Remote | Feb 01 |
 | ↳ | **[Financial Analyst Intern (Nigeria-Remote)](https://jobright.ai/jobs/info/679e8a09d7126576fd0a5d9a?utm_campaign=1052&utm_source=git)** | Oregon, United States | Remote | Feb 01 |
 | **[Prudential Financial](http://www.prudential.com)** | **[PGIM: 2025 Fixed Income, Sophomore Externship Program (Technology Solutions Group)](https://jobright.ai/jobs/info/679e8d65e6019ec00a345186?utm_campaign=1052&utm_source=git)** | Newark, NJ | On Site | Feb 01 |
@@ -83,32 +84,35 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2026 (Nashville, TN)](https://jobright.ai/jobs/info/6716a9aa85d241fd6d580379?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Nashville](https://jobright.ai/jobs/info/66ccc72b41167feb6e8c65a9?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2026 - Eastern & Central Washington](https://jobright.ai/jobs/info/67806bbb1e7a1db78477c71a?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Feb 01 |
+| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Premium Audit Review Intern](https://jobright.ai/jobs/info/6781fa91710886a62f4f810d?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Feb 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2025 Finance MBA Intern (Santa Clara)](https://jobright.ai/jobs/info/679492283514efe600731820?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Feb 01 |
+| **[CBIZ](http://www.cbiz.com)** | **[Forensic Accounting and Litigation Intern / Fall 2025](https://jobright.ai/jobs/info/677f1e1dd5f4fe32c98707b0?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Summer 2026](https://jobright.ai/jobs/info/677887e0fd1a05058db57b7d?utm_campaign=1052&utm_source=git)** | South Portland, ME | Hybrid | Feb 01 |
 | ↳ | **[Accounting Internship, Healthcare Audit Fall 2026](https://jobright.ai/jobs/info/675b763b1f859ffebb0aca6f?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | Feb 01 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern - Global Transaction Analytics (GTA)](https://jobright.ai/jobs/info/67464b598b2f6a882b68a554?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 01 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[2026 Summer Financial Analyst (Class of 2027) / Corporate Finance, Houston Oil & Gas](https://jobright.ai/jobs/info/6780997f0dd8f3c5fbcd4d9a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Tangible Property Services Tax Intern - Summer 2026](https://jobright.ai/jobs/info/671b78758401a52a40ecfac9?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Feb 01 |
+| ↳ | **[State and Local Tax Intern - Summer 2026](https://jobright.ai/jobs/info/66c6376d6604b020e6f38f28?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 01 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/6760aab37c7914b16e24c801?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Hybrid | Feb 01 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/677bef794b809253dee5a79c?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 01 |
 | ↳ | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/677bef794b809253dee5a79e?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 01 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/67529e27b370c532700d582e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 01 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - Summer Internship 2025 - Contract Analytics-1 - R8076](https://jobright.ai/jobs/info/679dfd2bb2224a45ccf0d7fc?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Feb 01 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Finance Analyst Intern](https://jobright.ai/jobs/info/679df10f1b746f56c298514c?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | Feb 01 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[2026 Summer Financial Analyst - Financial Restructuring (Class of 2027) - Los Angeles](https://jobright.ai/jobs/info/674dfde8914932ffe1ac5149?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/679df789483724202c5bb970?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | ↳ | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/679df789483724202c5bb9e2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
 | ↳ | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/679de88ceb9844213a7e7910?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | ↳ | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/679de88ceb9844213a7e790e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |
-| ↳ | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/679dea31eb9844213a7e8442?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 01 |
 | ↳ | **[Intern, Valuation Services](https://jobright.ai/jobs/info/679df1cb6f0cdfa7177c19db?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
+| ↳ | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/679dea31eb9844213a7e8442?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 01 |
 | ↳ | **[Intern, Valuation Services](https://jobright.ai/jobs/info/679de88ceb9844213a7e78d0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |
 | ↳ | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/679de88ceb9844213a7e78dc?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | ↳ | **[Junior Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/679de88ceb9844213a7e78e9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/679f2e65ace0e294a1352e8c?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst - Investment Grade Finance & Derivatives](https://jobright.ai/jobs/info/679de3fe20dd3e790765b482?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[2026 - Summer Analyst Internship - Group Financial Security](https://jobright.ai/jobs/info/679ddfa04f1ffa949ba2fc62?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[2026 - Summer Analyst - Transaction Banking](https://jobright.ai/jobs/info/679ddfa04f1ffa949ba2fc55?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[LifeNet Health](https://www.lifenethealth.org/)** | **[Summer Internship: Purchasing (10302-2025148)](https://jobright.ai/jobs/info/679f2f970246d6291319732a?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Jan 31 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Group Financial Security](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7ef5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
+| ↳ | **[2026 - Summer Assistant Vice President Internship - Group Financial Security](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7ef5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[2026 - Summer Analyst - Asset Finance & Securitization](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7ec6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[2026 - Summer Analyst - Corporate Finance (Investment Banking, Leveraged Finance, Equity Capital Markets)](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7ebf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[2026 Summer Analyst Internship - CIB Functions, Operations](https://jobright.ai/jobs/info/679dd34432be427a957b884b?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
@@ -133,28 +137,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Assurance Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192bd?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Korean Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192dc?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | ↳ | **[Tax Intern, International Tax - Trade and Customs Global Trade Technology / Philadelphia Summer 2025](https://jobright.ai/jobs/info/679da57480585d3cb23192e0?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/679da57480585d3cb23192e1?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | ↳ | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
+| ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/679da57480585d3cb23192e1?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Korean Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e4?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e5?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad446d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4470?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
+| ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4472?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | ↳ | **[Tax Intern, Property Tax / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | ↳ | **[Tax Seasonal Intern, Global Mobility Services / Atlanta Summer 2025](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4471?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
-| ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4472?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | ↳ | **[Intern, Economic Valuation Services - Complex Securities / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/679eee82df2d0b4cebf7be78?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Federal Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | ↳ | **[Tax Intern, Global Executive & Private Client Group / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679da57480585d3cb23192e8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| ↳ | **[Tax Intern, Property Tax / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4473?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 31 |
-| ↳ | **[Tax Intern, Global Rewards Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4475?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | ↳ | **[Tax Intern, Global Executive & Private Client Group / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4474?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
-| ↳ | **[Tax Intern, International Tax - JD/LLM / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4476?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
+| ↳ | **[Tax Intern, Global Rewards Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4475?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
+| ↳ | **[Tax Intern, Property Tax / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4473?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 31 |
 | ↳ | **[Tax Intern, State and Local Tax - US Excise Tax Compliance / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4477?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 31 |
-| ↳ | **[Intern, Economic Valuation Services - Valuation / Philadelphia Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad447c?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| ↳ | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad447a?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
-| ↳ | **[Audit Intern, Federal Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad447b?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 31 |
+| ↳ | **[Tax Intern, International Tax - JD/LLM / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4476?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 | ↳ | **[Audit Intern, Korean Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4478?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad447d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
-| **[Utah Retirement Systems](https://www.urs.org)** | **[Internal Auditor I, II or III](https://jobright.ai/jobs/info/679dab2e9611ad9a66493dfa?utm_campaign=1052&utm_source=git)** | SLC Metro Area | On Site | Jan 31 |
+| ↳ | **[Intern, Economic Valuation Services - Valuation / Philadelphia Winter 2026](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad447c?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
