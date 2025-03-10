@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern, Federal Practice / Indianapolis Summer 2026](https://jobright.ai/jobs/info/67cdc644c92aeb9b4357bf74?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 09 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/67cda163fdd55490ff89112b?utm_campaign=1052&utm_source=git)** | North Liberty, IA | On Site | Mar 09 |
 | **[Balchem Corporation](http://balchem.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/67cd1c1210184c081de04c15?utm_campaign=1052&utm_source=git)** | Montvale, NJ | Hybrid | Mar 08 |
+| **[Berea College](http://www.berea.edu/)** | **[*Summer Temporary - Accounts Payable Assistant (2 openings)](https://jobright.ai/jobs/info/67ce5f5b54b78453b79276b7?utm_campaign=1052&utm_source=git)** | Berea, KY | On Site | Mar 08 |
 | **[The CJ Group](https://www.thecjgroup.com/)** | **[Audit Internship - Spring 2026](https://jobright.ai/jobs/info/67cd1816c5474976e131cbd2?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Mar 08 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/67aec9afa87663c36c4be673?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 08 |
 | **[Gallagher](http://www.ajg.com)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/67ae9e262ce42405f8bb71c9?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | Hybrid | Mar 08 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[LabConnect](https://www.labconnect.com/)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/67af8b42d5668bef233febc5?utm_campaign=1052&utm_source=git)** | Johnson City, TN | On Site | Mar 08 |
 | **[American Tower](https://www.americantower.com/)** | **[Intern - Treasury](https://jobright.ai/jobs/info/67914a31f56d0cbef19ce30b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 08 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Macon GA](https://jobright.ai/jobs/info/674807dccdac8d380b87bc24?utm_campaign=1052&utm_source=git)** | Bibb County, GA | On Site | Mar 08 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/67cc5ddb27d3a584f8098444?utm_campaign=1052&utm_source=git)** | North Liberty, IA | On Site | Mar 08 |
 | **[PwC](http://pwc.com)** | **[Tax Intern - Summer 2025](https://jobright.ai/jobs/info/67c13a347fed5092647822c5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 08 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2025](https://jobright.ai/jobs/info/67cce259279fcb4ab7fe62ce?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 08 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Intern 2025](https://jobright.ai/jobs/info/6712d09148625e6ecf37f169?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f85?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Mar 08 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Financial Planning and Analysis (FP&A)](https://jobright.ai/jobs/info/678b4bce1ff78b3f42d1a168?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Mar 08 |
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/678877f82961e26d16b1a995?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
-| ↳ | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/67b00f680501151b27348ca5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | ↳ | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/67b084379677fc09a89c2f00?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 08 |
+| ↳ | **[Analyst, Valuation Services](https://jobright.ai/jobs/info/67b00f680501151b27348ca5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | ↳ | **[Intern, Financial Instruments and Technology](https://jobright.ai/jobs/info/67b007dcba3af350331aec14?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[TerrAscend](https://www.terrascend.com)** | **[Treasury Internship](https://jobright.ai/jobs/info/67a4e56a173e97c719961018?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
