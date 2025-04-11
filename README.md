@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Premium Audit Trainee](https://jobright.ai/jobs/info/67dc4ede12d1acb12a87fa51?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Hybrid | Apr 11 |
+| **[Protiviti](http://www.protiviti.com)** | **[Cincinnati Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 11 |
+| **[KLA](https://www.kla.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67c00af719e400cfc826f078?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Denver)](https://jobright.ai/jobs/info/67f8eaaae6a80670178c20b4?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 11 |
+| **[University of Arkansas System](https://www.uasys.edu)** | **[Extension Assistant Specialist - Accounting SAFHS 2](https://jobright.ai/jobs/info/67f8e33a2b3d40f7a427b89a?utm_campaign=1052&utm_source=git)** | Pine Bluff, AR | On Site | Apr 11 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/67f8e05c19f778e2e6803c54?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Apr 11 |
+| **[SHI International Corp.](http://www.shi.com)** | **[Jr. Business Operations - Internship](https://jobright.ai/jobs/info/67f8db431c2576898ef8eaf8?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Apr 11 |
+| **[ConstructConnect](https://ref.constructconnect.com)** | **[Economics Intern](https://jobright.ai/jobs/info/67f8f33cd2de91034ae5d1f1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 11 |
 | **[South Central Regional Medical Center](https://scrmc.com)** | **[BILLER I](https://jobright.ai/jobs/info/67f8c1fa51f3dec910293681?utm_campaign=1052&utm_source=git)** | Mississippi, United States | On Site | Apr 11 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Accounts Payable Intern (Year-Round)](https://jobright.ai/jobs/info/67f8c1fa51f3dec910293502?utm_campaign=1052&utm_source=git)** | Mequon, WI | Hybrid | Apr 11 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship - Homebuilding - Land Finance](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fe4?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
@@ -93,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[Internal Audit Intern (Summer 2025)](https://jobright.ai/jobs/info/67f88605c8e25010d3343e22?utm_campaign=1052&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 10 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/67f8a9eb7d95fe4250176c36?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[North Star BlueScope Steel](https://nsbsl.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/67f8cb843e469e6d9b021778?utm_campaign=1052&utm_source=git)** | Delta, OH | On Site | Apr 10 |
-| **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe425017722c?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
+| **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe4250177224?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe4250177228?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Apr 10 |
-| ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe4250177224?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
+| ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe425017722c?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe4250177240?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe4250177248?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8ab907d95fe4250177244?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 10 |
@@ -108,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021d9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021db1?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021db8?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
-| ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021dbb?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021db6?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 10 |
+| ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021dbb?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Apr 10 |
 | ↳ | **[Fall 2025 Office of Internal Assurance and Performance Oversight (IOPA) Intern](https://jobright.ai/jobs/info/67f8cd253e469e6d9b021dd5?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/67f86e822bcb2ae07e6835a5?utm_campaign=1052&utm_source=git)** | HQ - San Diego, CA | On Site | Apr 10 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Finance](https://jobright.ai/jobs/info/67f86aa277ecb2addffd529a?utm_campaign=1052&utm_source=git)** | Linthicum Heights, MD | On Site | Apr 10 |
@@ -129,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Credit and Collections Co-Op - Part-Time Full Year](https://jobright.ai/jobs/info/67f8200e8f14befa8e492e5f?utm_campaign=1052&utm_source=git)** | New Bremen, OH | On Site | Apr 10 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Internal Auditor](https://jobright.ai/jobs/info/67f8200e8f14befa8e492e60?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Apr 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67f81da2d1820079e851a18d?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 10 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship - Credit Intelligence Team](https://jobright.ai/jobs/info/67f81aa604b46dcdb9d14906?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 10 |
 | **[Skechers](http://www.skechers.com)** | **[Internal Audit Intern (Summer 2025)](https://jobright.ai/jobs/info/67f81aa604b46dcdb9d14908?utm_campaign=1052&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 10 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2025 Summer Intern, Valuation & Advisory, Houston](https://jobright.ai/jobs/info/67f81aa604b46dcdb9d14944?utm_campaign=1052&utm_source=git)** | Houston, Texas, USA | On Site | Apr 10 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Associate - Summer 2025 - Pittsburgh, PA](https://jobright.ai/jobs/info/67f81aa604b46dcdb9d1492c?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern - Accounting - DFM](https://jobright.ai/jobs/info/67f813e58a09bfe9ef287e13?utm_campaign=1052&utm_source=git)** | DC-Washington | Hybrid | Apr 10 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Finance - Individual Markets](https://jobright.ai/jobs/info/67f8103d28f8acc0f8402564?utm_campaign=1052&utm_source=git)** | Holmdel | On Site | Apr 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[27 Trust Advisor Intern - JF](https://jobright.ai/jobs/info/67f8cb843e469e6d9b021982?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
-| **[Valley Health](https://www.valleyhealthlink.com/)** | **[Intern, Finance - 398](https://jobright.ai/jobs/info/67f829d31e757015cbded373?utm_campaign=1052&utm_source=git)** | Winchester, VA | On Site | Apr 10 |
 | **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/67f80cb89880e2e05912d590?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 10 |
 | ↳ | **[Audit Winter 2026 Internship - Atlanta, GA](https://jobright.ai/jobs/info/67f80cb89880e2e05912d502?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 10 |
 | ↳ | **[Tax Winter 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/67f80cb89880e2e05912d576?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 10 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Tax Intern](https://jobright.ai/jobs/info/67f80b9dfcb2e40ca6d970ca?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | On Site | Apr 10 |
 | **[Western States Fire Protection](https://www.wsfp.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/67f83435e4436ba6585b22e6?utm_campaign=1052&utm_source=git)** | Centennial, CO | On Site | Apr 10 |
-| **[Thrivent](https://www.thrivent.com)** | **[Financial Services Field Internship](https://jobright.ai/jobs/info/67f80380e57ed6c092d01a97?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| **[CohnReznick ](http://www.cohnreznick.com/)** | **[2026 Winter Audit Intern - Washington DC (Bethesda, MD)](https://jobright.ai/jobs/info/67f8020fe57ed6c092d011c6?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Apr 10 |
-| ↳ | **[Audit Summer 2026 Internship - Tysons, VA](https://jobright.ai/jobs/info/67f8020fe57ed6c092d011c2?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Apr 10 |
-| ↳ | **[Audit Summer 2026 Internship - Bethesda, MD](https://jobright.ai/jobs/info/67f832a0e4436ba6585b1e98?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Apr 10 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Banking Operations & Risk Intern - Summer 2025](https://jobright.ai/jobs/info/67f821a08f14befa8e493535?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
-| **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/67f832a0e4436ba6585b1f14?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
