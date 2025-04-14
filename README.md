@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - DYCD/DFTA/DVS/Nonprofits](https://jobright.ai/jobs/info/67fc4d2ea2f7c039732855c6?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Apr 13 |
-| ↳ | **[SUMMER GRADUATE INTERN - LEAF](https://jobright.ai/jobs/info/67fc4d2ea2f7c039732855c7?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Apr 13 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - LEAF](https://jobright.ai/jobs/info/67fc4d2ea2f7c039732855c7?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Apr 13 |
+| ↳ | **[SUMMER GRADUATE INTERN - DYCD/DFTA/DVS/Nonprofits](https://jobright.ai/jobs/info/67fc4d2ea2f7c039732855c6?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Apr 13 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Finance Intern (Req #: 1067)](https://jobright.ai/jobs/info/67fc33ffe3b0d78cc2d20e41?utm_campaign=1052&utm_source=git)** | Brewster, NY | On Site | Apr 13 |
 | **[L'Oréal](https://www.loreal.com)** | **[BEST Junior Finance Associate](https://jobright.ai/jobs/info/67fc18dd9b3f2c48acb43af5?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 13 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Ft. Lauderdale](https://jobright.ai/jobs/info/67c939fd34c68134a855ea85?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 13 |
@@ -78,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2025 Intern - Corporate Accounting & Finance](https://jobright.ai/jobs/info/67c2023c2d784a278e100500?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[State and Local Tax (SALT) - Intern (2026)](https://jobright.ai/jobs/info/66cfd7694290f4bb7e3df035?utm_campaign=1052&utm_source=git)** | Michigan, United States | On Site | Apr 13 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Finance Intern, WW Marketing & Virtual Reality/Location Based Entertainment – Summer 2025](https://jobright.ai/jobs/info/67df1ba1b3d17b75d546ca3b?utm_campaign=1052&utm_source=git)** | Culver City, CA | Hybrid | Apr 13 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/6752e63af7448bce58d30d92?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 13 |
+| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/67a5903ebd85b08365f6b2e7?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 13 |
+| ↳ | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/6752e63af7448bce58d30d92?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 13 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[IT Internal Audit Manager](https://jobright.ai/jobs/info/67de21bb054822f4254928c4?utm_campaign=1052&utm_source=git)** | Nebraska, United States | Remote | Apr 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Summer 2026](https://jobright.ai/jobs/info/67a525118f1ab3dd91f21770?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 12 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Costing Intern](https://jobright.ai/jobs/info/67fadc6aed664c592a3c73ee?utm_campaign=1052&utm_source=git)** | Logan, UT | On Site | Apr 12 |
@@ -119,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[IT Internal Audit Manager](https://jobright.ai/jobs/info/67de3037048ef31f40ed8209?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Apr 12 |
 | **[Equitable](https://equitable.com/)** | **[2025 Summer Intern - Investments](https://jobright.ai/jobs/info/67fa604abb78fc181def47f8?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
 | **[CohnReznick ](http://www.cohnreznick.com/)** | **[Tax Summer 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/67fba55e2b594bbf0692a357?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Apr 12 |
-| ↳ | **[Audit Winter 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/67fba55e2b594bbf0692a358?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 12 |
-| ↳ | **[Tax Winter 2026 Internship - Atlanta, GA](https://jobright.ai/jobs/info/67fba55e2b594bbf0692a359?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 12 |
 | ↳ | **[Tax Winter 2026 Internship - Jupiter, FL](https://jobright.ai/jobs/info/67fba55e2b594bbf0692a35a?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Apr 12 |
+| ↳ | **[Tax Winter 2026 Internship - Atlanta, GA](https://jobright.ai/jobs/info/67fba55e2b594bbf0692a359?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 12 |
+| ↳ | **[Audit Winter 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/67fba55e2b594bbf0692a358?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 12 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Global Markets - Quantitative Trading - NY](https://jobright.ai/jobs/info/67d6697ff86a0a188c72b38a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Finance Intern - Shared Services](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c866?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | On Site | Apr 12 |
 | **[CohnReznick ](http://www.cohnreznick.com/)** | **[Tax Summer 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/67fba076e813985438a29247?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 12 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Internship / June-August](https://jobright.ai/jobs/info/67fb3aed3dac672392359d00?utm_campaign=1052&utm_source=git)** | Crestview Hills, KY | On Site | Apr 12 |
 | ↳ | **[Audit Internship / January-April](https://jobright.ai/jobs/info/67fb3c703dac67239235a783?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Apr 12 |
 | ↳ | **[Audit Internship / January-April](https://jobright.ai/jobs/info/67fb3c703dac67239235a784?utm_campaign=1052&utm_source=git)** | Crestview Hills, KY | On Site | Apr 12 |
-| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2025](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65bf68?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 12 |
-| ↳ | **[Staff Auditor Intern-Hire Date June 2025](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65bf69?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Apr 12 |
+| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2025](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65bf69?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Apr 12 |
+| ↳ | **[Staff Auditor Intern-Hire Date June 2025](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65bf68?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 12 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2025](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65bf66?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Apr 12 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Audit Internship / June-August](https://jobright.ai/jobs/info/67fb3c703dac67239235a785?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 12 |
 | ↳ | **[Tax Internship / January-April](https://jobright.ai/jobs/info/67fb3c703dac67239235a786?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 12 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Internship / June-August](https://jobright.ai/jobs/info/67fb3c703dac67239235a78d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 12 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2025](https://jobright.ai/jobs/info/67fa264a05315577532c47d8?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Apr 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/67215d32428e0f2e71272428?utm_campaign=1052&utm_source=git)** | Peoria, IL | Hybrid | Apr 12 |
-| **[CohnReznick ](http://www.cohnreznick.com/)** | **[Tax Winter 2026 Internship - Austin, TX](https://jobright.ai/jobs/info/67fa0d735986b9b6e8930c97?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Apr 11 |
-| ↳ | **[Audit Winter 2026 Internship - Austin, TX](https://jobright.ai/jobs/info/67fa0d735986b9b6e8930cb9?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Apr 11 |
+| **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/67fa0d735986b9b6e8930ca9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
