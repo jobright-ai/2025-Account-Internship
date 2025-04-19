@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Empower](https://www.empower.com)** | **[Neurodiversity Apprentice Program-Financial Analyst](https://jobright.ai/jobs/info/6803418871866ba02f20de92?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Apr 18 |
+| **[Cisco](http://www.cisco.com)** | **[Internal Auditor](https://jobright.ai/jobs/info/6803967ab6487d4a1eea7327?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Apr 19 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6803928630f15d25f9d57b1f?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 19 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Inventory Coordinator Intern](https://jobright.ai/jobs/info/6803807e36b08c938b8232f5?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 19 |
+| **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Fall 2025](https://jobright.ai/jobs/info/67ca0fe192da3e635bd2a0c0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 19 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Internal Audit Intern, Summer, Hybrid](https://jobright.ai/jobs/info/67e6a3aa6721ee1065cd3b17?utm_campaign=1052&utm_source=git)** | Reston, VA | Hybrid | Apr 19 |
+| **[Hexagon Safety, Infrastructure & Geospatial](https://hexagon.com/company/divisions/safety-infrastructure-geospatial)** | **[Procurement Intern](https://jobright.ai/jobs/info/680375deed4312fcd4444ddb?utm_campaign=1052&utm_source=git)** | Madison, AL | On Site | Apr 19 |
+| **[Kidwell](https://www.kidwellinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6803709966aa77d8240d7199?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Apr 19 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Internal Control Coordinator / Sr. Accountant](https://jobright.ai/jobs/info/68032e12b301ab2a384c5304?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Apr 18 |
 | **[LiveRamp](http://www.liveramp.com)** | **[Billing Operations Summer Intern](https://jobright.ai/jobs/info/68032b061620711d89501dda?utm_campaign=1052&utm_source=git)** | North Carolina, United States | Remote | Apr 18 |
 | **[Zydus Pharmaceuticals (USA) Inc.](https://www.zydususa.com)** | **[Summer Intern- Pricing and Analytics](https://jobright.ai/jobs/info/6803227597d71934c672f2e8?utm_campaign=1052&utm_source=git)** | Pennington, NJ | On Site | Apr 18 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Accounts Payable Coordinator Intern](https://jobright.ai/jobs/info/68031736137fb1a78b616626?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Apr 18 |
 | **[Banfield Pet Hospital](https://www.banfield.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/68031736137fb1a78b61669b?utm_campaign=1052&utm_source=git)** | Vancouver, WA | Hybrid | Apr 18 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Decatur](https://jobright.ai/jobs/info/68030bfc248f0af72fef0675?utm_campaign=1052&utm_source=git)** | Decatur, IL | Hybrid | Apr 18 |
-| ↳ | **[Intern Audit Summer 2027 / St. Louis](https://jobright.ai/jobs/info/68030bfc248f0af72fef06a1?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 18 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / St. Louis](https://jobright.ai/jobs/info/68030bfc248f0af72fef06a1?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 18 |
+| ↳ | **[Intern Audit Winter 2027 / Decatur](https://jobright.ai/jobs/info/68030bfc248f0af72fef0675?utm_campaign=1052&utm_source=git)** | Decatur, IL | Hybrid | Apr 18 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Revenue](https://jobright.ai/jobs/info/68030861f8e23452513f3787?utm_campaign=1052&utm_source=git)** | Los Angeles County, CA | Hybrid | Apr 18 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2025 (Nashville)](https://jobright.ai/jobs/info/6803042d5bf72df5b3ff213f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Apr 18 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Portfolio Analytics Intern](https://jobright.ai/jobs/info/6802fde89ff1c996cfdc000f?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 18 |
@@ -107,18 +113,20 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Procurement (Inventory) Intern](https://jobright.ai/jobs/info/67e6381e968787d72ac512a8?utm_campaign=1052&utm_source=git)** | Lost Hills, CA | On Site | Apr 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Credits and Incentives Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6722b01b30048ae6e4c634fe?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Apr 18 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Procurement (Inventory) Intern](https://jobright.ai/jobs/info/67e657eff06235a0d75bd2bf?utm_campaign=1052&utm_source=git)** | Shafter, CA | On Site | Apr 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/67916e61b33c158044614e48?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Apr 18 |
 | **[TP ICAP](https://www.tpicap.com/)** | **[2025 Finance Summer Intern](https://jobright.ai/jobs/info/68024d967f0e42de4b187000?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 18 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Finance Intern - Fall 2025](https://jobright.ai/jobs/info/67e5bdbc44f15deee2c20cba?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 18 |
 | **[Xometry](https://www.xometry.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/678208fdcf20181ee3035a2f?utm_campaign=1052&utm_source=git)** | Lexington, KY | Hybrid | Apr 18 |
 | **[Inspire](https://inspirebrands.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/68023c35a5f1fb19aa07cacf?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
-| **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Summer 2025 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/68023c35a5f1fb19aa07cab2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
-| ↳ | **[Audit Summer 2025 Internship - San Diego, CA](https://jobright.ai/jobs/info/68023c35a5f1fb19aa07ca9e?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Apr 18 |
+| **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Summer 2025 Internship - San Diego, CA](https://jobright.ai/jobs/info/68023c35a5f1fb19aa07ca9e?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Apr 18 |
+| ↳ | **[Audit Summer 2025 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/68023c35a5f1fb19aa07cab2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67878d556ce892dd3fc2e2ae?utm_campaign=1052&utm_source=git)** | Detroit Metro | Hybrid | Apr 18 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Richmond)](https://jobright.ai/jobs/info/6786bedfaed1b7df0d8743b7?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Apr 18 |
 | ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Student Associate Outsourced Accounting Fall 2025 / Springfield](https://jobright.ai/jobs/info/6802141be0a941f001e86c3c?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Apr 18 |
 | **[Wade Trim](http://wadetrim.com)** | **[Financial Systems Intern - 2697](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5d05?utm_campaign=1052&utm_source=git)** | Taylor, MI | Hybrid | Apr 18 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Cincinnati](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5c66?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 18 |
-| ↳ | **[Student Associate Audit 2025 / Springfield](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5e0d?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Apr 18 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Student Associate Audit 2025 / Springfield](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5e0d?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Apr 18 |
+| ↳ | **[Intern Audit Summer 2026 / Cincinnati](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5c66?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 18 |
 | ↳ | **[Intern Audit Winter 2026 / Evansville](https://jobright.ai/jobs/info/68020228e28316744efbc1db?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Apr 18 |
 | ↳ | **[Intern Tax Winter 2026 / Evansville](https://jobright.ai/jobs/info/68020228e28316744efbc203?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Apr 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/67abbe2ffad1378d8dcdae39?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Apr 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hypori](http://www.hypori.com)** | **[Accounting Intern ](https://jobright.ai/jobs/info/680172e39efac5fcb482b33a?utm_campaign=1052&utm_source=git)** | Austin, TX - Hybrid | Hybrid | Apr 17 |
 | **[State Street](http://www.statestreet.com)** | **[Global Delivery AIS - Summer Internship 2025](https://jobright.ai/jobs/info/680171f598dc3d741d60e54a?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/680169242c9ac6ed7c1ec616?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 17 |
-| **[State of Illinois](https://www2.illinois.gov/)** | **[ADMINISTRATIVE VOUCHERS COORDINATOR](https://jobright.ai/jobs/info/6801838802b160cc8f01f4c6?utm_campaign=1052&utm_source=git)** | Springfield, IL | Hybrid | Apr 17 |
-| **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Accounting Assistant](https://jobright.ai/jobs/info/680165f47050a9bdebd7c924?utm_campaign=1052&utm_source=git)** | North Logan, UT | On Site | Apr 17 |
-| **[Computershare](https://www.computershare.com/)** | **[Internship: Treasury Analyst (Summer 2025)](https://jobright.ai/jobs/info/680165f47050a9bdebd7c931?utm_campaign=1052&utm_source=git)** | 150 Royall Street, Canton, MA, 02021, US | Hybrid | Apr 17 |
-| **[Shenandoah Homes](https://www.shenandoahhomes.us/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6801c830971a8a8d5e22056a?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
-| **[IQVIA](https://www.iqvia.com)** | **[Finance Intern – Summer 2025 - Hybrid (Wayne, PA)](https://jobright.ai/jobs/info/680164a5aff734f81d2f7ab2?utm_campaign=1052&utm_source=git)** | Wayne, PA, United States of America | Hybrid | Apr 17 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Neurodiversity Apprentice Program-Financial Analyst](https://jobright.ai/jobs/info/6801615dcc10d77406a1edba?utm_campaign=1052&utm_source=git)** | CO Greenwood Village | Hybrid | Apr 17 |
-| **[Cetera Financial Group](http://www.cetera.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f20d3?utm_campaign=1052&utm_source=git)** | St Cloud, MN | On Site | Apr 17 |
-| **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f2429?utm_campaign=1052&utm_source=git)** | Greater Cleveland | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
