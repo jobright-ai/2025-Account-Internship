@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6805034005644c0776dc3582?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 20 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/671998ebadfa6201e87531c6?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Apr 20 |
+| **[IMO Health](https://www.imohealth.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67cc678099706773a71308a6?utm_campaign=1052&utm_source=git)** | Rosemont, IL | Hybrid | Apr 20 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/6752729a10e15b9bf316f29b?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Apr 20 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Macon GA](https://jobright.ai/jobs/info/67fe8735bea71abe87c05c7d?utm_campaign=1052&utm_source=git)** | Bibb County, GA | On Site | Apr 20 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Accounting Management Development Associate](https://jobright.ai/jobs/info/6792b882cf4a8b825e007897?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 20 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Investment Analyst ABF](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653e0e?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Apr 20 |
 | **[Senior Living Properties](https://seniorlivingproperties.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/6804b519b7881105e1e39126?utm_campaign=1052&utm_source=git)** | Addison, TX | Hybrid | Apr 20 |
 | **[NV Energy](https://www.nvenergy.com)** | **[Student Intern - Accounting](https://jobright.ai/jobs/info/6804156225e8c714cfe7b908?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Apr 19 |
 | **[Talley LLP](https://www.talleynco.com/)** | **[Tax/Audit Intern - Summer](https://jobright.ai/jobs/info/6803cf653bdfa5c042807f59?utm_campaign=1052&utm_source=git)** | Orange, CA | Hybrid | Apr 19 |
@@ -103,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern – Financial Technology](https://jobright.ai/jobs/info/6802eb4351c215914a60d6a7?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 18 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Finance and Insurance Intern](https://jobright.ai/jobs/info/6802e68826778fbc426d5dcf?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Apr 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / 2026](https://jobright.ai/jobs/info/67ad0e65a81a091bca201c81?utm_campaign=1052&utm_source=git)** | Rockville, MD | Hybrid | Apr 18 |
-| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Finance/ Accounting Intern](https://jobright.ai/jobs/info/6802d3af6dc3af5015218cc3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
+| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Finance/ Accounting Intern](https://jobright.ai/jobs/info/6802d3af6dc3af5015218ab9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Advertising Economics](https://jobright.ai/jobs/info/6802d0f2855c008fa84ce44e?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
 | ↳ | **[Intern - Economics, Advertising Economics](https://jobright.ai/jobs/info/68030d4d71afd51680e83ecd?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Apr 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a5a9b?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Apr 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Summer 2025 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/68023c35a5f1fb19aa07cab2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Detroit)](https://jobright.ai/jobs/info/678b1d7902fd787705518d52?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Apr 18 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67878d556ce892dd3fc2e2ae?utm_campaign=1052&utm_source=git)** | Detroit Metro | Hybrid | Apr 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Long Island)](https://jobright.ai/jobs/info/676dac53a112766a58ec09ac?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Apr 18 |
-| ↳ | **[Assurance Intern - Summer 2026 (Richmond)](https://jobright.ai/jobs/info/6786bedfaed1b7df0d8743b7?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Apr 18 |
-| ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Student Associate Outsourced Accounting Fall 2025 / Springfield](https://jobright.ai/jobs/info/6802141be0a941f001e86c3c?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Apr 18 |
-| **[Wade Trim](http://wadetrim.com)** | **[Financial Systems Intern - 2697](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5d05?utm_campaign=1052&utm_source=git)** | Taylor, MI | Hybrid | Apr 18 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Cincinnati](https://jobright.ai/jobs/info/6802072c6c763af0e8ba5c66?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
