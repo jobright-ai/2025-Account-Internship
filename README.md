@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Accounts Payable Coordinator Intern](https://jobright.ai/jobs/info/68031736137fb1a78b616626?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Apr 18 |
 | **[Banfield Pet Hospital](https://www.banfield.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/68031736137fb1a78b61669b?utm_campaign=1052&utm_source=git)** | Vancouver, WA | Hybrid | Apr 18 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Decatur](https://jobright.ai/jobs/info/68030bfc248f0af72fef0675?utm_campaign=1052&utm_source=git)** | Decatur, IL | Hybrid | Apr 18 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Revenue](https://jobright.ai/jobs/info/68030861f8e23452513f3787?utm_campaign=1052&utm_source=git)** | Los Angeles County, CA | Hybrid | Apr 18 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2025 (Nashville)](https://jobright.ai/jobs/info/6803042d5bf72df5b3ff213f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Apr 18 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Portfolio Analytics Intern](https://jobright.ai/jobs/info/6802fde89ff1c996cfdc000f?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 18 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / St. Louis](https://jobright.ai/jobs/info/6802fde89ff1c996cfdbfff3?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Credits and Incentives Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6722b01b30048ae6e4c634fe?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Apr 18 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Procurement (Inventory) Intern](https://jobright.ai/jobs/info/67e657eff06235a0d75bd2bf?utm_campaign=1052&utm_source=git)** | Shafter, CA | On Site | Apr 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Corporations - Summer 2026](https://jobright.ai/jobs/info/67ca1b371b1697ba15045b93?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/67916e61b33c158044614e48?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
