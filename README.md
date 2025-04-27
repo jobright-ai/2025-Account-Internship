@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/6781c39e5c90907ccf9efe34?utm_campaign=1052&utm_source=git)** | Rochester, MI | On Site | Apr 27 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/6790734ab2780269654046a5?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | Apr 27 |
+| ↳ | **[Tax/Audit Intern - Spring 2026 - Eastern & Central Washington](https://jobright.ai/jobs/info/677f3151ab380747a19719c1?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Apr 27 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/677bef794b809253dee5a79c?utm_campaign=1052&utm_source=git)** | Appleton, WI | Hybrid | Apr 27 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2026 - Eastern & Central Washington](https://jobright.ai/jobs/info/67e2656153091e71604f8ac9?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Apr 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - Investment Banking (California)](https://jobright.ai/jobs/info/677ceb7369b7f36db5a7e0c7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Capital Advisors - Summer 2026 (Richmond)](https://jobright.ai/jobs/info/679ad7d029af388344151d2c?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 27 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/6759c5ca68137ef7f3d93103?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
@@ -64,13 +69,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/67ab202cc3f69043634b5815?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Apr 27 |
 | **[The University of New Mexico](http://unm.edu)** | **[Professional Intern](https://jobright.ai/jobs/info/680db2020ecd992fbfaefd7a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Apr 26 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Tampa Bay](https://jobright.ai/jobs/info/680d920ef7f5d47f29da4de5?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 26 |
-| **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d82124c2516bfa66f16ab?utm_campaign=1052&utm_source=git)** | Marshfield, WI | On Site | Apr 26 |
+| **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d82124c2516bfa66f16e0?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Apr 26 |
+| ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d82124c2516bfa66f16ab?utm_campaign=1052&utm_source=git)** | Marshfield, WI | On Site | Apr 26 |
 | ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d82124c2516bfa66f16de?utm_campaign=1052&utm_source=git)** | Rochester, MN | On Site | Apr 26 |
-| ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d82124c2516bfa66f16e0?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Apr 26 |
 | **[Formosa Foods](https://www.formosafoods.net)** | **[Accounting Intern - Spring 2025](https://jobright.ai/jobs/info/680d82124c2516bfa66f16d1?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 26 |
-| **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d76606fb0c9c8b574ed60?utm_campaign=1052&utm_source=git)** | Medford, WI | On Site | Apr 26 |
+| **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d76606fb0c9c8b574ed6f?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Apr 26 |
+| ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d76606fb0c9c8b574ed60?utm_campaign=1052&utm_source=git)** | Medford, WI | On Site | Apr 26 |
 | ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d76606fb0c9c8b574ed65?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Apr 26 |
-| ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d76606fb0c9c8b574ed6f?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Apr 26 |
 | **[Julian and Grube, Inc.](https://www.jginc.biz)** | **[Intern](https://jobright.ai/jobs/info/680d682f062cafb4f8a33e25?utm_campaign=1052&utm_source=git)** | Westerville, OH | Remote | Apr 26 |
 | **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[2026 Tax Intern](https://jobright.ai/jobs/info/680d62c0be4925c37c292678?utm_campaign=1052&utm_source=git)** | Winona, MN | On Site | Apr 26 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Revenue](https://jobright.ai/jobs/info/680d350bfe975e6366a7fa45?utm_campaign=1052&utm_source=git)** | Los Angeles County, CA | Hybrid | Apr 26 |
@@ -86,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[IT Audit Intern](https://jobright.ai/jobs/info/680d06c4d58986a985555d62?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Apr 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - Investment Banking](https://jobright.ai/jobs/info/677c7fc5d850e747aabe08eb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/680cd8fa938c1b84ed6008b8?utm_campaign=1052&utm_source=git)** | Warren, NJ | On Site | Apr 26 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/67b644f4e30cfe8b14e522c5?utm_campaign=1052&utm_source=git)** | Tinton Falls, NJ | On Site | Apr 26 |
-| ↳ | **[Tax Intern / Fall 2026](https://jobright.ai/jobs/info/67b644f4e30cfe8b14e52314?utm_campaign=1052&utm_source=git)** | Tinton Falls, NJ | On Site | Apr 26 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Fall 2026](https://jobright.ai/jobs/info/67b644f4e30cfe8b14e52314?utm_campaign=1052&utm_source=git)** | Tinton Falls, NJ | On Site | Apr 26 |
+| ↳ | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/67b644f4e30cfe8b14e522c5?utm_campaign=1052&utm_source=git)** | Tinton Falls, NJ | On Site | Apr 26 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Tax Intern – Summer 2025](https://jobright.ai/jobs/info/67d51087ebc03accd83227e6?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[2026 Investment Associate Internship](https://jobright.ai/jobs/info/679a7ed531cbfcb3a4609751?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 26 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fbb?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Apr 26 |
@@ -102,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Arkansas Children's](http://archildrens.org)** | **[High School Intern- Accounting PT](https://jobright.ai/jobs/info/680c4a5fcd08a3a2dd3a090a?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Apr 25 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Tax Intern](https://jobright.ai/jobs/info/680c45253bf714d72b5a574c?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
 | **[CohnReznick ](http://www.cohnreznick.com/)** | **[Tax Winter 2026 Internship - Bethesda, MD](https://jobright.ai/jobs/info/67fa0d735986b9b6e8930cf6?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Apr 25 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/680c38fcdafbf30227a9a6de?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 25 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/680c34a319ae08c3f6f4230e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Jr. Credit Analyst Intern](https://jobright.ai/jobs/info/680c2da602e216abb9094b7f?utm_campaign=1052&utm_source=git)** | HQ - San Diego, CA | On Site | Apr 25 |
 | **[Holy Name Medical Center](https://www.holyname.org/)** | **[Intern - Finance](https://jobright.ai/jobs/info/680c2a7319855341f48e4ccf?utm_campaign=1052&utm_source=git)** | Hackensack, NJ | On Site | Apr 25 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2026 - Canton/Akron, OH](https://jobright.ai/jobs/info/680c20e13278996cec7db240?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Apr 25 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[IQVIA](https://www.iqvia.com)** | **[Intern, Clinical Affairs](https://jobright.ai/jobs/info/680bc71c1dabddab09cbbd56?utm_campaign=1052&utm_source=git)** | Washington, DC, United States of America | On Site | Apr 25 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/68028edbd43f11724fe7bcb0?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Vestwell](http://vestwell.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/67f07d59c2d841b76fca2aa0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
-| **[Corient](https://corient.com)** | **[Strategy & Investment, Alts 2026 Summer Internship](https://jobright.ai/jobs/info/680bbbcb10797af401cabae9?utm_campaign=1052&utm_source=git)** | US-NY-Midtown-101 Park Ave-3100 | On Site | Apr 25 |
-| ↳ | **[Individual Equity Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/680bbbcb10797af401cabd27?utm_campaign=1052&utm_source=git)** | US-MA-Boston-1 Post Office-2400 | On Site | Apr 25 |
+| **[Corient](https://corient.com)** | **[Individual Equity Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/680bbbcb10797af401cabd27?utm_campaign=1052&utm_source=git)** | US-MA-Boston-1 Post Office-2400 | On Site | Apr 25 |
 | ↳ | **[Individual Equity Strategy Intern, Summer 2026](https://jobright.ai/jobs/info/680bbbcb10797af401cabb0c?utm_campaign=1052&utm_source=git)** | US-IL-Chicago-10 SWacker-3100 | On Site | Apr 25 |
+| ↳ | **[Strategy & Investment, Alts 2026 Summer Internship](https://jobright.ai/jobs/info/680bbbcb10797af401cabae9?utm_campaign=1052&utm_source=git)** | US-NY-Midtown-101 Park Ave-3100 | On Site | Apr 25 |
 | **[American Century Investments](https://corporate.americancentury.com/en)** | **[Quantitative Summer Associate](https://jobright.ai/jobs/info/680bbbcb10797af401caba78?utm_campaign=1052&utm_source=git)** | Santa Clara, California | On Site | Apr 25 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Advisor Development Program (MAY 2025 GRADS)](https://jobright.ai/jobs/info/680bb90f67d09ced2ff55354?utm_campaign=1052&utm_source=git)** | West Chester, PA | On Site | Apr 25 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/680bb90f67d09ced2ff55991?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 25 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/680bb7caf2469ec41003e5bc?utm_campaign=1052&utm_source=git)** | HY US Greenville, NC (Headquarters) | On Site | Apr 25 |
-| **[Talcott Financial Group](https://talcott.com)** | **[Investments Internship](https://jobright.ai/jobs/info/680c6ff40220ab1ae33b7dec?utm_campaign=1052&utm_source=git)** | Greater Hartford | On Site | Apr 25 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2026](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52910?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 25 |
-| **[Intuit](https://www.intuit.com)** | **[Finance Intern, Global Business Services](https://jobright.ai/jobs/info/680ba9f5fc61b41496231ab8?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Billings, MT)](https://jobright.ai/jobs/info/679a71b747dd77b1a8ba7c68?utm_campaign=1052&utm_source=git)** | Billings, MT | On Site | Apr 25 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6799fd4f2f0b395dc7b53904?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
