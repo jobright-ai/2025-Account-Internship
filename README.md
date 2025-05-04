@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Finance](https://jobright.ai/jobs/info/6816d96bfee9397cfef8d525?utm_campaign=1052&utm_source=git)** | Vermont, United States | On Site | May 03 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Finance Intern (Req #: 1067)](https://jobright.ai/jobs/info/68168cd4d51f2e6976c31dfd?utm_campaign=1052&utm_source=git)** | Brewster, NY | On Site | May 03 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2025](https://jobright.ai/jobs/info/68164659f83c2ca028ceec6d?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | May 03 |
 | **[Sage](https://group.sagepub.com)** | **[Accounting Editorial Internship, US College](https://jobright.ai/jobs/info/68162b4aae35b1ad28662932?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | May 03 |
@@ -73,15 +74,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Commercial & Investment Bank Markets Summer Analyst Program - Research](https://jobright.ai/jobs/info/6800d10c8ab768e0fa88fe1e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[2026 Global Private Bank LatAm Program (Summer Analyst)](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8cac2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[2026 Commercial & Investment Bank Risk Management Summer Analyst Program](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8cbe7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 03 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Summer 2026](https://jobright.ai/jobs/info/67e4d3ac641de702be4fce70?utm_campaign=1052&utm_source=git)** | Billings, MT | Hybrid | May 03 |
-| ↳ | **[Accounting Internship, Healthcare Audit Fall 2026](https://jobright.ai/jobs/info/675b763b1f859ffebb0aca6f?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | May 03 |
-| ↳ | **[Accounting Internship- Spring 2026](https://jobright.ai/jobs/info/6815e50abd4caf3122ab4900?utm_campaign=1052&utm_source=git)** | Wausau, WI | Hybrid | May 03 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Healthcare Audit Fall 2026](https://jobright.ai/jobs/info/675b763b1f859ffebb0aca6f?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | May 03 |
+| ↳ | **[Accounting Internship-Summer 2026](https://jobright.ai/jobs/info/67e4d3ac641de702be4fce70?utm_campaign=1052&utm_source=git)** | Billings, MT | Hybrid | May 03 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset & Wealth Management Risk Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866ba2?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | May 03 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2026](https://jobright.ai/jobs/info/6815e50abd4caf3122ab4900?utm_campaign=1052&utm_source=git)** | Wausau, WI | Hybrid | May 03 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit & Assurance Intern – Spring 2026](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a95?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | May 03 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Dept of Accounting-Assistant to the VITA Site Coordinator](https://jobright.ai/jobs/info/6815aef03d4bf88570c957a6?utm_campaign=1052&utm_source=git)** | Huntsville, TX | On Site | May 02 |
 | **[Aggreko](http://www.plc.aggreko.com/)** | **[Financial Accounting Intern](https://jobright.ai/jobs/info/681596a1fd5783ebba30209c?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | May 02 |
 | **[Lavine, Lofgren, Morris & Engelberg, LLP](http://llme.com)** | **[Audit Intern](https://jobright.ai/jobs/info/681584c1a30a015c0f7562dd?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68157d49efa489e340a53cde?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | May 02 |
+| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Controls Intern](https://jobright.ai/jobs/info/6816d1095ff9394c32214fbc?utm_campaign=1052&utm_source=git)** | Sugar Land, TX | On Site | May 02 |
 | **[Lactalis Heritage Dairy](https://www.linkedin.com/company/80164640)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/68157b30113b5ed12f5cd301?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | May 02 |
+| **[Silvaco Inc](http://www.silvaco.com/company/)** | **[Intern - IP Financial Analysis (Pricing, Theory, Economics)](https://jobright.ai/jobs/info/6816b4f95c6b69049dc1e6cd?utm_campaign=1052&utm_source=git)** | Remote (United States) | Remote | May 02 |
 | **[Sanmina](https://www.sanmina.com)** | **[Financial Analyst /Accounting Internship](https://jobright.ai/jobs/info/6815774ed92762f49d5bf8c9?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Portfolio Analytics - Data Steward Intern](https://jobright.ai/jobs/info/68156b674c332b980109e0ca?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | May 02 |
 | **[Cornell Dubilier - Manufacturer of Power Capacitors](http://cde.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/68156b674c332b980109e12f?utm_campaign=1052&utm_source=git)** | Itasca, IL | Hybrid | May 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Finance Intern](https://jobright.ai/jobs/info/67c00af719e400cfc826f078?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | May 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Japanese Business Services Audit or Tax - Intern (2026)](https://jobright.ai/jobs/info/67a29556d3ae56e7b6060d1f?utm_campaign=1052&utm_source=git)** | Michigan, United States | On Site | May 02 |
 | **[Olin](http://www.olin.com/)** | **[Accounting Intern 2025 - Lake Jackson, Texas](https://jobright.ai/jobs/info/67be124b78ee59bb3f676aec?utm_campaign=1052&utm_source=git)** | Lake Jackson, TX | On Site | May 02 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern – Global Transaction Advisory Group (TAG)](https://jobright.ai/jobs/info/672dfe5bc7f1c85c2b3257c5?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | May 02 |
-| **[Security Benefit](https://securitybenefit.com)** | **[Internship - CRE Investment Analyst (Fall)](https://jobright.ai/jobs/info/67f8cb843e469e6d9b0217c3?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | May 02 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Japanese Business Services Audit or Tax - Intern (2026)](https://jobright.ai/jobs/info/67a29556d3ae56e7b6060ac2?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | May 02 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Music, Sports, & Entertainment](https://jobright.ai/jobs/info/68149ac064109c8c8c93455f?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
