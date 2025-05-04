@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Finance Intern](https://jobright.ai/jobs/info/681729179249bab217f86478?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 04 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Finance](https://jobright.ai/jobs/info/6816d96bfee9397cfef8d525?utm_campaign=1052&utm_source=git)** | Vermont, United States | On Site | May 03 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Finance Intern (Req #: 1067)](https://jobright.ai/jobs/info/68168cd4d51f2e6976c31dfd?utm_campaign=1052&utm_source=git)** | Brewster, NY | On Site | May 03 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2025](https://jobright.ai/jobs/info/68164659f83c2ca028ceec6d?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | May 03 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Commercial & Investment Bank Markets Summer Analyst Program - Research](https://jobright.ai/jobs/info/6800d10c8ab768e0fa88fe1e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[2026 Global Private Bank LatAm Program (Summer Analyst)](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8cac2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[2026 Commercial & Investment Bank Risk Management Summer Analyst Program](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8cbe7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 03 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Healthcare Audit Fall 2026](https://jobright.ai/jobs/info/675b763b1f859ffebb0aca6f?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | May 03 |
-| ↳ | **[Accounting Internship-Summer 2026](https://jobright.ai/jobs/info/67e4d3ac641de702be4fce70?utm_campaign=1052&utm_source=git)** | Billings, MT | Hybrid | May 03 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Summer 2026](https://jobright.ai/jobs/info/67e4d3ac641de702be4fce70?utm_campaign=1052&utm_source=git)** | Billings, MT | Hybrid | May 03 |
+| ↳ | **[Accounting Internship, Healthcare Audit Fall 2026](https://jobright.ai/jobs/info/675b763b1f859ffebb0aca6f?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | May 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset & Wealth Management Risk Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866ba2?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | May 03 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2026](https://jobright.ai/jobs/info/6815e50abd4caf3122ab4900?utm_campaign=1052&utm_source=git)** | Wausau, WI | Hybrid | May 03 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit & Assurance Intern – Spring 2026](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a95?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | May 03 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[2025 Summer Intern- Fixed Asset](https://jobright.ai/jobs/info/68154a7e146b5b67c209cb88?utm_campaign=1052&utm_source=git)** | Newberry, SC | On Site | May 02 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Finance](https://jobright.ai/jobs/info/681544cbd2f80add3136a5fb?utm_campaign=1052&utm_source=git)** | Rochester, MN | On Site | May 02 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/681542cdbbd3d6dcb25ec5bb?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 02 |
-| **[State of Oklahoma](https://oklahoma.gov/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/68153ec9c9ec0b79053a6ea5?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | May 02 |
 | **[Parts Town](https://www.partstown.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/68153ec9c9ec0b79053a6eb0?utm_campaign=1052&utm_source=git)** | DuPage County, IL | Hybrid | May 02 |
 | **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/67f80cb89880e2e05912d590?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | May 02 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Financial Performance](https://jobright.ai/jobs/info/68153b1c9f0708d873b5a8b9?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | May 02 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Internal Auditor](https://jobright.ai/jobs/info/681506153d8fd175929b92cd?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | May 02 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/68150494aa934434d7b41a10?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IRNext Rotational Program - Finance](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b304?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | May 02 |
-| **[Verano](https://verano.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/6813dd5c8c04b2cdb08e5f20?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Pomona Capital Accounting Intern](https://jobright.ai/jobs/info/6814f959371b9626a83114cb?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 02 |
+| **[Verano](https://verano.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/6813dd5c8c04b2cdb08e5f20?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Financial Statement and Regulatory Reporting](https://jobright.ai/jobs/info/6814f3130b88e390c522ff6a?utm_campaign=1052&utm_source=git)** | 83 General Warren Boulevard, Malvern, PA, 19355, US | On Site | May 02 |
 | **[Voya Financial](https://www.voya.com/)** | **[Pomona Capital Accounting Intern](https://jobright.ai/jobs/info/6814e4d60cdca8559423ffd0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/6814e292b4f5e18e67262251?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 02 |
