@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Finance](https://jobright.ai/jobs/info/683ada3adb36acb9144d1b04?utm_campaign=1052&utm_source=git)** | Rutland, VT | On Site | May 31 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[Student Intern (Clerk of the Court and Comptroller)](https://jobright.ai/jobs/info/683ada3adb36acb9144d1b4f?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 31 |
 | **[Clark Nuber PS](https://clarknuber.com/)** | **[Summer 2026 - Tax Internship (Bellevue In-Office)](https://jobright.ai/jobs/info/683ace1ad35354969cd8627c?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | May 31 |
+| **[CohnReznick ](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Chicago, IL](https://jobright.ai/jobs/info/68008bcd7eabdd7a41acf740?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | May 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Innovation Operations Analytics Intern](https://jobright.ai/jobs/info/683a70091360196c61baed64?utm_campaign=1052&utm_source=git)** | Somerville, MA | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/683a6c598e33747c9e566e9d?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | May 30 |
 | **[California Department of Public Health](http://www.cdph.ca.gov)** | **[STUDENT ASSISTANT JC-479834](https://jobright.ai/jobs/info/683a6b008f1dc4958bd0bddf?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | May 30 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2026 (Miami)](https://jobright.ai/jobs/info/683a1fae9bd6f87922e1b69d?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | May 30 |
 | **[DXP Enterprises, Inc.](http://www.dxpe.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/683a1180376e93ef5ce6c20a?utm_campaign=1052&utm_source=git)** | Anaheim, CA | On Site | May 30 |
 | **[CELSIUS](http://celsius.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/683a1180376e93ef5ce6c25d?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | May 30 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[NWA Administration and Finance Intern](https://jobright.ai/jobs/info/683a0be534b19661699e1c38?utm_campaign=1052&utm_source=git)** | UAMS | On Site | May 30 |
-| ↳ | **[NWA Administration and Finance Intern](https://jobright.ai/jobs/info/683a0be534b19661699e1985?utm_campaign=1052&utm_source=git)** | Fayetteville | On Site | May 30 |
+| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[NWA Administration and Finance Intern](https://jobright.ai/jobs/info/683a0be534b19661699e1985?utm_campaign=1052&utm_source=git)** | Fayetteville | On Site | May 30 |
+| ↳ | **[NWA Administration and Finance Intern](https://jobright.ai/jobs/info/683a0be534b19661699e1c38?utm_campaign=1052&utm_source=git)** | UAMS | On Site | May 30 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Tax Intern (Year-Round)](https://jobright.ai/jobs/info/683a0be534b19661699e18e1?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | May 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2025 - Denver, CO](https://jobright.ai/jobs/info/683a0b4290a2856439790ff9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 30 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/683a0b4290a28564397911ba?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | May 30 |
@@ -102,22 +103,22 @@ For a complete list, click the following sortable link below:
 | **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Clinical Finance Intern](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce92425?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Corporate Tax Internship - Emerging Talent Program](https://jobright.ai/jobs/info/6839e76b268fd00a1234544e?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | May 30 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6839e3b0dae0bd06a8bdc465?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 30 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc9ce?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 30 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc9cb?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 30 |
+| ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc9ce?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 30 |
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc9cc?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 30 |
-| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc9cb?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 30 |
-| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c14?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 30 |
-| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c12?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 30 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c11?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 30 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c0f?utm_campaign=1052&utm_source=git)** | Traverse City, MI | On Site | May 30 |
+| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c14?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 30 |
+| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c12?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 30 |
 | **[Compass Business Solutions, Inc.](https://compass-resources.com)** | **[Accounting (Tax) Intern - Spring/Busy Season- 2025](https://jobright.ai/jobs/info/6839d5bc3af2de5a36b33c22?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | May 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2025 - Denver, CO](https://jobright.ai/jobs/info/6839d2ed1dceabdcaeeeadaf?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 30 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d25610991c6f52952024?utm_campaign=1052&utm_source=git)** | Traverse City, MI | On Site | May 30 |
-| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d25610991c6f52952021?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 30 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d25610991c6f52952021?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 30 |
+| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839d25610991c6f52952024?utm_campaign=1052&utm_source=git)** | Traverse City, MI | On Site | May 30 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839cd9c125280c6d6414b4e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839cd9c125280c6d6414b11?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 30 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6839cd9c125280c6d6414b13?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 30 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2026](https://jobright.ai/jobs/info/6839cd9c125280c6d641499b?utm_campaign=1052&utm_source=git)** | Cincinnati Metro | On Site | May 30 |
-| ↳ | **[Tax Intern – Peak Season 2026](https://jobright.ai/jobs/info/6839cd9c125280c6d641497a?utm_campaign=1052&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | May 30 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2026](https://jobright.ai/jobs/info/6839cd9c125280c6d641497a?utm_campaign=1052&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | May 30 |
+| ↳ | **[Tax Intern – Peak Season 2026](https://jobright.ai/jobs/info/6839cd9c125280c6d641499b?utm_campaign=1052&utm_source=git)** | Cincinnati Metro | On Site | May 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Portfolio Management Intern, Fall 2025](https://jobright.ai/jobs/info/6839c93ff01fd61ebf8eae03?utm_campaign=1052&utm_source=git)** | Burbank, CA | On Site | May 30 |
 | **[IEA Inc.](http://ieaworld.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6839c850a7e24934a560da02?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | May 30 |
 | **[Duck Creek Payments](https://www.imbursepayments.com)** | **[Reporting & Technical Accounting Co-Op](https://jobright.ai/jobs/info/6839c1f0727014fe35705be2?utm_campaign=1052&utm_source=git)** | 100 Summer St. Boston, MA | Hybrid | May 30 |
@@ -135,26 +136,25 @@ For a complete list, click the following sortable link below:
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/681dbd935031dc051c58ec18?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | May 30 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Intern - Finance Cadillac MI](https://jobright.ai/jobs/info/67ffbd2f94e2b0f3d9f0ff8e?utm_campaign=1052&utm_source=git)** | Cadillac, MI | On Site | May 30 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Wealth Management Summer Analyst Program - Chief Investment Office, Investment Solutions Group, and Merrill Home Office - 2026](https://jobright.ai/jobs/info/68394f3a6160a09a35954d40?utm_campaign=1052&utm_source=git)** | Pennington, NJ | On Site | May 29 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701967?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 29 |
-| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701975?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839340c91f1866da170196e?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
-| ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6839340c91f1866da170196f?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
-| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701973?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
-| ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6839340c91f1866da170195e?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 29 |
+| **[AVI Systems](https://www.ourforte.com)** | **[Financial Planning & Analytics Intern](https://jobright.ai/jobs/info/683bf6e125ad37c64977efb5?utm_campaign=1052&utm_source=git)** | Lenexa, KS, USA | On Site | May 29 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6839340c91f1866da170195e?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 29 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6839340c91f1866da170196c?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 29 |
 | ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701959?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 29 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839340c91f1866da170196d?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
-| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c34f?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
-| ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c350?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c343?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 29 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839340c91f1866da170196e?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701967?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 29 |
+| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701975?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
+| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6839340c91f1866da1701973?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
+| ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6839340c91f1866da170196f?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
 | ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c349?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c351?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 29 |
-| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592216?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
-| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592222?utm_campaign=1052&utm_source=git)** | Traverse City, MI | On Site | May 29 |
-| ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592224?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
+| ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c350?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c343?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 29 |
+| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68392f1df496fafe1658c34f?utm_campaign=1052&utm_source=git)** | Macomb, MI | On Site | May 29 |
 | ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592227?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
-| ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df7159221d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 29 |
+| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592222?utm_campaign=1052&utm_source=git)** | Traverse City, MI | On Site | May 29 |
 | ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df7159221a?utm_campaign=1052&utm_source=git)** | Traverse City, MI | On Site | May 29 |
 | ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df7159221b?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 29 |
-| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592225?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | May 29 |
+| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df71592216?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | On Site | May 29 |
+| ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68392c6aaf27c1df7159221d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
