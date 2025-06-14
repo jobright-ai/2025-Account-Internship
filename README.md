@@ -57,76 +57,80 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454276?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jun 13 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454270?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454275?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 13 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454273?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jun 13 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454279?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jun 13 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Scholarship Accounting Intern](https://jobright.ai/jobs/info/684d35f6f5ad13793eee41ed?utm_campaign=1052&utm_source=git)** | Jacksonville, AL | On Site | Jun 14 |
+| **[Clark Nuber PS](https://clarknuber.com/)** | **[Summer 2026 - Tax Internship (Bellevue In-Office)](https://jobright.ai/jobs/info/684d35f6f5ad13793eee428e?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jun 14 |
+| ↳ | **[Summer 2026 - Audit Internship (Bellevue In-Office)](https://jobright.ai/jobs/info/684d2c671b4fa24d61196203?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jun 14 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/684d1e9e7d73e770fd277b3a?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jun 14 |
+| **[SAIC](http://www.saic.com)** | **[Stock Clerk Intern](https://jobright.ai/jobs/info/684d1955dc2b7cea05dd745a?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jun 13 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/684d4343e4562d07648e15ca?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454270?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
 | ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454274?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jun 13 |
 | ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454277?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Jun 13 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454279?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jun 13 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454273?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jun 13 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454276?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jun 13 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454275?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 13 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/684ceac35c914a57804542d5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jun 13 |
 | **[A-LIGN](http://www.a-lign.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/684ceac35c914a57804540ff?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jun 13 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Credit Research Summer Intern](https://jobright.ai/jobs/info/684ce84c42e6930eed5831f4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
-| ↳ | **[Real Estate Investments Summer Intern](https://jobright.ai/jobs/info/684ce84c42e6930eed5831d7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 CAS Winter Intern - Nashville, TN](https://jobright.ai/jobs/info/684ce4675213d45f53328000?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - Nashville, TN](https://jobright.ai/jobs/info/684ce4675213d45f5332802d?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
 | ↳ | **[2026 IT Audit Summer Intern - Nashville, TN](https://jobright.ai/jobs/info/684ce4675213d45f53328067?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
-| ↳ | **[2026 Tax Winter Intern - Nashville, TN](https://jobright.ai/jobs/info/684ce4675213d45f5332802d?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
-| ↳ | **[2026 Audit Winter Intern - Houston, TX](https://jobright.ai/jobs/info/684ce4675213d45f5332807b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695e8?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695eb?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f2?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f5?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695e9?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695ee?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f4?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f3?utm_campaign=1052&utm_source=git)** | Little Rock, AR | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695ec?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f6?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Jun 13 |
+| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695e8?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f1?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695ed?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695ea?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jun 13 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695ef?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f5?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695ec?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f6?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f2?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695f4?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cde200abcd95f348695eb?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 13 |
 | **[Pearl Lemon Group](https://pearllemongroup.com/)** | **[Finance Intern (Mauritius)](https://jobright.ai/jobs/info/684cdde70abcd95f348691bd?utm_campaign=1052&utm_source=git)** | Albion, CA | Hybrid | Jun 13 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f348690ba?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 13 |
-| ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f34868f37?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f34868f37?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jun 13 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f348690ba?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 13 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/684cdde70abcd95f34868f7f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jun 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Baltimore)](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5d09?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jun 13 |
 | **[Fox Factory](http://ridefox.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/684cd521b7fb7d31f5f122c4?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cff460e8dd314a2e7833b?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jun 13 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Fall Intern - Nashville, TN](https://jobright.ai/jobs/info/684ce84c42e6930eed5835f1?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
-| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Financial Audit](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c037a?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 13 |
-| ↳ | **[Intern, Technology Audit](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c02f1?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cf8ec75580b971626c51a?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jun 13 |
+| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Technology Audit](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c02f1?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 13 |
+| ↳ | **[Intern, Financial Audit](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c037a?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 13 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Wealth Management Summer Analyst Program - Chief Investment Office, Investment Solutions Group, and Merrill Home Office - 2026](https://jobright.ai/jobs/info/684d425309e23568d450dabd?utm_campaign=1052&utm_source=git)** | Pennington, NJ | On Site | Jun 13 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2025 - Advanced Distribution Infrastructure - Finance/Accounting/PM - Student Internship/Co-op](https://jobright.ai/jobs/info/684cb29129f7619264625f88?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jun 13 |
 | **[Merrill Gardens](http://merrillgardens.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/684c951cba4db2b772023f1a?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Summer Intern - Houston, TX](https://jobright.ai/jobs/info/684c8fb9319b074096e4db66?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
-| ↳ | **[2026 Summer Audit Intern - Albany, NY-1](https://jobright.ai/jobs/info/684c8fb9319b074096e4db55?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Jun 13 |
-| ↳ | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4dcad?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
-| ↳ | **[2026 Tax Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db5a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
-| ↳ | **[2027 Audit Winter Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db52?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
-| ↳ | **[2027 Audit Summer Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db54?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Summer Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c8fb9319b074096e4dbc3?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jun 13 |
 | ↳ | **[2027 Tax Summer Intern - Kansas City](https://jobright.ai/jobs/info/684c8fb9319b074096e4dbcf?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
 | ↳ | **[2026 Tax Fall Intern - Houston, TX](https://jobright.ai/jobs/info/684c8fb9319b074096e4db5c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
-| ↳ | **[2026 Audit Summer Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db60?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
-| ↳ | **[2026 IT Audit Fall Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4dbc5?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
 | ↳ | **[2026 Audit Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4dbae?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
+| ↳ | **[2026 Rotational Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c8fb9319b074096e4dba5?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
+| ↳ | **[2026 IT Audit Fall Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4dbc5?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
+| ↳ | **[2026 Tax Winter Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db5b?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
+| ↳ | **[2026 Audit Summer Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db60?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
+| ↳ | **[2026 Tax Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4db5a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
+| ↳ | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4dcad?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/684c8fb9319b074096e4dac8?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jun 13 |
 | **[Copart](http://www.copart.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/684c8ecf6db36bf26119f2c6?utm_campaign=1052&utm_source=git)** | Pony, MT | On Site | Jun 13 |
 | ↳ | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/684c8dcdc6ba9ab82b766a39?utm_campaign=1052&utm_source=git)** | US Shared Services - Pony Express 709PE | On Site | Jun 13 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/684c81ec4ab515ce959a5191?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Jun 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Business Risk Services Intern - Fall 2025 - Raleigh, NC](https://jobright.ai/jobs/info/684c81ec4ab515ce959a5267?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 CAS Summer Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c80532add4b27c83cb84c?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jun 13 |
-| ↳ | **[2026 CAS Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c80532add4b27c83cb85a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
-| ↳ | **[2026 Tax Winter Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c80532add4b27c83cb8d0?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 CAS Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c80532add4b27c83cb85a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 13 |
 | **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[M&A Intern](https://jobright.ai/jobs/info/684c80532add4b27c83cb897?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2027 Audit Summer Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c7e6014ced45fb7ce2f34?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
 | **[Fike Corporation](https://www.fike.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242b07?utm_campaign=1052&utm_source=git)** | Blue Springs, MO | On Site | Jun 13 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Summer Intern - Kansas City, MO](https://jobright.ai/jobs/info/684ca97b78c40262be18bd2d?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
-| **[Starwood Hotels](https://www.shgroup.com/)** | **[Temp- Intern- Accountant](https://jobright.ai/jobs/info/684c797308d351b569337340?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Loan Servicing Intern (Summer)](https://jobright.ai/jobs/info/684c797308d351b5693375eb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Central Hudson](https://www.cenhud.com)** | **[Accounting Intern - Fall 2025](https://jobright.ai/jobs/info/684c797308d351b569337363?utm_campaign=1052&utm_source=git)** | Poughkeepsie, NY | On Site | Jun 13 |
 | **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[M&A Intern](https://jobright.ai/jobs/info/684c77c12cf83b7305f42817?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 13 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Summer 2025 (Brownsville, TX)](https://jobright.ai/jobs/info/684c7447480a10a74c90fa80?utm_campaign=1052&utm_source=git)** | Brownsville, TX | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Summer Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c72553af50420ea06b0d3?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jun 13 |
-| ↳ | **[2026 Rotational Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c72553af50420ea06b0e1?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Summer Audit Intern - Albany, NY-1](https://jobright.ai/jobs/info/684c72553af50420ea06b0b6?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Jun 13 |
+| ↳ | **[2026 Tax Winter Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c72553af50420ea06b0ac?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jun 13 |
+| ↳ | **[2027 Audit Winter Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c72553af50420ea06b1a0?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
+| ↳ | **[2026 CAS Summer Intern - West Des Moines, IA](https://jobright.ai/jobs/info/684c72553af50420ea06b098?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jun 13 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Preferred Carrier Intern](https://jobright.ai/jobs/info/684c72553af50420ea06b021?utm_campaign=1052&utm_source=git)** | Chattanooga, Tennessee, United States | On Site | Jun 13 |
 | **[Hungerford CPAs + Advisors](http://hungerfordnichols.com)** | **[2026 Tax Intern](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ec2d?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Jun 13 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Preferred Carrier Intern](https://jobright.ai/jobs/info/684c6af97e723989f5124324?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | On Site | Jun 13 |
@@ -136,25 +140,21 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[Financial Analyst- AZ](https://jobright.ai/jobs/info/684c68f2c2455dccea18d798?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jun 13 |
 | **[UMB Bank](https://www.umb.com)** | **[Investor Service Analyst Intern](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b10fa?utm_campaign=1052&utm_source=git)** | Ogden, UT | On Site | Jun 13 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Head of International Treasury](https://jobright.ai/jobs/info/684c5d31abd1bea52ae3ebf0?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c543143b695797f38f617?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Winter Audit Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c543143b695797f38f5f8?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
 | ↳ | **[2026 Tax Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c543143b695797f38f63b?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
-| ↳ | **[2026 Winter Audit Intern - Kansas City, MO](https://jobright.ai/jobs/info/684c543143b695797f38f5f8?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
 | **[Central Hudson](https://www.cenhud.com)** | **[Accounting Intern - Fall 2025](https://jobright.ai/jobs/info/684c543143b695797f38f4ee?utm_campaign=1052&utm_source=git)** | Poughkeepsie | On Site | Jun 13 |
 | **[UMB Bank](https://www.umb.com)** | **[Investor Service Analyst Intern](https://jobright.ai/jobs/info/684c450d188a5fd76c1222de?utm_campaign=1052&utm_source=git)** | Ogden UT | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - Houston, TX](https://jobright.ai/jobs/info/684c450d188a5fd76c1222d6?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
-| ↳ | **[2026 IT Audit Fall Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c450d188a5fd76c1222c7?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
-| ↳ | **[2026 Audit Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c450d188a5fd76c122412?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
-| ↳ | **[2026 Audit Winter Intern - Houston, TX](https://jobright.ai/jobs/info/684c450d188a5fd76c1222e1?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c450d188a5fd76c122412?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
+| ↳ | **[2026 Tax Summer Intern - Houston, TX](https://jobright.ai/jobs/info/684c450d188a5fd76c1222c9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
+| ↳ | **[2026 Tax Winter Intern - Houston, TX](https://jobright.ai/jobs/info/684c450d188a5fd76c1222d6?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
 | ↳ | **[2026 CAS Summer Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c450d188a5fd76c1222bc?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
+| ↳ | **[2026 IT Audit Fall Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c450d188a5fd76c1222c7?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
 | ↳ | **[2026 Audit Fall Intern - Nashville, TN](https://jobright.ai/jobs/info/684c450d188a5fd76c1223ec?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
 | ↳ | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c450d188a5fd76c12237d?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Jun 13 |
+| ↳ | **[2026 Audit Winter Intern - Houston, TX](https://jobright.ai/jobs/info/684c450d188a5fd76c1222e1?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Business Risk Services Intern - Fall 2025 - Raleigh, NC](https://jobright.ai/jobs/info/684c3b1de7f2d6a5b7cdda0f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jun 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/6812d4296c4fd44b74267613?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jun 13 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Financial Analyst- AZ](https://jobright.ai/jobs/info/684c38db8cabb81d20fb4024?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - Nashville, TN](https://jobright.ai/jobs/info/684c36874fb6794d4c3dc7a7?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
-| ↳ | **[2026 CAS Winter Intern - Nashville, TN](https://jobright.ai/jobs/info/684c36874fb6794d4c3dc7ca?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 CAS Winter Intern - Nashville, TN](https://jobright.ai/jobs/info/684c36874fb6794d4c3dc7ca?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
 | ↳ | **[2026 IT Audit Summer Intern - Nashville, TN](https://jobright.ai/jobs/info/684c36874fb6794d4c3dc7e7?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jun 13 |
-| **[Moss Adams](http://www.mossadams.com)** | **[State and Local Tax Intern – 2026](https://jobright.ai/jobs/info/684c197918ab9f8fdb478ef5?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Hybrid | Jun 13 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Group Financial Security](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957897?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
-| ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Finance & Tax](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a95789b?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
-| ↳ | **[2026 - Summer Analyst Internship - Global Markets: Equity Research](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
