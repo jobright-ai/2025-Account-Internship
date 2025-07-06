@@ -58,11 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Auditor](https://jobright.ai/jobs/info/67f77a4242d0db7cfbab3224?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 06 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Payments Summer Analyst Program](https://jobright.ai/jobs/info/6833e57f52b25af496b49e8c?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 06 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Private Bank Advisor Program (Summer Analyst) - US Private Bank](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866b70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 06 |
+| ↳ | **[2026 Commercial & Investment Bank Payments Summer Analyst Program](https://jobright.ai/jobs/info/6833e57f52b25af496b49e8c?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 06 |
 | **[Travelers](https://www.travelers.com)** | **[Finance and Accounting Leadership Development Program (FALDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee2e?utm_campaign=1052&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
-| ↳ | **[Actuarial Leadership Development Program (ALDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee73?utm_campaign=1052&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
 | ↳ | **[Finance and Accounting Leadership Development Program (FALDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee7c?utm_campaign=1052&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
 | ↳ | **[Actuarial Leadership Development Program (ALDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee3f?utm_campaign=1052&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
+| ↳ | **[Actuarial Leadership Development Program (ALDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee73?utm_campaign=1052&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Rotational Accounting Internship - Summer 2026 - San Jose or San Francisco](https://jobright.ai/jobs/info/6869d92935584b654268a7a6?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[Finance/Office Intern](https://jobright.ai/jobs/info/68699ece35584b65425255d3?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2026 Summer Associate - Finance & Transactions (Los Angeles, CA)](https://jobright.ai/jobs/info/683109e3dd28a555996294f9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 05 |
@@ -81,7 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 04 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit](https://jobright.ai/jobs/info/68686c0435584b6542a71149?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jul 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Richmond)](https://jobright.ai/jobs/info/677c8318e2270efbe19ae339?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Jul 04 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6868ecfb35584b6542188f0a?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 04 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6868ed5c35584b65421a305f?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 04 |
 | **[Quanex](http://www.quanex.com/)** | **[AP Intern](https://jobright.ai/jobs/info/684b35ce961b7f067731858f?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Jul 04 |
 | **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[Tax Intern](https://jobright.ai/jobs/info/686812aa35584b6542f68396?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Jul 04 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Global Audit Technology Co-op](https://jobright.ai/jobs/info/68680fff35584b6542e5f88a?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Accounting Advisory Intern](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ef69?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jul 03 |
 | ↳ | **[Spring 2026 Tax Intern - Rockville](https://jobright.ai/jobs/info/6811644104fcee544ad52347?utm_campaign=1052&utm_source=git)** | Rockville, MD | Remote | Jul 03 |
 | ↳ | **[Spring 2026 Audit Intern - Ft. Lauderdale](https://jobright.ai/jobs/info/68116a5fe571778c6d728e59?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Remote | Jul 03 |
-| ↳ | **[Spring 2026 Tax Intern - Virginia Beach](https://jobright.ai/jobs/info/6811644104fcee544ad52350?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
