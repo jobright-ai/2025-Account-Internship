@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/686b7f0935584b65426c89b5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
+| ↳ | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/686b7a2b35584b6542552731?utm_campaign=1052&utm_source=git)** | Schenectady, NY | On Site | Jul 07 |
+| ↳ | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/686b7a2135584b654254f394?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Jul 07 |
+| ↳ | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/686b79ec35584b6542544f7e?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Jul 07 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Payments Solutions Summer Analyst Program - 2026](https://jobright.ai/jobs/info/686b66ae35584b654211eaf1?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 06 |
 | **[ABB](https://global.abb/group/en)** | **[Finance Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c38150?utm_campaign=1052&utm_source=git)** | Cary, NC | On Site | Jul 06 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial and Investment Banking Insights Programs – Commercial & Specialized Industries – Summer Analyst](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8ca7a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 06 |
 | ↳ | **[2026 Global Private Bank Investment Solutions Program (Summer Analyst)](https://jobright.ai/jobs/info/6832a0d644d48b1e7d6abf7f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 06 |
@@ -85,6 +90,9 @@ For a complete list, click the following sortable link below:
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/684c8fb9319b074096e4dcad?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jul 05 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2026](https://jobright.ai/jobs/info/684d59312c0723c7e31d1515?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Jul 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (San Diego)](https://jobright.ai/jobs/info/66f369a608a6d0f09cb00d6f?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Jul 04 |
+| ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67906552d7257309580ff842?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 04 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Public Investments – Credit Investment Internship](https://jobright.ai/jobs/info/681198227a67092eeb32ab76?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Baltimore)](https://jobright.ai/jobs/info/677c2ff95b0046ffd7d56f03?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 04 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit](https://jobright.ai/jobs/info/68686c0435584b6542a71149?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jul 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Miami)](https://jobright.ai/jobs/info/679a877d5339af431831496d?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jul 04 |
@@ -118,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Fives Intralogistics ](https://www.fivesgroup.com/smart-automation-solutions)** | **[Accounting Intern - PT](https://jobright.ai/jobs/info/68678e1c3500665014240b76?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | Hybrid | Jul 04 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Financial/Budget Analyst 1](https://jobright.ai/jobs/info/68678e1c3500665014240cf4?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Jul 04 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Atlanta](https://jobright.ai/jobs/info/681157d680ae5349347bbe1b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Jul 04 |
+| ↳ | **[Summer 2026 Tax Intern - Nashville](https://jobright.ai/jobs/info/6811644104fcee544ad5234e?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 04 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Charlotte](https://jobright.ai/jobs/info/683bef89ba832780a8fd5657?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 03 |
 | **[Fives](http://www.fivesgroup.com/)** | **[Accounting Intern - PT](https://jobright.ai/jobs/info/6867726e0ce630de987a6e13?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | Hybrid | Jul 03 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2026](https://jobright.ai/jobs/info/67f6b0f5991ba0afe190c4d5?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 03 |
@@ -128,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Audit Intern - Atlanta](https://jobright.ai/jobs/info/681157d680ae5349347bbe1c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Jul 03 |
 | ↳ | **[Summer 2026 Tax Intern - Ft. Lauderdale](https://jobright.ai/jobs/info/6811644104fcee544ad52351?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Remote | Jul 03 |
 | ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef8493?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Jul 03 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Spring Internship - Towson, MD](https://jobright.ai/jobs/info/6849ec90fdc8a5a6b7ef3a96?utm_campaign=1052&utm_source=git)** | Towson, MD | On Site | Jul 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/67929edcf8c267e801e1613e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 03 |
 | ↳ | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6792a71b93d549cdf8f7b49e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 03 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Louisville](https://jobright.ai/jobs/info/6811644104fcee544ad5235d?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Jul 03 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Tax Intern - Austin](https://jobright.ai/jobs/info/68116a5fe571778c6d728e52?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 03 |
 | **[Pursuit](http://www.pursuit.org)** | **[Strategic Finance MBA Intern](https://jobright.ai/jobs/info/6866f43a664d2d5b20b54bfa?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Jul 03 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Power & Renewables, Summer Investment Analyst Program](https://jobright.ai/jobs/info/6866f1c2c2e72681cd85c15f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 03 |
-| **[Pursuit](http://www.pursuit.org)** | **[Strategic Finance MBA Intern (2 month contract)](https://jobright.ai/jobs/info/6866eff34d0c99d56eb1b4e5?utm_campaign=1052&utm_source=git)** | Remote, US | Remote | Jul 03 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Audit Intern - Louisville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e55?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Jul 03 |
-| ↳ | **[Spring 2026 Tax Intern - Lexington](https://jobright.ai/jobs/info/6811644104fcee544ad52355?utm_campaign=1052&utm_source=git)** | Lexington, KY | Remote | Jul 03 |
-| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Cost Accounting - Intern (Plano, TX)](https://jobright.ai/jobs/info/6841ba56bb24ae68030fae1d?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jul 03 |
-| **[Hexagon Safety, Infrastructure & Geospatial](https://hexagon.com/company/divisions/safety-infrastructure-geospatial)** | **[Finance Intern- Maintenance Contracts](https://jobright.ai/jobs/info/6866c0d218861a21481fc972?utm_campaign=1052&utm_source=git)** | Madison, AL | On Site | Jul 03 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Audit Intern - Lexington](https://jobright.ai/jobs/info/6811644104fcee544ad52365?utm_campaign=1052&utm_source=git)** | Lexington, KY | Remote | Jul 03 |
-| ↳ | **[Spring 2026 Tax Intern - Elgin](https://jobright.ai/jobs/info/6811644104fcee544ad52361?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 03 |
-| ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef849a?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 03 |
-| **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Accounting Intern - Fall 2025](https://jobright.ai/jobs/info/6855c1dd2ce5b04f9825ab04?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | Jul 03 |
-| **[IEWC](http://iewc.com)** | **[Corporate Controller](https://jobright.ai/jobs/info/6866d856c6a71dd7f4544f2a?utm_campaign=1052&utm_source=git)** | New Berlin, WI | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
