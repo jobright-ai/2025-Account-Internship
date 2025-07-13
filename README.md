@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Green Bay Packaging](https://gbp.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6871c8eda5ae807a59d01b15?utm_campaign=1052&utm_source=git)** | Green Bay, WI | Hybrid | Jul 11 |
 | **[The Mather Group, LLC](https://www.themathergroup.com/)** | **[Spring Tax Internship (Chicago)](https://jobright.ai/jobs/info/68719f3da5ae807a59d00d16?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 11 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Intern (LATAM) - Global Payment - 2025 Fall (MS/MBA)](https://jobright.ai/jobs/info/68719c16a5ae807a59d00ba5?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Accounting Intern / Elmont, NY](https://jobright.ai/jobs/info/68738cac4001e95011b1729e?utm_campaign=1052&utm_source=git)** | Jamaica, NY | On Site | Jul 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Finance Meeting House Facilities](https://jobright.ai/jobs/info/68718fb8e1eb93dd1c89b752?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2025 / Chicago](https://jobright.ai/jobs/info/687170d106ad7073463c516b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 11 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Finance and Operations Intern](https://jobright.ai/jobs/info/68716089a874eae37a7df867?utm_campaign=1052&utm_source=git)** | US-FL-Maitland | On Site | Jul 11 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[The Cigna Group](https://www.cigna.com/)** | **[Accounting Payable Co-op](https://jobright.ai/jobs/info/6870e150a5ae807a59cfc8ae?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/6871f611a5ae807a59d03e25?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Fall 2025 - Jacksonville FL](https://jobright.ai/jobs/info/6870d76c01cc0956e7e85f4f?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jul 10 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Intern - Winter 2026](https://jobright.ai/jobs/info/687381c94001e95011b167a2?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 10 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Finance Transformation Analyst (Remote)](https://jobright.ai/jobs/info/6870834501cc0956e7e82746?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Rotational Accounting Internship - Summer 2026 - San Jose or San Francisco](https://jobright.ai/jobs/info/68707cd406ad7073463be017?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jul 10 |
 | **[Danfoss](https://www.danfoss.com)** | **[Intern - GS Controlling](https://jobright.ai/jobs/info/68707b2206ad7073463bdf27?utm_campaign=1052&utm_source=git)** | Ames, IA | On Site | Jul 10 |
@@ -135,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/68701c86a5ae807a59cf5cce?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jul 10 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68702cc606ad7073463bbbf8?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 10 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/687027f9a5ae807a59cf6390?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
-| ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68701862a5ae807a59cf5a8a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 10 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/687027f406ad7073463bb8e2?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 10 |
 | ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/6870218106ad7073463bb4f8?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Jul 10 |
+| ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68701862a5ae807a59cf5a8a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 10 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/6870256406ad7073463bb735?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jul 10 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68702282a5ae807a59cf603c?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Jul 10 |
 | ↳ | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/687026a606ad7073463bb7fc?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/6870188a01cc0956e7e7f326?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jul 10 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68702c3c01cc0956e7e7fe87?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jul 10 |
 | ↳ | **[International Tax Business Intern - Summer 2026](https://jobright.ai/jobs/info/6870223ca5ae807a59cf6010?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 10 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Advisory Intern](https://jobright.ai/jobs/info/68700b7606ad7073463ba9ad?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 10 |
-| **[Citi](https://www.citi.com)** | **[Banking, Latin American Group, Summer Analyst,  New York City - US, 2026](https://jobright.ai/jobs/info/681d731cd4e20bd4987cbde3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
