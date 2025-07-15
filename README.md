@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Cincinnati](https://jobright.ai/jobs/info/68761a24299cbc74b875ab61?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 15 |
+| ↳ | **[Associate Tax Summer 2026 / Louisville](https://jobright.ai/jobs/info/68761451299cbc74b875a903?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Jul 15 |
+| ↳ | **[Associate Audit Fall 2026 / Louisville](https://jobright.ai/jobs/info/687612fd5cebcd1dd51c665e?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Jul 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/6875eeb4299cbc74b8758fbb?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jul 14 |
+| **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Audit](https://jobright.ai/jobs/info/68761164ae2f413e4a5acb43?utm_campaign=1052&utm_source=git)** | Hauppauge, NY | Hybrid | Jul 14 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern – FSG Life Insurance](https://jobright.ai/jobs/info/6875ba9b5cebcd1dd51c307c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Enterprise Credit Summer Analyst Program 2026 - Global Corporate & Investment Banking Credit and Global Markets Credit](https://jobright.ai/jobs/info/6875ac72ae2f413e4a5a9088?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6875ca79299cbc74b8757a48?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 14 |
@@ -91,15 +95,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b3c5?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jul 14 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Payments Solutions Summer Analyst Program - 2026](https://jobright.ai/jobs/info/6874fddf299cbc74b875144a?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Energy Transition Coverage Analyst](https://jobright.ai/jobs/info/68751ca5ae2f413e4a5a3c90?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jul 14 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Forensic Accounting Summer 2026 Internship – Family Law](https://jobright.ai/jobs/info/67e7289498ae388ac22ceb73?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jul 14 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit](https://jobright.ai/jobs/info/68749ff2299cbc74b874f8e2?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jul 13 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Fall 2025 Finance Co-Op](https://jobright.ai/jobs/info/6874a2165cebcd1dd51bb5f4?utm_campaign=1052&utm_source=git)** | New Brunswick, NJ | Hybrid | Jul 13 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Spring Accounting Internship](https://jobright.ai/jobs/info/68752ea1ae2f413e4a5a4727?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Jul 13 |
 | **[Ottawa University](http://www.ottawa.edu)** | **[Graduate Assistant Accounts Receivable (26516)](https://jobright.ai/jobs/info/68759caaae2f413e4a5a8647?utm_campaign=1052&utm_source=git)** | Ottawa, KS | On Site | Jul 13 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Rotational Accounting Internship - Summer 2026 - San Jose or San Francisco](https://jobright.ai/jobs/info/687410364001e95011b1b992?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Enterprise Credit Summer Analyst Program 2026 - Global Corporate & Investment Banking Credit and Global Markets Credit](https://jobright.ai/jobs/info/6873f5c027d5e6163cae6fef?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 13 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6858e61b1e726e1a8ac23912?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 13 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Tax Winter Intern](https://jobright.ai/jobs/info/67294453081de74a5ed8eb6e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 13 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 PE-Secondaries Investments Summer Intern](https://jobright.ai/jobs/info/681e3bd12f82b46a9b896e33?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 13 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68561cf0371c9555b19f34a6?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 13 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Audit Summer Intern](https://jobright.ai/jobs/info/67eb84802637d0c1370fb7b2?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jul 13 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 ARS Portfolio Management Summer Intern](https://jobright.ai/jobs/info/681d98696dc7ec4b3c13df24?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 13 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/67897ddd8cef63184bfee3fb?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jul 12 |
@@ -113,9 +118,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Originations)](https://jobright.ai/jobs/info/6872478ea5ae807a59d06177?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
 | ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Equity)](https://jobright.ai/jobs/info/6872471a06ad7073463cbb39?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Jul 12 |
 | ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Originations)](https://jobright.ai/jobs/info/687246cc06ad7073463cbb1e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
+| ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Originations)](https://jobright.ai/jobs/info/6874e910ae2f413e4a5a1a7d?utm_campaign=1052&utm_source=git)** | North Riverside, IL | On Site | Jul 12 |
 | ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Originations)](https://jobright.ai/jobs/info/6874b036ae2f413e4a59f1bf?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
 | ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Equity)](https://jobright.ai/jobs/info/68726778a5ae807a59d0677c?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Jul 12 |
-| ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Originations)](https://jobright.ai/jobs/info/6874e910ae2f413e4a5a1a7d?utm_campaign=1052&utm_source=git)** | North Riverside, IL | On Site | Jul 12 |
 | ↳ | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Equity)](https://jobright.ai/jobs/info/6874cfa9ae2f413e4a5a07fa?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 12 |
 | **[Danfoss](https://www.danfoss.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6854cd3ebd9dbbea69c4eb79?utm_campaign=1052&utm_source=git)** | Ames, IA | On Site | Jul 12 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/67aba038c1312f7116c8b2e0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
@@ -124,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6872241006ad7073463cb8a7?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Jul 12 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/68721e9ea5ae807a59d05e5c?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Jul 12 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial ](https://jobright.ai/jobs/info/68721791a2e6fa01232c07bd?utm_campaign=1052&utm_source=git)** | 1 SW Security Benefit Pl, Topeka, KS 66606, USA | Hybrid | Jul 12 |
-| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6874c6cfae2f413e4a5a03df?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jul 12 |
-| ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/687604f0ae2f413e4a5ac368?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jul 12 |
+| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/687604f0ae2f413e4a5ac368?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jul 12 |
+| ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6874c6cfae2f413e4a5a03df?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jul 12 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2026 Tax Season Internship](https://jobright.ai/jobs/info/6793f7f2056991df3109a9f0?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Jul 11 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Spring 2026 Internal Audit Internship – Irving, TX](https://jobright.ai/jobs/info/6875ddda299cbc74b87582e7?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Jul 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Finance Meeting House Facilities](https://jobright.ai/jobs/info/6871d0fda5ae807a59d02163?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (January 2026)](https://jobright.ai/jobs/info/68379c254a41756e9cdbda2f?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Jul 11 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/67abbe2ffad1378d8dcdae39?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Jul 11 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/686389ff5017de06f859020a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jul 11 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2026 Tax Season Internship](https://jobright.ai/jobs/info/6793f7f2056991df3109a9f1?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 11 |
-| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Assurance and Accounting Co-op](https://jobright.ai/jobs/info/686d25d40273786c4d418ec8?utm_campaign=1052&utm_source=git)** | Syracuse-Auburn Area | On Site | Jul 11 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management Operations Analyst](https://jobright.ai/jobs/info/6836622d4cee99b5ab7910d9?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Hybrid | Jul 11 |
-| **[Winsupply](http://www.winsupplyinc.com)** | **[Accounts Payable Apprenticeship](https://jobright.ai/jobs/info/685533d198e0131bb8e5ff13?utm_campaign=1052&utm_source=git)** | Moraine, OH | On Site | Jul 11 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Finance Co-op](https://jobright.ai/jobs/info/6871008106ad7073463c2c30?utm_campaign=1052&utm_source=git)** | Galesburg, MI | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
