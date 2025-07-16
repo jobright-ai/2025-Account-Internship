@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2026 / Evansville](https://jobright.ai/jobs/info/68777210299cbc74b87673f4?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Jul 16 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Evansville](https://jobright.ai/jobs/info/68777742ae2f413e4a5bb333?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Jul 16 |
+| ↳ | **[Intern Tax Summer 2026 / Evansville](https://jobright.ai/jobs/info/68777210299cbc74b87673f4?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Jul 16 |
 | ↳ | **[Associate Audit Fall 2026 / Springfield](https://jobright.ai/jobs/info/687764b7299cbc74b87670d3?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Jul 16 |
 | ↳ | **[Associate Audit Fall 2026 / Evansville](https://jobright.ai/jobs/info/68775f34ae2f413e4a5ba872?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Jul 16 |
 | ↳ | **[Associate Audit Winter 2026 / Evansville](https://jobright.ai/jobs/info/68776f52ae2f413e4a5bb087?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Jul 16 |
+| ↳ | **[Intern Tax Winter 2027 / Atlanta](https://jobright.ai/jobs/info/687778aeae2f413e4a5bb3ba?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 16 |
 | ↳ | **[Intern Tax Summer 2027 / Atlanta](https://jobright.ai/jobs/info/687771ca5cebcd1dd51d30dd?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 16 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Finance](https://jobright.ai/jobs/info/68776577ae2f413e4a5bac1e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/687721ca299cbc74b8763d92?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 15 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Strategic Partners, Spend Management (SMT) Summer Analyst](https://jobright.ai/jobs/info/6876d567ae2f413e4a5b42d0?utm_campaign=1052&utm_source=git)** | New York | On Site | Jul 15 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Economic Research Intern](https://jobright.ai/jobs/info/6876bf75ae2f413e4a5b327e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
 | **[RiseBoro Community Partnership](https://riseboro.org)** | **[Accounting Intern (48889)](https://jobright.ai/jobs/info/6876d7cb5cebcd1dd51ccf74?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Jul 15 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Technology Auditor - Remote](https://jobright.ai/jobs/info/6876b173299cbc74b875fa45?utm_campaign=1052&utm_source=git)** | Illinois, United States | Hybrid | Jul 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6876ac50299cbc74b875f688?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jul 15 |
 | **[C-A-L Ranch Stores](https://www.calranch.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6876aac1299cbc74b875f59a?utm_campaign=1052&utm_source=git)** | Ammon, ID | On Site | Jul 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6876aa3b299cbc74b875f54b?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Jul 15 |
@@ -130,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Starwood Capital Group](https://www.starwoodcapital.com)** | **[2026 Investor Relations Summer Analyst](https://jobright.ai/jobs/info/68763acdae2f413e4a5ae12c?utm_campaign=1052&utm_source=git)** | Greenwich, CT | On Site | Jul 14 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6875ca79299cbc74b8757a48?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 14 |
 | ↳ | **[Core Tax Intern - Winter 2026 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6875d9b4299cbc74b87580b7?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | Hybrid | Jul 14 |
-| **[Adient](https://www.adient.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6875a60cae2f413e4a5a8a57?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Jul 14 |
+| **[Adient](https://www.adient.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6875a94f5cebcd1dd51c2929?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Jul 14 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / 2026](https://jobright.ai/jobs/info/6875c735ae2f413e4a5a9b21?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Jul 14 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship-AML Monitoring- Financial Intelligence Unit](https://jobright.ai/jobs/info/6875c486ae2f413e4a5a9a40?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jul 14 |
 | **[CDH](http://cdhcpa.com)** | **[Accounting Internship (Bilingual Japanese)](https://jobright.ai/jobs/info/6876bc345cebcd1dd51cbdfe?utm_campaign=1052&utm_source=git)** | Itasca, IL | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoBe Capital](http://cobecapital.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/687548d1ae2f413e4a5a56bc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | **[State Street](http://www.statestreet.com)** | **[Intern](https://jobright.ai/jobs/info/68754748299cbc74b87535cb?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jul 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/687530165cebcd1dd51be727?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | On Site | Jul 14 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern - Internal Audit](https://jobright.ai/jobs/info/687524225cebcd1dd51be08e?utm_campaign=1052&utm_source=git)** | San Antonio, TX - One Frost | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
