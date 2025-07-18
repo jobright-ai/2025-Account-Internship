@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687a779f2097a271a897f185?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 18 |
+| **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern / Accounting Services Outsourced / 2026](https://jobright.ai/jobs/info/67ad0e65a81a091bca201c72?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jul 18 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95927?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c2353?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Jul 18 |
 | **[PerkinElmer](http://www.perkinelmer.com)** | **[Intern Finance](https://jobright.ai/jobs/info/687a58ce2097a271a897e614?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ce?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 18 |
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ba?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/687a3537764c3d7411c2bf1d?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Ponce Bank](https://www.poncebank.com)** | **[Intern](https://jobright.ai/jobs/info/687a2450764c3d7411c2b9e9?utm_campaign=1052&utm_source=git)** | Bronx, NY | On Site | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf4e?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Finance Analyst (AI & Digital Transformation)](https://jobright.ai/jobs/info/687a2343ed63844c944a1837?utm_campaign=1052&utm_source=git)** | Shanghai, VA | Hybrid | Jul 18 |
@@ -93,10 +94,12 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset Management Client Summer Analyst Program](https://jobright.ai/jobs/info/687a4323ed63844c944a2301?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da220679?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 18 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da22066e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
+| ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6865f974f0810735bfbb8366?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 18 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206d5?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 18 |
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a4?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Jul 18 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a6?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | **[Raytheon](http://www.bbn.com)** | **[Skillbridge DOD: FP&A Intern](https://jobright.ai/jobs/info/6879df992097a271a897b2a7?utm_campaign=1052&utm_source=git)** | Tucson, AZ | Hybrid | Jul 17 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/6879dac02097a271a897afb7?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026/ Lincoln](https://jobright.ai/jobs/info/6879b800a7fc8904e3964de1?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
 | ↳ | **[Associate Audit Fall 2026 / Omaha](https://jobright.ai/jobs/info/6879b5c22097a271a8979816?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Jul 17 |
 | ↳ | **[Associate Audit Fall 2026 / Lincoln](https://jobright.ai/jobs/info/6879b33ded63844c9449d7bb?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/6879217eed63844c94498e6a?utm_campaign=1052&utm_source=git)** | Mankato, MN | On Site | Jul 17 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Payroll and Finance Intern](https://jobright.ai/jobs/info/68791aa1a7fc8904e395fc18?utm_campaign=1052&utm_source=git)** | Michigan, United States | Hybrid | Jul 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Eastern & Central WA](https://jobright.ai/jobs/info/686389ff5017de06f8590661?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jul 17 |
-| ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/687915fb2097a271a897454e?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | Jul 17 |
 | ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/687915fb2097a271a897454d?utm_campaign=1052&utm_source=git)** | Rochester, MN | On Site | Jul 17 |
+| ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/687915fb2097a271a897454e?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | Jul 17 |
 | ↳ | **[Internal Operations Intern - Spring 2026 - Eastern & Central WA](https://jobright.ai/jobs/info/6864b44d0123eb491ffc066d?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Jul 17 |
 | ↳ | **[Internal Operations Intern - Spring 2026 - Eastern & Central WA](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e4b3?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Jul 17 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95928?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Private Equity Summer Analyst](https://jobright.ai/jobs/info/67ee04c60762f1e6907cc0ec?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2026 / Louisville](https://jobright.ai/jobs/info/680796512e1c331f3d188903?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Jul 17 |
 | **[HPS Investment Partners, LLC](http://www.hpspartners.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/683fa78a9a0e3cc675595540?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jul 17 |
-| **[Not Your Mother's Haircare](https://nymbrands.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6878eb19ed63844c9449747b?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jul 17 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da22067e?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jul 17 |
-| ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
