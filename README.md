@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/6879dac02097a271a897afb7?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026/ Lincoln](https://jobright.ai/jobs/info/6879b800a7fc8904e3964de1?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
 | ↳ | **[Associate Audit Fall 2026 / Omaha](https://jobright.ai/jobs/info/6879b5c22097a271a8979816?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Jul 17 |
 | ↳ | **[Associate Audit Fall 2026 / Lincoln](https://jobright.ai/jobs/info/6879b33ded63844c9449d7bb?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Accounting Intern - Corporate (Las Vegas)](https://jobright.ai/jobs/info/6879a8a52097a271a897924f?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
 | **[Abdo](https://www.aemcpas.com/)** | **[Accounting Advisory Intern - Winter 2026](https://jobright.ai/jobs/info/6879a80aa7fc8904e3964621?utm_campaign=1052&utm_source=git)** | Mankato, Minnesota, United States | Hybrid | Jul 17 |
 | ↳ | **[Accounting Advisory Intern - Winter 2026](https://jobright.ai/jobs/info/6879a7e4ed63844c9449d2b8?utm_campaign=1052&utm_source=git)** | Edina, Minnesota, United States | Hybrid | Jul 17 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Winter 2026 / Lincoln](https://jobright.ai/jobs/info/6879caab2097a271a897a5d9?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
 | **[Pennsylvania Turnpike Commission](https://www.paturnpike.com/)** | **[Accountant Trainee](https://jobright.ai/jobs/info/6879a33eed63844c9449d155?utm_campaign=1052&utm_source=git)** | Middletown, PA | Hybrid | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Winter 2026 / Omaha](https://jobright.ai/jobs/info/6879bc1ced63844c9449da67?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Jul 17 |
 | **[SECURA Insurance](http://www.secura.net)** | **[Intern-Actuarial/Data Science](https://jobright.ai/jobs/info/6879bd10a7fc8904e3965062?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Jul 17 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/68792314a7fc8904e396029c?utm_campaign=1052&utm_source=git)** | New Ulm, MN | On Site | Jul 17 |
 | ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/68792261ed63844c94498f9f?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Jul 17 |
 | ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/6879217eed63844c94498e6a?utm_campaign=1052&utm_source=git)** | Mankato, MN | On Site | Jul 17 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6841ab453ad9b71c90f95a84?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 17 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Payroll and Finance Intern](https://jobright.ai/jobs/info/68791aa1a7fc8904e395fc18?utm_campaign=1052&utm_source=git)** | Michigan, United States | Hybrid | Jul 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Eastern & Central WA](https://jobright.ai/jobs/info/686389ff5017de06f8590661?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jul 17 |
 | ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/687915fb2097a271a897454e?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | Jul 17 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Operations Intern - Spring 2026 - Eastern & Central WA](https://jobright.ai/jobs/info/6864b44d0123eb491ffc066d?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Jul 17 |
 | ↳ | **[Internal Operations Intern - Spring 2026 - Eastern & Central WA](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e4b3?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Jul 17 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95928?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 17 |
+| ↳ | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6841ab343ad9b71c90f9593c?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern - Financial Services - Winter & Summer 2026 (New York City)](https://jobright.ai/jobs/info/68790d61a7fc8904e395f5a2?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Jul 17 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/6840b9d3460a38e696cfd74b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 17 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2026](https://jobright.ai/jobs/info/68790cf72097a271a897424f?utm_campaign=1052&utm_source=git)** | 1001 Lakeside Avenue, Cleveland, OH, 44114, US | On Site | Jul 17 |
@@ -139,6 +141,10 @@ For a complete list, click the following sortable link below:
 | **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2026 Tax Internship- Denver](https://jobright.ai/jobs/info/680724ae6eff29f62ffb89b3?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Tax Internship: Summer 2026](https://jobright.ai/jobs/info/68788e63ae2f413e4a5c3e25?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Accounting Intern - Cincinnati](https://jobright.ai/jobs/info/68788e5c5cebcd1dd51dbbd5?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 16 |
+| **[Rehmann](http://www.rehmann.com)** | **[Public Sector Assurance Intern (Fall 2025)](https://jobright.ai/jobs/info/6879dd56ed63844c9449efb1?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 16 |
+| ↳ | **[Public Sector Assurance Intern (Fall 2025)](https://jobright.ai/jobs/info/6879d9f82097a271a897ae87?utm_campaign=1052&utm_source=git)** | Jackson, MI | Hybrid | Jul 16 |
+| **[Abdo](https://www.aemcpas.com/)** | **[Accounting Advisory Intern - Winter 2026](https://jobright.ai/jobs/info/6879d182a7fc8904e3965d1d?utm_campaign=1052&utm_source=git)** | Mankato, MN | Hybrid | Jul 16 |
+| ↳ | **[Accounting Advisory Intern - Winter 2026](https://jobright.ai/jobs/info/6879d222a7fc8904e3965d63?utm_campaign=1052&utm_source=git)** | Edina, MN | Hybrid | Jul 16 |
 | **[Citi](https://www.citi.com)** | **[Functions - Internal Audit, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68785f0eae2f413e4a5c1efc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/68785444866a435525ab8777?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Jul 16 |
 | ↳ | **[Intern - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/687853b8ae2f413e4a5c1945?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Jul 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department-Credit Risk Management Intern](https://jobright.ai/jobs/info/687824055cebcd1dd51d80e0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6878f27da7fc8904e395e911?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Accounting Internship](https://jobright.ai/jobs/info/68756d14299cbc74b8754b64?utm_campaign=1052&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
-| **[TJT](http://tjtpa.com)** | **[2027 Tax Internship - Full Time](https://jobright.ai/jobs/info/68780e675cebcd1dd51d764a?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
-| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/68780d905cebcd1dd51d75e1?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
-| **[Uplinq](https://uplinq.com)** | **[Accounting Specialist Intern](https://jobright.ai/jobs/info/68780c205cebcd1dd51d74de?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 16 |
-| **[American Packaging Corporation](https://americanpackaging.com)** | **[Accounting Intern-Fall 2025 Semester](https://jobright.ai/jobs/info/6878031f866a435525ab5fd0?utm_campaign=1052&utm_source=git)** | Story City, IA | On Site | Jul 16 |
-| **[TJT](http://tjtpa.com)** | **[2027 Audit Internship - Full Time](https://jobright.ai/jobs/info/687820e35cebcd1dd51d7f65?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2027 / Tysons, VA](https://jobright.ai/jobs/info/68782505866a435525ab70e9?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
