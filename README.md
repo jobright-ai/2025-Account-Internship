@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/6826a438c3e207529eaa8ae7?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Jul 19 |
+| ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68269c5840d2b037b7b7c373?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 19 |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Credit Research Summer Intern](https://jobright.ai/jobs/info/6826795de9d6d25c5eae4f66?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 19 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2026 Audit Internship](https://jobright.ai/jobs/info/685ccac185b8bb36976bcf97?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 19 |
-| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/687b9a87764c3d7411c341b2?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jul 19 |
+| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/687ba6e92097a271a898643c?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 19 |
+| ↳ | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/687ba075ed63844c944aa439?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jul 19 |
+| ↳ | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/687ba1ac764c3d7411c345cf?utm_campaign=1052&utm_source=git)** | Burlington, VT | On Site | Jul 19 |
+| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/687b9a87764c3d7411c341b2?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jul 19 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax August 2025 / Chicago](https://jobright.ai/jobs/info/687ba26aed63844c944aa57b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 18 |
 | **[Valero](http://www.valero.com)** | **[Treasury Intern - Rotation (On-going)](https://jobright.ai/jobs/info/687afddc764c3d7411c305e1?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | Jul 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/687b76f2ed63844c944a7e53?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Jul 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/687b1e70ed63844c944a6a61?utm_campaign=1052&utm_source=git)** | Burlington, MA | Hybrid | Jul 18 |
@@ -66,16 +73,17 @@ For a complete list, click the following sortable link below:
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/687b6a8a2097a271a8983d51?utm_campaign=1052&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/687a9c5ded63844c944a460e?utm_campaign=1052&utm_source=git)** | Omaha, Nebraska | On Site | Jul 18 |
 | ↳ | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/687a9ab9764c3d7411c2e537?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | On Site | Jul 18 |
+| **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Audit Intern](https://jobright.ai/jobs/info/687a974c764c3d7411c2e1f1?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 18 |
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Financial Planning and Analysis (ET25055)](https://jobright.ai/jobs/info/6848306b34814475bcbdaabc?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 18 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[State and Local Tax, Telecom Intern - Fall 2025 - Atlanta, GA](https://jobright.ai/jobs/info/687a88b1ed63844c944a3a1c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[State and Local Tax, Telecom Intern - Fall 2025 - Atlanta, GA](https://jobright.ai/jobs/info/687ab9e5ed63844c944a53ea?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687a779f2097a271a897f185?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern / Accounting Services Outsourced / 2026](https://jobright.ai/jobs/info/67ad0e65a81a091bca201c72?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jul 18 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687a76f8ed63844c944a3347?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[Tax Intern](https://jobright.ai/jobs/info/687ad0322097a271a898159a?utm_campaign=1052&utm_source=git)** | Medford, WI | On Site | Jul 18 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/685e717ac726c93959c28856?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c2353?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Jul 18 |
 | **[PerkinElmer](http://www.perkinelmer.com)** | **[Intern Finance](https://jobright.ai/jobs/info/687a58ce2097a271a897e614?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/66e0d7fdee754bbf71a215dc?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
-| **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Audit Intern](https://jobright.ai/jobs/info/687a4d032097a271a897e2ef?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 18 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Associate – New York Generalist Program](https://jobright.ai/jobs/info/684e63d50f4cc82b5096a0cf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Finance and Operations Intern](https://jobright.ai/jobs/info/68717331a5ae807a59cff9f5?utm_campaign=1052&utm_source=git)** | Greater Orlando, FL | On Site | Jul 18 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2026 / Cincinnati](https://jobright.ai/jobs/info/68079b703411b256f376d618?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Audit Summer Intern](https://jobright.ai/jobs/info/67c5856c2f4670f8d269e9e4?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2025)](https://jobright.ai/jobs/info/68794e7fa7fc8904e3961ab1?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jul 17 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Private Wealth Management (West Bend, WI Summer 2026)](https://jobright.ai/jobs/info/68794a9aed63844c9449a602?utm_campaign=1052&utm_source=git)** | West Bend | On Site | Jul 17 |
 | **[Vantaca](https://www.vantaca.com/)** | **[Revenue Operations Internship](https://jobright.ai/jobs/info/68794a592097a271a8976431?utm_campaign=1052&utm_source=git)** | 100% Remote | Remote | Jul 17 |
-| ↳ | **[Revenue Operations Internship](https://jobright.ai/jobs/info/68794926a7fc8904e3961714?utm_campaign=1052&utm_source=git)** | Fully Remote | Remote | Jul 17 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax October 2026 / Asheville](https://jobright.ai/jobs/info/68796a882097a271a897753e?utm_campaign=1052&utm_source=git)** | Asheville, NC | Hybrid | Jul 17 |
-| **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Credit and Insurance, Operations Summer Analyst](https://jobright.ai/jobs/info/687975cea7fc8904e3962fcd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 17 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a7?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 17 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2025)](https://jobright.ai/jobs/info/68793223a7fc8904e3960a36?utm_campaign=1052&utm_source=git)** | San Antonio, Texas | On Site | Jul 17 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678abde5339bec8d24846ebf?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jul 17 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/68792314a7fc8904e396029c?utm_campaign=1052&utm_source=git)** | New Ulm, MN | On Site | Jul 17 |
-| ↳ | **[Tax / Audit Intern - Spring 2026 - Southern MN](https://jobright.ai/jobs/info/68792261ed63844c94498f9f?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
