@@ -64,8 +64,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68269c5840d2b037b7b7c373?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/686777f00e96fc554c1e6ce9?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
 | **[Orange Barrel Media](https://orangebarrelmedia.com/)** | **[Accounting Intern- Fall 25](https://jobright.ai/jobs/info/685ee670bcc637be2316e93f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Finance Internship Program - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024ac?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Jul 19 |
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/6826a438c3e207529eaa8ae8?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Jul 19 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Finance Internship Program - Early Careers](https://jobright.ai/jobs/info/685cf18bbf695a1a9a33acb5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
+| ↳ | **[2026 Finance Internship Program - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024ac?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Jul 19 |
+| ↳ | **[2026 Finance Internship Program - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f910250c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Equity Research Analyst (Summer 2026)](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd24d32?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jul 19 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Credit Research Summer Intern](https://jobright.ai/jobs/info/6826795de9d6d25c5eae4f66?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 19 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship – Investment Solutions Analyst](https://jobright.ai/jobs/info/685f2524b1dc51ef7e057faf?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 19 |
@@ -85,12 +87,13 @@ For a complete list, click the following sortable link below:
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/687b6a8a2097a271a8983d51?utm_campaign=1052&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/687a9c5ded63844c944a460e?utm_campaign=1052&utm_source=git)** | Omaha, Nebraska | On Site | Jul 18 |
 | ↳ | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/687a9ab9764c3d7411c2e537?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | On Site | Jul 18 |
+| **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Audit Intern](https://jobright.ai/jobs/info/687a974c764c3d7411c2e1f1?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 18 |
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Financial Planning and Analysis (ET25055)](https://jobright.ai/jobs/info/6848306b34814475bcbdaabc?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[State and Local Tax, Telecom Intern - Fall 2025 - Atlanta, GA](https://jobright.ai/jobs/info/687a88b1ed63844c944a3a1c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687a779f2097a271a897f185?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern / Accounting Services Outsourced / 2026](https://jobright.ai/jobs/info/67ad0e65a81a091bca201c72?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jul 18 |
 | **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[Tax Intern](https://jobright.ai/jobs/info/687ad0322097a271a898159a?utm_campaign=1052&utm_source=git)** | Medford, WI | On Site | Jul 18 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/685e717ac726c93959c28856?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 18 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95927?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jul 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/685d93688b653ad0ec8f5c12?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/682163bab29a8e380e1d7289?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Jul 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c2353?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Jul 18 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/66e0d7fdee754bbf71a215dc?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Intern - Chattanooga](https://jobright.ai/jobs/info/6823aadfd08c1bf2cd0fd0ae?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | On Site | Jul 18 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Associate – New York Generalist Program](https://jobright.ai/jobs/info/684e63d50f4cc82b5096a0cf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Audit Intern](https://jobright.ai/jobs/info/687a4d032097a271a897e2ef?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 18 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Finance and Operations Intern](https://jobright.ai/jobs/info/68717331a5ae807a59cff9f5?utm_campaign=1052&utm_source=git)** | Greater Orlando, FL | On Site | Jul 18 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2026 / Cincinnati](https://jobright.ai/jobs/info/68079b703411b256f376d618?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Audit Summer Intern](https://jobright.ai/jobs/info/67c5856c2f4670f8d269e9e4?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da220696?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206af?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da220698?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Jul 18 |
-| ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e979d2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
+| ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf37?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - Controller - Accounting Clerk/Intern](https://jobright.ai/jobs/info/687a1e43764c3d7411c2b87f?utm_campaign=1052&utm_source=git)** | Huntsville, TX | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abdo](https://www.aemcpas.com/)** | **[Accounting Advisory Intern - Winter 2026](https://jobright.ai/jobs/info/6879a80aa7fc8904e3964621?utm_campaign=1052&utm_source=git)** | Mankato, Minnesota, United States | Hybrid | Jul 17 |
 | ↳ | **[Accounting Advisory Intern - Winter 2026](https://jobright.ai/jobs/info/6879a7e4ed63844c9449d2b8?utm_campaign=1052&utm_source=git)** | Edina, Minnesota, United States | Hybrid | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Winter 2026 / Lincoln](https://jobright.ai/jobs/info/6879caab2097a271a897a5d9?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
-| **[Pennsylvania Turnpike Commission](https://www.paturnpike.com/)** | **[Accountant Trainee](https://jobright.ai/jobs/info/6879a33eed63844c9449d155?utm_campaign=1052&utm_source=git)** | Middletown, PA | Hybrid | Jul 17 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Winter 2026 / Omaha](https://jobright.ai/jobs/info/6879bc1ced63844c9449da67?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
