@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68269c5840d2b037b7b7c373?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/686777f00e96fc554c1e6ce9?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
 | ↳ | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6826856339fd99d10c7eb91f?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Jul 19 |
+| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/685e759128e7759c4bdefc55?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 19 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[VP, Internal Audit Lead - CIB](https://jobright.ai/jobs/info/686627502f49bf26a3cbc07a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Orange Barrel Media](https://orangebarrelmedia.com/)** | **[Accounting Intern- Fall 25](https://jobright.ai/jobs/info/685ee670bcc637be2316e93f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/6826a438c3e207529eaa8ae8?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Jul 19 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Audit Intern](https://jobright.ai/jobs/info/687a974c764c3d7411c2e1f1?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 18 |
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Financial Planning and Analysis (ET25055)](https://jobright.ai/jobs/info/6848306b34814475bcbdaabc?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[State and Local Tax, Telecom Intern - Fall 2025 - Atlanta, GA](https://jobright.ai/jobs/info/687ab9e5ed63844c944a53ea?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687a779f2097a271a897f185?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern / Accounting Services Outsourced / 2026](https://jobright.ai/jobs/info/67ad0e65a81a091bca201c72?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jul 18 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687a76f8ed63844c944a3347?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[Tax Intern](https://jobright.ai/jobs/info/687ad0322097a271a898159a?utm_campaign=1052&utm_source=git)** | Medford, WI | On Site | Jul 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/685d93688b653ad0ec8f5c12?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/682163bab29a8e380e1d7289?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Jul 18 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ce?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 18 |
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ba?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/687a3537764c3d7411c2bf1d?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Part-Time Audit Internship (Fall 2025)](https://jobright.ai/jobs/info/685dea135630ffbb009ff5f4?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Jul 18 |
 | **[Ponce Bank](https://www.poncebank.com)** | **[Intern](https://jobright.ai/jobs/info/687a2450764c3d7411c2b9e9?utm_campaign=1052&utm_source=git)** | Bronx, NY | On Site | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf4e?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
