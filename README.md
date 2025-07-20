@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax August 2025 / Chicago](https://jobright.ai/jobs/info/687ba26aed63844c944aa57b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 18 |
 | **[Valero](http://www.valero.com)** | **[Treasury Intern - Rotation (On-going)](https://jobright.ai/jobs/info/687afddc764c3d7411c305e1?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | Jul 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/687b76f2ed63844c944a7e53?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Jul 18 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/682ab22885200fa66b8e7a17?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Jul 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/687b1e70ed63844c944a6a61?utm_campaign=1052&utm_source=git)** | Burlington, MA | Hybrid | Jul 18 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Expression of Interest: 2026 Trading Sneak Peek Weeks](https://jobright.ai/jobs/info/687b252c2097a271a89828e6?utm_campaign=1052&utm_source=git)** | Chicago | On Site | Jul 18 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/687b6a8a2097a271a8983d51?utm_campaign=1052&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
@@ -108,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ce?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 18 |
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ba?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/687a3537764c3d7411c2bf1d?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Part-Time Audit Internship (Fall 2025)](https://jobright.ai/jobs/info/685dea135630ffbb009ff5f4?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Jul 18 |
 | **[Ponce Bank](https://www.poncebank.com)** | **[Intern](https://jobright.ai/jobs/info/687a2450764c3d7411c2b9e9?utm_campaign=1052&utm_source=git)** | Bronx, NY | On Site | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf4e?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
@@ -144,6 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206dc?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 18 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Miami, FL](https://jobright.ai/jobs/info/67eb282c40c16c66b73e5d07?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jul 17 |
 | **[Raytheon](http://www.bbn.com)** | **[Skillbridge DOD: FP&A Intern](https://jobright.ai/jobs/info/6879df992097a271a897b2a7?utm_campaign=1052&utm_source=git)** | Tucson, AZ | Hybrid | Jul 17 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/6879dac02097a271a897afb7?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026/ Lincoln](https://jobright.ai/jobs/info/6879b800a7fc8904e3964de1?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
 | ↳ | **[Associate Audit Fall 2026 / Omaha](https://jobright.ai/jobs/info/6879b5c22097a271a8979816?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Jul 17 |
 | ↳ | **[Associate Audit Fall 2026 / Lincoln](https://jobright.ai/jobs/info/6879b33ded63844c9449d7bb?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Winter 2026 / Lincoln](https://jobright.ai/jobs/info/6879caab2097a271a897a5d9?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Jul 17 |
 | **[Pennsylvania Turnpike Commission](https://www.paturnpike.com/)** | **[Accountant Trainee](https://jobright.ai/jobs/info/6879a33eed63844c9449d155?utm_campaign=1052&utm_source=git)** | Middletown, PA | Hybrid | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Winter 2026 / Omaha](https://jobright.ai/jobs/info/6879bc1ced63844c9449da67?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Jul 17 |
-| **[SECURA Insurance](http://www.secura.net)** | **[Intern-Actuarial/Data Science](https://jobright.ai/jobs/info/6879bd10a7fc8904e3965062?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
