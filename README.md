@@ -65,6 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Spring 2026 (Valdosta, GA)](https://jobright.ai/jobs/info/6809448ec6f330bcb4c2474a?utm_campaign=1052&utm_source=git)** | Valdosta, GA | On Site | Jul 20 |
 | ↳ | **[Tax Intern - Summer 2026 (Charleston, SC)](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca59?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jul 20 |
 | **[Aireon LLC](http://www.aireon.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6843447e0cf5aeb76600c272?utm_campaign=1052&utm_source=git)** | Headquarters, KY | On Site | Jul 20 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc425?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 20 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Associate – Atlanta](https://jobright.ai/jobs/info/6860e3a3eec56cab8c0ec685?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 20 |
 | **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6826743d35e01abbfe174b01?utm_campaign=1052&utm_source=git)** | Eagle River, WI | On Site | Jul 20 |
 | **[Medpace](http://www.medpace.com)** | **[Strategy and Insights Intern - Fall 2025](https://jobright.ai/jobs/info/67edbcd9957e85f1b0bb23da?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 20 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/687ca7f1ed63844c944b08ec?utm_campaign=1052&utm_source=git)** | Lakeland, FL | Hybrid | Jul 20 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ce?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 18 |
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ba?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Investments - Nelnet Financial Services](https://jobright.ai/jobs/info/687a3537764c3d7411c2bf1d?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Part-Time Audit Internship (Fall 2025)](https://jobright.ai/jobs/info/685dea135630ffbb009ff5f4?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Jul 18 |
 | **[Ponce Bank](https://www.poncebank.com)** | **[Intern](https://jobright.ai/jobs/info/687a2450764c3d7411c2b9e9?utm_campaign=1052&utm_source=git)** | Bronx, NY | On Site | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf4e?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/685dfe69bee2fb40984e858d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b6?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e979e2?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Jul 18 |
-| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c1?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
