@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western States Fire Protection](https://www.wsfp.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/687f66e39f72804245703405?utm_campaign=1052&utm_source=git)** | Centennial, CO | On Site | Jul 22 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Fall 2026)](https://jobright.ai/jobs/info/687f61469f72804245703328?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 22 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/687f0098db19f31cf0d6ebb6?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jul 21 |
 | **[Baffinland](http://www.baffinland.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/687f1d18764c3d7411c49462?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2026 (Raleigh, NC)](https://jobright.ai/jobs/info/687efdc92097a271a89996fa?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 21 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Charleston, SC)](https://jobright.ai/jobs/info/686580780f8ebf0b4d8e09aa?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jul 21 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Productivity Purchasing Intern](https://jobright.ai/jobs/info/687e901e764c3d7411c44523?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Jul 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Finance and Internal Audit Virtual Externship Program (Undergraduate)](https://jobright.ai/jobs/info/687e8eac2097a271a8995e85?utm_campaign=1052&utm_source=git)** | CT - Hartford | Hybrid | Jul 21 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2026 (Peachtree City, GA)](https://jobright.ai/jobs/info/684b8fa8a36551061370db94?utm_campaign=1052&utm_source=git)** | Peachtree City, GA | On Site | Jul 21 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/687eb220764c3d7411c4581d?utm_campaign=1052&utm_source=git)** | Miami Beach, FL | On Site | Jul 21 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Spring 2026 (Bradenton, FL)](https://jobright.ai/jobs/info/6807bbd2bd5f8f945f06ec41?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Jul 21 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Commodities Trading Summer Analyst Internship Program (Summer 2026 Internship)](https://jobright.ai/jobs/info/687eb4792097a271a899738c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 21 |
@@ -124,12 +127,13 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2026 (Bradenton, FL)](https://jobright.ai/jobs/info/6807bbd2bd5f8f945f06e951?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Jul 20 |
 | ↳ | **[Tax Intern - Spring 2026 (Valdosta, GA)](https://jobright.ai/jobs/info/6809448ec6f330bcb4c2474a?utm_campaign=1052&utm_source=git)** | Valdosta, GA | On Site | Jul 20 |
 | ↳ | **[Tax Intern - Summer 2026 (Charleston, SC)](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca59?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Jul 20 |
-| **[Aireon LLC](http://www.aireon.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6843447e0cf5aeb76600c272?utm_campaign=1052&utm_source=git)** | Headquarters, KY | On Site | Jul 20 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc425?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 20 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Associate – Chicago](https://jobright.ai/jobs/info/684517d2012afd01c94422c1?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
 | ↳ | **[2026 Guggenheim Securities Investment Banking Summer Associate – Atlanta](https://jobright.ai/jobs/info/6860e3a3eec56cab8c0ec685?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 20 |
 | **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6826743d35e01abbfe174b01?utm_campaign=1052&utm_source=git)** | Eagle River, WI | On Site | Jul 20 |
 | **[Medpace](http://www.medpace.com)** | **[Strategy and Insights Intern - Fall 2025](https://jobright.ai/jobs/info/67edbcd9957e85f1b0bb23da?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 20 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wells Fargo Global Payments & Liquidity Internship (CA Only) - Early Careers](https://jobright.ai/jobs/info/6851b50d37f1cea41e4921ce?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 20 |
+| ↳ | **[2026 Audit Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c015678f?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Jul 20 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - CRE Investment Analyst (Fall)](https://jobright.ai/jobs/info/685ed6178f0a639d1898428a?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Jul 20 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567db?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6826858c39fd99d10c7ec3ad?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | Jul 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Winter 2026](https://jobright.ai/jobs/info/67983039413f5bd1b560ef33?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/6826a438c3e207529eaa8ae7?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Jul 19 |
 | ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68269c5840d2b037b7b7c373?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 19 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Audit Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f910248f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 19 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/686777f00e96fc554c1e6ce9?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
-| ↳ | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6826856339fd99d10c7eb91f?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Jul 19 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/685e759128e7759c4bdefc55?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
