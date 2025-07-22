@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Naples](https://jobright.ai/jobs/info/687ed4c6764c3d7411c468b1?utm_campaign=1052&utm_source=git)** | Naples, FL | Hybrid | Jul 21 |
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Accounting Internship](https://jobright.ai/jobs/info/687ece142097a271a8997ffc?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Jul 21 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/687ecbe12097a271a8997f12?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters | Remote | Jul 21 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Chicago Industrials](https://jobright.ai/jobs/info/687ec5b1764c3d7411c461f4?utm_campaign=1052&utm_source=git)** | Chicago, IL – U.S. | On Site | Jul 21 |
@@ -68,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP FINANCE](https://jobright.ai/jobs/info/687e9fc0764c3d7411c44efc?utm_campaign=1052&utm_source=git)** | Touchet, WA | On Site | Jul 21 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Actuarial Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/687e976edb19f31cf0d6b7ca?utm_campaign=1052&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Fall 2025 (Tulsa, OK)](https://jobright.ai/jobs/info/687e961c764c3d7411c449f0?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Jul 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/687e91762097a271a89960e8?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 21 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/687e90e0db19f31cf0d6b2c1?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Jul 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Finance and Internal Audit Virtual Externship Program (Undergraduate)](https://jobright.ai/jobs/info/687e90b7db19f31cf0d6b298?utm_campaign=1052&utm_source=git)** | RI - Cumberland | Hybrid | Jul 21 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Productivity Purchasing Intern](https://jobright.ai/jobs/info/687e901e764c3d7411c44523?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Jul 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Finance and Internal Audit Virtual Externship Program (Undergraduate)](https://jobright.ai/jobs/info/687e8eac2097a271a8995e85?utm_campaign=1052&utm_source=git)** | CT - Hartford | Hybrid | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/687dc7d32097a271a89906a2?utm_campaign=1052&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/686618e5cd3a88df203ce097?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 18 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Spring 2026 (Bradenton, FL)](https://jobright.ai/jobs/info/6807bbd2bd5f8f945f06ec41?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Jul 18 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Austin, TX](https://jobright.ai/jobs/info/68635a18869ef5490978a9e6?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
