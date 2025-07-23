@@ -57,17 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[ACCOUNTANT INTERNSHIP (STUDENT)](https://jobright.ai/jobs/info/68813873f4f06100f3a253b0?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | Jul 23 |
+| **[Alpine School District CTE Internships](https://cte.alpineschools.org/student-internships/)** | **[Interested in our Investing Summer Internship?](https://jobright.ai/jobs/info/6881368a16ea5743a37374ac?utm_campaign=1052&utm_source=git)** | San Francisco, CA & New York City, NY | On Site | Jul 23 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Fiduciary Trust Investment Management Intern](https://jobright.ai/jobs/info/688110f129ad6b2744adeb1c?utm_campaign=1052&utm_source=git)** | Pasadena, California, United States of America | On Site | Jul 23 |
-| **[Madison Street Capital](http://www.madisonstreetcapital.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/6880fe11f4f06100f3a22c00?utm_campaign=1052&utm_source=git)** | Sarasota, FL | On Site | Jul 23 |
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Financial Specialist Internship](https://jobright.ai/jobs/info/68811d5929ad6b2744adf4bb?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jul 23 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - All Offices](https://jobright.ai/jobs/info/688120a6f4f06100f3a2460b?utm_campaign=1052&utm_source=git)** | Washington, D.C. | Hybrid | Jul 23 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern, Public Finance for SDGs](https://jobright.ai/jobs/info/6880e97116ea5743a3733f43?utm_campaign=1052&utm_source=git)** | Home, KS | On Site | Jul 23 |
 | **[Career Launch AI](https://www.careerlaunch.ai/)** | **[Investment Banking Summer Associate](https://jobright.ai/jobs/info/6881045329ad6b2744ade22a?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | **[First Student](http://www.firststudentinc.com)** | **[Accounting - Co-op](https://jobright.ai/jobs/info/6880fe5bf4f06100f3a22c2e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 23 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Finance Rotation Program - Accounting Intern](https://jobright.ai/jobs/info/682d6d2e7f42be809e8621e5?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jul 23 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/688111fb16ea5743a3735ab0?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Jul 23 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Relationship Banking Intern](https://jobright.ai/jobs/info/6880fc92f4f06100f3a22b38?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Jul 23 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Trader Intern (Summer 2026 - Chicago)](https://jobright.ai/jobs/info/687b941fed63844c944a95eb?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[CDH](http://cdhcpa.com)** | **[BAS Internship](https://jobright.ai/jobs/info/6880fd2716ea5743a3734b80?utm_campaign=1052&utm_source=git)** | Itasca, IL | On Site | Jul 23 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6880fde529ad6b2744addd81?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Jul 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[ACCOUNTANT INTERNSHIP (STUDENT)](https://jobright.ai/jobs/info/6880dfe616ea5743a37339ac?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | Jul 23 |
 | **[Clark Capital Management Group](http://ccmg.com)** | **[Equity Internship](https://jobright.ai/jobs/info/6880f013f4f06100f3a22301?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 23 |
 | **[Generac Power Systems Inc.](https://www.linkedin.com/company/16079780)** | **[Intern Finance](https://jobright.ai/jobs/info/6880da5416ea5743a373371e?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Jul 23 |
@@ -156,6 +158,4 @@ Job ID : 261598](https://jobright.ai/jobs/info/687f5b4d2097a271a899cb79?utm_camp
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2026 (Melbourne, FL)](https://jobright.ai/jobs/info/687efb27764c3d7411c47b70?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jul 21 |
 | **[Rodefer Moss & Co, PLLC](https://www.rodefermoss.com)** | **[Accounting Intern - Fall 2025](https://jobright.ai/jobs/info/687f1263764c3d7411c48a1a?utm_campaign=1052&utm_source=git)** | KNOXVILLE | On Site | Jul 21 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Naples](https://jobright.ai/jobs/info/687ed4c6764c3d7411c468b1?utm_campaign=1052&utm_source=git)** | Naples, FL | Hybrid | Jul 21 |
-| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Accounting Internship](https://jobright.ai/jobs/info/687ece142097a271a8997ffc?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Jul 21 |
-| **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/687ecbe12097a271a8997f12?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
