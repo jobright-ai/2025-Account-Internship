@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affinius Capital](https://affiniuscapital.com)** | **[Commercial Real Estate Summer Intern (New York, NY)](https://jobright.ai/jobs/info/6880657d2097a271a89a42aa?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jul 22 |
+| **[BASF](https://www.basf.com/)** | **[Business Management & Finance PDP Internship - Summer 2026: FP&A Track](https://jobright.ai/jobs/info/688074329f7280424570b4e3?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | Hybrid | Jul 22 |
+| **[Weldaloy Specialty Forgings](https://weldaloy.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/688073be9f7280424570b440?utm_campaign=1052&utm_source=git)** | Warren, MI | Hybrid | Jul 22 |
 | **[Mission US](https://missionunderwriters.com/)** | **[Fall Underwriting Intern](https://jobright.ai/jobs/info/688049a1764c3d7411c50e6a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Assurance Internship](https://jobright.ai/jobs/info/68803f9d764c3d7411c506b3?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jul 22 |
+| **[New Mexico Mutual ](https://www.newmexicomutual.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/688074209f7280424570b4be?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Jul 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2026](https://jobright.ai/jobs/info/6745daf817314312922bfcaf?utm_campaign=1052&utm_source=git)** | West Los Angeles, CA | Hybrid | Jul 22 |
 | **[ASM Global](https://asmglobal.com/)** | **[Business Finance Analyst Intern](https://jobright.ai/jobs/info/68804a07764c3d7411c50ed6?utm_campaign=1052&utm_source=git)** | Remote, USA | Remote | Jul 22 |
 | **[Uplinq](https://uplinq.com)** | **[Onboarding Accounting Intern](https://jobright.ai/jobs/info/688045b3764c3d7411c50ad7?utm_campaign=1052&utm_source=git)** | Remote (United States) | Remote | Jul 22 |
@@ -73,8 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/687ffeb49f72804245706628?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Jul 22 |
 | **[ROTH Capital Partners](http://www.roth.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/688004979f72804245706989?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Jul 22 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / UCI & Chapman Only)](https://jobright.ai/jobs/info/687fbc7e764c3d7411c4cb88?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jul 22 |
+| **[Citi](https://www.citi.com)** | **[Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2026](https://jobright.ai/jobs/info/681d85b1a1aa04a5e4dd5267?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[KYOCERA Document Solutions America, Inc.](http://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/68631d628ba0d8689d177c17?utm_campaign=1052&utm_source=git)** | Fairfield, NJ | On Site | Jul 22 |
 | **[Arena Investors, LP](http://www.arenaco.com/)** | **[Summer Investment Analyst - 2026](https://jobright.ai/jobs/info/687f9ee69f72804245703f34?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 22 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/6862dc786850f8d808bdd27b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jul 22 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[Finance & Investment Analysis Internship In Bali](https://jobright.ai/jobs/info/687faf769f728042457047ba?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/686e15ea971c1e9673ec0242?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 22 |
 | **[OSCE](https://savitashawls.com/)** | **[Intern, Finance Unit](https://jobright.ai/jobs/info/687f81169f7280424570375b?utm_campaign=1052&utm_source=git)** | Tippecanoe County, IN | On Site | Jul 22 |
@@ -82,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Western States Fire Protection](https://www.wsfp.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/687f66e39f72804245703405?utm_campaign=1052&utm_source=git)** | Centennial, CO | On Site | Jul 22 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Fall 2026)](https://jobright.ai/jobs/info/687f61469f72804245703328?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 22 |
 | ↳ | **[Public Accounting Internship – (Full-Time / Summer 2026)](https://jobright.ai/jobs/info/6873484206ad7073463ce9d6?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 22 |
+| ↳ | **[Public Accounting Internship – (Fall 2026)](https://jobright.ai/jobs/info/6863485275a7d35fe59d5be4?utm_campaign=1052&utm_source=git)** | Columbus, IN | On Site | Jul 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfddab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[Generac](https://www.generac.com/)** | **[Intern Finance](https://jobright.ai/jobs/info/6862cbd141b12874771d76b8?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Jul 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern - Global Transaction Analytics (GTA)](https://jobright.ai/jobs/info/67f7032cf3b080c4766a82d6?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Jul 22 |
@@ -151,11 +158,4 @@ Job ID : 261598](https://jobright.ai/jobs/info/687f5b4d2097a271a899cb79?utm_camp
 | **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern / Accounting Services Outsourced / 2026](https://jobright.ai/jobs/info/67d2df55fb11b68fc00d89e5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[Stout](http://www.stout.com)** | **[Intern Fall 2025 - Spring 2026, Business Valuation (Bala Cynwyd)](https://jobright.ai/jobs/info/687e5d17db19f31cf0d69ad5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 21 |
 | **[Trillium Trading](https://www.trlm.com)** | **[Summer 2026 Equity Trader Internship](https://jobright.ai/jobs/info/687e5758db19f31cf0d6992a?utm_campaign=1052&utm_source=git)** | Miami | On Site | Jul 21 |
-| ↳ | **[Summer 2026 Equity Trader Internship](https://jobright.ai/jobs/info/687e5588db19f31cf0d6987b?utm_campaign=1052&utm_source=git)** | NYC | On Site | Jul 21 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / 2026](https://jobright.ai/jobs/info/67d2e8ec96cd410ae1de9af7?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jul 21 |
-| **[Trillium Trading](https://www.trlm.com)** | **[Summer 2026 Equity Trader Internship](https://jobright.ai/jobs/info/687e4d602097a271a899428a?utm_campaign=1052&utm_source=git)** | Chicago | On Site | Jul 21 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Tax Summer Intern - Healthcare](https://jobright.ai/jobs/info/687e4382db19f31cf0d68fe2?utm_campaign=1052&utm_source=git)** | Boston | Hybrid | Jul 21 |
-| **[DSB Rock Island](https://dsb-rockisland.com)** | **[Tax Intern 1/26/26-4/15/26](https://jobright.ai/jobs/info/687e42a2764c3d7411c4232f?utm_campaign=1052&utm_source=git)** | Mendota Heights, MN | On Site | Jul 21 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2026 Winter Internships](https://jobright.ai/jobs/info/6799cdd63f1a0a5227c13a1b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Jul 21 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2026 Spring Internship Opportunities](https://jobright.ai/jobs/info/673bc4c21b8841e8ce77d069?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
