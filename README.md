@@ -57,9 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cru](https://www.cru.org)** | **[Finance Generalist Internship (Part Time)](https://jobright.ai/jobs/info/688271a9b54cac0f1e72f924?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Jul 24 |
+| **[BDO](https://global-www.bdo.global/)** | **[Core Tax Intern - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/688266d1835a903aa07ed414?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 24 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Winter 2026](https://jobright.ai/jobs/info/6865860b0e5363198828be8e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[BDO](https://global-www.bdo.global/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Detroit)](https://jobright.ai/jobs/info/688246616fcd973d15ad7da5?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Jul 24 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Raleigh](https://jobright.ai/jobs/info/6811644104fcee544ad5236c?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Audit Intern - Louisville](https://jobright.ai/jobs/info/68115a71aea77350adef848f?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68115a71aea77350adef84ab?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
+| ↳ | **[Spring 2026 Audit Intern - Elgin](https://jobright.ai/jobs/info/68115a71aea77350adef8494?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef84a1?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
+| ↳ | **[Spring 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Audit Intern - Tysons](https://jobright.ai/jobs/info/68115a71aea77350adef84a5?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
 | **[Butler Technologies, Inc.](http://www.butlertechnologies.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68823aa4b54cac0f1e72def3?utm_campaign=1052&utm_source=git)** | Butler, PA | Hybrid | Jul 24 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Tampa](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5e?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Tax Intern - Tysons](https://jobright.ai/jobs/info/6811644104fcee544ad52371?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Revenue Accounting Co-Op Internship, Part-Time](https://jobright.ai/jobs/info/6882354a835a903aa07ebbeb?utm_campaign=1052&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Jul 24 |
+| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68826731b54cac0f1e72f485?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/686576b21833401537e1b2d8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Jul 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Internal Audit Analyst Program - Summer Analyst Opportunity](https://jobright.ai/jobs/info/6865860b0e5363198828c04e?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 24 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Summer Investment Analyst Program](https://jobright.ai/jobs/info/68649885f4a7b8d27ccd8c80?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
@@ -102,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Tax Intern - Waltham](https://jobright.ai/jobs/info/6881818729ad6b2744ae2a68?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Jul 23 |
 | ↳ | **[Spring 2027 Tax Intern - Chicago](https://jobright.ai/jobs/info/688180a729ad6b2744ae2a01?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | ↳ | **[Spring 2026 Tax Intern - Waltham](https://jobright.ai/jobs/info/68817ffcf4f06100f3a27640?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Charlotte](https://jobright.ai/jobs/info/68817f5e29ad6b2744ae297c?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 23 |
 | ↳ | **[Summer 2027 Audit Intern - Atlanta](https://jobright.ai/jobs/info/68817f5e29ad6b2744ae297b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
+| ↳ | **[Spring 2027 Audit Intern - Charlotte](https://jobright.ai/jobs/info/68817f5e29ad6b2744ae297c?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 23 |
 | ↳ | **[Summer 2027 Audit Intern - Ft. Lauderdale](https://jobright.ai/jobs/info/68817efaf4f06100f3a275ba?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 23 |
 | ↳ | **[Spring 2027 Tax Intern - Orland Park](https://jobright.ai/jobs/info/68817eb529ad6b2744ae293d?utm_campaign=1052&utm_source=git)** | Orland Park, IL | On Site | Jul 23 |
 | ↳ | **[Summer 2027 Tax Intern - Augusta](https://jobright.ai/jobs/info/68817e8e29ad6b2744ae292f?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Jul 23 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Financial Analyst 1](https://jobright.ai/jobs/info/68816f6ff4f06100f3a26ec4?utm_campaign=1052&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Jul 23 |
 | ↳ | **[Financial Analyst 1](https://jobright.ai/jobs/info/68816eeb16ea5743a37390bb?utm_campaign=1052&utm_source=git)** | Spring, Texas, United States of America | On Site | Jul 23 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Audit Intern - Louisville](https://jobright.ai/jobs/info/68816c0129ad6b2744ae20ee?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Richmond](https://jobright.ai/jobs/info/68816b18f4f06100f3a26d56?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Tax Intern - Richmond](https://jobright.ai/jobs/info/68816b10f4f06100f3a26d53?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Audit Intern - Elgin](https://jobright.ai/jobs/info/68816abff4f06100f3a26d32?utm_campaign=1052&utm_source=git)** | Elgin, IL | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Tax Intern - Orland Park](https://jobright.ai/jobs/info/68816a63f4f06100f3a26cf7?utm_campaign=1052&utm_source=git)** | Orland Park, IL | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Greenville](https://jobright.ai/jobs/info/68816a5816ea5743a3738f2c?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Coral Gables](https://jobright.ai/jobs/info/688169cc16ea5743a3738ee5?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Tampa](https://jobright.ai/jobs/info/688169b8f4f06100f3a26c96?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Indianapolis](https://jobright.ai/jobs/info/68816981f4f06100f3a26c84?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Tax Intern - Louisville](https://jobright.ai/jobs/info/688168d4f4f06100f3a26c31?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Tax Intern - Coral Gables](https://jobright.ai/jobs/info/68816896f4f06100f3a26c1e?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Audit Intern - Charlotte](https://jobright.ai/jobs/info/6881685916ea5743a3738e2f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Raleigh](https://jobright.ai/jobs/info/6881682bf4f06100f3a26bed?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Tax Intern - Waltham](https://jobright.ai/jobs/info/6881681d16ea5743a3738e1d?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Jul 23 |
-| ↳ | **[Spring 2027 Audit Intern - Austin](https://jobright.ai/jobs/info/688167dff4f06100f3a26bcb?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 23 |
-| ↳ | **[Summer 2026 Audit Intern - Waltham](https://jobright.ai/jobs/info/6881671416ea5743a3738d6f?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
