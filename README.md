@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Revenue Accounting Co-Op Internship, Part-Time](https://jobright.ai/jobs/info/6882354a835a903aa07ebbeb?utm_campaign=1052&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Jul 24 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/686576b21833401537e1b2d8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Jul 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Internal Audit Analyst Program - Summer Analyst Opportunity](https://jobright.ai/jobs/info/6865860b0e5363198828c04e?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 24 |
 | **[Susquehanna International Group](http://sig.com)** | **[Sell Side Research Internship: Summer 2026](https://jobright.ai/jobs/info/6865befce0db1b536368d831?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| ↳ | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/686618e5cd3a88df203cda5a?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jul 24 |
+| **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Power & Renewables, Summer Investment Analyst Program](https://jobright.ai/jobs/info/686fb8d206ad7073463b8554?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
+| **[Susquehanna International Group](http://sig.com)** | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/686618e5cd3a88df203cda5a?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jul 24 |
 | **[Inuvo, Inc](http://inuvo.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6881f2f9ee15177ae971927a?utm_campaign=1052&utm_source=git)** | Little Rock, AR | Hybrid | Jul 24 |
 | **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Accounting](https://jobright.ai/jobs/info/6881d80dee15177ae9717d07?utm_campaign=1052&utm_source=git)** | 1470 Exposition Way, San Diego, CA 92154, USA | On Site | Jul 23 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2026 - Boise, ID](https://jobright.ai/jobs/info/6881edfaee15177ae97190c6?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Jul 23 |
@@ -114,8 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Tax Intern - Elgin](https://jobright.ai/jobs/info/68817a7f16ea5743a37395fa?utm_campaign=1052&utm_source=git)** | Elgin, IL | On Site | Jul 23 |
 | ↳ | **[Spring 2027 Tax Intern - Rockville](https://jobright.ai/jobs/info/68817a2c16ea5743a37395c8?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jul 23 |
 | ↳ | **[Summer 2027 Tax Intern - Tysons](https://jobright.ai/jobs/info/6881794229ad6b2744ae2725?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Jul 23 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Deutsche Bank Internship Program – Investment Bank: Origination and Advisory – Boston 2026 at Deutsche Bank](https://jobright.ai/jobs/info/688178b729ad6b2744ae26e2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2027 Tax Intern - Atlanta](https://jobright.ai/jobs/info/688178a729ad6b2744ae26da?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
+| ↳ | **[Summer 2027 Tax Intern - Atlanta](https://jobright.ai/jobs/info/688178a729ad6b2744ae26da?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
 | ↳ | **[Spring 2027 Audit Intern - Augusta](https://jobright.ai/jobs/info/6881789df4f06100f3a2733f?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Jul 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Finance (Summer 2026)](https://jobright.ai/jobs/info/6881786d29ad6b2744ae26b9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Audit Intern - Tysons](https://jobright.ai/jobs/info/68817865f4f06100f3a27320?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Tax Intern - Nashville](https://jobright.ai/jobs/info/688166b6f4f06100f3a26aff?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jul 23 |
 | ↳ | **[Summer 2027 Tax Intern - Austin](https://jobright.ai/jobs/info/6881667916ea5743a3738cfd?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 23 |
 | ↳ | **[Spring 2027 Tax Intern - Richmond](https://jobright.ai/jobs/info/688165d916ea5743a3738ccb?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Audit Intern - Waltham](https://jobright.ai/jobs/info/6881659af4f06100f3a26a92?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Jul 23 |
-| ↳ | **[Summer 2027 Tax Intern - Louisville](https://jobright.ai/jobs/info/6881655816ea5743a3738c9b?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
