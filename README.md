@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[First Student](http://www.firststudentinc.com)** | **[Accounting - Co-op](https://jobright.ai/jobs/info/688333636fcd973d15ae0750?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Real Estate](https://jobright.ai/jobs/info/688339c3835a903aa07f50fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Greenville](https://jobright.ai/jobs/info/68831490835a903aa07f37e6?utm_campaign=1052&utm_source=git)** | Greenville, NC | Hybrid | Jul 24 |
 | **[355Life](http://www.355life.com/)** | **[Financial Analyst Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/688310e6835a903aa07f335b?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68830ab8b54cac0f1e735031?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
@@ -136,14 +136,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad5236d?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Cincinnati](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad52357?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/683bcda5fe49ba85fefeb832?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Louisville](https://jobright.ai/jobs/info/68115a71aea77350adef848f?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68115a71aea77350adef84ab?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Austin](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4c?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Elgin](https://jobright.ai/jobs/info/68115a71aea77350adef8494?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef84a1?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Intern - Austin](https://jobright.ai/jobs/info/68115a71aea77350adef8492?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 24 |
-| ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Tysons](https://jobright.ai/jobs/info/68115a71aea77350adef84a5?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68115a71aea77350adef8495?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/686576b21833401537e1b2d8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Jul 24 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Investment Accounting](https://jobright.ai/jobs/info/6865c2b574d7b0c6769b16c8?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 24 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Summer Investment Analyst Program](https://jobright.ai/jobs/info/68649885f4a7b8d27ccd8c85?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 24 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Internal Audit Analyst Program - Summer Analyst Opportunity](https://jobright.ai/jobs/info/6865860b0e5363198828c04e?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
