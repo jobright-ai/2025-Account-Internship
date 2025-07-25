@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance (Denver, CO Summer 2026)](https://jobright.ai/jobs/info/6883c2056fcd973d15ae2d6a?utm_campaign=1052&utm_source=git)** | CO-Denver | On Site | Jul 25 |
+| **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6883b7e7b54cac0f1e739064?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Jul 25 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / UCI & Chapman Only)](https://jobright.ai/jobs/info/6883b5da835a903aa07f6f74?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jul 25 |
 | **[Gross, Mendelsohn & Associates, P.A.](http://gma-cpa.com)** | **[Tax/Audit Summer Intern](https://jobright.ai/jobs/info/6883a834835a903aa07f6a2e?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jul 25 |
-| **[The Hartford](https://www.hartfordlife.com)** | **[Intern, Actuarial Student Program](https://jobright.ai/jobs/info/6883a2e66fcd973d15ae20b2?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Jul 25 |
+| **[The Hartford](https://www.hartfordlife.com)** | **[Intern, Actuarial Student Program](https://jobright.ai/jobs/info/6883c27eb54cac0f1e73941f?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Jul 25 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Real Estate Investing: Off-cycle Intern](https://jobright.ai/jobs/info/68839819b54cac0f1e73848f?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Jul 25 |
 | **[Jackson](https://www.jackson.com)** | **[Actuarial Student](https://jobright.ai/jobs/info/68838641835a903aa07f6184?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Jul 25 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2026 Internship - Jupiter, FL](https://jobright.ai/jobs/info/68838562835a903aa07f613a?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Jul 25 |
 | ↳ | **[Tax Winter 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/688384d36fcd973d15ae19e7?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Jul 25 |
-| ↳ | **[Tax Summer 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/68837d72b54cac0f1e737f0f?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Jul 25 |
+| **[First Student](http://www.firststudentinc.com)** | **[Accounting - Co-op](https://jobright.ai/jobs/info/6883add0b54cac0f1e738c79?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/68837d72b54cac0f1e737f0f?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Jul 25 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Tax Internship- Chicago](https://jobright.ai/jobs/info/682e0b21e2dd48eda25b5aa5?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6792a71b93d549cdf8f7b49e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 25 |
+| ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 25 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Real Estate](https://jobright.ai/jobs/info/688339c3835a903aa07f50fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Greenville](https://jobright.ai/jobs/info/68831490835a903aa07f37e6?utm_campaign=1052&utm_source=git)** | Greenville, NC | Hybrid | Jul 24 |
 | **[355Life](http://www.355life.com/)** | **[Financial Analyst Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/688310e6835a903aa07f335b?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68115a71aea77350adef84ab?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Austin](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4c?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Elgin](https://jobright.ai/jobs/info/68115a71aea77350adef8494?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 24 |
-| ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef84a1?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
-| ↳ | **[Summer 2026 Tax Intern - Austin](https://jobright.ai/jobs/info/68115a71aea77350adef8492?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 24 |
-| ↳ | **[Spring 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
-| ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
-| ↳ | **[Summer 2026 Audit Intern - Tysons](https://jobright.ai/jobs/info/68115a71aea77350adef84a5?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
