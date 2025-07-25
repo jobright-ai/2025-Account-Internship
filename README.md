@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Audit Intern - Elgin](https://jobright.ai/jobs/info/68115a71aea77350adef8494?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef84a1?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Intern - Austin](https://jobright.ai/jobs/info/68115a71aea77350adef8492?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 24 |
-| ↳ | **[Spring 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
+| ↳ | **[Spring 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Tysons](https://jobright.ai/jobs/info/68115a71aea77350adef84a5?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68115a71aea77350adef8495?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
