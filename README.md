@@ -85,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[City of Chico](https://chico.ca.us/)** | **[Intern-Finance](https://jobright.ai/jobs/info/6882f7e3b54cac0f1e733fd3?utm_campaign=1052&utm_source=git)** | Chico, CA | On Site | Jul 24 |
 | **[Navigation Capital Group](www.navigationcap.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/6882ac70b54cac0f1e731e5e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Business Intern - Summer 2026](https://jobright.ai/jobs/info/6882a8b0835a903aa07efc2e?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jul 24 |
-| **[Isler CPA - CPAs and Business Advisors](https://islercpa.com/)** | **[Junior Staff Accountant (Internship)](https://jobright.ai/jobs/info/6882a5d96fcd973d15adb415?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Jul 24 |
+| **[Isler CPA](https://islercpa.com/)** | **[Junior Staff Accountant (Internship)](https://jobright.ai/jobs/info/6882a5d96fcd973d15adb415?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Jul 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Charlotte](https://jobright.ai/jobs/info/68829c89b54cac0f1e7314b4?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jul 24 |
 | **[Kreischer Miller](http://kmco.com)** | **[Audit or Tax Intern 2027 - Busy Season (Jan-April)](https://jobright.ai/jobs/info/6882967d6fcd973d15adaae5?utm_campaign=1052&utm_source=git)** | US-PA-Horsham | On Site | Jul 24 |
 | ↳ | **[Summer 2027 Audit or Tax Intern - (May-August)](https://jobright.ai/jobs/info/688296716fcd973d15adaad0?utm_campaign=1052&utm_source=git)** | US-PA-Horsham | On Site | Jul 24 |
@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Audit Intern - Elgin](https://jobright.ai/jobs/info/68115a71aea77350adef8494?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef84a1?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Tax Intern - Austin](https://jobright.ai/jobs/info/68115a71aea77350adef8492?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Jul 24 |
-| ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Richmond](https://jobright.ai/jobs/info/68116a5fe571778c6d728e4a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 24 |
+| ↳ | **[Summer 2026 Tax Intern - Greenville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e62?utm_campaign=1052&utm_source=git)** | Greenville, SC | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Tysons](https://jobright.ai/jobs/info/68115a71aea77350adef84a5?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Remote | Jul 24 |
 | ↳ | **[Spring 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68115a71aea77350adef8495?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
 | ↳ | **[Summer 2026 Audit Intern - Nashville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
