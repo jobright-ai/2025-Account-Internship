@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[Actuarial Intern (Summer 2026)](https://jobright.ai/jobs/info/68849f02fbbf032d0006ac7e?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Jul 26 |
+| **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68849720b651c92cb78a9dd1?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
+| **[Cape Rey Carlsbad Beach, A Hilton Resort & Spa](https://www.caperey.com)** | **[Intern - Accounting Clerk](https://jobright.ai/jobs/info/688491764174df41e0f94c24?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Jul 26 |
+| **[First Student](http://www.firststudentinc.com)** | **[Accounting - Co-op](https://jobright.ai/jobs/info/688489534174df41e0f94aff?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Finance Intern](https://jobright.ai/jobs/info/68844924b651c92cb78a5f71?utm_campaign=1052&utm_source=git)** | Flower Mound, TX | On Site | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Charleston WV](https://jobright.ai/jobs/info/6884487d4174df41e0f90d83?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Jul 25 |
 | **[Resort Jobs](https://career-maldives.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6884470e4174df41e0f90c69?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 25 |
@@ -110,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Accolade Partners](http://accoladepartners.com)** | **[Spring + Summer 2026 Investment Intern](https://jobright.ai/jobs/info/6883d51eb54cac0f1e73a132?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 25 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6883d368b54cac0f1e739ea5?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona | On Site | Jul 25 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Accounting/Finance Internship - Fall 2025](https://jobright.ai/jobs/info/6883d3476fcd973d15ae379c?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Jul 25 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Fall 2025 - Los Angeles, CA](https://jobright.ai/jobs/info/6883d323b54cac0f1e739e2f?utm_campaign=1052&utm_source=git)** | Century City, CA | On Site | Jul 25 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance (Denver, CO Summer 2026)](https://jobright.ai/jobs/info/6883c2056fcd973d15ae2d6a?utm_campaign=1052&utm_source=git)** | CO-Denver | On Site | Jul 25 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6883b7e7b54cac0f1e739064?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Jul 25 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / UCI & Chapman Only)](https://jobright.ai/jobs/info/6883b5da835a903aa07f6f74?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jul 25 |
@@ -145,6 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Core Tax Intern - Winter 2026 (Cleveland or Akron)](https://jobright.ai/jobs/info/67919b72cb2576badc9666fb?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Jul 25 |
 | ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 25 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Real Estate](https://jobright.ai/jobs/info/688339c3835a903aa07f50fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
+| **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Summer Investment Analyst Program](https://jobright.ai/jobs/info/68649885f4a7b8d27ccd8c83?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Jul 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Raleigh](https://jobright.ai/jobs/info/68848490b651c92cb78a9a45?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/682c77ccea5191013cb4259f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Greenville](https://jobright.ai/jobs/info/68831490835a903aa07f37e6?utm_campaign=1052&utm_source=git)** | Greenville, NC | Hybrid | Jul 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / New York City](https://jobright.ai/jobs/info/68830aa4835a903aa07f2fd6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
 | ↳ | **[Associate Audit Summer 2027 / Kansas City](https://jobright.ai/jobs/info/6883097a6fcd973d15ade91a?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Jul 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6883092cb54cac0f1e734f01?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
-| **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Investment Analyst Program](https://jobright.ai/jobs/info/686fd02ba5ae807a59cf3a38?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
-| **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operational Accounting Intern](https://jobright.ai/jobs/info/688307c96fcd973d15ade777?utm_campaign=1052&utm_source=git)** | Plymouth, WI | On Site | Jul 24 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Nashville](https://jobright.ai/jobs/info/68832714b54cac0f1e736387?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jul 24 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Louisville](https://jobright.ai/jobs/info/681157d680ae5349347bbe1d?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
