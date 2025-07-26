@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/68841435b54cac0f1e73bf82?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Jul 25 |
+| ↳ | **[2027 Accounting Intern](https://jobright.ai/jobs/info/688413ed6fcd973d15ae580c?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Jul 25 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Accounting Intern at Michelman & Robinson LLP](https://jobright.ai/jobs/info/688411546fcd973d15ae5716?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
+| **[Frontier Bank of Texas](https://www.frontierbankoftexas.bank)** | **[Finance Internship (Southwestern University Students only)](https://jobright.ai/jobs/info/68840ed96fcd973d15ae564f?utm_campaign=1052&utm_source=git)** | Fredericksburg, VA | On Site | Jul 25 |
+| **[The Dolins Group, Ltd.](https://thedolinsgroup.com/)** | **[Tax Season Intern - 2026](https://jobright.ai/jobs/info/68840d14b54cac0f1e73bc94?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Jul 25 |
+| **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2026 Audit Intern](https://jobright.ai/jobs/info/68840a26b54cac0f1e73bb86?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 25 |
+| ↳ | **[2026 Tax Intern](https://jobright.ai/jobs/info/688409d2b54cac0f1e73bb2d?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 25 |
+| **[Somich & Associates CPAs](https://somichcpa.com)** | **[Internship](https://jobright.ai/jobs/info/688409566fcd973d15ae53d7?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | Jul 25 |
+| **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Accounting Assistant Intern](https://jobright.ai/jobs/info/6884079e835a903aa07f9b79?utm_campaign=1052&utm_source=git)** | Huntsville, AL | Hybrid | Jul 25 |
+| **[Cultural Care Au Pair](http://www.culturalcare.com)** | **[Accounting Co-Op](https://jobright.ai/jobs/info/6884021b835a903aa07f9996?utm_campaign=1052&utm_source=git)** | Two Education Circle, Cambridge, MA, 02141, US | On Site | Jul 25 |
+| **[rebel Financial](https://rebelfinancial.com/)** | **[Financial Advisory Internship - Fall 2025](https://jobright.ai/jobs/info/6884001cb54cac0f1e73b7e6?utm_campaign=1052&utm_source=git)** | Groveport, OH | On Site | Jul 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Accounting Methods and Periods Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6883f8f46fcd973d15ae4f98?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jul 25 |
 | ↳ | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/6883f7e5835a903aa07f9731?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[USAA](https://www.usaa.com)** | **[IT Audit Intern](https://jobright.ai/jobs/info/6883f788835a903aa07f96e3?utm_campaign=1052&utm_source=git)** | Plano Legacy | On Site | Jul 25 |
@@ -128,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[McWane, Inc.](http://www.mcwane.com)** | **[Tyler Union - Accounting Intern](https://jobright.ai/jobs/info/6882d3a2835a903aa07f0f38?utm_campaign=1052&utm_source=git)** | Anniston, AL, USA | On Site | Jul 24 |
 | **[LattaHarris, LLP](https://www.lattaharris.com)** | **[2026 Spring Internship- Cedar Rapids](https://jobright.ai/jobs/info/6882d379835a903aa07f0ef9?utm_campaign=1052&utm_source=git)** | Cedar Rapids | On Site | Jul 24 |
 | **[Hayes & Associates, L.L.C.](https://hayes.cpa)** | **[Staff Internship](https://jobright.ai/jobs/info/6883f94bb54cac0f1e73b6e4?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Jul 24 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense at Guggenheim Partners](https://jobright.ai/jobs/info/6882c50bb54cac0f1e732a66?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Tyler Union](https://tylerunion.com/)** | **[Tyler Union - Accounting Intern](https://jobright.ai/jobs/info/6882ff6db54cac0f1e7345fa?utm_campaign=1052&utm_source=git)** | Anniston, AL | On Site | Jul 24 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Accounting / Finance](https://jobright.ai/jobs/info/6882bd9a835a903aa07f07c0?utm_campaign=1052&utm_source=git)** | Midland, MI | On Site | Jul 24 |
 | **[Breeze Airways™](https://www.flybreeze.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/6882b75bb54cac0f1e732560?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, Utah, United States | On Site | Jul 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Spring 2026](https://jobright.ai/jobs/info/688290186fcd973d15ada7c7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Detroit)](https://jobright.ai/jobs/info/68828f64835a903aa07eee1b?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Jul 24 |
 | **[Susquehanna International Group](http://sig.com)** | **[Credit Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/686618e5cd3a88df203cda64?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jul 24 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026/ Memphis](https://jobright.ai/jobs/info/6882b1ed6fcd973d15adbbb4?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Jul 24 |
-| **[Sony](https://www.sony.com)** | **[Data Operations Intern, Aniplex](https://jobright.ai/jobs/info/68828987835a903aa07ee85a?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | Jul 24 |
-| **[AQR Capital Management](https://www.aqr.com)** | **[2026 Risk Summer Analyst](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5934?utm_campaign=1052&utm_source=git)** | Greenwich, CT | On Site | Jul 24 |
-| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Milwaukee Property & Casualty (Summer 2026)](https://jobright.ai/jobs/info/6882f572835a903aa07f1d51?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | Jul 24 |
-| **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Spring 2026](https://jobright.ai/jobs/info/6882866f835a903aa07ee31e?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio | Hybrid | Jul 24 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Revenue Accounting Co-Op Internship, Part-Time](https://jobright.ai/jobs/info/6882b06a6fcd973d15adbacf?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
-| **[Zipline](http://flyzipline.com)** | **[Accounting Intern (Fall 2025)](https://jobright.ai/jobs/info/6882804db54cac0f1e72feb9?utm_campaign=1052&utm_source=git)** | South San Francisco, CA | On Site | Jul 24 |
-| **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Client Advisor Analyst](https://jobright.ai/jobs/info/688280386fcd973d15ad986a?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
-| **[Zipline](http://flyzipline.com)** | **[Accounting Intern (Fall 2025)](https://jobright.ai/jobs/info/68827cf5b54cac0f1e72fcda?utm_campaign=1052&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 24 |
-| **[Abdo](https://www.aemcpas.com/)** | **[Accounting Audit Intern - Winter 2026](https://jobright.ai/jobs/info/6883e494835a903aa07f8a16?utm_campaign=1052&utm_source=git)** | Mankato, MN | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
