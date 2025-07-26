@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688516644174df41e0f96160?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
+| **[355Life](http://www.355life.com/)** | **[Finance Analyst Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/688507bab651c92cb78aaea3?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jul 26 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6884ddb2b651c92cb78aa849?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Group Financial Security](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a95789c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 26 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management - Summer Analyst (NY Metro)](https://jobright.ai/jobs/info/6868099f35584b6542c10b39?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Tax Internship- Denver](https://jobright.ai/jobs/info/684bacc3adf432912dfa1929?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 26 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management Analyst Program  - Corporate Controllers Track (DE)  - Summer Analyst](https://jobright.ai/jobs/info/686809db35584b6542c2181a?utm_campaign=1052&utm_source=git)** | Newark, DE | On Site | Jul 26 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Baltimore)](https://jobright.ai/jobs/info/677c2ff95b0046ffd7d56f03?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jul 26 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Actuarial Intern (Hybrid)](https://jobright.ai/jobs/info/6883e478b54cac0f1e73aaa4?utm_campaign=1052&utm_source=git)** | Plymouth, MA | Hybrid | Jul 25 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Internal Audit Inernship - Remote](https://jobright.ai/jobs/info/6883de8b6fcd973d15ae4002?utm_campaign=1052&utm_source=git)** | Remote, United States | Remote | Jul 25 |
 | ↳ | **[2026 Summer Technology Internal Audit Internship - Remote](https://jobright.ai/jobs/info/6883ddb7835a903aa07f85a8?utm_campaign=1052&utm_source=git)** | Remote, United States | Remote | Jul 25 |
+| ↳ | **[2026 Summer Internal Audit Inernship - Remote](https://jobright.ai/jobs/info/68850a64fbbf032d0006bbd0?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Accolade Partners](http://accoladepartners.com)** | **[Spring + Summer 2026 Investment Intern](https://jobright.ai/jobs/info/6883d51eb54cac0f1e73a132?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 25 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6883d368b54cac0f1e739ea5?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona | On Site | Jul 25 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Accounting/Finance Internship - Fall 2025](https://jobright.ai/jobs/info/6883d3476fcd973d15ae379c?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Jul 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Summer Investment Analyst Program](https://jobright.ai/jobs/info/68649885f4a7b8d27ccd8c83?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Jul 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Raleigh](https://jobright.ai/jobs/info/68848490b651c92cb78a9a45?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/682c77ccea5191013cb4259f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Greenville](https://jobright.ai/jobs/info/68831490835a903aa07f37e6?utm_campaign=1052&utm_source=git)** | Greenville, NC | Hybrid | Jul 24 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Audit Intern - Coral Gables](https://jobright.ai/jobs/info/681ee0b57bc45d1d6248e3fe?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Jul 24 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68830ab8b54cac0f1e735031?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / New York City](https://jobright.ai/jobs/info/68830aa4835a903aa07f2fd6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
