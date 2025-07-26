@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heraeus](https://www.heraeus.com)** | **[Finance Internship](https://jobright.ai/jobs/info/68852f76fbbf032d0006c310?utm_campaign=1052&utm_source=git)** | Yardley, PA | On Site | Jul 26 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688516644174df41e0f96160?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
 | **[355Life](http://www.355life.com/)** | **[Finance Analyst Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/688507bab651c92cb78aaea3?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jul 26 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6884ddb2b651c92cb78aa849?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
@@ -64,7 +65,8 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management - Summer Analyst (NY Metro)](https://jobright.ai/jobs/info/6868099f35584b6542c10b39?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Tax Internship- Denver](https://jobright.ai/jobs/info/684bacc3adf432912dfa1929?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 26 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management Analyst Program  - Corporate Controllers Track (DE)  - Summer Analyst](https://jobright.ai/jobs/info/686809db35584b6542c2181a?utm_campaign=1052&utm_source=git)** | Newark, DE | On Site | Jul 26 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Baltimore)](https://jobright.ai/jobs/info/677c2ff95b0046ffd7d56f03?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jul 26 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Capital Advisors - Summer 2026 (Richmond)](https://jobright.ai/jobs/info/679ad7d029af388344151d2c?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jul 26 |
+| ↳ | **[Core Tax Intern - Winter 2026 (Baltimore)](https://jobright.ai/jobs/info/677c2ff95b0046ffd7d56f03?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jul 26 |
 | ↳ | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67906552d7257309580ff85f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 26 |
 | **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[Actuarial Intern (Summer 2026)](https://jobright.ai/jobs/info/68849f02fbbf032d0006ac7e?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Jul 26 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68849720b651c92cb78a9dd1?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Investment Analyst Program](https://jobright.ai/jobs/info/686fcd9c06ad7073463b8ea9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Real Estate](https://jobright.ai/jobs/info/688339c3835a903aa07f50fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Summer Investment Analyst Program](https://jobright.ai/jobs/info/68649885f4a7b8d27ccd8c83?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Jul 24 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Raleigh](https://jobright.ai/jobs/info/68848490b651c92cb78a9a45?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/682c77ccea5191013cb4259f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
