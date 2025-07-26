@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Tax Internship- Denver](https://jobright.ai/jobs/info/684bacc3adf432912dfa1929?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 26 |
 | **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[Actuarial Intern (Summer 2026)](https://jobright.ai/jobs/info/68849f02fbbf032d0006ac7e?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Jul 26 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68849720b651c92cb78a9dd1?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
 | **[Cape Rey Carlsbad Beach, A Hilton Resort & Spa](https://www.caperey.com)** | **[Intern - Accounting Clerk](https://jobright.ai/jobs/info/688491764174df41e0f94c24?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Jul 26 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6792a71b93d549cdf8f7b49e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 25 |
 | ↳ | **[Core Tax Intern - Winter 2026 (Cleveland or Akron)](https://jobright.ai/jobs/info/67919b72cb2576badc9666fb?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Jul 25 |
 | ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 25 |
+| **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Investment Analyst Program](https://jobright.ai/jobs/info/686fcd9c06ad7073463b8ea9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Real Estate](https://jobright.ai/jobs/info/688339c3835a903aa07f50fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Private Capital (Prudential): 2026 Summer Investment Analyst Program](https://jobright.ai/jobs/info/68649885f4a7b8d27ccd8c83?utm_campaign=1052&utm_source=git)** | Manhattan, NY | Hybrid | Jul 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Raleigh](https://jobright.ai/jobs/info/68848490b651c92cb78a9a45?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Audit Intern - Coral Gables](https://jobright.ai/jobs/info/681ee0b57bc45d1d6248e3fe?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Jul 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68830ab8b54cac0f1e735031?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / New York City](https://jobright.ai/jobs/info/68830aa4835a903aa07f2fd6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
-| ↳ | **[Associate Audit Summer 2027 / Kansas City](https://jobright.ai/jobs/info/6883097a6fcd973d15ade91a?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Jul 24 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6883092cb54cac0f1e734f01?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
