@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[KerberRose](http://kerberrose.com)** | **[Tax Intern](https://jobright.ai/jobs/info/67f6da007e3f5e1431c7358e?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Jul 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets: Equity Research](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Private Bank Investment Solutions Program (Summer Analyst)](https://jobright.ai/jobs/info/6880801c2097a271a89a59e0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Senior Internal Auditor - Audit Excellence & Professional Practices](https://jobright.ai/jobs/info/67f699d2ae508c5ec05a0d76?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Remote Bookkeeper & Administrative Coordinator, Internship](https://jobright.ai/jobs/info/6885746bb651c92cb78abb7f?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 26 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Accounting Assistant Intern](https://jobright.ai/jobs/info/6885516f4174df41e0f96810?utm_campaign=1052&utm_source=git)** | Huntsville, AL | Hybrid | Jul 26 |
 | **[Heraeus](https://www.heraeus.com)** | **[Finance Internship](https://jobright.ai/jobs/info/68852f76fbbf032d0006c310?utm_campaign=1052&utm_source=git)** | Yardley, PA | On Site | Jul 26 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688519dafbbf032d0006bf2d?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad52374?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Jul 26 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6884ddb2b651c92cb78aa849?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67906552d7257309580ff842?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 26 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/687c7997764c3d7411c37f39?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 State & Local Tax Intern](https://jobright.ai/jobs/info/68116a5fe571778c6d728e56?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Hybrid | Jul 25 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Real Estate Investing: Off-cycle Intern](https://jobright.ai/jobs/info/68839819b54cac0f1e73848f?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Jul 25 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Indianapolis](https://jobright.ai/jobs/info/68115a71aea77350adef849f?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | Jul 25 |
-| ↳ | **[Summer 2026 Audit Intern - Elgin](https://jobright.ai/jobs/info/68116a5fe571778c6d728e66?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Jul 25 |
-| ↳ | **[Summer 2026 Audit Intern - Chicago](https://jobright.ai/jobs/info/68116a5fe571778c6d728e5b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
