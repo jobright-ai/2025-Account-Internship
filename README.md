@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Senior Internal Auditor - Audit Excellence & Professional Practices](https://jobright.ai/jobs/info/67f699d2ae508c5ec05a0d76?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Remote Bookkeeper & Administrative Coordinator, Internship](https://jobright.ai/jobs/info/6885746bb651c92cb78abb7f?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/688556f14174df41e0f9686a?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
 | **[ARTISAN Management Group](https://www.artisanmanagementgroup.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6885542dfbbf032d0006c590?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 26 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[Actuarial Intern (Summer 2026)](https://jobright.ai/jobs/info/68849f02fbbf032d0006ac7e?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Jul 26 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68849720b651c92cb78a9dd1?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
 | **[Cape Rey Carlsbad Beach, A Hilton Resort & Spa](https://www.caperey.com)** | **[Intern - Accounting Clerk](https://jobright.ai/jobs/info/688491764174df41e0f94c24?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Jul 26 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Augusta](https://jobright.ai/jobs/info/681157d680ae5349347bbe1a?utm_campaign=1052&utm_source=git)** | Augusta, GA | Remote | Jul 25 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[IT Internal Audit Intern (Fall 2025)](https://jobright.ai/jobs/info/68819049f4f06100f3a27dd7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Charleston WV](https://jobright.ai/jobs/info/6884487d4174df41e0f90d83?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Jul 25 |
 | **[Resort Jobs](https://career-maldives.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6884470e4174df41e0f90c69?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Audit Intern - Virginia Beach](https://jobright.ai/jobs/info/68115a71aea77350adef84a7?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Jul 25 |
 | **[Skywalker Property Partners](https://www.skywalkerproperty.com)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68845cf6b651c92cb78a752b?utm_campaign=1052&utm_source=git)** | Bedford, TX | On Site | Jul 25 |
 | **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Accounting Intern](https://jobright.ai/jobs/info/67bf7cfd815e53da6a9952ed?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2026 Internship - Jupiter, FL](https://jobright.ai/jobs/info/68838562835a903aa07f613a?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Jul 25 |
-| ↳ | **[Tax Winter 2026 Internship - Boca Raton, FL](https://jobright.ai/jobs/info/688384d36fcd973d15ae19e7?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
