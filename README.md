@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Private Bank Investment Solutions Program (Summer Analyst)](https://jobright.ai/jobs/info/6880801c2097a271a89a59e0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Senior Internal Auditor - Audit Excellence & Professional Practices](https://jobright.ai/jobs/info/67f699d2ae508c5ec05a0d76?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Remote Bookkeeper & Administrative Coordinator, Internship](https://jobright.ai/jobs/info/6885746bb651c92cb78abb7f?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/688556f14174df41e0f9686a?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
 | **[ARTISAN Management Group](https://www.artisanmanagementgroup.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6885542dfbbf032d0006c590?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 26 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Accounting Assistant Intern](https://jobright.ai/jobs/info/6885516f4174df41e0f96810?utm_campaign=1052&utm_source=git)** | Huntsville, AL | Hybrid | Jul 26 |
 | **[Heraeus](https://www.heraeus.com)** | **[Finance Internship](https://jobright.ai/jobs/info/68852f76fbbf032d0006c310?utm_campaign=1052&utm_source=git)** | Yardley, PA | On Site | Jul 26 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688519dafbbf032d0006bf2d?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688516644174df41e0f96160?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6884ddb2b651c92cb78aa849?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Group Financial Security](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a95789c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management - Summer Analyst (NY Metro)](https://jobright.ai/jobs/info/6868099f35584b6542c10b39?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Audit Intern - Charlotte](https://jobright.ai/jobs/info/68116a5fe571778c6d728e65?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Jul 25 |
 | ↳ | **[Spring 2026 Audit Intern - Virginia Beach](https://jobright.ai/jobs/info/68115a71aea77350adef84a7?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Jul 25 |
 | **[Skywalker Property Partners](https://www.skywalkerproperty.com)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68845cf6b651c92cb78a752b?utm_campaign=1052&utm_source=git)** | Bedford, TX | On Site | Jul 25 |
-| **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Accounting Intern](https://jobright.ai/jobs/info/67bf7cfd815e53da6a9952ed?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
