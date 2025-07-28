@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets: Equity Research](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Private Bank Investment Solutions Program (Summer Analyst)](https://jobright.ai/jobs/info/6880801c2097a271a89a59e0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Senior Internal Auditor - Audit Excellence & Professional Practices](https://jobright.ai/jobs/info/67f699d2ae508c5ec05a0d76?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 27 |
+| **[First Student](http://www.firststudentinc.com)** | **[Accounting - Co-op](https://jobright.ai/jobs/info/6886e7094174df41e0f9afe0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Remote Bookkeeper & Administrative Coordinator, Internship](https://jobright.ai/jobs/info/6885746bb651c92cb78abb7f?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/688556f14174df41e0f9686a?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
 | **[ARTISAN Management Group](https://www.artisanmanagementgroup.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6885542dfbbf032d0006c590?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 26 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883ec46835a903aa07f8e53?utm_campaign=1052&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Jul 25 |
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883ebe2b54cac0f1e73ae04?utm_campaign=1052&utm_source=git)** | Boston - High St | Hybrid | Jul 25 |
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883ebe16fcd973d15ae4706?utm_campaign=1052&utm_source=git)** | Hartford - Church | Hybrid | Jul 25 |
-| ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883eb926fcd973d15ae46b1?utm_campaign=1052&utm_source=git)** | Seattle - Fifth Avenue | Hybrid | Jul 25 |
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883eb92b54cac0f1e73adb5?utm_campaign=1052&utm_source=git)** | New York - 1166 | Hybrid | Jul 25 |
+| ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883eb926fcd973d15ae46b1?utm_campaign=1052&utm_source=git)** | Seattle - Fifth Avenue | Hybrid | Jul 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/67929edcf8c267e801e1613e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 25 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Raleigh](https://jobright.ai/jobs/info/68115a71aea77350adef84a0?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Jul 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Miami)](https://jobright.ai/jobs/info/6883e97a6fcd973d15ae4523?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Accounting/Finance Internship - Fall 2025](https://jobright.ai/jobs/info/6883d3476fcd973d15ae379c?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Jul 25 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Louisville](https://jobright.ai/jobs/info/6811644104fcee544ad5235d?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Jul 25 |
 | ↳ | **[Spring 2026 Tax Intern - Rockville](https://jobright.ai/jobs/info/6811644104fcee544ad52347?utm_campaign=1052&utm_source=git)** | Rockville, MD | Remote | Jul 25 |
-| ↳ | **[Spring 2026 Tax Intern - Richmond](https://jobright.ai/jobs/info/6811644104fcee544ad5236b?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
