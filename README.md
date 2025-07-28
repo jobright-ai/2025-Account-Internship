@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Chief Financial Officer](https://jobright.ai/jobs/info/6887147a4174df41e0f9cb82?utm_campaign=1052&utm_source=git)** | Charlotte, NY | On Site | Jul 27 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Finance/Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68870b30b651c92cb78b19ea?utm_campaign=1052&utm_source=git)** | USA - WI - Racine | On Site | Jul 27 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Finance & Accounting (St. Petersburg, FL)](https://jobright.ai/jobs/info/6886fc05fbbf032d00071a5c?utm_campaign=1052&utm_source=git)** | Saint Petersburg, Florida - United States | Hybrid | Jul 27 |
 | **[Outfield Healthcare Partners](https://www.linkedin.com/company/74372293)** | **[Accounting Intern](https://jobright.ai/jobs/info/6886d834b651c92cb78afc0a?utm_campaign=1052&utm_source=git)** | Hobbs, NM | On Site | Jul 27 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Private Bank Investment Solutions Program (Summer Analyst)](https://jobright.ai/jobs/info/6880801c2097a271a89a59e0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Senior Internal Auditor - Audit Excellence & Professional Practices](https://jobright.ai/jobs/info/67f699d2ae508c5ec05a0d76?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Jul 27 |
 | **[First Student](http://www.firststudentinc.com)** | **[Accounting - Co-op](https://jobright.ai/jobs/info/6886e7094174df41e0f9afe0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
-| **[Jobright.ai](https://jobright.ai)** | **[Remote Bookkeeper & Administrative Coordinator, Internship](https://jobright.ai/jobs/info/6885746bb651c92cb78abb7f?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/688556f14174df41e0f9686a?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
 | **[ARTISAN Management Group](https://www.artisanmanagementgroup.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6885542dfbbf032d0006c590?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 26 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Accounting Assistant Intern](https://jobright.ai/jobs/info/6885516f4174df41e0f96810?utm_campaign=1052&utm_source=git)** | Huntsville, AL | Hybrid | Jul 26 |
