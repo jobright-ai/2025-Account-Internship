@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadence Bank](http://cadencebank.com/)** | **[Intern Bank](https://jobright.ai/jobs/info/6887b69ffbbf032d00075dae?utm_campaign=1052&utm_source=git)** | Tupelo, MS | On Site | Jul 28 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Winter 2027](https://jobright.ai/jobs/info/6887ac4bfbbf032d000758b5?utm_campaign=1052&utm_source=git)** | Houston | On Site | Jul 28 |
+| **[Moog Aircraft](http://www.moog.com)** | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/6887aaf673e3e13cbd93f06d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jul 28 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / UCI & Chapman Only)](https://jobright.ai/jobs/info/6887a7774174df41e0f9f70d?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jul 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Berklee Online Student Finance Assistant](https://jobright.ai/jobs/info/688797a9fbbf032d00074fce?utm_campaign=1052&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 28 |
 | **[Elwyn](https://www.elwyn.org)** | **[Intern - UNPAID](https://jobright.ai/jobs/info/6887972173e3e13cbd93e8af?utm_campaign=1052&utm_source=git)** | Elwyn, Pennsylvania | On Site | Jul 28 |
 | **[BlackEdge Capital](http://www.blackedge.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/688793034174df41e0f9ef7c?utm_campaign=1052&utm_source=git)** | Chicago | On Site | Jul 28 |
@@ -100,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/688556f14174df41e0f9686a?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Accounting Assistant Intern](https://jobright.ai/jobs/info/6885516f4174df41e0f96810?utm_campaign=1052&utm_source=git)** | Huntsville, AL | Hybrid | Jul 26 |
 | **[Heraeus](https://www.heraeus.com)** | **[Finance Internship](https://jobright.ai/jobs/info/68852f76fbbf032d0006c310?utm_campaign=1052&utm_source=git)** | Yardley, PA | On Site | Jul 26 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688519dafbbf032d0006bf2d?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/688516644174df41e0f96160?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Jul 26 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX)](https://jobright.ai/jobs/info/686809c535584b6542c1c8a0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad52374?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Jul 26 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/66daa9096050429495351aaa?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 26 |
@@ -124,10 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68849720b651c92cb78a9dd1?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
 | **[Cape Rey Carlsbad Beach, A Hilton Resort & Spa](https://www.caperey.com)** | **[Intern - Accounting Clerk](https://jobright.ai/jobs/info/688491764174df41e0f94c24?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Jul 26 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Augusta](https://jobright.ai/jobs/info/681157d680ae5349347bbe1a?utm_campaign=1052&utm_source=git)** | Augusta, GA | Remote | Jul 25 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[IT Internal Audit Intern (Fall 2025)](https://jobright.ai/jobs/info/68819049f4f06100f3a27dd7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Charleston WV](https://jobright.ai/jobs/info/6884487d4174df41e0f90d83?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Jul 25 |
 | **[Resort Jobs](https://career-maldives.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6884470e4174df41e0f90c69?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Student Financial Services Support Representative - BYU-Pathway Worldwide (Part-Time, Student Employee)](https://jobright.ai/jobs/info/688465324174df41e0f92bff?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 25 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[IT Internal Audit Intern (Fall 2025)](https://jobright.ai/jobs/info/68818c9d16ea5743a3739e44?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Norfolk)](https://jobright.ai/jobs/info/682f011496019e6b168adad2?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Jul 25 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Charlotte](https://jobright.ai/jobs/info/683bef89ba832780a8fd5657?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Dallas](https://jobright.ai/jobs/info/68845093b651c92cb78a6b14?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Audit Intern](https://jobright.ai/jobs/info/6883f739b54cac0f1e73b62a?utm_campaign=1052&utm_source=git)** | San Antonio Home Office I | On Site | Jul 25 |
 | ↳ | **[IT Audit Intern](https://jobright.ai/jobs/info/6883f7386fcd973d15ae4ef2?utm_campaign=1052&utm_source=git)** | Charlotte, NC - CENTS | On Site | Jul 25 |
 | ↳ | **[Audit Intern](https://jobright.ai/jobs/info/6883f6f86fcd973d15ae4e6f?utm_campaign=1052&utm_source=git)** | San Antonio Home Office I | On Site | Jul 25 |
-| ↳ | **[Audit Intern](https://jobright.ai/jobs/info/6883f6d7b54cac0f1e73b57d?utm_campaign=1052&utm_source=git)** | Plano Legacy | On Site | Jul 25 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Birmingham](https://jobright.ai/jobs/info/6883f3f46fcd973d15ae4cc4?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Hybrid | Jul 25 |
-| ↳ | **[Associate Audit Winter 2026 / Dallas](https://jobright.ai/jobs/info/6883f3e86fcd973d15ae4cb4?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 25 |
-| ↳ | **[Student Associate Tax Winter 2027 / Birmingham](https://jobright.ai/jobs/info/6883f2cc835a903aa07f92b6?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
