@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2026 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6886b58afbbf032d000705f5?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jul 27 |
+| **[La Jolla LASIK Institute](http://lajollalasik.com)** | **[Finance/Accounting intern](https://jobright.ai/jobs/info/6886ad434174df41e0f9a6fe?utm_campaign=1052&utm_source=git)** | La Jolla, CA | On Site | Jul 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Los Angeles)](https://jobright.ai/jobs/info/68867f3dfbbf032d0007027f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 27 |
 | ↳ | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Orange County)](https://jobright.ai/jobs/info/68867f15fbbf032d00070272?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 27 |
 | ↳ | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Los Angeles)](https://jobright.ai/jobs/info/68867f01fbbf032d0007026f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 27 |
@@ -93,10 +95,10 @@ For a complete list, click the following sortable link below:
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68849720b651c92cb78a9dd1?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
 | **[Cape Rey Carlsbad Beach, A Hilton Resort & Spa](https://www.caperey.com)** | **[Intern - Accounting Clerk](https://jobright.ai/jobs/info/688491764174df41e0f94c24?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Jul 26 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Augusta](https://jobright.ai/jobs/info/681157d680ae5349347bbe1a?utm_campaign=1052&utm_source=git)** | Augusta, GA | Remote | Jul 25 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[IT Internal Audit Intern (Fall 2025)](https://jobright.ai/jobs/info/68819049f4f06100f3a27dd7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Charleston WV](https://jobright.ai/jobs/info/6884487d4174df41e0f90d83?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Jul 25 |
 | **[Resort Jobs](https://career-maldives.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6884470e4174df41e0f90c69?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jul 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Student Financial Services Support Representative - BYU-Pathway Worldwide (Part-Time, Student Employee)](https://jobright.ai/jobs/info/688465324174df41e0f92bff?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 25 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[IT Internal Audit Intern (Fall 2025)](https://jobright.ai/jobs/info/68818c9d16ea5743a3739e44?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Charlotte](https://jobright.ai/jobs/info/683bef89ba832780a8fd5657?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jul 25 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Dallas](https://jobright.ai/jobs/info/68845093b651c92cb78a6b14?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jul 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Student Financial Services Support Representative (Portuguese Speaking) - BYU-Pathway (Part-Time, Student Employee)](https://jobright.ai/jobs/info/68842ab36fcd973d15ae6063?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 25 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883ebe16fcd973d15ae4706?utm_campaign=1052&utm_source=git)** | Hartford - Church | Hybrid | Jul 25 |
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883eb92b54cac0f1e73adb5?utm_campaign=1052&utm_source=git)** | New York - 1166 | Hybrid | Jul 25 |
 | ↳ | **[Oliver Wyman – Actuarial Intern - Summer 2026 – NAPAC Life](https://jobright.ai/jobs/info/6883eb926fcd973d15ae46b1?utm_campaign=1052&utm_source=git)** | Seattle - Fifth Avenue | Hybrid | Jul 25 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/67929edcf8c267e801e1613e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 25 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Raleigh](https://jobright.ai/jobs/info/68115a71aea77350adef84a0?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Jul 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Miami)](https://jobright.ai/jobs/info/6883e97a6fcd973d15ae4523?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jul 25 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6883e8a0b54cac0f1e73ac90?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Jul 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Tax Intern - Richmond](https://jobright.ai/jobs/info/6811644104fcee544ad5236b?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Jul 25 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance (Denver, CO Summer 2026)](https://jobright.ai/jobs/info/6883c2056fcd973d15ae2d6a?utm_campaign=1052&utm_source=git)** | CO-Denver | On Site | Jul 25 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[2026 Guggenheim Securities Investment Banking Summer Analyst – Los Angeles Aerospace & Defense](https://jobright.ai/jobs/info/6883b7e7b54cac0f1e739064?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Jul 25 |
-| **[Gross, Mendelsohn & Associates, P.A.](http://gma-cpa.com)** | **[Tax/Audit Summer Intern](https://jobright.ai/jobs/info/6883a834835a903aa07f6a2e?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jul 25 |
-| **[Pegasus Angel Accelerator](https://loom.ly/egIXjNo)** | **[VC Fellowship](https://jobright.ai/jobs/info/6883c6dfb54cac0f1e73976d?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Virginia Beach](https://jobright.ai/jobs/info/68116a5fe571778c6d728e61?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
