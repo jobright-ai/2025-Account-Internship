@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Precision Castparts](http://precast.com)** | **[Fall 2025 Finance and Accounting Co-Op openings](https://jobright.ai/jobs/info/682613524eb98579dc3bf08e?utm_campaign=1052&utm_source=git)** | Toronto, OH | On Site | Jul 31 |
+| **[Protiviti](http://www.protiviti.com)** | **[Houston Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/686c25c735584b6542ef9e79?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jul 31 |
+| ↳ | **[Kansas City Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af2710?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Jul 31 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Memphis](https://jobright.ai/jobs/info/688b3dc3906ac06e1d1ca224?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Jul 31 |
 | ↳ | **[Intern Tax Summer 2027 / Nashville](https://jobright.ai/jobs/info/688b3d3c906ac06e1d1ca1f3?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jul 31 |
 | ↳ | **[Intern Audit Summer 2027 / Bowling Green](https://jobright.ai/jobs/info/688b3ce41808534a89cb1bd2?utm_campaign=1052&utm_source=git)** | Bowling Green, KY | Hybrid | Jul 31 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (New York City)](https://jobright.ai/jobs/info/688addb49f961617fe21eb97?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 30 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2025 / Minneapolis](https://jobright.ai/jobs/info/688adc78aab47a17f670be3b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 30 |
 | ↳ | **[Student Associate Tax Winter 2026 / Little Rock](https://jobright.ai/jobs/info/688af625aab47a17f670d07a?utm_campaign=1052&utm_source=git)** | Little Rock, AR | Hybrid | Jul 30 |
-| **[Goldstein Tax Prep](https://www.goldsteintaxprep.com?utm_source=linkedin)** | **[Tax Intern / $25/hr / 2025-2026 School Yr](https://jobright.ai/jobs/info/688ad80f09808a6103e51a81?utm_campaign=1052&utm_source=git)** | Pittsburgh Region | Hybrid | Jul 30 |
+| **[Goldstein Tax Advisors](https://www.goldsteintaxadvisors.com/)** | **[Tax Intern / $25/hr / 2025-2026 School Yr](https://jobright.ai/jobs/info/688ad80f09808a6103e51a81?utm_campaign=1052&utm_source=git)** | Pittsburgh Region | Hybrid | Jul 30 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2026 / Raleigh NC](https://jobright.ai/jobs/info/688aff5e9f961617fe2203ad?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jul 30 |
 | **[Thompson Safety](https://www.thompson-safety.com/)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/688ad22eaab47a17f670b8b9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[Protiviti](http://www.protiviti.com)** | **[Miami Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/688ad0f809808a6103e516a3?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Hybrid | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valero](http://www.valero.com)** | **[Audit Intern (On-Going)](https://jobright.ai/jobs/info/688a4feb09808a6103e4dbd4?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | Jul 30 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a4df109808a6103e4db2a?utm_campaign=1052&utm_source=git)** | The Villages, FL | Hybrid | Jul 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a4ded09808a6103e4db28?utm_campaign=1052&utm_source=git)** | Jonesboro, AR | Hybrid | Jul 30 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Undergraduate Intern - Actuarial Science](https://jobright.ai/jobs/info/688a4b649f961617fe21a8fa?utm_campaign=1052&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Jul 30 |
-| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Accounting Business Unit Student Year-Round (Located in Birmingham, AL)](https://jobright.ai/jobs/info/688abcb109808a6103e50de5?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
