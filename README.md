@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Actuarial Summer Internship Program](https://jobright.ai/jobs/info/688b1aeb09808a6103e54c5b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| ↳ | **[2025 Asset Liability Management Summer Internship](https://jobright.ai/jobs/info/688b1897aab47a17f670eb99?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Susquehanna International Group](http://sig.com)** | **[Accounting Internship: Summer 2026](https://jobright.ai/jobs/info/688b01e109808a6103e539fc?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jul 30 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Controllers & Global Tax Internship](https://jobright.ai/jobs/info/688af13baab47a17f670cd7d?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Jul 30 |
 | ↳ | **[2026 Fund Accounting Internship](https://jobright.ai/jobs/info/688af132aab47a17f670cd71?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Jul 30 |
@@ -104,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Dutchie](https://dutchie.com)** | **[Finance Intern](https://jobright.ai/jobs/info/688a92f8aab47a17f6709efe?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a9157aab47a17f6709e29?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | ↳ | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a9152aab47a17f6709e20?utm_campaign=1052&utm_source=git)** | Bloomfield, NM | On Site | Jul 30 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Consolidations Accounting Intern (Year-Round)](https://jobright.ai/jobs/info/688a910d9f961617fe21cb9d?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 30 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Consolidations Accounting Intern (Year-Round)](https://jobright.ai/jobs/info/688a9102aab47a17f6709dc3?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 30 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a90ef09808a6103e4fcfc?utm_campaign=1052&utm_source=git)** | George West, TX | On Site | Jul 30 |
 | ↳ | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a90cf9f961617fe21cb2c?utm_campaign=1052&utm_source=git)** | Nikiski, AK | On Site | Jul 30 |
 | ↳ | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a90b99f961617fe21cb02?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Jul 30 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[FP&A - Intern](https://jobright.ai/jobs/info/688a801009808a6103e4f38c?utm_campaign=1052&utm_source=git)** | Ridgefield, CT | On Site | Jul 30 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Graduate Intern - Actuarial Science](https://jobright.ai/jobs/info/688a7dadaab47a17f67093c0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - P&C Actuarial - Analyst](https://jobright.ai/jobs/info/688a7b389f961617fe21c041?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - SoCal](https://jobright.ai/jobs/info/688a79de09808a6103e4f196?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Northwestern Mutual - Purcell Financial ](https://purcellfinancial.nm.com)** | **[Financial Planning Internship - Northwestern Mutual Kenwood](https://jobright.ai/jobs/info/688a796409808a6103e4f13f?utm_campaign=1052&utm_source=git)** | Cincinnati Metro | On Site | Jul 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - P&C Actuarial - Analyst](https://jobright.ai/jobs/info/688a776eaab47a17f67090ef?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Jul 30 |
 | **[Water Replenishment District](https://www.wrd.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/688a76ddaab47a17f6709011?utm_campaign=1052&utm_source=git)** | Lakewood, CA | On Site | Jul 30 |
@@ -139,8 +140,7 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Internal Audit Management Undergraduate Intern](https://jobright.ai/jobs/info/688a5b1c9f961617fe21af05?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/688a598009808a6103e4e01f?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jul 30 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Portfolio Analytics Intern](https://jobright.ai/jobs/info/688a589509808a6103e4df72?utm_campaign=1052&utm_source=git)** | Boston | Hybrid | Jul 30 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - SoCal](https://jobright.ai/jobs/info/688a587c09808a6103e4df53?utm_campaign=1052&utm_source=git)** | Century City, CA | On Site | Jul 30 |
-| ↳ | **[Internal Operations Intern - Spring 2026 - SoCal](https://jobright.ai/jobs/info/688a5876aab47a17f670809e?utm_campaign=1052&utm_source=git)** | Glendora, CA | On Site | Jul 30 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - SoCal](https://jobright.ai/jobs/info/688a5876aab47a17f670809e?utm_campaign=1052&utm_source=git)** | Glendora, CA | On Site | Jul 30 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, International Accounts Payable](https://jobright.ai/jobs/info/688a57e4aab47a17f6707fe6?utm_campaign=1052&utm_source=git)** | Dublin, OH | Hybrid | Jul 30 |
 | **[Pegasus Angel Accelerator](https://loom.ly/egIXjNo)** | **[VC Fellowship](https://jobright.ai/jobs/info/688a55b709808a6103e4dd89?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Valero](http://www.valero.com)** | **[Audit Intern (On-Going)](https://jobright.ai/jobs/info/688a4feb09808a6103e4dbd4?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | Jul 30 |
