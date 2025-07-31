@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern State and Local Tax Advisory (SALT) Summer 2026 / Houston](https://jobright.ai/jobs/info/688b3107906ac06e1d1c9d3e?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jul 31 |
+| **[The Standard](https://www.standard.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/688b23b9aab47a17f670f35c?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Actuarial Summer Internship Program](https://jobright.ai/jobs/info/688b1aeb09808a6103e54c5b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[2025 Asset Liability Management Summer Internship](https://jobright.ai/jobs/info/688b1897aab47a17f670eb99?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Susquehanna International Group](http://sig.com)** | **[Accounting Internship: Summer 2026](https://jobright.ai/jobs/info/688b01e109808a6103e539fc?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jul 30 |
+| **[McKonly & Asbury](http://macpas.com)** | **[2026 EAS Fall Internship](https://jobright.ai/jobs/info/688b2ad03a30793eb9638edb?utm_campaign=1052&utm_source=git)** | Camp Hill, PA | On Site | Jul 30 |
+| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ACCOUNTANT TRAINEE](https://jobright.ai/jobs/info/688b224faab47a17f670f2c2?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Jul 30 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Controllers & Global Tax Internship](https://jobright.ai/jobs/info/688af13baab47a17f670cd7d?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Jul 30 |
 | ↳ | **[2026 Fund Accounting Internship](https://jobright.ai/jobs/info/688af132aab47a17f670cd71?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Jul 30 |
 | ↳ | **[2026 Global Trading Internship Program](https://jobright.ai/jobs/info/688af126aab47a17f670cd5d?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jul 30 |
@@ -106,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Dutchie](https://dutchie.com)** | **[Finance Intern](https://jobright.ai/jobs/info/688a92f8aab47a17f6709efe?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a9157aab47a17f6709e29?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | ↳ | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a9152aab47a17f6709e20?utm_campaign=1052&utm_source=git)** | Bloomfield, NM | On Site | Jul 30 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Consolidations Accounting Intern (Year-Round)](https://jobright.ai/jobs/info/688a9102aab47a17f6709dc3?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 30 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Consolidations Accounting Intern (Year-Round)](https://jobright.ai/jobs/info/688a910d9f961617fe21cb9d?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 30 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a90ef09808a6103e4fcfc?utm_campaign=1052&utm_source=git)** | George West, TX | On Site | Jul 30 |
 | ↳ | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a90cf9f961617fe21cb2c?utm_campaign=1052&utm_source=git)** | Nikiski, AK | On Site | Jul 30 |
 | ↳ | **[I-2613 - Accounting Intern](https://jobright.ai/jobs/info/688a90b99f961617fe21cb02?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Jul 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a48cd09808a6103e4d88c?utm_campaign=1052&utm_source=git)** | Parma, OH | Hybrid | Jul 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a487209808a6103e4d85a?utm_campaign=1052&utm_source=git)** | Texarkana, TX | Hybrid | Jul 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a483e09808a6103e4d84a?utm_campaign=1052&utm_source=git)** | Alhambra, CA | Hybrid | Jul 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a482f09808a6103e4d844?utm_campaign=1052&utm_source=git)** | Madera, CA | Hybrid | Jul 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a47f59f961617fe21a6d8?utm_campaign=1052&utm_source=git)** | Salisbury, MD | Hybrid | Jul 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a47e009808a6103e4d828?utm_campaign=1052&utm_source=git)** | Owensboro, KY | Hybrid | Jul 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688a47da09808a6103e4d821?utm_campaign=1052&utm_source=git)** | Albany, GA | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
