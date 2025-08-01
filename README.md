@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Austin Industries](https://austinbridgeandroad.com)** | **[2026 Summer Internal Audit Internship Program (Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c8f013a30793eb96442f4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
+| **[Austin Industries](https://austinbridgeandroad.com)** | **[2026 Summer Accounting Internship Program (Coppell or Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c916b27f9022553c04c37?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 01 |
+| ↳ | **[2026 Summer Internal Audit Internship Program (Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c8f013a30793eb96442f4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
+| ↳ | **[2026 Summer Accounting Internship Program (Coppell or Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c9acc3a30793eb9645152?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Aug 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Specialist / Summer 2026](https://jobright.ai/jobs/info/688c7b141808534a89cbc56d?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Aug 01 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Raytheon - Summer Finance Intern/Co-op - Onsite (CA)](https://jobright.ai/jobs/info/688c6eb13a30793eb96437a0?utm_campaign=1052&utm_source=git)** | CA220: 2202 E El Segundo Blvd BldgE02 2002 East El Segundo Boulevard Building E02, El Segundo, CA, 90245 USA | Hybrid | Aug 01 |
 | ↳ | **[2026 Raytheon - Summer Finance Intern/Co-op - Onsite (AZ)](https://jobright.ai/jobs/info/688c6d391808534a89cbbe18?utm_campaign=1052&utm_source=git)** | AZ807: RMS AP Bldg 807 1151 East Hermans Road Building 807, Tucson, AZ, 85756 USA | Hybrid | Aug 01 |
@@ -88,7 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Tax Summer 2026 / Boston](https://jobright.ai/jobs/info/688c2ba13a30793eb9640842?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
 | **[Snap-on](http://www.snapon.com)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/688c2a53906ac06e1d1d14ba?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 31 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Boston](https://jobright.ai/jobs/info/688c297a1808534a89cb8eea?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
-| ↳ | **[Intern Audit Summer 2027 / Salt Lake City](https://jobright.ai/jobs/info/688c4194906ac06e1d1d25ba?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 31 |
+| **[Outfield Healthcare Partners](https://www.linkedin.com/company/74372293)** | **[Accounting Intern](https://jobright.ai/jobs/info/688c8fae27f9022553c04b84?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Jul 31 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / Salt Lake City](https://jobright.ai/jobs/info/688c4194906ac06e1d1d25ba?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 31 |
 | ↳ | **[Associate Tax Fall 2026 / St. Louis](https://jobright.ai/jobs/info/688c407b1808534a89cb9f36?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jul 31 |
 | **[ELO CPAs & Advisors](https://www.elocpa.com/)** | **[Internship](https://jobright.ai/jobs/info/688c11b43a30793eb963f97b?utm_campaign=1052&utm_source=git)** | Sioux Falls, South Dakota, United States | On Site | Jul 31 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern, Private Finance for SDGs](https://jobright.ai/jobs/info/688c8ef83a30793eb96442f0?utm_campaign=1052&utm_source=git)** | Utica-Rome Area | On Site | Jul 31 |
@@ -124,7 +127,9 @@ For a complete list, click the following sortable link below:
 | **[Wall, Einhorn & Chernitzer, P.C.](http://wec-cpa.com)** | **[2025 Externship](https://jobright.ai/jobs/info/688bbb7a1808534a89cb5692?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Jul 31 |
 | **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Finance Internal Audit Internship - Summer 2026](https://jobright.ai/jobs/info/688bb7201808534a89cb54e4?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jul 31 |
 | **[Launch That](http://launchthat.com)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/688bb1d83a30793eb963ca62?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Jul 31 |
-| **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Tax Internship- Chicago](https://jobright.ai/jobs/info/688ba54f3a30793eb963c295?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 31 |
+| **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2026 Audit Internship](https://jobright.ai/jobs/info/688c9a431808534a89cbd76e?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 31 |
+| ↳ | **[Summer 2026 Tax Internship- Denver](https://jobright.ai/jobs/info/688c9af13a30793eb964517f?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jul 31 |
+| ↳ | **[Summer 2026 Tax Internship- Chicago](https://jobright.ai/jobs/info/688ba54f3a30793eb963c295?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jul 31 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba3681808534a89cb4979?utm_campaign=1052&utm_source=git)** | San Clemente, CA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba26f906ac06e1d1cceba?utm_campaign=1052&utm_source=git)** | Tulare, CA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba25f3a30793eb963c1b6?utm_campaign=1052&utm_source=git)** | Parkersburg, WV | Hybrid | Jul 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9fe91808534a89cb47fa?utm_campaign=1052&utm_source=git)** | Hamilton, OH | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9fc6906ac06e1d1ccd46?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f8e906ac06e1d1ccd2c?utm_campaign=1052&utm_source=git)** | Casas Adobes, AZ | Hybrid | Jul 31 |
-| **[Bergenn Financial Group](http://www.bergenn.com/)** | **[Fall Financial Services Internship](https://jobright.ai/jobs/info/688c36161808534a89cb9653?utm_campaign=1052&utm_source=git)** | West Hartford, CT | On Site | Jul 31 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f821808534a89cb47d4?utm_campaign=1052&utm_source=git)** | Sanford, FL | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f46906ac06e1d1ccd0c?utm_campaign=1052&utm_source=git)** | Huntersville, NC | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f391808534a89cb47b5?utm_campaign=1052&utm_source=git)** | Florence-Graham, CA | Hybrid | Jul 31 |
-| **[Legal & General America](https://www.lgamerica.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/688bc9dd3a30793eb963da5f?utm_campaign=1052&utm_source=git)** | Frederick, MD | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
