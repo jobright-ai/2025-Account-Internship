@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Industries](https://austinbridgeandroad.com)** | **[2026 Summer Internal Audit Internship Program (Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c8f013a30793eb96442f4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Specialist / Summer 2026](https://jobright.ai/jobs/info/688c7b141808534a89cbc56d?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Aug 01 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Raytheon - Summer Finance Intern/Co-op - Onsite (CA)](https://jobright.ai/jobs/info/688c6eb13a30793eb96437a0?utm_campaign=1052&utm_source=git)** | CA220: 2202 E El Segundo Blvd BldgE02 2002 East El Segundo Boulevard Building E02, El Segundo, CA, 90245 USA | Hybrid | Aug 01 |
 | ↳ | **[2026 Raytheon - Summer Finance Intern/Co-op - Onsite (AZ)](https://jobright.ai/jobs/info/688c6d391808534a89cbbe18?utm_campaign=1052&utm_source=git)** | AZ807: RMS AP Bldg 807 1151 East Hermans Road Building 807, Tucson, AZ, 85756 USA | Hybrid | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/688c67c03a30793eb9642f6d?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
@@ -83,13 +85,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Tax Summer 2027 / Salt Lake City](https://jobright.ai/jobs/info/688c34bb3a30793eb9640df8?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 31 |
 | ↳ | **[Intern IT Audit Summer 2026 / Charlotte](https://jobright.ai/jobs/info/688c34b33a30793eb9640df4?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jul 31 |
 | ↳ | **[Associate Audit Summer 2026 / Boston](https://jobright.ai/jobs/info/688c3473906ac06e1d1d1b6a?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
-| ↳ | **[Intern Audit Summer 2026 / Fort Lauderdale](https://jobright.ai/jobs/info/688c33d13a30793eb9640d70?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jul 31 |
 | ↳ | **[Intern Tax Summer 2026 / Boston](https://jobright.ai/jobs/info/688c2ba13a30793eb9640842?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
 | **[Snap-on](http://www.snapon.com)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/688c2a53906ac06e1d1d14ba?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 31 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Boston](https://jobright.ai/jobs/info/688c297a1808534a89cb8eea?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
 | ↳ | **[Intern Audit Summer 2027 / Salt Lake City](https://jobright.ai/jobs/info/688c4194906ac06e1d1d25ba?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 31 |
 | ↳ | **[Associate Tax Fall 2026 / St. Louis](https://jobright.ai/jobs/info/688c407b1808534a89cb9f36?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jul 31 |
 | **[ELO CPAs & Advisors](https://www.elocpa.com/)** | **[Internship](https://jobright.ai/jobs/info/688c11b43a30793eb963f97b?utm_campaign=1052&utm_source=git)** | Sioux Falls, South Dakota, United States | On Site | Jul 31 |
+| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern, Private Finance for SDGs](https://jobright.ai/jobs/info/688c8ef83a30793eb96442f0?utm_campaign=1052&utm_source=git)** | Utica-Rome Area | On Site | Jul 31 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[M&A Analyst Intern - Eden Prairie, MN](https://jobright.ai/jobs/info/688c0b67906ac06e1d1d0416?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Jul 31 |
 | **[LindFast Solutions Group](https://lindfastgrp.com/)** | **[Intern, Corporate Development & Strategic Finance](https://jobright.ai/jobs/info/688c05ad3a30793eb963f5bd?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 31 |
 | **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Supply Chain Finance - Internship](https://jobright.ai/jobs/info/688c034a1808534a89cb7c4a?utm_campaign=1052&utm_source=git)** | Horse Cave, KY | On Site | Jul 31 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Financial Advisory Services Winter Intern – Forensics, Litigation and Valuation Services](https://jobright.ai/jobs/info/688bd4da1808534a89cb6821?utm_campaign=1052&utm_source=git)** | Hattiesburg | Hybrid | Jul 31 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern Spring 2026 (CMH Health)](https://jobright.ai/jobs/info/688bd3d8906ac06e1d1ceb8e?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Jul 31 |
 | **[CBIZ](http://www.cbiz.com)** | **[Forensic Accounting and Litigation Intern Fall 2025](https://jobright.ai/jobs/info/688bcf74906ac06e1d1ce958?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
-| **[NuScale Power](http://www.nuscalepower.com)** | **[Internship - Internal Audit](https://jobright.ai/jobs/info/688c5ed4906ac06e1d1d3ac9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 31 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Internal Audit Inernship - Remote](https://jobright.ai/jobs/info/68850a64fbbf032d0006bbd0?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Travelers](https://www.travelers.com)** | **[Actuarial Leadership Development Program  (ALDP) Intern](https://jobright.ai/jobs/info/688bc9be3a30793eb963da50?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jul 31 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Life/Health Actuarial - Analyst I](https://jobright.ai/jobs/info/688bc970906ac06e1d1ce655?utm_campaign=1052&utm_source=git)** | Richardson, TX | Hybrid | Jul 31 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba193906ac06e1d1cce65?utm_campaign=1052&utm_source=git)** | Montebello, CA | Hybrid | Jul 31 |
 | **[UNDP](http://www.undp.org)** | **[Intern, Private Finance for SDGs](https://jobright.ai/jobs/info/688ba1803a30793eb963c15d?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba15b906ac06e1d1cce21?utm_campaign=1052&utm_source=git)** | Hammond, LA | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba14c906ac06e1d1cce0b?utm_campaign=1052&utm_source=git)** | Noblesville, IN | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba14c906ac06e1d1cce0a?utm_campaign=1052&utm_source=git)** | Woodland, CA | Hybrid | Jul 31 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba14c906ac06e1d1cce0b?utm_campaign=1052&utm_source=git)** | Noblesville, IN | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba12e1808534a89cb486f?utm_campaign=1052&utm_source=git)** | Greenwood, IN | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba111906ac06e1d1ccddf?utm_campaign=1052&utm_source=git)** | Dearborn Heights, MI | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba10b3a30793eb963c0eb?utm_campaign=1052&utm_source=git)** | Malden, MA | Hybrid | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f46906ac06e1d1ccd0c?utm_campaign=1052&utm_source=git)** | Huntersville, NC | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f391808534a89cb47b5?utm_campaign=1052&utm_source=git)** | Florence-Graham, CA | Hybrid | Jul 31 |
 | **[Legal & General America](https://www.lgamerica.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/688bc9dd3a30793eb963da5f?utm_campaign=1052&utm_source=git)** | Frederick, MD | Remote | Jul 31 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9e981808534a89cb4778?utm_campaign=1052&utm_source=git)** | Pico Rivera, CA | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
