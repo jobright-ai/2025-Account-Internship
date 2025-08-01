@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Austin Industries](https://austinbridgeandroad.com)** | **[2026 Summer Accounting Internship Program (Coppell or Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c916b27f9022553c04c37?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 01 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax) Great Lakes](https://jobright.ai/jobs/info/688cbfba3a30793eb9646241?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Aug 01 |
+| ↳ | **[Accounting Intern (Assurance, Tax, Or OMS) Omaha](https://jobright.ai/jobs/info/688cbf373a30793eb964621e?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Aug 01 |
+| ↳ | **[Tax Intern Aberdeen](https://jobright.ai/jobs/info/688cbe361808534a89cbe967?utm_campaign=1052&utm_source=git)** | Aberdeen, SD | On Site | Aug 01 |
+| ↳ | **[Accounting Intern (Assurance and Tax) Sioux Falls](https://jobright.ai/jobs/info/688cbd8a27f9022553c06b0e?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Aug 01 |
+| **[Perrigo Company plc](http://www.perrigo.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/688cb57c1808534a89cbe604?utm_campaign=1052&utm_source=git)** | Allegan, MI | On Site | Aug 01 |
+| **[CyberGuard Advantage](https://www.cgcompliance.com/)** | **[Intern- SOC Audits](https://jobright.ai/jobs/info/688cb3151808534a89cbe568?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Return Internship - Finance & Accounting](https://jobright.ai/jobs/info/688caa7c1808534a89cbe391?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Aug 01 |
+| **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Accounting Internship Program (Coppell or Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c916b27f9022553c04c37?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 01 |
 | ↳ | **[2026 Summer Internal Audit Internship Program (Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c8f013a30793eb96442f4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 | ↳ | **[2026 Summer Accounting Internship Program (Coppell or Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c9acc3a30793eb9645152?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Aug 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Specialist / Summer 2026](https://jobright.ai/jobs/info/688c7b141808534a89cbc56d?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Aug 01 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba193906ac06e1d1cce65?utm_campaign=1052&utm_source=git)** | Montebello, CA | Hybrid | Jul 31 |
 | **[UNDP](http://www.undp.org)** | **[Intern, Private Finance for SDGs](https://jobright.ai/jobs/info/688ba1803a30793eb963c15d?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba15b906ac06e1d1cce21?utm_campaign=1052&utm_source=git)** | Hammond, LA | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba14c906ac06e1d1cce0a?utm_campaign=1052&utm_source=git)** | Woodland, CA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba14c906ac06e1d1cce0b?utm_campaign=1052&utm_source=git)** | Noblesville, IN | Hybrid | Jul 31 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba14c906ac06e1d1cce0a?utm_campaign=1052&utm_source=git)** | Woodland, CA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba12e1808534a89cb486f?utm_campaign=1052&utm_source=git)** | Greenwood, IN | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba111906ac06e1d1ccddf?utm_campaign=1052&utm_source=git)** | Dearborn Heights, MI | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba10b3a30793eb963c0eb?utm_campaign=1052&utm_source=git)** | Malden, MA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba0fa906ac06e1d1ccdd4?utm_campaign=1052&utm_source=git)** | Sammamish, WA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba09d1808534a89cb483b?utm_campaign=1052&utm_source=git)** | Richland, WA | Hybrid | Jul 31 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba0893a30793eb963c0b6?utm_campaign=1052&utm_source=git)** | North Little Rock, AR | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba076906ac06e1d1ccd9d?utm_campaign=1052&utm_source=git)** | Springfield, OR | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba06c3a30793eb963c0a8?utm_campaign=1052&utm_source=git)** | Leander, TX | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba03e3a30793eb963c093?utm_campaign=1052&utm_source=git)** | Shawnee, KS | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ba0033a30793eb963c080?utm_campaign=1052&utm_source=git)** | Waukesha, WI | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9fe91808534a89cb47fa?utm_campaign=1052&utm_source=git)** | Hamilton, OH | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9fc6906ac06e1d1ccd46?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9f8e906ac06e1d1ccd2c?utm_campaign=1052&utm_source=git)** | Casas Adobes, AZ | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
