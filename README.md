@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / Charleston SC](https://jobright.ai/jobs/info/688c354d3a30793eb9640e3e?utm_campaign=1052&utm_source=git)** | Charleston, SC | Hybrid | Jul 31 |
+| **[Healthpeak Properties, Inc.](https://www.healthpeak.com/)** | **[Summer Analyst - Investments](https://jobright.ai/jobs/info/688c4fab1808534a89cba91e?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jul 31 |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[Actuarial Internship (Masters/PhD) - Summer 2026](https://jobright.ai/jobs/info/688c48901808534a89cba44c?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 31 |
+| ↳ | **[Actuarial Internship (Masters/PhD) - Summer 2026](https://jobright.ai/jobs/info/688c48711808534a89cba41a?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
+| ↳ | **[Actuarial Internship (Masters/PhD) - Summer 2026](https://jobright.ai/jobs/info/688c485f3a30793eb9641ca0?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Jul 31 |
+| ↳ | **[Actuarial Internship (Masters/PhD) - Summer 2026](https://jobright.ai/jobs/info/688c485d906ac06e1d1d2a7f?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jul 31 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/688c48223a30793eb9641c51?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[Actuarial Internship (Masters/PhD) - Summer 2026](https://jobright.ai/jobs/info/688c481c906ac06e1d1d2a1b?utm_campaign=1052&utm_source=git)** | Bloomfield, CT | On Site | Jul 31 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Nashville](https://jobright.ai/jobs/info/688c44bc1808534a89cba2ae?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jul 31 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Raytheon - Summer Finance Intern/Co-op - Onsite (MA)](https://jobright.ai/jobs/info/688c42c6906ac06e1d1d27f6?utm_campaign=1052&utm_source=git)** | MA131: Tewksbury, MA Bldg  1 Assabet 50 Apple Hill Drive Assabet - Building 1, Tewksbury, MA, 01876 USA | Hybrid | Jul 31 |
+| **[honeygrow](http://www.honeygrow.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/688c3d63906ac06e1d1d239f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / Nashville](https://jobright.ai/jobs/info/688c3d061808534a89cb9d5a?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jul 31 |
+| ↳ | **[Intern Audit Summer 2027 / Charleston SC](https://jobright.ai/jobs/info/688c354d3a30793eb9640e3e?utm_campaign=1052&utm_source=git)** | Charleston, SC | Hybrid | Jul 31 |
 | ↳ | **[Intern Tax Summer 2027 / Salt Lake City](https://jobright.ai/jobs/info/688c34bb3a30793eb9640df8?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 31 |
 | ↳ | **[Intern IT Audit Summer 2026 / Charlotte](https://jobright.ai/jobs/info/688c34b33a30793eb9640df4?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jul 31 |
 | ↳ | **[Associate Audit Summer 2026 / Boston](https://jobright.ai/jobs/info/688c3473906ac06e1d1d1b6a?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
@@ -65,6 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Tax Summer 2026 / Boston](https://jobright.ai/jobs/info/688c2ba13a30793eb9640842?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
 | **[Snap-on](http://www.snapon.com)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/688c2a53906ac06e1d1d14ba?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jul 31 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Boston](https://jobright.ai/jobs/info/688c297a1808534a89cb8eea?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
+| ↳ | **[Intern Audit Summer 2027 / Salt Lake City](https://jobright.ai/jobs/info/688c4194906ac06e1d1d25ba?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 31 |
+| ↳ | **[Associate Tax Fall 2026 / St. Louis](https://jobright.ai/jobs/info/688c407b1808534a89cb9f36?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jul 31 |
 | **[ELO CPAs & Advisors](https://www.elocpa.com/)** | **[Internship](https://jobright.ai/jobs/info/688c11b43a30793eb963f97b?utm_campaign=1052&utm_source=git)** | Sioux Falls, South Dakota, United States | On Site | Jul 31 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Revenue Accounting Co-Op Internship, Part-Time](https://jobright.ai/jobs/info/688c0ee83a30793eb963f878?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[M&A Analyst Intern - Eden Prairie, MN](https://jobright.ai/jobs/info/688c0b67906ac06e1d1d0416?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Jul 31 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9b5e3a30793eb963be5d?utm_campaign=1052&utm_source=git)** | Caldwell, ID | Hybrid | Jul 31 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Intern, Private Finance for SDGs](https://jobright.ai/jobs/info/688b9b403a30793eb963be34?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b98ef1808534a89cb44d0?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b98aa1808534a89cb44b2?utm_campaign=1052&utm_source=git)** | North Richland Hills, TX | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b988e906ac06e1d1cca22?utm_campaign=1052&utm_source=git)** | Palatine, IL | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b982d1808534a89cb447e?utm_campaign=1052&utm_source=git)** | Blaine, MN | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9802906ac06e1d1cc9f1?utm_campaign=1052&utm_source=git)** | St Charles, MO | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b97b8906ac06e1d1cc9d8?utm_campaign=1052&utm_source=git)** | Weston, FL | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b97753a30793eb963bc61?utm_campaign=1052&utm_source=git)** | Union City, NJ | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b976f3a30793eb963bc5e?utm_campaign=1052&utm_source=git)** | Rogers, AR | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b976b3a30793eb963bc5c?utm_campaign=1052&utm_source=git)** | Cleveland, TN | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b975c906ac06e1d1cc99f?utm_campaign=1052&utm_source=git)** | South Hill, WA | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b97501808534a89cb442e?utm_campaign=1052&utm_source=git)** | Mount Vernon, NY | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b9747906ac06e1d1cc995?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b972a3a30793eb963bc48?utm_campaign=1052&utm_source=git)** | Grand Forks, ND | Hybrid | Jul 31 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688b96ca1808534a89cb43f9?utm_campaign=1052&utm_source=git)** | Camden, NJ | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
