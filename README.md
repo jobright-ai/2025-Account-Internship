@@ -57,8 +57,43 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porte Brown LLC](https://www.portebrown.com)** | **[Tax Season Internship (January 2026)](https://jobright.ai/jobs/info/688d6d143a30793eb964adb7?utm_campaign=1052&utm_source=git)** | Elk Grove Village, IL | On Site | Aug 01 |
+| ↳ | **[Summer Internship (June 2026)](https://jobright.ai/jobs/info/688d6cb63a30793eb964ad92?utm_campaign=1052&utm_source=git)** | Elk Grove, CA | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d645d3a30793eb964aa53?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | Hybrid | Aug 01 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[AML Intern](https://jobright.ai/jobs/info/688d645b3a30793eb964aa4e?utm_campaign=1052&utm_source=git)** | HQ - San Diego, CA | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64371808534a89cc3043?utm_campaign=1052&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d64191808534a89cc3014?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d641927f9022553c0b1ec?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64163a30793eb964a9dd?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 01 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/688d64071808534a89cc2feb?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63f127f9022553c0b1c0?utm_campaign=1052&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63ed1808534a89cc2fba?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63eb27f9022553c0b1b0?utm_campaign=1052&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 01 |
+| **[Resort Lifestyle Communities](http://rlcommunities.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/688d63e33a30793eb964a990?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63d527f9022553c0b193?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63cb3a30793eb964a963?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d63a83a30793eb964a92d?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 01 |
+| **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Clerical Accounting Internship](https://jobright.ai/jobs/info/688d638b3a30793eb964a906?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63741808534a89cc2ef0?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63561808534a89cc2ebe?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d634e1808534a89cc2eb0?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d634c3a30793eb964a895?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63191808534a89cc2e78?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63163a30793eb964a839?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63013a30793eb964a810?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f63a30793eb964a802?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62f627f9022553c0b0b3?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f51808534a89cc2e42?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62e227f9022553c0b094?utm_campaign=1052&utm_source=git)** | Seattle, Washington, United States | Hybrid | Aug 01 |
+| **[LeFrak](http://lefrak.com)** | **[Accounting and Business Operations Intern](https://jobright.ai/jobs/info/688d5dcd3a30793eb964a6b7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 01 |
+| **[Barings](https://www.barings.com/gb/individual/funds/closed-end-funds/baring-emerging-europe-plc/GB0032273343)** | **[Barings Investment Management Summer Internship](https://jobright.ai/jobs/info/688d5dac3a30793eb964a6ae?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
+| ↳ | **[Barings Investment Management Summer Internship](https://jobright.ai/jobs/info/688d5d781808534a89cc2cc0?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
+| **[Thrivent](https://www.thrivent.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/688d58ac3a30793eb964a562?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 01 |
 | **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA Finance Management Trainee Program](https://jobright.ai/jobs/info/688d523d1808534a89cc2992?utm_campaign=1052&utm_source=git)** | Anderson, IN | On Site | Aug 01 |
 | **[FastSpring](https://www.fastspring.com)** | **[Tax Intern](https://jobright.ai/jobs/info/688d4f3a3a30793eb964a235?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 01 |
+| **[MST](https://www.mstiller.com/)** | **[Spring 2026 Tax Internship](https://jobright.ai/jobs/info/688d66053a30793eb964ab26?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Aug 01 |
 | **[Optiver](http://www.optiver.com)** | **[Institutional Trader Intern (2026 Start - Chicago)](https://jobright.ai/jobs/info/688d41df27f9022553c0a5d1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 01 |
 | **[FastSpring](https://www.fastspring.com)** | **[Tax Intern](https://jobright.ai/jobs/info/688d40ad3a30793eb9649b4a?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Tulsa](https://jobright.ai/jobs/info/688d3aca27f9022553c0a2bf?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Aug 01 |
@@ -71,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2026 (Boston)](https://jobright.ai/jobs/info/688d2a9727f9022553c0990b?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 01 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Winter 2026 Accounting Internship](https://jobright.ai/jobs/info/688d29391808534a89cc1543?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2026 (Boston)](https://jobright.ai/jobs/info/688d292b1808534a89cc153f?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
-| **[The Hakimian Organization](https://www.hakimian.com)** | **[Real Estate Internship](https://jobright.ai/jobs/info/688d27813a30793eb9648e1d?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/688d26a427f9022553c096eb?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Aug 01 |
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d265527f9022553c096d6?utm_campaign=1052&utm_source=git)** | Atlanta Metro | On Site | Aug 01 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Real Estate Investment Summer Analyst](https://jobright.ai/jobs/info/688d24651808534a89cc13c3?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
@@ -123,38 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d04331808534a89cc043a?utm_campaign=1052&utm_source=git)** | Troy, NY | Hybrid | Aug 01 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d03f13a30793eb9647d87?utm_campaign=1052&utm_source=git)** | San Luis Obispo, CA | Hybrid | Aug 01 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d03d13a30793eb9647d77?utm_campaign=1052&utm_source=git)** | Jeffersonville, IN | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d03a61808534a89cc0408?utm_campaign=1052&utm_source=git)** | Levittown, PA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d03951808534a89cc0402?utm_campaign=1052&utm_source=git)** | University, FL | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d03411808534a89cc03e8?utm_campaign=1052&utm_source=git)** | El Dorado Hills, CA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d03341808534a89cc03e3?utm_campaign=1052&utm_source=git)** | Wilson, NC | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d02093a30793eb9647cc9?utm_campaign=1052&utm_source=git)** | Euclid, OH | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d01b93a30793eb9647ca5?utm_campaign=1052&utm_source=git)** | Bothell, WA | Hybrid | Aug 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Seasonal Intern, Global Mobility Services / Atlanta Fall 2025](https://jobright.ai/jobs/info/688d01ac3a30793eb9647c9d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cfdb21808534a89cc026c?utm_campaign=1052&utm_source=git)** | Gallatin, TN | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cfc0327f9022553c08442?utm_campaign=1052&utm_source=git)** | Brea, CA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cfbd33a30793eb9647ad5?utm_campaign=1052&utm_source=git)** | Roseville, MI | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cfbca27f9022553c08435?utm_campaign=1052&utm_source=git)** | Niagara Falls, NY | Hybrid | Aug 01 |
-| **[USClaims](http://www.usclaims.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/688cfb2a3a30793eb9647a9f?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Aug 01 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cfadb1808534a89cc01d2?utm_campaign=1052&utm_source=git)** | Cedar Hill, TX | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf98327f9022553c08259?utm_campaign=1052&utm_source=git)** | Los Banos, CA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf95827f9022553c0822d?utm_campaign=1052&utm_source=git)** | Ocoee, FL | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf8f91808534a89cbffcd?utm_campaign=1052&utm_source=git)** | East Providence, RI | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf8591808534a89cbff89?utm_campaign=1052&utm_source=git)** | Dublin, OH | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf8551808534a89cbff85?utm_campaign=1052&utm_source=git)** | North Highlands, CA | Hybrid | Aug 01 |
-| **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/688cf5243a30793eb9647764?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Aug 01 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf4d427f9022553c080e0?utm_campaign=1052&utm_source=git)** | Stillwater, OK | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf4801808534a89cbfe60?utm_campaign=1052&utm_source=git)** | Cypress, CA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf3ff1808534a89cbfe03?utm_campaign=1052&utm_source=git)** | Rockwall, TX | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf3393a30793eb9647677?utm_campaign=1052&utm_source=git)** | Bedford, TX | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf33727f9022553c08027?utm_campaign=1052&utm_source=git)** | Tuckahoe, VA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf18e1808534a89cbfcf9?utm_campaign=1052&utm_source=git)** | Everett, MA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf1851808534a89cbfcf6?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf0fc27f9022553c07fd4?utm_campaign=1052&utm_source=git)** | Mooresville, NC | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf0d427f9022553c07fc8?utm_campaign=1052&utm_source=git)** | Summerville, SC | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cf0ab27f9022553c07fb8?utm_campaign=1052&utm_source=git)** | Murray, UT | Hybrid | Aug 01 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Venture Capital Summer Associate](https://jobright.ai/jobs/info/688cf01327f9022553c07f6e?utm_campaign=1052&utm_source=git)** | Baltimore | On Site | Aug 01 |
-| **[Eastman Kodak Company](http://kodak.com)** | **[Senior Internal Audit Manager](https://jobright.ai/jobs/info/688d07ef27f9022553c087ae?utm_campaign=1052&utm_source=git)** | USA | On Site | Aug 01 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cefc43a30793eb96475a8?utm_campaign=1052&utm_source=git)** | West New York, NJ | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cef7727f9022553c07f2f?utm_campaign=1052&utm_source=git)** | Palm Desert, CA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cef6027f9022553c07f25?utm_campaign=1052&utm_source=git)** | Country Club, FL | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
