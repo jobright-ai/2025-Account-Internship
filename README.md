@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/688e383e6a4aac5783cd8bd5?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 02 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Accounting Intern Temp](https://jobright.ai/jobs/info/6871bfd406ad7073463c7071?utm_campaign=1052&utm_source=git)** | Brentwood, TN | Hybrid | Aug 02 |
 | **[OUTFORM](http://www.outform.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/688e2f7ee5cead4afd45c023?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/685607fda693913ab783dd24?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Aug 02 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[MST](https://www.mstiller.com/)** | **[Summer 2026 Internship - Tax and Audit](https://jobright.ai/jobs/info/688d7faa6a4aac5783cd2823?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Aug 01 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/688d7c8fe5cead4afd455ce1?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Aug 01 |
 | ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/688d7c646a4aac5783cd2609?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 01 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern IT Audit Summer 2026 / Raleigh](https://jobright.ai/jobs/info/688d9763cdbd821a3663c71f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Aug 01 |
-| ↳ | **[Intern Forensics & Valuation Summer 2026 / Chicago](https://jobright.ai/jobs/info/688d9974cdbd821a3663c934?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Forensics & Valuation Summer 2026 / Chicago](https://jobright.ai/jobs/info/688d9974cdbd821a3663c934?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
+| ↳ | **[Intern IT Audit Summer 2026 / Raleigh](https://jobright.ai/jobs/info/688d9763cdbd821a3663c71f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/688d79d46a4aac5783cd245e?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  - Finance](https://jobright.ai/jobs/info/688d79ab6a4aac5783cd243a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[Pennsylvania Housing Finance Agency ](http://www.PHFA.org)** | **[Post-Closing Intern](https://jobright.ai/jobs/info/688d72ba1808534a89cc35b8?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | On Site | Aug 01 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship (June 2026)](https://jobright.ai/jobs/info/688d6cb63a30793eb964ad92?utm_campaign=1052&utm_source=git)** | Elk Grove, CA | On Site | Aug 01 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d645d3a30793eb964aa53?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | Hybrid | Aug 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[AML Intern](https://jobright.ai/jobs/info/688d645b3a30793eb964aa4e?utm_campaign=1052&utm_source=git)** | HQ - San Diego, CA | On Site | Aug 01 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
-| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64371808534a89cc3043?utm_campaign=1052&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d64191808534a89cc3014?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d641927f9022553c0b1ec?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63191808534a89cc2e78?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63163a30793eb964a839?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63013a30793eb964a810?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Aug 01 |
-| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f63a30793eb964a802?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62f627f9022553c0b0b3?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f63a30793eb964a802?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f51808534a89cc2e42?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62e227f9022553c0b094?utm_campaign=1052&utm_source=git)** | Seattle, Washington, United States | Hybrid | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Finance & Timekeeping, Emerging Talent Intern](https://jobright.ai/jobs/info/688d7fb6cdbd821a3663aa17?utm_campaign=1052&utm_source=git)** | Staten Island, NY | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Real Estate Investment & Advisory Summer Analyst](https://jobright.ai/jobs/info/688d1c331808534a89cc1066?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Aug 01 |
 | **[Byline Bank](https://www.bylinebank.com)** | **[Intern](https://jobright.ai/jobs/info/688d1b2b1808534a89cc0f58?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 01 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Real Estate Private Equity Advisory Summer Analyst](https://jobright.ai/jobs/info/688d1b0d3a30793eb96488eb?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Aug 01 |
-| **[Truist](https://www.truist.com)** | **[2026 (Intern Conversion) Internal Audit Intern](https://jobright.ai/jobs/info/688d1aca27f9022553c092c3?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
