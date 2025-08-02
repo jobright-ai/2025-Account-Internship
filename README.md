@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Oklahoma City](https://jobright.ai/jobs/info/688d32c83a30793eb9649628?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 01 |
-| **[Redbridge Debt & Treasury Advisory](https://www.redbridgedta.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/688d31d41808534a89cc1c70?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 01 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Oklahoma City](https://jobright.ai/jobs/info/688d2de43a30793eb9649376?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 01 |
+| **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA Finance Management Trainee Program](https://jobright.ai/jobs/info/688d523d1808534a89cc2992?utm_campaign=1052&utm_source=git)** | Anderson, IN | On Site | Aug 01 |
+| **[FastSpring](https://www.fastspring.com)** | **[Tax Intern](https://jobright.ai/jobs/info/688d4f3a3a30793eb964a235?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Optiver](http://www.optiver.com)** | **[Institutional Trader Intern (2026 Start - Chicago)](https://jobright.ai/jobs/info/688d41df27f9022553c0a5d1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 01 |
+| **[FastSpring](https://www.fastspring.com)** | **[Tax Intern](https://jobright.ai/jobs/info/688d40ad3a30793eb9649b4a?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Tulsa](https://jobright.ai/jobs/info/688d3aca27f9022553c0a2bf?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Aug 01 |
+| ↳ | **[Intern Tax Winter 2027 / Enid](https://jobright.ai/jobs/info/688d386a3a30793eb964986d?utm_campaign=1052&utm_source=git)** | Enid, OK | Hybrid | Aug 01 |
+| ↳ | **[Intern Tax Winter 2027 / Oklahoma City](https://jobright.ai/jobs/info/688d32c83a30793eb9649628?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 01 |
+| ↳ | **[Intern Audit Winter 2027 / Oklahoma City](https://jobright.ai/jobs/info/688d2de43a30793eb9649376?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 01 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  - Finance](https://jobright.ai/jobs/info/688d2bfb27f9022553c09b7c?utm_campaign=1052&utm_source=git)** | US – REMOTE | Remote | Aug 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2026 (Boston)](https://jobright.ai/jobs/info/688d2bc73a30793eb96492d3?utm_campaign=1052&utm_source=git)** | 15 One International Place, Boston, MA, 02110, US | On Site | Aug 01 |
 | **[Truist](https://www.truist.com)** | **[2026 Auditor Development Program (Full-Time ADP Intern Conversion)](https://jobright.ai/jobs/info/688d2b361808534a89cc17c9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
@@ -83,8 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax, Or OMS)](https://jobright.ai/jobs/info/688d15e11808534a89cc0da1?utm_campaign=1052&utm_source=git)** | Aberdeen, SD | Hybrid | Aug 01 |
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d12bc27f9022553c08f77?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Finance Tax Internship - Paid](https://jobright.ai/jobs/info/688d11083a30793eb9648477?utm_campaign=1052&utm_source=git)** | TAMPA, FL - Office | On Site | Aug 01 |
+| **[School Specialty](http://www.schoolspecialty.com)** | **[Pricing and Data Maintenance Internship (Onsite- Greenville WI, 20-30 hours per week) - Fall 2025](https://jobright.ai/jobs/info/688d43f83a30793eb9649daa?utm_campaign=1052&utm_source=git)** | Greenville, WI | On Site | Aug 01 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax, Or OMS)](https://jobright.ai/jobs/info/688d10131808534a89cc0905?utm_campaign=1052&utm_source=git)** | Aberdeen, South Dakota | On Site | Aug 01 |
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d0fb227f9022553c08da8?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Aug 01 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax, Or OMS)](https://jobright.ai/jobs/info/688d0d4727f9022553c08a6d?utm_campaign=1052&utm_source=git)** | Aberdeen, South Dakota | On Site | Aug 01 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Credit Loss Analytics](https://jobright.ai/jobs/info/688d0ce61808534a89cc069f?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Aug 01 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d0b0f27f9022553c088be?utm_campaign=1052&utm_source=git)** | Glenview, IL | Hybrid | Aug 01 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688d0a3c27f9022553c08878?utm_campaign=1052&utm_source=git)** | Wake Forest, NC | Hybrid | Aug 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cefc43a30793eb96475a8?utm_campaign=1052&utm_source=git)** | West New York, NJ | Hybrid | Aug 01 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cef7727f9022553c07f2f?utm_campaign=1052&utm_source=git)** | Palm Desert, CA | Hybrid | Aug 01 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cef6027f9022553c07f25?utm_campaign=1052&utm_source=git)** | Country Club, FL | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cef6027f9022553c07f22?utm_campaign=1052&utm_source=git)** | Florin, CA | Hybrid | Aug 01 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/688cef1c27f9022553c07ea7?utm_campaign=1052&utm_source=git)** | Lincoln, CA | Hybrid | Aug 01 |
-| **[CRC Group](https://www.crcgroup.com/)** | **[2026 Finance Internship (Intern Conversion)](https://jobright.ai/jobs/info/688ceefa1808534a89cbfc77?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/688ceeed3a30793eb9647514?utm_campaign=1052&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Aug 01 |
-| **[Truist](https://www.truist.com)** | **[2026 Finance Internship (Intern Conversion)](https://jobright.ai/jobs/info/688ceee51808534a89cbfc5b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/688ceee027f9022553c07e46?utm_campaign=1052&utm_source=git)** | Lakewood, OH | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
