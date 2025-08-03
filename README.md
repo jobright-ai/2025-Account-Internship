@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Tustin](http://www.tustinca.org)** | **[Finance Intern (Administrative Intern)](https://jobright.ai/jobs/info/688f3b5dcdbd821a366454b9?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | Aug 03 |
+| **[Austin Industries](http://www.austin-ind.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/688c8f013a30793eb96442f4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 03 |
+| **[CyberGuard Advantage](https://www.cgcompliance.com/)** | **[Intern- SOC Audits](https://jobright.ai/jobs/info/688f64076a4aac5783cdd3dc?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/67aba038c1312f7116c8b2e0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 03 |
 | **[NA](http://schnadig.com)** | **[Vice President, Internal Audit Project Leader – Securities & Collateral](https://jobright.ai/jobs/info/688f287fe5cead4afd460730?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[355Life](http://www.355life.com/)** | **[Finance Analyst Intern (Nationwide/Annuities/Transamerica)](https://jobright.ai/jobs/info/688ed4d8e5cead4afd45d7d9?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/688ed6b86a4aac5783cda286?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/688d26a427f9022553c096eb?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Aug 01 |
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d265527f9022553c096d6?utm_campaign=1052&utm_source=git)** | Atlanta Metro | On Site | Aug 01 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Real Estate Investment Summer Analyst](https://jobright.ai/jobs/info/688d24651808534a89cc13c3?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
-| **[The Chemours Company](https://www.chemours.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/6870546601cc0956e7e8130e?utm_campaign=1052&utm_source=git)** | Wilmington, DE | Hybrid | Aug 01 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Private Equity Summer Analyst](https://jobright.ai/jobs/info/688d20ee3a30793eb9648c33?utm_campaign=1052&utm_source=git)** | La Jolla, CA | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
