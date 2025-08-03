@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/688f9117e5cead4afd460f00?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 03 |
 | **[Austin Industries](http://www.austin-ind.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/688c8f013a30793eb96442f4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 03 |
+| ↳ | **[2026 Summer Accounting Internship Program (Coppell or Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/688c9acc3a30793eb9645152?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Aug 03 |
 | **[CyberGuard Advantage](https://www.cgcompliance.com/)** | **[Intern- SOC Audits](https://jobright.ai/jobs/info/688f64076a4aac5783cdd3dc?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 03 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Real Estate, Summer Investment Analyst Program (Originations)](https://jobright.ai/jobs/info/687246cc06ad7073463cbb1e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/67aba038c1312f7116c8b2e0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 03 |
@@ -98,11 +100,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship (June 2026)](https://jobright.ai/jobs/info/688d6cb63a30793eb964ad92?utm_campaign=1052&utm_source=git)** | Elk Grove, CA | On Site | Aug 01 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d645d3a30793eb964aa53?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | Hybrid | Aug 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[AML Intern](https://jobright.ai/jobs/info/688d645b3a30793eb964aa4e?utm_campaign=1052&utm_source=git)** | HQ - San Diego, CA | On Site | Aug 01 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
-| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64371808534a89cc3043?utm_campaign=1052&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Aug 01 |
-| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d64191808534a89cc3014?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d641927f9022553c0b1ec?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d64191808534a89cc3014?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64163a30793eb964a9dd?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/688d64071808534a89cc2feb?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63f127f9022553c0b1c0?utm_campaign=1052&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Winter 2026 Accounting Internship](https://jobright.ai/jobs/info/688d29391808534a89cc1543?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2026 (Boston)](https://jobright.ai/jobs/info/688d292b1808534a89cc153f?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Clerical Accounting Internship](https://jobright.ai/jobs/info/688dc995e5cead4afd45ac69?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 01 |
-| ↳ | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/688d26a427f9022553c096eb?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Aug 01 |
-| **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d265527f9022553c096d6?utm_campaign=1052&utm_source=git)** | Atlanta Metro | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
