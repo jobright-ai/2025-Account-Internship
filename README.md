@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dioun Health](diounhealth.com)** | **[Private Equity Fall Analyst](https://jobright.ai/jobs/info/688fded2e5cead4afd46153a?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/688fc429e5cead4afd4611be?utm_campaign=1052&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Aug 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/688fab42e5cead4afd461048?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
 | **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/688f9117e5cead4afd460f00?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 03 |
@@ -103,11 +104,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship (June 2026)](https://jobright.ai/jobs/info/688d6cb63a30793eb964ad92?utm_campaign=1052&utm_source=git)** | Elk Grove, CA | On Site | Aug 01 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d645d3a30793eb964aa53?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | Hybrid | Aug 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[AML Intern](https://jobright.ai/jobs/info/688d645b3a30793eb964aa4e?utm_campaign=1052&utm_source=git)** | HQ - San Diego, CA | On Site | Aug 01 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
-| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b228?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d643e27f9022553c0b226?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64371808534a89cc3043?utm_campaign=1052&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Aug 01 |
-| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d641927f9022553c0b1ec?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d64191808534a89cc3014?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d641927f9022553c0b1ec?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d64163a30793eb964a9dd?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/688d64071808534a89cc2feb?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63f127f9022553c0b1c0?utm_campaign=1052&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  - Finance](https://jobright.ai/jobs/info/688d2bfb27f9022553c09b7c?utm_campaign=1052&utm_source=git)** | US – REMOTE | Remote | Aug 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2026 (Boston)](https://jobright.ai/jobs/info/688d2bc73a30793eb96492d3?utm_campaign=1052&utm_source=git)** | 15 One International Place, Boston, MA, 02110, US | On Site | Aug 01 |
 | **[Truist](https://www.truist.com)** | **[2026 Auditor Development Program (Full-Time ADP Intern Conversion)](https://jobright.ai/jobs/info/688d2b361808534a89cc17c9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2026 (Boston)](https://jobright.ai/jobs/info/688d2a9727f9022553c0990b?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
