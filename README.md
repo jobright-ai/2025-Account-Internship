@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Corporate, Actuarial Internship Program (AIP)](https://jobright.ai/jobs/info/6890734d4c7e851b90ac6998?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
+| ↳ | **[Prudential: 2026 Corporate, Chief Investment Office (CIO) Summer Analyst Program](https://jobright.ai/jobs/info/6890722ff47efe211394d55b?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
+| ↳ | **[Prudential: 2026 Corporate, Finance Internship Program (FIP)](https://jobright.ai/jobs/info/689071f8f47efe211394d54a?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
+| ↳ | **[Prudential: 2026 Corporate, Risk Management Internship Program](https://jobright.ai/jobs/info/68907199f5ee707a15db6be4?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Consolidations Accounting Intern (Year-Round)](https://jobright.ai/jobs/info/68906b024c7e851b90ac68d3?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Aug 04 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Multi-Asset Solutions, Operations and Product & Strategy Internship Program](https://jobright.ai/jobs/info/6890490ef47efe211394c854?utm_campaign=1052&utm_source=git)** | Newark, NJ | On Site | Aug 03 |
 | ↳ | **[Prudential: 2026 Corporate, Finance Internship Program (FIP)](https://jobright.ai/jobs/info/68903c9df47efe211394bbcf?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | ↳ | **[PGIM: 2026 Fixed Income, Business Support & Operations Internship Program](https://jobright.ai/jobs/info/68903c76f47efe211394bbb8?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
+| ↳ | **[PGIM: 2026 Multi-Asset Solutions, Operations and Product & Strategy Internship Program](https://jobright.ai/jobs/info/68903c62f5ee707a15db5204?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | On Site | Aug 03 |
 | ↳ | **[Prudential: 2026 Corporate, Risk Management Internship Program](https://jobright.ai/jobs/info/68903c13f5ee707a15db5187?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | ↳ | **[Prudential: 2026 Corporate, Chief Investment Office (CIO) Summer Analyst Program](https://jobright.ai/jobs/info/68903c0df47efe211394bb30?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
-| ↳ | **[PGIM: 2026 Multi-Asset Solutions, Operations and Product & Strategy Internship Program](https://jobright.ai/jobs/info/68903b92f47efe211394ba71?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | On Site | Aug 03 |
 | ↳ | **[Prudential: 2026 Corporate, Actuarial Internship Program (AIP) ](https://jobright.ai/jobs/info/68903ae4f47efe211394b946?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Corporate Banking Group, Real Estate Banking, Birmingham, AL; Charlotte, NC; and Dallas, TX](https://jobright.ai/jobs/info/689023e06a4aac5783cde9a2?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 03 |
 | **[JD.COM](http://corporate.jd.com)** | **[Finance Intern](https://jobright.ai/jobs/info/689022c76a4aac5783cde925?utm_campaign=1052&utm_source=git)** | Fontana, CA | On Site | Aug 03 |
@@ -84,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Ridge Wholesale](www.RidgeWholesale.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/689042264c7e851b90ac5551?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Aug 02 |
 | **[355Life](http://www.355life.com/)** | **[Finance Analyst Intern (Nationwide/Annuities/Transamerica)](https://jobright.ai/jobs/info/688ed4d8e5cead4afd45d7d9?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/688ed6b86a4aac5783cda286?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 02 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/688e383e6a4aac5783cd8bd5?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 02 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Accounting Intern Temp](https://jobright.ai/jobs/info/6871bfd406ad7073463c7071?utm_campaign=1052&utm_source=git)** | Brentwood, TN | Hybrid | Aug 02 |
 | **[OUTFORM](http://www.outform.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/688e2f7ee5cead4afd45c023?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/685607fda693913ab783dd24?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Aug 02 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/688e2c476a4aac5783cd88ea?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 02 |
 | **[BD](https://www.bd.com)** | **[Gross Profit Task Force Intern](https://jobright.ai/jobs/info/688e1c8acdbd821a36640a48?utm_campaign=1052&utm_source=git)** | Covington, GA | On Site | Aug 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Accounting Intern / Elmont, NY](https://jobright.ai/jobs/info/688e17b0cdbd821a36640924?utm_campaign=1052&utm_source=git)** | Jamaica, NY | On Site | Aug 02 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Accounts Receivable Apprenticeship](https://jobright.ai/jobs/info/6854f5b96192984dfb11314e?utm_campaign=1052&utm_source=git)** | Moraine, OH | On Site | Aug 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Barings Investment Management Summer Internship](https://jobright.ai/jobs/info/688d5d781808534a89cc2cc0?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[Thrivent](https://www.thrivent.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/688d58ac3a30793eb964a562?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 01 |
 | **[MST](https://www.mstiller.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/688d8543e5cead4afd4564b9?utm_campaign=1052&utm_source=git)** | Brunswick, GA | On Site | Aug 01 |
-| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/688d8bc7cdbd821a3663b890?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Gray, Gray & Gray](http://www.gggllp.com)** | **[Winter & Summer Internships - Tax and Audit](https://jobright.ai/jobs/info/688d8c3ee5cead4afd456e3d?utm_campaign=1052&utm_source=git)** | Canton, MA | On Site | Aug 01 |
-| **[Suffolk County Community College](http://www.sunysuffolk.edu/)** | **[Accountant TRAINEE](https://jobright.ai/jobs/info/688d7fb66a4aac5783cd282c?utm_campaign=1052&utm_source=git)** | Hauppauge, NY | On Site | Aug 01 |
-| ↳ | **[Auditor TRAINEE](https://jobright.ai/jobs/info/688d80d5cdbd821a3663aabe?utm_campaign=1052&utm_source=git)** | Hauppauge, NY | On Site | Aug 01 |
-| **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA Finance Management Trainee Program](https://jobright.ai/jobs/info/688d523d1808534a89cc2992?utm_campaign=1052&utm_source=git)** | Anderson, IN | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
