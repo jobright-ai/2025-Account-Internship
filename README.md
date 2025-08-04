@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIH](https://www.truistinsurance.com/)** | **[2026 Finance Internship (Intern Conversion)](https://jobright.ai/jobs/info/68909c994c7e851b90ac7fc8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
+| **[NA](http://schnadig.com)** | **[Vice President, Internal Audit Project Leader – Securities & Collateral](https://jobright.ai/jobs/info/68908596f47efe211394d927?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Corporate, Actuarial Internship Program (AIP)](https://jobright.ai/jobs/info/6890734d4c7e851b90ac6998?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
 | ↳ | **[Prudential: 2026 Corporate, Chief Investment Office (CIO) Summer Analyst Program](https://jobright.ai/jobs/info/6890722ff47efe211394d55b?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
 | ↳ | **[Prudential: 2026 Corporate, Finance Internship Program (FIP)](https://jobright.ai/jobs/info/689071f8f47efe211394d54a?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 04 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 ETP Intern - Audit, Birmingham](https://jobright.ai/jobs/info/6890179dcdbd821a3664674a?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Aug 03 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Fall Analyst](https://jobright.ai/jobs/info/688fded2e5cead4afd46153a?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/688fc429e5cead4afd4611be?utm_campaign=1052&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Aug 03 |
+| **[NEAR Foundation](https://near.foundation/)** | **[Investor Relations Intern (US)](https://jobright.ai/jobs/info/68909c9df47efe211394eb06?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/688fab42e5cead4afd461048?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
 | **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/688f9117e5cead4afd460f00?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 03 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/67897ddd8cef63184bfee3fb?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Aug 03 |
@@ -96,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[BD](https://www.bd.com)** | **[Gross Profit Task Force Intern](https://jobright.ai/jobs/info/688e1c8acdbd821a36640a48?utm_campaign=1052&utm_source=git)** | Covington, GA | On Site | Aug 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Accounting Intern / Elmont, NY](https://jobright.ai/jobs/info/688e17b0cdbd821a36640924?utm_campaign=1052&utm_source=git)** | Jamaica, NY | On Site | Aug 02 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Accounts Receivable Apprenticeship](https://jobright.ai/jobs/info/6854f5b96192984dfb11314e?utm_campaign=1052&utm_source=git)** | Moraine, OH | On Site | Aug 02 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Strategic View Advisors Financial Planning Internship at Northwestern Mutual – Los Angeles](https://jobright.ai/jobs/info/688e07d0e5cead4afd45b792?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
-| **[Winsupply](http://www.winsupplyinc.com)** | **[Accounts Payable Apprenticeship](https://jobright.ai/jobs/info/685533d198e0131bb8e5ff13?utm_campaign=1052&utm_source=git)** | Moraine, OH | On Site | Aug 02 |
+| ↳ | **[Accounts Payable Apprenticeship](https://jobright.ai/jobs/info/685533d198e0131bb8e5ff13?utm_campaign=1052&utm_source=git)** | Moraine, OH | On Site | Aug 02 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Winter Quarter 2026](https://jobright.ai/jobs/info/6871ade306ad7073463c69d0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[FinSentinal](https://www.finsentinal.com/)** | **[Forex/Crypto Trading Intern (Remote, Unpaid, Task-Based)](https://jobright.ai/jobs/info/688def5ce5cead4afd45b3cf?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Intern (LATAM) - Global Payment - 2025 Fall (MS/MBA)](https://jobright.ai/jobs/info/68719c16a5ae807a59d00ba5?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d63191808534a89cc2e78?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63163a30793eb964a839?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Specialist Assistant - Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/688d63013a30793eb964a810?utm_campaign=1052&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Aug 01 |
-| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62f627f9022553c0b0b3?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f63a30793eb964a802?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 01 |
+| ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62f627f9022553c0b0b3?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Hybrid | Aug 01 |
 | ↳ | **[Audit & Assurance Intern – Financial Statement Audit (Japanese Services Group) – Summer 2026](https://jobright.ai/jobs/info/688d62f51808534a89cc2e42?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
 | ↳ | **[Audit & Assurance Analyst - Sustainability - Summer/Fall 2026](https://jobright.ai/jobs/info/688d62e227f9022553c0b094?utm_campaign=1052&utm_source=git)** | Seattle, Washington, United States | Hybrid | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Finance & Timekeeping, Emerging Talent Intern](https://jobright.ai/jobs/info/688d7fb6cdbd821a3663aa17?utm_campaign=1052&utm_source=git)** | Staten Island, NY | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LeFrak](http://lefrak.com)** | **[Accounting and Business Operations Intern](https://jobright.ai/jobs/info/688d5dcd3a30793eb964a6b7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Barings](https://www.barings.com/gb/individual/funds/closed-end-funds/baring-emerging-europe-plc/GB0032273343)** | **[Barings Investment Management Summer Internship](https://jobright.ai/jobs/info/688d5dac3a30793eb964a6ae?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | ↳ | **[Barings Investment Management Summer Internship](https://jobright.ai/jobs/info/688d5d781808534a89cc2cc0?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
-| **[Thrivent](https://www.thrivent.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/688d58ac3a30793eb964a562?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 01 |
-| **[MST](https://www.mstiller.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/688d8543e5cead4afd4564b9?utm_campaign=1052&utm_source=git)** | Brunswick, GA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
