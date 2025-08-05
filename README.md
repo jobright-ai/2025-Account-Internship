@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Raytheon Summer Finance Intern (Goleta, CA)](https://jobright.ai/jobs/info/68924213f47efe211395add7?utm_campaign=1052&utm_source=git)** | CA602: Goleta (RVS) Bldg B01 6825 Cortona Drive Building B01, Goleta, CA, 93117 USA | Hybrid | Aug 05 |
+| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern](https://jobright.ai/jobs/info/689235c34c7e851b90ad3e5c?utm_campaign=1052&utm_source=git)** | Quincy, MA | On Site | Aug 05 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / Orange County Area)](https://jobright.ai/jobs/info/68922bd24c7e851b90ad397f?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Aug 05 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Corporate Tax - Fall, 2025](https://jobright.ai/jobs/info/6892283e4c7e851b90ad37c3?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Audit (New York, NY)](https://jobright.ai/jobs/info/68922535f47efe211395a12a?utm_campaign=1052&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/68921de64c7e851b90ad34ac?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/68921de64c7e851b90ad34ad?utm_campaign=1052&utm_source=git)** | Lake Mary, FL, United States | On Site | Aug 05 |
@@ -64,8 +68,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/68921abcf5ee707a15dc3326?utm_campaign=1052&utm_source=git)** | 600 Colonial Center Parkway, Lake Mary, FL, 32746, US | On Site | Aug 05 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Intern](https://jobright.ai/jobs/info/6892175d4c7e851b90ad3229?utm_campaign=1052&utm_source=git)** | Miami | On Site | Aug 05 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Global Services, Investment Operations Internship Program](https://jobright.ai/jobs/info/68921754f5ee707a15dc31fc?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | On Site | Aug 05 |
-| ↳ | **[PGIM: 2026 Global Services, Investment Operations Internship Program](https://jobright.ai/jobs/info/689216fdf47efe2113959c6b?utm_campaign=1052&utm_source=git)** | Tampa, FL, USA | On Site | Aug 05 |
+| ↳ | **[PGIM: 2026 Global Services, Investment Operations Internship Program](https://jobright.ai/jobs/info/68921701f47efe2113959c6d?utm_campaign=1052&utm_source=git)** | Tampa, FL, USA | On Site | Aug 05 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Tax Internship](https://jobright.ai/jobs/info/6892095bf47efe21139598bc?utm_campaign=1052&utm_source=git)** | USA DC Washington DC | On Site | Aug 05 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Macon GA](https://jobright.ai/jobs/info/686e1dabc59a38306fdb9db2?utm_campaign=1052&utm_source=git)** | Macon, GA | On Site | Aug 05 |
 | **[Herbein + Company, Inc.](http://herbein.com)** | **[2026 Spring Tax Support Intern](https://jobright.ai/jobs/info/6891fbe94c7e851b90ad2b1b?utm_campaign=1052&utm_source=git)** | Reading, PA | On Site | Aug 05 |
 | ↳ | **[2026 Summer Assurance Intern](https://jobright.ai/jobs/info/6891e9e8f47efe2113959225?utm_campaign=1052&utm_source=git)** | Reading, PA | On Site | Aug 05 |
 | ↳ | **[2026 Spring Tax Intern](https://jobright.ai/jobs/info/6891e238f5ee707a15dc25cd?utm_campaign=1052&utm_source=git)** | Reading, PA | On Site | Aug 05 |
@@ -120,7 +125,8 @@ For a complete list, click the following sortable link below:
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Private & Public Fixed Income, Sophomore Externship Program](https://jobright.ai/jobs/info/68913ae64c7e851b90acd0ec?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | On Site | Aug 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Financial Management Program - Internship](https://jobright.ai/jobs/info/68915edb4c7e851b90acdfc1?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Financial and Accounting Outsourcing Intern - Summer 2026](https://jobright.ai/jobs/info/6891386b4c7e851b90accf40?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 04 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Spring Internship - Columbia, MD](https://jobright.ai/jobs/info/689135e9f47efe21139539c9?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Aug 04 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Spring Tax Internship - McLean, VA](https://jobright.ai/jobs/info/689136f0f5ee707a15dbcfc3?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 04 |
+| ↳ | **[2026 Tax Spring Internship - Columbia, MD](https://jobright.ai/jobs/info/689135e9f47efe21139539c9?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Aug 04 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/689135dd4c7e851b90acceaf?utm_campaign=1052&utm_source=git)** | Jacksonville, AL | On Site | Aug 04 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Capital Markets Summer Intern - Loan Capital Markets](https://jobright.ai/jobs/info/689129914c7e851b90acc9a1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | ↳ | **[2026 Capital Markets Summer Intern - Loan Capital Markets](https://jobright.ai/jobs/info/6891298df47efe21139534ed?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
@@ -135,12 +141,11 @@ For a complete list, click the following sortable link below:
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 AIM Hedging Analyst Internship / Fully Onsite](https://jobright.ai/jobs/info/68912812f47efe211395330c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Treasury Clerk](https://jobright.ai/jobs/info/689127cf4c7e851b90acc7c1?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Aug 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/689127c7f47efe21139532e0?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Aug 04 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Summer Audit Internship - McLean, VA](https://jobright.ai/jobs/info/689126e14c7e851b90acc731?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 04 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Tax/Assurance; Phoenix)](https://jobright.ai/jobs/info/68911c27f5ee707a15dbc38f?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Aug 04 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Intern-Accounting](https://jobright.ai/jobs/info/68911be0f47efe2113952d53?utm_campaign=1052&utm_source=git)** | Franklin, IN | On Site | Aug 04 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Spring Tax Internship - McLean, VA](https://jobright.ai/jobs/info/68911acdf5ee707a15dbc265?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 04 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern (Reno, NV)](https://jobright.ai/jobs/info/68911ab3f5ee707a15dbc248?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Aug 04 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Spring Tax Internship - Richmond, VA](https://jobright.ai/jobs/info/689119d4f47efe2113952b11?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
+| ↳ | **[2026 Summer Audit Internship - McLean, VA](https://jobright.ai/jobs/info/6891193bf5ee707a15dbc0a3?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 04 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern (Phoenix)](https://jobright.ai/jobs/info/689118e5f5ee707a15dbc084?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Aug 04 |
 | **[Adam Lippes](https://adamlippes.com)** | **[Accounting/Finance Intern (Part-Time)](https://jobright.ai/jobs/info/689116dbf47efe21139529c3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/68913ac44c7e851b90acd09a?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | Hybrid | Aug 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Pittsburgh](https://jobright.ai/jobs/info/6891310ef5ee707a15dbcdb4?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 04 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Billings, MT)](https://jobright.ai/jobs/info/689110774c7e851b90acbc74?utm_campaign=1052&utm_source=git)** | Billings, MT | On Site | Aug 04 |
 | ↳ | **[Tax Intern (Phoenix)](https://jobright.ai/jobs/info/68910ecdf47efe21139525bb?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Aug 04 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Financial and Accounting Outsourcing Intern - Summer 2026](https://jobright.ai/jobs/info/68910e6df47efe2113952516?utm_campaign=1052&utm_source=git)** | Boston | On Site | Aug 04 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/68910e26f5ee707a15dbbb3f?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 04 |
-| **[Deriva Energy](http://www.derivaenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/68910cb9f5ee707a15dbba1d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Aug 04 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Phoenix)](https://jobright.ai/jobs/info/68910b1bf47efe21139522f8?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona | On Site | Aug 04 |
-| **[ORBA](http://www.orba.com/)** | **[Winter/Spring Tax Internship 2026](https://jobright.ai/jobs/info/689109ec4c7e851b90acb848?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
