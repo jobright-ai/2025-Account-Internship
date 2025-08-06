@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[Tax Adv - Intern Tax and Trans Tax Ser - Transaction Tax - Manager - Multiple Positions - 1631615](https://jobright.ai/jobs/info/68939326a9199876488de597?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[Allstate](http://www.allstate.com)** | **[2026 360 Financial Analyst- Intern Conversion](https://jobright.ai/jobs/info/68938fff4c7e851b90ade676?utm_campaign=1052&utm_source=git)** | USA - IL (Remote) | Remote | Aug 06 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/68938ffb4c7e851b90ade66d?utm_campaign=1052&utm_source=git)** | US-California-Palo Alto | On Site | Aug 06 |
+| **[Allstate](http://www.allstate.com)** | **[2026 Finance Development Program-  Intern Conversion](https://jobright.ai/jobs/info/68938ea0a9199876488de2e8?utm_campaign=1052&utm_source=git)** | USA - IL (Remote) | Remote | Aug 06 |
+| **[KUKA](http://www.kuka.be)** | **[Tax Intern](https://jobright.ai/jobs/info/6893801f4c7e851b90added0?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Aug 06 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/68937c21a9199876488dda9c?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 06 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Actuarial Intern Life - Summer 2026](https://jobright.ai/jobs/info/68937937a9199876488dda0b?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Aug 06 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Accounting Youth Apprentice 1](https://jobright.ai/jobs/info/6893788af47efe21139645e1?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Aug 06 |
 | **[Bartlett Wealth Management](http://bartlett1898.com)** | **[Wealth Management Co-op (Spring 2026 Semester)](https://jobright.ai/jobs/info/68936cb34c7e851b90add82b?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 06 |
@@ -65,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/6881b1df16ea5743a373b69a?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
 | **[MMB+CO](http://mengelmetzgerbarr.com)** | **[Winter 2026 Tax Intern - Elmira](https://jobright.ai/jobs/info/686eab8373ccb0d5760487d1?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 06 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Intern](https://jobright.ai/jobs/info/68934cb7a9199876488dcb66?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 06 |
+| **[STORE Capital](http://storecapital.com/)** | **[Intern- Fall Cycle 2025](https://jobright.ai/jobs/info/6859dee3e3c39f96592da778?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Aug 06 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Summer Analyst, Investments at Whitman Peterson](https://jobright.ai/jobs/info/68933e71f47efe2113963514?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/689336534c7e851b90adc913?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 06 |
 | ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/6893352f4c7e851b90adc8b7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
@@ -97,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Accounting, Construction](https://jobright.ai/jobs/info/6892ad5bf5ee707a15dc7847?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 05 |
 | **[Vantaca](https://www.vantaca.com/)** | **[Financial Services Internship](https://jobright.ai/jobs/info/6892a6dcf5ee707a15dc757c?utm_campaign=1052&utm_source=git)** | Hybrid Remote | On Site | Aug 05 |
 | ↳ | **[Financial Services Internship](https://jobright.ai/jobs/info/6892a58bf47efe211395de5e?utm_campaign=1052&utm_source=git)** | Vantaca | On Site | Aug 05 |
-| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / Orange County Area)](https://jobright.ai/jobs/info/6892a431f5ee707a15dc72b7?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Aug 05 |
 | **[BayCare Clinic](https://www.baycare.net)** | **[Financial Integrity Intern - Corporate Headquarters](https://jobright.ai/jobs/info/6892a3d24c7e851b90ad7321?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Aug 05 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[Accounting Part-Time Intern](https://jobright.ai/jobs/info/68929ca7f5ee707a15dc7029?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | ↳ | **[I-2662 - Accounting/IFR Part-Time Intern](https://jobright.ai/jobs/info/68929a254c7e851b90ad6fbd?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 05 |
@@ -130,10 +136,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clerical Accounting Internship](https://jobright.ai/jobs/info/688dc995e5cead4afd45ac69?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 05 |
 | ↳ | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/688d26a427f9022553c096eb?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Aug 05 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Lincoln](https://jobright.ai/jobs/info/6892a3a3f5ee707a15dc727c?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Aug 05 |
-| ↳ | **[Associate Tax Fall 2026 / New York City](https://jobright.ai/jobs/info/6892a1c94c7e851b90ad7252?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 05 |
 | ↳ | **[Intern Audit Winter 2027 / Springfield](https://jobright.ai/jobs/info/6892a5a5f5ee707a15dc7388?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
-| ↳ | **[Intern Audit Fall 2026 / Springfield](https://jobright.ai/jobs/info/6892a1554c7e851b90ad7221?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
 | ↳ | **[Intern Tax Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/68929f24f47efe211395dc98?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Aug 05 |
+| ↳ | **[Associate Tax Fall 2026 / New York City](https://jobright.ai/jobs/info/6892a1c94c7e851b90ad7252?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 05 |
+| ↳ | **[Intern Audit Fall 2026 / Springfield](https://jobright.ai/jobs/info/6892a1554c7e851b90ad7221?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Credit and Insurance, Operations Summer Analyst](https://jobright.ai/jobs/info/689279224c7e851b90ad611b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Actuarial Internship Summer 2026](https://jobright.ai/jobs/info/6892e415f5ee707a15dc9e85?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 05 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Finance Intern, Chartwells Higher Ed / Miami University of Ohio](https://jobright.ai/jobs/info/68927402f5ee707a15dc5c8b?utm_campaign=1052&utm_source=git)** | Oxford, OH | On Site | Aug 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Fund Accounting](https://jobright.ai/jobs/info/689263284c7e851b90ad550a?utm_campaign=1052&utm_source=git)** | 2 Easton Oval, Columbus, OH 43219, USA | On Site | Aug 05 |
 | **[Axiom World](https://axiomworld.net)** | **[Chartered Accountancy (CA) Articles Program - TOoP(Training Organization Outside Practice)](https://jobright.ai/jobs/info/6892d737f5ee707a15dc9210?utm_campaign=1052&utm_source=git)** | Innovation, VA | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Finance](https://jobright.ai/jobs/info/68925f99f47efe211395bd7e?utm_campaign=1052&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
-| **[Fortitude Re](https://fortitude-re.com)** | **[Life Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/68925e984c7e851b90ad5152?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 05 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/68925d8af5ee707a15dc5083?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Boston Summer Internship](https://jobright.ai/jobs/info/6892574cf47efe211395b732?utm_campaign=1052&utm_source=git)** | CW Site - USA - MA - Boston - 125 High Street | On Site | Aug 05 |
-| **[DHA CPAs (Drazan, Henke & Associates)](https://dha-cpa.com/)** | **[Tax & Accounting Internship (Spring 2026)](https://jobright.ai/jobs/info/6892569af47efe211395b632?utm_campaign=1052&utm_source=git)** | Chaska, Minnesota, United States | Hybrid | Aug 05 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/6892d5e4f47efe211395fc38?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
-| **[Tanner Health](http://www.tanner.org/)** | **[Accounting Intern - Accounting (Days) (Part-Time)](https://jobright.ai/jobs/info/68925345f5ee707a15dc4936?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
