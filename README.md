@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Actuarial Intern Life - Summer 2026](https://jobright.ai/jobs/info/68937937a9199876488dda0b?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Aug 06 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Accounting Youth Apprentice 1](https://jobright.ai/jobs/info/6893788af47efe21139645e1?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Aug 06 |
+| **[Bartlett Wealth Management](http://bartlett1898.com)** | **[Wealth Management Co-op (Spring 2026 Semester)](https://jobright.ai/jobs/info/68936cb34c7e851b90add82b?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 06 |
+| **[Global Millennial Capital Ltd.](https://globalmillennialcapital.com)** | **[Investment Analyst Internship Program](https://jobright.ai/jobs/info/68936ca0a9199876488dd56e?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/66e3450ef1a4035774071a76?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/6881b1df16ea5743a373b69a?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
+| **[MMB+CO](http://mengelmetzgerbarr.com)** | **[Winter 2026 Tax Intern - Elmira](https://jobright.ai/jobs/info/686eab8373ccb0d5760487d1?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 06 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Intern](https://jobright.ai/jobs/info/68934cb7a9199876488dcb66?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 06 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Summer Analyst, Investments at Whitman Peterson](https://jobright.ai/jobs/info/68933e71f47efe2113963514?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
-| **[City of Tustin](http://www.tustinca.org)** | **[Finance Intern (Administrative Intern)](https://jobright.ai/jobs/info/68933a00a9199876488dc720?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/689336534c7e851b90adc913?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 06 |
 | ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/6893352f4c7e851b90adc8b7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
 | ↳ | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (Pittsburgh, PA)](https://jobright.ai/jobs/info/689335134c7e851b90adc8af?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
@@ -124,10 +130,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clerical Accounting Internship](https://jobright.ai/jobs/info/688dc995e5cead4afd45ac69?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 05 |
 | ↳ | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/688d26a427f9022553c096eb?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Aug 05 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Lincoln](https://jobright.ai/jobs/info/6892a3a3f5ee707a15dc727c?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Aug 05 |
-| ↳ | **[Intern Tax Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/68929f24f47efe211395dc98?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Aug 05 |
-| ↳ | **[Intern Audit Winter 2027 / Springfield](https://jobright.ai/jobs/info/6892a5a5f5ee707a15dc7388?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
 | ↳ | **[Associate Tax Fall 2026 / New York City](https://jobright.ai/jobs/info/6892a1c94c7e851b90ad7252?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 05 |
+| ↳ | **[Intern Audit Winter 2027 / Springfield](https://jobright.ai/jobs/info/6892a5a5f5ee707a15dc7388?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
 | ↳ | **[Intern Audit Fall 2026 / Springfield](https://jobright.ai/jobs/info/6892a1554c7e851b90ad7221?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
+| ↳ | **[Intern Tax Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/68929f24f47efe211395dc98?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Aug 05 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Credit and Insurance, Operations Summer Analyst](https://jobright.ai/jobs/info/689279224c7e851b90ad611b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Actuarial Internship Summer 2026](https://jobright.ai/jobs/info/6892e415f5ee707a15dc9e85?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 05 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Finance Intern, Chartwells Higher Ed / Miami University of Ohio](https://jobright.ai/jobs/info/68927402f5ee707a15dc5c8b?utm_campaign=1052&utm_source=git)** | Oxford, OH | On Site | Aug 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DHA CPAs (Drazan, Henke & Associates)](https://dha-cpa.com/)** | **[Tax & Accounting Internship (Spring 2026)](https://jobright.ai/jobs/info/6892569af47efe211395b632?utm_campaign=1052&utm_source=git)** | Chaska, Minnesota, United States | Hybrid | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/6892d5e4f47efe211395fc38?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Accounting Intern - Accounting (Days) (Part-Time)](https://jobright.ai/jobs/info/68925345f5ee707a15dc4936?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Aug 05 |
-| **[TruStage](https://www.trustage.com/)** | **[Actuarial Internship (Hybrid)](https://jobright.ai/jobs/info/689251d3f5ee707a15dc488e?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Aug 05 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Tax Internship](https://jobright.ai/jobs/info/68924af9f5ee707a15dc464e?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 05 |
-| **[AmeriGas](http://www.amerigas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68924a20f47efe211395b180?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | Hybrid | Aug 05 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Corporate Tax - Fall, 2025](https://jobright.ai/jobs/info/689266ea4c7e851b90ad56a4?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 05 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern](https://jobright.ai/jobs/info/68924429f47efe211395af90?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Aug 05 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Raytheon Summer Finance Intern (Goleta, CA)](https://jobright.ai/jobs/info/68924213f47efe211395add7?utm_campaign=1052&utm_source=git)** | CA602: Goleta (RVS) Bldg B01 6825 Cortona Drive Building B01, Goleta, CA, 93117 USA | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
