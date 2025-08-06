@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (New York, NY)](https://jobright.ai/jobs/info/689321424c7e851b90adc5f6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Summer Analyst, Investments at Whitman Peterson](https://jobright.ai/jobs/info/68933e71f47efe2113963514?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
+| **[City of Tustin](http://www.tustinca.org)** | **[Finance Intern (Administrative Intern)](https://jobright.ai/jobs/info/68933a00a9199876488dc720?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | Aug 06 |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/689336534c7e851b90adc913?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 06 |
+| ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/6893352f4c7e851b90adc8b7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
+| ↳ | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (Pittsburgh, PA)](https://jobright.ai/jobs/info/689335134c7e851b90adc8af?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
+| ↳ | **[Vice President, Internal Audit Leader – Securities, Clearing, and Collateral](https://jobright.ai/jobs/info/689333e0a9199876488dc630?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| ↳ | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (New York, NY)](https://jobright.ai/jobs/info/689321424c7e851b90adc5f6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2027 / Oklahoma City](https://jobright.ai/jobs/info/689320724c7e851b90adc5b3?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (New York, NY)](https://jobright.ai/jobs/info/68931e7e4c7e851b90adc516?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Summer 2027 / Oklahoma City](https://jobright.ai/jobs/info/68931de5f47efe2113962f05?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 06 |
@@ -115,10 +121,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clerical Accounting Internship](https://jobright.ai/jobs/info/688dc995e5cead4afd45ac69?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 05 |
 | ↳ | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/688d26a427f9022553c096eb?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Aug 05 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Lincoln](https://jobright.ai/jobs/info/6892a3a3f5ee707a15dc727c?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | Aug 05 |
-| ↳ | **[Intern Tax Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/68929f24f47efe211395dc98?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Aug 05 |
 | ↳ | **[Intern Audit Winter 2027 / Springfield](https://jobright.ai/jobs/info/6892a5a5f5ee707a15dc7388?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
 | ↳ | **[Associate Tax Fall 2026 / New York City](https://jobright.ai/jobs/info/6892a1c94c7e851b90ad7252?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 05 |
 | ↳ | **[Intern Audit Fall 2026 / Springfield](https://jobright.ai/jobs/info/6892a1554c7e851b90ad7221?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Aug 05 |
+| ↳ | **[Intern Tax Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/68929f24f47efe211395dc98?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Aug 05 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Credit and Insurance, Operations Summer Analyst](https://jobright.ai/jobs/info/689279224c7e851b90ad611b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Actuarial Internship Summer 2026](https://jobright.ai/jobs/info/6892e415f5ee707a15dc9e85?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 05 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Finance Intern, Chartwells Higher Ed / Miami University of Ohio](https://jobright.ai/jobs/info/68927402f5ee707a15dc5c8b?utm_campaign=1052&utm_source=git)** | Oxford, OH | On Site | Aug 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity](https://jobright.ai/jobs/info/6892d87af47efe211395fe63?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Aug 05 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid Intern](https://jobright.ai/jobs/info/689235c34c7e851b90ad3e5c?utm_campaign=1052&utm_source=git)** | Quincy, MA | On Site | Aug 05 |
 | **[upskill](https://www.connectupskill.com)** | **[Summer 2027 Private Equity Investing Analyst](https://jobright.ai/jobs/info/6892e2044c7e851b90ad9bf7?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Aug 05 |
-| **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Global Services, Investment Operations Internship Program](https://jobright.ai/jobs/info/6892ee22f47efe21139610c5?utm_campaign=1052&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Corporate Tax - Fall, 2025](https://jobright.ai/jobs/info/6892283e4c7e851b90ad37c3?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 05 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Audit (New York, NY)](https://jobright.ai/jobs/info/68922535f47efe211395a12a?utm_campaign=1052&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
-| ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/68921de64c7e851b90ad34ac?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
-| ↳ | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/68921de64c7e851b90ad34ad?utm_campaign=1052&utm_source=git)** | Lake Mary, FL, United States | On Site | Aug 05 |
-| ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/68921b1ef5ee707a15dc3353?utm_campaign=1052&utm_source=git)** | 500 Ross Street, Pittsburgh, PA, 15262, US | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
