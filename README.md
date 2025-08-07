@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MAHLE](https://www.mahle.com)** | **[Treasury Intern - Fall](https://jobright.ai/jobs/info/6894ad2f73b3a600fe881120?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI | On Site | Aug 07 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Finance Internship (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/6894a09173b3a600fe880c04?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman – Actuarial Intern (2026) – Health](https://jobright.ai/jobs/info/68948fe18c6d6b442677270f?utm_campaign=1052&utm_source=git)** | Atlanta - Lenox | Hybrid | Aug 07 |
 | ↳ | **[Oliver Wyman – Actuarial Intern (2026) – Health](https://jobright.ai/jobs/info/68948fdc8c6d6b4426772705?utm_campaign=1052&utm_source=git)** | Washington - L Street | Hybrid | Aug 07 |
 | ↳ | **[Oliver Wyman – Actuarial Intern (2026) – Health](https://jobright.ai/jobs/info/68948fd08c6d6b44267726ec?utm_campaign=1052&utm_source=git)** | Philadelphia - 15th | Hybrid | Aug 07 |
@@ -70,6 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Audit Summer 2027 / Little Rock](https://jobright.ai/jobs/info/689468a073b3a600fe87f5f4?utm_campaign=1052&utm_source=git)** | Little Rock, AR | Hybrid | Aug 07 |
 | ↳ | **[Intern Tax Summer 2027 / Little Rock](https://jobright.ai/jobs/info/68945d394ed2ea559ca4d351?utm_campaign=1052&utm_source=git)** | Little Rock, AR | Hybrid | Aug 07 |
 | ↳ | **[Intern Audit Summer 2026 / Denver](https://jobright.ai/jobs/info/68948cf28c6d6b44267725b5?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
+| ↳ | **[Intern Tax Winter 2027/ Little Rock](https://jobright.ai/jobs/info/6894968873b3a600fe880736?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Aug 07 |
+| ↳ | **[Intern Tax Winter 2027 / Rogers](https://jobright.ai/jobs/info/689495d473b3a600fe8806ec?utm_campaign=1052&utm_source=git)** | Rogers, AR | On Site | Aug 07 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern-Accounting](https://jobright.ai/jobs/info/68945901a9199876488e517e?utm_campaign=1052&utm_source=git)** | Roanoke, VA | On Site | Aug 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Rogers](https://jobright.ai/jobs/info/68946ae073b3a600fe87f6e9?utm_campaign=1052&utm_source=git)** | Rogers, AR | Hybrid | Aug 06 |
 | ↳ | **[Intern Audit Summer 2027 / Rogers](https://jobright.ai/jobs/info/68946ca98c6d6b4426771b65?utm_campaign=1052&utm_source=git)** | Rogers, AR | Hybrid | Aug 06 |
@@ -141,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors/Master - Accounting Co-Op](https://jobright.ai/jobs/info/6893993aa9199876488de7de?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 06 |
 | **[KerberRose](http://kerberrose.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68939785a9199876488de711?utm_campaign=1052&utm_source=git)** | Antigo, WI | On Site | Aug 06 |
 | **[EY](http://www.ey.com)** | **[Tax Adv - Intern Tax and Trans Tax Ser - Transaction Tax - Manager - Multiple Positions - 1631615](https://jobright.ai/jobs/info/68939326a9199876488de597?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[Tencent](https://www.tencent.com/en-us)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/68938ffb4c7e851b90ade66d?utm_campaign=1052&utm_source=git)** | US-California-Palo Alto | On Site | Aug 06 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/68938e574c7e851b90ade4ef?utm_campaign=1052&utm_source=git)** | US-California-Palo Alto | On Site | Aug 06 |
 | **[Medtronic](https://www.medtronic.com)** | **[Finance Intern Summer 2026](https://jobright.ai/jobs/info/6890ac7af5ee707a15db8c8b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
 | **[KUKA](http://www.kuka.be)** | **[Tax Intern](https://jobright.ai/jobs/info/6893801f4c7e851b90added0?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Aug 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/68937c21a9199876488dda9c?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HOLT Group](https://holtgrp.com)** | **[Finance Intern- High School](https://jobright.ai/jobs/info/6882f4bd835a903aa07f1ba7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 06 |
 | **[MMB+CO](http://mengelmetzgerbarr.com)** | **[Summer 2026 Assurance Intern - Elmira](https://jobright.ai/jobs/info/686ea8c2307c8f326ef31385?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/6881b1df16ea5743a373b69a?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Accounting Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/685bac5023417469837d6c2a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[MMB+CO](http://mengelmetzgerbarr.com)** | **[Winter 2026 Tax Intern - Rochester](https://jobright.ai/jobs/info/686eab8373ccb0d5760487df?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 06 |
-| ↳ | **[Winter 2026 Tax Intern - Elmira](https://jobright.ai/jobs/info/686eab8373ccb0d5760487d1?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 06 |
-| ↳ | **[Summer 2026 Assurance Intern - Rochester](https://jobright.ai/jobs/info/686eab8373ccb0d57604880f?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
