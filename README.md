@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tanner Health](http://www.tanner.org/)** | **[Accounting Intern - Accounting (Days) (Part-Time)](https://jobright.ai/jobs/info/6895e3e173b3a600fe88b3bc?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Aug 08 |
+| **[Water Replenishment District](https://www.wrd.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6895df948c6d6b442677d727?utm_campaign=1052&utm_source=git)** | Lakewood, CA | On Site | Aug 08 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6895ded61b9e81727f18c993?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
+| ↳ | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6895ddbd73b3a600fe88b231?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
+| ↳ | **[Junior Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6895dda81b9e81727f18c94c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 08 |
+| ↳ | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6895dd5f73b3a600fe88b21c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/6895bcc74ed2ea559ca5929c?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Aug 08 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959d664ed2ea559ca57b50?utm_campaign=1052&utm_source=git)** | Fargo, North Dakota | On Site | Aug 07 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round)  - City](https://jobright.ai/jobs/info/68959d548c6d6b442677ba2d?utm_campaign=1052&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Aug 07 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959d3a73b3a600fe8894bf?utm_campaign=1052&utm_source=git)** | Fargo, North Dakota | On Site | Aug 07 |
-| ↳ | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959b5c8c6d6b442677b828?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Aug 07 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959b5c8c6d6b442677b828?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Aug 07 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Internship](https://jobright.ai/jobs/info/689579a64ed2ea559ca56377?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Houston](https://jobright.ai/jobs/info/689569c28c6d6b4426779829?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern Audit Summer 2027 / Houston](https://jobright.ai/jobs/info/6895699573b3a600fe887374?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
@@ -107,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA – Assurance – Financial Accounting Advisory Services (FAAS) – 360 Careers Intern – Summer 2026 at EY](https://jobright.ai/jobs/info/68953a974ed2ea559ca54413?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
 | ↳ | **[USA – Assurance – FAAS – Technical Acctg Adv Group – 360 Careers – Intern – Summer 2026 at EY](https://jobright.ai/jobs/info/68953a5d4ed2ea559ca543fa?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/68953a188c6d6b442677831e?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Aug 07 |
+| **[MiddleGround Capital](https://www.middlegroundcapital.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/689559644ed2ea559ca552e0?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Aug 07 |
 | **[ITW](http://www.itw.com/)** | **[Audit Intern – Summer 2026](https://jobright.ai/jobs/info/689538c273b3a600fe885da2?utm_campaign=1052&utm_source=git)** | Glenview - 60025 - Corporate | On Site | Aug 07 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA – Assurance – Financial Accounting Advisory Services (FAAS) – 360 Careers Intern – Winter 2027 at EY](https://jobright.ai/jobs/info/6895389d4ed2ea559ca5430f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Financial Analyst](https://jobright.ai/jobs/info/6895373e73b3a600fe885c80?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Tax Intern - Summer 2026](https://jobright.ai/jobs/info/689501648c6d6b442677678d?utm_campaign=1052&utm_source=git)** | Glenview - 60025 - Corporate | On Site | Aug 07 |
 | ↳ | **[Corporate Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/6895015c4ed2ea559ca528cc?utm_campaign=1052&utm_source=git)** | Glenview - 60025 - Corporate | On Site | Aug 07 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6894fe7973b3a600fe8841e0?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 07 |
-| **[MiddleGround Capital](https://www.middlegroundcapital.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6894fe018c6d6b44267764dd?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Aug 07 |
 | **[Compass Business Solutions, Inc.](https://compass-resources.com)** | **[Accounting (A&A) Intern - Summer 2026](https://jobright.ai/jobs/info/6894fdcb8c6d6b442677648a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6894fce18c6d6b4426776354?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 07 |
 | **[Kiln](https://kiln.co/)** | **[Finance Intern](https://jobright.ai/jobs/info/6894fbdb8c6d6b4426776232?utm_campaign=1052&utm_source=git)** | Lehi, Utah, United States | On Site | Aug 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6894fbbb4ed2ea559ca523dc?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 07 |
 | ↳ | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6894fb7c8c6d6b44267761bb?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
-| ↳ | **[Junior Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6894fb318c6d6b4426776177?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2027 / Des Moines](https://jobright.ai/jobs/info/6895184e4ed2ea559ca536bb?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | Hybrid | Aug 07 |
-| ↳ | **[Associate Tax Summer 2026 / Salt Lake City](https://jobright.ai/jobs/info/68951e958c6d6b442677797d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 07 |
-| **[Compass Business Solutions, Inc.](https://compass-resources.com)** | **[Accounting (Tax) Intern - Spring/Busy Season- 2026](https://jobright.ai/jobs/info/6894fb028c6d6b4426776156?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 07 |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/6895177e8c6d6b44267775db?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 07 |
-| **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - College - Financial Services Controller](https://jobright.ai/jobs/info/6894f83b73b3a600fe883baf?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
