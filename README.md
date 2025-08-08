@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/6895bcc74ed2ea559ca5929c?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Aug 08 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round)  - City](https://jobright.ai/jobs/info/68959d548c6d6b442677ba2d?utm_campaign=1052&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Aug 07 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959d3a73b3a600fe8894bf?utm_campaign=1052&utm_source=git)** | Fargo, North Dakota | On Site | Aug 07 |
 | ↳ | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959b5c8c6d6b442677b828?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Aug 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Business Solutions, Inc.](https://compass-resources.com)** | **[Accounting (Tax) Intern - Spring/Busy Season- 2026](https://jobright.ai/jobs/info/6894fb028c6d6b4426776156?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/6895177e8c6d6b44267775db?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 07 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - College - Financial Services Controller](https://jobright.ai/jobs/info/6894f83b73b3a600fe883baf?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Accounting Management Development Associate](https://jobright.ai/jobs/info/6894f20c73b3a600fe883904?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
