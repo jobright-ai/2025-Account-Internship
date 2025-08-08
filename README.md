@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Internship](https://jobright.ai/jobs/info/689579a64ed2ea559ca56377?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Houston](https://jobright.ai/jobs/info/689569c28c6d6b4426779829?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern Audit Summer 2027 / Houston](https://jobright.ai/jobs/info/6895699573b3a600fe887374?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Associate Tax Fall 2025 / New York City](https://jobright.ai/jobs/info/689567658c6d6b4426779747?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
@@ -70,16 +71,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern – Summer 2026](https://jobright.ai/jobs/info/68955dd38c6d6b442677938d?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Aug 07 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2026](https://jobright.ai/jobs/info/68955b9c4ed2ea559ca553f1?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68955a5e4ed2ea559ca5534c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/689558de4ed2ea559ca5528f?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Austin](https://jobright.ai/jobs/info/6895837a4ed2ea559ca568f3?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Aug 07 |
+| ↳ | **[Intern Audit Winter 2027 / San Antonio](https://jobright.ai/jobs/info/68957e6773b3a600fe887fe2?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Hybrid | Aug 07 |
+| ↳ | **[Intern Tax Winter 2027 / Austin](https://jobright.ai/jobs/info/68957e7a73b3a600fe888002?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Aug 07 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/689558de4ed2ea559ca5528f?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Treasury/Sales Audit & Tax Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/6895569b4ed2ea559ca55174?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Finance (Summer 2026)](https://jobright.ai/jobs/info/6895566a8c6d6b4426779087?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/689555fe4ed2ea559ca55127?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/689555b98c6d6b4426779019?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[HORNE](https://horne.com/)** | **[Tax Intern - Construction Services](https://jobright.ai/jobs/info/689555ae73b3a600fe886b44?utm_campaign=1052&utm_source=git)** | Ridgeland, MS | On Site | Aug 07 |
 | **[Allstate](http://www.allstate.com)** | **[Pricing Actuarial Analyst Intern](https://jobright.ai/jobs/info/6895558073b3a600fe886afc?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 07 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern (Part-time) / Summer 2026](https://jobright.ai/jobs/info/689555518c6d6b4426778fec?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Finance (Summer 2026)](https://jobright.ai/jobs/info/689553338c6d6b4426778e7d?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 PE-Secondaries Investments Summer Intern](https://jobright.ai/jobs/info/68957ecc8c6d6b442677a494?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / San Antonio](https://jobright.ai/jobs/info/6895881b73b3a600fe88879f?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Hybrid | Aug 07 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/68954fde8c6d6b4426778def?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68954edc4ed2ea559ca54e5a?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[MV Purchasing, LLC](http://mvpurchasing.com)** | **[Accounting Clerk - Part Time Hours](https://jobright.ai/jobs/info/68954c448c6d6b4426778c61?utm_campaign=1052&utm_source=git)** | Wichita Office | Hybrid | Aug 07 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Credit Research Summer Intern](https://jobright.ai/jobs/info/68956a364ed2ea559ca55946?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[McDonough District Hospital](https://www.mmasters.org)** | **[PATIENT FINANCIAL SERVICES INTERN](https://jobright.ai/jobs/info/68954c0e73b3a600fe8866ee?utm_campaign=1052&utm_source=git)** | Macomb, IL | On Site | Aug 07 |
@@ -120,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Glia](https://www.glia.com)** | **[December 2025 Grads: Staff Accountant Intern](https://jobright.ai/jobs/info/68950e698c6d6b4426776ee0?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Aug 07 |
 | **[California Department of Public Health](http://www.cdph.ca.gov)** | **[STUDENT ASSISTANT JC-487633](https://jobright.ai/jobs/info/68950dd28c6d6b4426776ea0?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Aug 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2026 / Boston](https://jobright.ai/jobs/info/68950b8e4ed2ea559ca52ef1?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 07 |
-| **[Turner Industries](http://www.turner-industries.com)** | **[Project Accounting - Intern (STUDENTS OR RECENT GRADUATES ONLY)](https://jobright.ai/jobs/info/689572c54ed2ea559ca55f22?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/689509bb73b3a600fe8848f2?utm_campaign=1052&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (Pittsburgh, PA)](https://jobright.ai/jobs/info/6895097373b3a600fe8848c3?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Actuarial Intern Life - Summer 2026](https://jobright.ai/jobs/info/6895091c4ed2ea559ca52d8b?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Aug 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68950de24ed2ea559ca53063?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[NPower](http://www.npower.org/)** | **[Volunteer: General Accounting- Remote](https://jobright.ai/jobs/info/6894f12f8c6d6b4426775c61?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Intrinsic Development](https://www.id.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6894ef988c6d6b4426775b8e?utm_campaign=1052&utm_source=git)** | Lee's Summit, Missouri  |  Part-Time Intern | On Site | Aug 07 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/689518964ed2ea559ca536e5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 07 |
-| ↳ | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/689508e68c6d6b4426776cc1?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
-| ↳ | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/689500764ed2ea559ca52849?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
-| ↳ | **[Junior Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/689504cf8c6d6b4426776a5d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 07 |
-| **[Michael Best & Friedrich LLP](http://www.michaelbest.com)** | **[Part-Time Accounting Intern](https://jobright.ai/jobs/info/6894d73173b3a600fe882851?utm_campaign=1052&utm_source=git)** | Waukesha County, WI | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
