@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round)  - City](https://jobright.ai/jobs/info/68959d548c6d6b442677ba2d?utm_campaign=1052&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Aug 07 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959d3a73b3a600fe8894bf?utm_campaign=1052&utm_source=git)** | Fargo, North Dakota | On Site | Aug 07 |
+| ↳ | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959b5c8c6d6b442677b828?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Aug 07 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Internship](https://jobright.ai/jobs/info/689579a64ed2ea559ca56377?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Houston](https://jobright.ai/jobs/info/689569c28c6d6b4426779829?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern Audit Summer 2027 / Houston](https://jobright.ai/jobs/info/6895699573b3a600fe887374?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Finance/Tax Intern - Remote](https://jobright.ai/jobs/info/689549bf73b3a600fe886476?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Remote | Aug 07 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Audit/Controls Intern](https://jobright.ai/jobs/info/6895498c73b3a600fe886458?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Aug 07 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/689549698c6d6b4426778928?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Aug 07 |
+| **[EmblemHealth](http://www.emblemhealth.com)** | **[2026 Summer Healthcare Data Analytics - Healthcare Economics Intern (Remote)](https://jobright.ai/jobs/info/68958fce73b3a600fe888bad?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Finance & Timekeeping, Emerging Talent Intern](https://jobright.ai/jobs/info/689542df8c6d6b442677867e?utm_campaign=1052&utm_source=git)** | Staten Island, NY | On Site | Aug 07 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern - Finance (Year-Round)](https://jobright.ai/jobs/info/68953d2673b3a600fe885ef7?utm_campaign=1052&utm_source=git)** | Cambridge, OH | On Site | Aug 07 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68953be64ed2ea559ca54492?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/6895177e8c6d6b44267775db?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 07 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - College - Financial Services Controller](https://jobright.ai/jobs/info/6894f83b73b3a600fe883baf?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Accounting Management Development Associate](https://jobright.ai/jobs/info/6894f20c73b3a600fe883904?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Aug 07 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Financial Advisor Development Program - Summer Analyst Opportunity (Chicago)](https://jobright.ai/jobs/info/6894f2084ed2ea559ca51ea7?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68950de24ed2ea559ca53063?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 07 |
-| **[NPower](http://www.npower.org/)** | **[Volunteer: General Accounting- Remote](https://jobright.ai/jobs/info/6894f12f8c6d6b4426775c61?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Intrinsic Development](https://www.id.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6894ef988c6d6b4426775b8e?utm_campaign=1052&utm_source=git)** | Lee's Summit, Missouri  |  Part-Time Intern | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
