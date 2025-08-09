@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67904a91a91a9be1558a20cf?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/679066b2d725730958100200?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jul 26 |
 | ↳ | **[Assurance Intern - Summer 2026 (Baltimore)](https://jobright.ai/jobs/info/677c4716c5c50c483be5567c?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jul 26 |
-| ↳ | **[Assurance Intern - Summer 2026 (Richmond)](https://jobright.ai/jobs/info/6786bedfaed1b7df0d8743b7?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
