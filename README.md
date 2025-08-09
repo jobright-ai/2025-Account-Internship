@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Undergraduate Full-Time - Corporate Finance](https://jobright.ai/jobs/info/68966ed48c6d6b4426781b14?utm_campaign=1052&utm_source=git)** | Smithfield, RI | Hybrid | Aug 08 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Analyst Intern](https://jobright.ai/jobs/info/68968a5673b3a600fe89007e?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Aug 08 |
+| **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/689689d01b9e81727f1915a8?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Corporate Accounting](https://jobright.ai/jobs/info/689686661b9e81727f1914a0?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 08 |
+| **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2026](https://jobright.ai/jobs/info/6896852c8c6d6b4426782358?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | On Site | Aug 08 |
+| **[Water Replenishment District](https://www.wrd.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6896739c1b9e81727f190eee?utm_campaign=1052&utm_source=git)** | Lakewood, CA | On Site | Aug 08 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Undergraduate Full-Time - Corporate Finance](https://jobright.ai/jobs/info/6896719773b3a600fe88f807?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 08 |
+| ↳ | **[2026 Undergraduate Full-Time - Corporate Finance](https://jobright.ai/jobs/info/68966ed48c6d6b4426781b14?utm_campaign=1052&utm_source=git)** | Smithfield, RI | Hybrid | Aug 08 |
 | ↳ | **[2026 Undergraduate Full-Time - Corporate Finance](https://jobright.ai/jobs/info/68966ed21b9e81727f190ca9?utm_campaign=1052&utm_source=git)** | Westlake, TX | Hybrid | Aug 08 |
 | **[Los Angeles Capital Management](https://lacapm.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/6896694b8c6d6b44267818ef?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 08 |
 | **[NA](http://schnadig.com)** | **[2026 Summer Internship Program - Chief Investment Office (New York, NY)](https://jobright.ai/jobs/info/6896681a73b3a600fe88f3b0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -116,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Springfield Bookkeeping LLC](http://bookkeepingsgf.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/689628391b9e81727f18e77f?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Aug 08 |
 | **[ITW](http://www.itw.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6896279b73b3a600fe88d0a4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68961ee173b3a600fe88ccbc?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 08 |
-| ↳ | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68961ecd1b9e81727f18e377?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 08 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68961d678c6d6b442677f08c?utm_campaign=1052&utm_source=git)** | TX-Houston | On Site | Aug 08 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Baird Trust Equity Research Analyst (Summer 2026)](https://jobright.ai/jobs/info/68961d058c6d6b442677f014?utm_campaign=1052&utm_source=git)** | KY-Louisville | On Site | Aug 08 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68961c861b9e81727f18e208?utm_campaign=1052&utm_source=git)** | TX-Houston | On Site | Aug 08 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/689617c273b3a600fe88c9db?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 08 |
 | **[Compass Business Solutions, Inc.](https://compass-resources.com)** | **[Accounting (Tax) Intern - Spring/Busy Season- 2026](https://jobright.ai/jobs/info/689633ec1b9e81727f18ebd2?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 08 |
 | **[Air Liquide](http://www.airliquide.com)** | **[VIE - Operational Finance - Business analyst(M/F/D)](https://jobright.ai/jobs/info/689634158c6d6b442677f964?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 08 |
 | **[Todd](toddagriscience.com)** | **[Winter VC Finance Analyst Intern](https://jobright.ai/jobs/info/689610f41b9e81727f18de0d?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Aug 08 |
@@ -143,18 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf35?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[Optiver](http://www.optiver.com)** | **[Trading Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/688843bffbbf032d00079ccb?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset & Wealth Management Risk Summer Analyst Program](https://jobright.ai/jobs/info/687a2250ed63844c944a17f5?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da220697?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
-| **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/6895b72e4ed2ea559ca59141?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Aug 08 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3d?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Aug 08 |
+| ↳ | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da220697?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
+| **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/6895bcc74ed2ea559ca5929c?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Aug 08 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959d664ed2ea559ca57b50?utm_campaign=1052&utm_source=git)** | Fargo, North Dakota | On Site | Aug 07 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round)  - City](https://jobright.ai/jobs/info/68959d548c6d6b442677ba2d?utm_campaign=1052&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Aug 07 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax; Fargo)](https://jobright.ai/jobs/info/68959b5c8c6d6b442677b828?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Aug 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Houston](https://jobright.ai/jobs/info/689569c28c6d6b4426779829?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern Audit Summer 2027 / Houston](https://jobright.ai/jobs/info/6895699573b3a600fe887374?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 07 |
-| ↳ | **[Associate Tax Fall 2025 / New York City](https://jobright.ai/jobs/info/689567658c6d6b4426779747?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
-| ↳ | **[Associate Audit Summer 2026/ New York City](https://jobright.ai/jobs/info/689567398c6d6b4426779733?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
-| ↳ | **[Associate Audit Fall 2025 / New York City](https://jobright.ai/jobs/info/6895672e4ed2ea559ca5581a?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
-| **[California Department of Public Health](http://www.cdph.ca.gov)** | **[STUDENT ASSISTANT JC-487764](https://jobright.ai/jobs/info/6895634c73b3a600fe8870c3?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Aug 07 |
-| **[ITW](http://www.itw.com/)** | **[Corporate Transfer Pricing Intern - Winter 2026](https://jobright.ai/jobs/info/6895628e4ed2ea559ca5561c?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Aug 07 |
-| ↳ | **[Corporate Tax Intern - Winter 2026](https://jobright.ai/jobs/info/6895628b8c6d6b4426779523?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Aug 07 |
-| ↳ | **[Corporate Tax Intern - Summer 2026](https://jobright.ai/jobs/info/689561168c6d6b442677949a?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
