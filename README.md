@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Alternative Investment Group Tax Intern / Spring 2026](https://jobright.ai/jobs/info/6798396cd03f8d4e0152efdd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6898afcd5574fd6bc0c7a60c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 10 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Spring 2026](https://jobright.ai/jobs/info/67983039413f5bd1b560ef33?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 10 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Academy of Finance Intern - Fall 2025 - Baltimore, MD](https://jobright.ai/jobs/info/686b3c3a35584b6542533fce?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Aug 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Equity Research Analyst (Summer 2026)](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd24d32?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 10 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/689867545574fd6bc0c79e22?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687bd847764c3d7411c35b71?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Aug 10 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897e9958c6d6b4426793f70?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Aug 08 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2025 / Cincinnati](https://jobright.ai/jobs/info/6898369583d13d1f5b68bead?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/68985e68faa4e875e824f655?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 08 |
-| ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/689832e5faa4e875e824b8ac?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 08 |
 | ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/689834e183d13d1f5b68bbf8?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Aug 08 |
+| ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/689832e5faa4e875e824b8ac?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 08 |
 | ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6898545ffaa4e875e824e3ec?utm_campaign=1052&utm_source=git)** | Catlettsburg, KY | On Site | Aug 08 |
 | ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/68984a2e83d13d1f5b68d1d3?utm_campaign=1052&utm_source=git)** | Mandan, ND | On Site | Aug 08 |
 | ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/68984fcb5574fd6bc0c77e07?utm_campaign=1052&utm_source=git)** | Kenai, AK | On Site | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alamo Group Inc.](http://alamo-group.com)** | **[Financial Accounting Intern](https://jobright.ai/jobs/info/68983673faa4e875e824be30?utm_campaign=1052&utm_source=git)** | Seguin, TX | On Site | Aug 08 |
 | **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68985b045574fd6bc0c78d63?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Portfolio Valuation](https://jobright.ai/jobs/info/6898598283d13d1f5b68ee0c?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 08 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Analyst Intern](https://jobright.ai/jobs/info/68984a7cfaa4e875e824d2fc?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
