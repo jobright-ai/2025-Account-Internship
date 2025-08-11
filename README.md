@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6899b65883d13d1f5b694256?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Aug 11 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6899b639faa4e875e8253e58?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Aug 11 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6899b639faa4e875e8253e59?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 11 |
+| **[NA](http://schnadig.com)** | **[Vice President, Internal Audit Leader – Securities, Clearing, and Collateral](https://jobright.ai/jobs/info/6899b36183d13d1f5b6941f0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 11 |
+| **[City of Tustin](http://www.tustinca.org)** | **[Finance Intern (Administrative Intern)](https://jobright.ai/jobs/info/6899b35483d13d1f5b6941e8?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | Aug 11 |
+| **[Water Replenishment District](https://www.wrd.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6899a718faa4e875e8253d47?utm_campaign=1052&utm_source=git)** | Lakewood, CA | On Site | Aug 11 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Accounting Intern, Part-Time Fall 2025](https://jobright.ai/jobs/info/6899a2c35574fd6bc0c7dbcb?utm_campaign=1052&utm_source=git)** | Mason, OH | Hybrid | Aug 11 |
+| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6899a2a25574fd6bc0c7dba5?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 11 |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899a2865574fd6bc0c7db83?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6899a212faa4e875e8253d0f?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Aug 11 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6899a211faa4e875e8253d0e?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899a1e2faa4e875e8253cd3?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
@@ -99,6 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Hedge Funds Credit Risk](https://jobright.ai/jobs/info/6826915fe60fca278c2f1c1d?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Aug 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance – Fall 2025](https://jobright.ai/jobs/info/687bd847764c3d7411c35b71?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Aug 10 |
 | **[Hudson Valley Bookkeeping, Inc.](https://hvbookkeeping.com)** | **[Accounting Internship - Fall & Winter Semesters](https://jobright.ai/jobs/info/68989dd3faa4e875e8250410?utm_campaign=1052&utm_source=git)** | Montgomery, NY | On Site | Aug 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf37?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 09 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da220679?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 09 |
 | **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Finance College Co-op](https://jobright.ai/jobs/info/6840da91640e14bb27f5bfe2?utm_campaign=1052&utm_source=git)** | Three Rivers, MI | On Site | Aug 09 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Fall Analyst](https://jobright.ai/jobs/info/68985c1283d13d1f5b68f2a7?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206d5?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 09 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e979e0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset Management Client Summer Analyst Program](https://jobright.ai/jobs/info/687a4323ed63844c944a2301?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Associate – New York Generalist Program](https://jobright.ai/jobs/info/684e63d50f4cc82b5096a0cf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6865f974f0810735bfbb8366?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 09 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Trader Internship: Summer 2026](https://jobright.ai/jobs/info/6840d3e4afe20e899a5825a5?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Aug 09 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Winter 2026 / Chicago](https://jobright.ai/jobs/info/6897494473b3a600fe896313?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 08 |
-| ↳ | **[Associate Tax Fall 2026 / Chicago](https://jobright.ai/jobs/info/68974d968c6d6b4426788f42?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 08 |
-| **[Canal Barge Company, Inc.](http://canalbarge.com)** | **[Accounting Intern - Fall](https://jobright.ai/jobs/info/6897ecc073b3a600fe8a192c?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Aug 08 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e979d6?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
-| ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206d4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 08 |
-| **[Optiver](http://www.optiver.com)** | **[Trading Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/688843bffbbf032d00079ccb?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
-| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Treasury Management](https://jobright.ai/jobs/info/6898201ffaa4e875e824a83f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/682ab22885200fa66b8e7a17?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Aug 08 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206db?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
