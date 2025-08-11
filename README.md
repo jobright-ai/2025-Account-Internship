@@ -57,13 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern Summer 2026, Global Transaction Advisory Group – Global Transaction Analytics](https://jobright.ai/jobs/info/689a2cb85574fd6bc0c804f5?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 11 |
+| ↳ | **[Intern Summer 2026, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/689a2bd95574fd6bc0c80453?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 11 |
+| ↳ | **[Intern Summer 2027, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/689a2b445574fd6bc0c803d6?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 11 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Actuarial Corporate Internship](https://jobright.ai/jobs/info/689a2afa5574fd6bc0c8037d?utm_campaign=1052&utm_source=git)** | CT - Hartford | Hybrid | Aug 11 |
+| ↳ | **[Actuarial Corporate Internship](https://jobright.ai/jobs/info/689a2ae55574fd6bc0c80366?utm_campaign=1052&utm_source=git)** | CT - Hartford | Hybrid | Aug 11 |
+| **[KerberRose](http://kerberrose.com)** | **[Tax Intern](https://jobright.ai/jobs/info/689a289d83d13d1f5b696785?utm_campaign=1052&utm_source=git)** | Antigo, WI | On Site | Aug 11 |
+| **[Allstate](http://www.allstate.com)** | **[Pricing Actuarial Analyst Intern](https://jobright.ai/jobs/info/689a216a83d13d1f5b696474?utm_campaign=1052&utm_source=git)** | USA - IL (Remote) | Remote | Aug 11 |
+| **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Analyst Intern, Valuations & Opinions Group](https://jobright.ai/jobs/info/689a20e1faa4e875e8256071?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
+| **[Boulay](http://www.BoulayGroup.com)** | **[Wealth Management Internship (Summer 2026)](https://jobright.ai/jobs/info/689a1aabfaa4e875e8255dd8?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Aug 11 |
+| ↳ | **[Estate and Trust Internship (Jan - April 2027)](https://jobright.ai/jobs/info/689a1995faa4e875e8255d08?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Aug 11 |
+| ↳ | **[Tax Internship - Mankato Office (Jan - April 2027)](https://jobright.ai/jobs/info/689a19565574fd6bc0c7fb19?utm_campaign=1052&utm_source=git)** | Mankato, MN | On Site | Aug 11 |
+| ↳ | **[Tax Internship (Jan - April 2026)](https://jobright.ai/jobs/info/689a193d83d13d1f5b6960ae?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Aug 11 |
+| **[Call For Referral](https://callforreferral.com/?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_page_button)** | **[Investment Analyst Intern  $55 – $65/hr  Remote US](https://jobright.ai/jobs/info/689a18f183d13d1f5b696075?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Boulay](http://www.BoulayGroup.com)** | **[Assurance Internship (Jan - April 2026)](https://jobright.ai/jobs/info/689a1830faa4e875e8255c39?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Aug 11 |
+| **[Silver Spring Wealth Management - Northwestern Mutual](https://www.linkedin.com/company/98593947)** | **[FALL INTERN](https://jobright.ai/jobs/info/689a1825faa4e875e8255c30?utm_campaign=1052&utm_source=git)** | New Canaan, CT | Hybrid | Aug 11 |
 | **[Boulay](http://www.BoulayGroup.com)** | **[Assurance Internship (Jan - April 2027)](https://jobright.ai/jobs/info/689a11ab5574fd6bc0c7f7b6?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Finance Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0f6c83d13d1f5b695b5b?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | **[Wabtec Corporation](http://www.wabteccorp.com)** | **[Summer 2026 Finance Internship](https://jobright.ai/jobs/info/689a0f6483d13d1f5b695b54?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 11 |
 | **[Allstate](http://www.allstate.com)** | **[2026 Finance Development Program-  Intern Conversion](https://jobright.ai/jobs/info/689a0f455574fd6bc0c7f60c?utm_campaign=1052&utm_source=git)** | USA - IL (Remote) | Remote | Aug 11 |
-| ↳ | **[2026 360 Financial Analyst- Intern Conversion](https://jobright.ai/jobs/info/689a0f2983d13d1f5b695b24?utm_campaign=1052&utm_source=git)** | USA - IL (Remote) | Remote | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0f24faa4e875e8255776?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0f24faa4e875e8255778?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0f24faa4e875e8255778?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0f24faa4e875e8255776?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Finance Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0f1b5574fd6bc0c7f5e2?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Corporate Finance, Healthcare Transaction Advisory - 2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/689a0f14faa4e875e8255767?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Finance Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0ed283d13d1f5b695aec?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0ec15574fd6bc0c7f5b2?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
@@ -78,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/67d2e8ec96cd410ae1de9af7?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 11 |
 | **[Career Launch AI](https://www.careerlaunch.ai/)** | **[MBA Intern](https://jobright.ai/jobs/info/6899fe63faa4e875e82550e4?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Accounting & Finance Intern - Fall 2025](https://jobright.ai/jobs/info/6899f08d5574fd6bc0c7eb49?utm_campaign=1052&utm_source=git)** | Keene, NH | Hybrid | Aug 11 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[2026 Guggenheim Securities Investment Banking Summer Associate – Atlanta](https://jobright.ai/jobs/info/6885bf3cfbbf032d0006ea6e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Cost and Plant Accounting/Joint Ownership](https://jobright.ai/jobs/info/6899cc085574fd6bc0c7e067?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Aug 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6899b65883d13d1f5b694256?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Aug 11 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6899b639faa4e875e8253e59?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 11 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897f3f273b3a600fe8a1b94?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Aug 09 |
 | **[Barclays](https://home.barclays)** | **[Banking Analyst Graduate Program 2026 San Francisco](https://jobright.ai/jobs/info/6897f17f1b9e81727f1a346c?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Aug 09 |
 | ↳ | **[Global Transaction Banking Analyst Graduate Program 2026 New York](https://jobright.ai/jobs/info/68989c4a83d13d1f5b69085d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[Equity Research Analyst Graduate Program 2026 New York](https://jobright.ai/jobs/info/68989e0bfaa4e875e8250452?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[Banking Analyst Graduate Program 2026 New York City](https://jobright.ai/jobs/info/68989c4183d13d1f5b690855?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[International Corporate Banking Analyst Graduate Program 2026 New York](https://jobright.ai/jobs/info/68989e5c5574fd6bc0c7a472?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[Banking Analyst Graduate Program 2026 Chicago](https://jobright.ai/jobs/info/68989e21faa4e875e8250471?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
-| ↳ | **[Banking Analyst Graduate Program 2026 Houston](https://jobright.ai/jobs/info/68989e3a5574fd6bc0c7a43c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 09 |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/68989dd55574fd6bc0c7a3b4?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 09 |
-| ↳ | **[Vice President, Internal Auditor - Treasury & Liqudity](https://jobright.ai/jobs/info/6897d6fa1b9e81727f1a1abe?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[2026 BNY Summer Internship Program - Audit (New York, NY)](https://jobright.ai/jobs/info/6897d45b1b9e81727f1a1814?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[2026 Summer Internship Program - Chief Investment Office (New York, NY)](https://jobright.ai/jobs/info/6897e27773b3a600fe8a0d5d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[2026 BNY Summer Internship Program - Office of the CFO - Finance (Pittsburgh, PA)](https://jobright.ai/jobs/info/6897ea018c6d6b4426793fe2?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 09 |
-| ↳ | **[2026 BNY Summer Internship Program - Audit (Pittsburgh, PA)](https://jobright.ai/jobs/info/6897d8bb1b9e81727f1a1cd7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 09 |
-| ↳ | **[Vice President, Internal Audit Leader – Securities, Clearing, and Collateral](https://jobright.ai/jobs/info/6897e6158c6d6b4426793bb3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Richmond](https://jobright.ai/jobs/info/6897ea4b73b3a600fe8a16af?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Aug 09 |
-| ↳ | **[Associate Audit Fall 2026 / Richmond](https://jobright.ai/jobs/info/6897d9141b9e81727f1a1d24?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Aug 09 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit & Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6897e9618c6d6b4426793f2e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
