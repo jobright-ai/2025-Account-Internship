@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whataburger](http://www.whataburger.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/689b90f879a9f96662531743?utm_campaign=1052&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Aug 12 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Equity Research](https://jobright.ai/jobs/info/689b8f05faa4e875e8260fa2?utm_campaign=1052&utm_source=git)** | Saint Petersburg, Florida - United States | On Site | Aug 12 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689b8944faa4e875e8260b0c?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Aug 12 |
+| **[J.W. Speaker Corporation](https://www.jwspeaker.com/)** | **[Supply Planning BI Intern](https://jobright.ai/jobs/info/689b881479a9f96662530ecb?utm_campaign=1052&utm_source=git)** | Germantown, WI | Hybrid | Aug 12 |
+| **[Perkins & Co](http://www.perkinsaccounting.com/contact/)** | **[Summer 2026 Internship - STUDENTS ONLY](https://jobright.ai/jobs/info/689b838679a9f96662530e54?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 12 |
+| **[Doeren Mayhew](http://doeren.com)** | **[2027 Internship Opportunities](https://jobright.ai/jobs/info/689b832983d13d1f5b6a0a46?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Financial Planning and Analysis (ET25055)](https://jobright.ai/jobs/info/689b75e079a9f96662530950?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Aug 12 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[2026 Summer Financial Analyst (Class of 2027) / Corporate Finance, New York Healthcare](https://jobright.ai/jobs/info/689b6db7faa4e875e8260307?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/689b6daafaa4e875e82602f0?utm_campaign=1052&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 12 |
@@ -108,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/687e7d562097a271a89957c0?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfddab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | ↳ | **[Intern, Core Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68972fab1b9e81727f195ab0?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 12 |
-| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Accounting Internship](https://jobright.ai/jobs/info/687ece142097a271a8997ffc?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Aug 12 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aefc983d13d1f5b69e5b3?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Aug 12 |
 | ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aed1c5574fd6bc0c87f76?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aed045574fd6bc0c87f5b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
@@ -125,9 +130,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ad88f83d13d1f5b69cf7e?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689abb6bfaa4e875e825bbf1?utm_campaign=1052&utm_source=git)** | Dallas | Hybrid | Aug 11 |
 | ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689aba4dfaa4e875e825badd?utm_campaign=1052&utm_source=git)** | Boston | Hybrid | Aug 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689aba3e5574fd6bc0c856cd?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Aug 11 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9ed83d13d1f5b69bc23?utm_campaign=1052&utm_source=git)** | Arlington | Hybrid | Aug 11 |
+| ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9ed83d13d1f5b69bc23?utm_campaign=1052&utm_source=git)** | Arlington | Hybrid | Aug 11 |
 | ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9b05574fd6bc0c8566d?utm_campaign=1052&utm_source=git)** | San Francisco | Hybrid | Aug 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689ab9a75574fd6bc0c85663?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Aug 11 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Accounting & Finance Intern - Fall 2025](https://jobright.ai/jobs/info/689aa3ad83d13d1f5b69a9a2?utm_campaign=1052&utm_source=git)** | Keene, NH | Hybrid | Aug 11 |
 | **[Clark Nuber PS](https://clarknuber.com/)** | **[Summer 2026 - Audit Internship (Bellevue In-Office)](https://jobright.ai/jobs/info/689a9f7e83d13d1f5b69a79a?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 11 |
 | **[Harrison Street](http://www.harrisonst.com)** | **[Summer 2026 Infrastructure Intern](https://jobright.ai/jobs/info/689a9f5383d13d1f5b69a778?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Strategic Tax - Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/689a96785574fd6bc0c83d0a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | ↳ | **[Summer 2026 Strategic Tax - Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/689a9677faa4e875e8259e1a?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
 | **[SouthState Bank](https://southstatebank.com)** | **[2026 Summer Commercial Banking Intern Orlando](https://jobright.ai/jobs/info/689a967083d13d1f5b69a17d?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Aug 11 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit and Tax Intern / Spring 2027](https://jobright.ai/jobs/info/689a965183d13d1f5b69a153?utm_campaign=1052&utm_source=git)** | Michigan City, IN | On Site | Aug 11 |
-| ↳ | **[Audit and Tax Intern / Spring 2027](https://jobright.ai/jobs/info/689a964efaa4e875e8259de9?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 11 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Strategic Tax - State & Local Tax Intern](https://jobright.ai/jobs/info/689a95eb5574fd6bc0c83c6c?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 11 |
-| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Corporate Banking Group, Commercial Credit Products, Mobile, AL](https://jobright.ai/jobs/info/689a95795574fd6bc0c83c06?utm_campaign=1052&utm_source=git)** | Mobile, AL | On Site | Aug 11 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Houston TX](https://jobright.ai/jobs/info/689a954183d13d1f5b69a057?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
