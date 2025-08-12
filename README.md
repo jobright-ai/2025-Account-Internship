@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aefc983d13d1f5b69e5b3?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Aug 12 |
+| ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aed1c5574fd6bc0c87f76?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
+| ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aed045574fd6bc0c87f5b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
+| ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aeb53faa4e875e825dfe6?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Aug 12 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Investment Banking Analyst - 2026](https://jobright.ai/jobs/info/689add475574fd6bc0c86f14?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adccffaa4e875e825d26d?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Investment Banking Analyst - 2026](https://jobright.ai/jobs/info/689adc7f5574fd6bc0c86df7?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adb2d5574fd6bc0c86c18?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Finance Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adaa7faa4e875e825cf6a?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ada0f5574fd6bc0c86a7b?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Finance Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ad9c5faa4e875e825ce22?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Finance Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ad9a083d13d1f5b69d103?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ad89083d13d1f5b69cf83?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ad88f83d13d1f5b69cf7e?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689abb6bfaa4e875e825bbf1?utm_campaign=1052&utm_source=git)** | Dallas | Hybrid | Aug 11 |
 | ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689aba4dfaa4e875e825badd?utm_campaign=1052&utm_source=git)** | Boston | Hybrid | Aug 11 |
 | ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9ed83d13d1f5b69bc23?utm_campaign=1052&utm_source=git)** | Arlington | Hybrid | Aug 11 |
@@ -102,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Summer Intern (2026) - Development and Construction Finance](https://jobright.ai/jobs/info/689a88c1faa4e875e8259774?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Aug 11 |
 | ↳ | **[Summer Intern (2026) - Enterprise Finance](https://jobright.ai/jobs/info/689a88a783d13d1f5b699a63?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Aug 11 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Tax 2026](https://jobright.ai/jobs/info/689a884dfaa4e875e82596fa?utm_campaign=1052&utm_source=git)** | Bartlesville, OK | On Site | Aug 11 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/689a884483d13d1f5b699a08?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Asset Management Summer Analyst Intern at Harrison Street](https://jobright.ai/jobs/info/689a88355574fd6bc0c83519?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Summer Intern (2026) - Shared Services](https://jobright.ai/jobs/info/689a87b4faa4e875e8259690?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Aug 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2026 - Livingston/Woodcliff Lake, NJ](https://jobright.ai/jobs/info/689a86b65574fd6bc0c833cb?utm_campaign=1052&utm_source=git)** | Livingston, NJ | On Site | Aug 11 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Nationwide Financial Actuarial Internship](https://jobright.ai/jobs/info/689a595783d13d1f5b6986e4?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 11 |
 | **[Kroll Technologies](https://www.linkedin.com/company/4094885)** | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/689abfeffaa4e875e825bebf?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | **[Graycor](http://graycor.com)** | **[Investment Analyst Internship](https://jobright.ai/jobs/info/689a57b2faa4e875e8258264?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
-| **[BNY](https://www.bny.com)** | **[2026 Summer Internship Program - Chief Investment Office (New York, NY)](https://jobright.ai/jobs/info/6891b4fbf5ee707a15dc1a18?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 11 |
-| **[Allstate](http://www.allstate.com)** | **[Pricing Actuarial Analyst Intern](https://jobright.ai/jobs/info/689a51d6faa4e875e8257f42?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 11 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / New York City](https://jobright.ai/jobs/info/689a51cf83d13d1f5b698292?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| **[Wall, Einhorn & Chernitzer, P.C.](http://wec-cpa.com)** | **[2026 Tax & Audit Internship](https://jobright.ai/jobs/info/689a4d1283d13d1f5b697e65?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Aug 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Actuarial Corporate Internship](https://jobright.ai/jobs/info/689a4c0afaa4e875e8257a62?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Aug 11 |
-| **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Accounting Clerk)](https://jobright.ai/jobs/info/689a4ace83d13d1f5b697c5c?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
-| **[Southwire Company](http://southwire.com)** | **[PT Clerk, Accounts Receivable](https://jobright.ai/jobs/info/689a4acefaa4e875e8257929?utm_campaign=1052&utm_source=git)** | Carrollton, GA | Hybrid | Aug 11 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Denver](https://jobright.ai/jobs/info/689a4a3f5574fd6bc0c817de?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Aug 11 |
-| **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Tax (Summer 2026)](https://jobright.ai/jobs/info/689a47375574fd6bc0c813d0?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Aug 11 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2026 - Livingston/Woodcliff Lake, NJ](https://jobright.ai/jobs/info/689a473683d13d1f5b697ac8?utm_campaign=1052&utm_source=git)** | Livingston, NJ | On Site | Aug 11 |
-| ↳ | **[Tax and Audit Intern - Spring 2026 - Livingston/Woodcliff Lake, NJ](https://jobright.ai/jobs/info/689a472e5574fd6bc0c813b2?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ | On Site | Aug 11 |
-| **[WoodmenLife](https://www.woodmenlife.org/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/689a471e5574fd6bc0c81392?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Aug 11 |
-| **[RIMOWA](http://www.rimowa.com/)** | **[Finance Intern (New York, New York)](https://jobright.ai/jobs/info/689a46ef5574fd6bc0c81369?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
