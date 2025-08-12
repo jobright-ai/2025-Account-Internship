@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689abb6bfaa4e875e825bbf1?utm_campaign=1052&utm_source=git)** | Dallas | Hybrid | Aug 11 |
+| ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689aba4dfaa4e875e825badd?utm_campaign=1052&utm_source=git)** | Boston | Hybrid | Aug 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689aba3e5574fd6bc0c856cd?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Aug 11 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9ed83d13d1f5b69bc23?utm_campaign=1052&utm_source=git)** | Arlington | Hybrid | Aug 11 |
+| ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9b05574fd6bc0c8566d?utm_campaign=1052&utm_source=git)** | San Francisco | Hybrid | Aug 11 |
+| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Accounting & Finance Intern - Fall 2025](https://jobright.ai/jobs/info/689aa3ad83d13d1f5b69a9a2?utm_campaign=1052&utm_source=git)** | Keene, NH | Hybrid | Aug 11 |
+| **[Clark Nuber PS](https://clarknuber.com/)** | **[Summer 2026 - Audit Internship (Bellevue In-Office)](https://jobright.ai/jobs/info/689a9f7e83d13d1f5b69a79a?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 11 |
+| **[Harrison Street](http://www.harrisonst.com)** | **[Summer 2026 Infrastructure Intern](https://jobright.ai/jobs/info/689a9f5383d13d1f5b69a778?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern](https://jobright.ai/jobs/info/689a99d4faa4e875e825a1b3?utm_campaign=1052&utm_source=git)** | Rock Hill, SC | On Site | Aug 11 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Strategic Tax - Tax Credits & Incentives Advisory Intern](https://jobright.ai/jobs/info/689a998283d13d1f5b69a450?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 11 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Greenville](https://jobright.ai/jobs/info/689a9910faa4e875e825a0b4?utm_campaign=1052&utm_source=git)** | Anderson, SC | On Site | Aug 11 |
@@ -138,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Accounting Clerk)](https://jobright.ai/jobs/info/689a4ace83d13d1f5b697c5c?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | **[Southwire Company](http://southwire.com)** | **[PT Clerk, Accounts Receivable](https://jobright.ai/jobs/info/689a4acefaa4e875e8257929?utm_campaign=1052&utm_source=git)** | Carrollton, GA | Hybrid | Aug 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Denver](https://jobright.ai/jobs/info/689a4a3f5574fd6bc0c817de?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Aug 11 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Summer Audit Intern - Albany](https://jobright.ai/jobs/info/689a49705574fd6bc0c816fd?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Aug 11 |
 | **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Tax (Summer 2026)](https://jobright.ai/jobs/info/689a47375574fd6bc0c813d0?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Aug 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2026 - Livingston/Woodcliff Lake, NJ](https://jobright.ai/jobs/info/689a473683d13d1f5b697ac8?utm_campaign=1052&utm_source=git)** | Livingston, NJ | On Site | Aug 11 |
 | ↳ | **[Tax and Audit Intern - Spring 2026 - Livingston/Woodcliff Lake, NJ](https://jobright.ai/jobs/info/689a472e5574fd6bc0c813b2?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ | On Site | Aug 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALM First](http://almfirst.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/689a434e83d13d1f5b6976d5?utm_campaign=1052&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 11 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern Summer 2027, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/689a42bd83d13d1f5b697635?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Aug 11 |
 | **[Antolino & Associates](https://www.antolino.com)** | **[OSU Intern to Full-Time](https://jobright.ai/jobs/info/689a425afaa4e875e825723f?utm_campaign=1052&utm_source=git)** | Columbus, Ohio, United States | On Site | Aug 11 |
-| **[Four Corners Financial Advisors (FCFA)](https://www.fourcornersfa.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/689a411a83d13d1f5b69744b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Aug 11 |
-| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Finance](https://jobright.ai/jobs/info/689a411483d13d1f5b697445?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Aug 11 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[National Tax Intern (Mankato - Winter 2026)](https://jobright.ai/jobs/info/689a40c383d13d1f5b6973d5?utm_campaign=1052&utm_source=git)** | Mankato, Minnesota | On Site | Aug 11 |
-| **[Trident Trust](https://www.tridenttrust.com)** | **[Intern - Fund Accounting Summer 2026](https://jobright.ai/jobs/info/689a40695574fd6bc0c80ee6?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Services Associate - Summer 2026 (Wilmington)](https://jobright.ai/jobs/info/689a400c5574fd6bc0c80e82?utm_campaign=1052&utm_source=git)** | 4250 Lancaster Pike, Wilmington, DE, 19805, US | On Site | Aug 11 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[National Tax Intern (Mankato - Winter 2026)](https://jobright.ai/jobs/info/689a3f0ffaa4e875e8256e5f?utm_campaign=1052&utm_source=git)** | Mankato, MN | On Site | Aug 11 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern Summer 2026, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/689a3ee8faa4e875e8256e41?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
