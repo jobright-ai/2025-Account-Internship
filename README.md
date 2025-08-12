@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shake Shack](http://shakeshack.com)** | **[Tax Intern](https://jobright.ai/jobs/info/689b45f683d13d1f5b69f412?utm_campaign=1052&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Aug 12 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Accounting Co-Op Summer 2026](https://jobright.ai/jobs/info/689b410479a9f9666252f635?utm_campaign=1052&utm_source=git)** | Cincinnati, OH (USA) | On Site | Aug 12 |
+| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/689b3b2183d13d1f5b69f0aa?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Aug 12 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Sr. Supervisor, Internal Audit](https://jobright.ai/jobs/info/689b3412faa4e875e825ef30?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 12 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Charleston, SC)](https://jobright.ai/jobs/info/689b1b2b79a9f9666252efaa?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfdf50?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/689b0cd279a9f9666252ee11?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Aug 12 |
@@ -65,7 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfdf52?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 12 |
 | ↳ | **[Intern, Private Client Services Tax - Summer 2026](https://jobright.ai/jobs/info/68115d0581abbfddc127830e?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Aug 12 |
 | ↳ | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/681a9b25d2010eaa6fe71440?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| ↳ | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfddab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 12 |
+| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/687e7d562097a271a89957c0?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Aug 12 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfddab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 12 |
+| ↳ | **[Intern, Core Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68972fab1b9e81727f195ab0?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 12 |
+| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Accounting Internship](https://jobright.ai/jobs/info/687ece142097a271a8997ffc?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Aug 12 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aefc983d13d1f5b69e5b3?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Aug 12 |
 | ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aed1c5574fd6bc0c87f76?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | ↳ | **[Summer 2026 Financial & Accounting Outsourcing Intern](https://jobright.ai/jobs/info/689aed045574fd6bc0c87f5b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
@@ -82,9 +89,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Commercial Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ad88f83d13d1f5b69cf7e?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689abb6bfaa4e875e825bbf1?utm_campaign=1052&utm_source=git)** | Dallas | Hybrid | Aug 11 |
 | ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689aba4dfaa4e875e825badd?utm_campaign=1052&utm_source=git)** | Boston | Hybrid | Aug 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689aba3e5574fd6bc0c856cd?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Aug 11 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9ed83d13d1f5b69bc23?utm_campaign=1052&utm_source=git)** | Arlington | Hybrid | Aug 11 |
+| ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9ed83d13d1f5b69bc23?utm_campaign=1052&utm_source=git)** | Arlington | Hybrid | Aug 11 |
 | ↳ | **[2026 Summer Analyst Internship Program](https://jobright.ai/jobs/info/689ab9b05574fd6bc0c8566d?utm_campaign=1052&utm_source=git)** | San Francisco | Hybrid | Aug 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689ab9a75574fd6bc0c85663?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Aug 11 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Accounting & Finance Intern - Fall 2025](https://jobright.ai/jobs/info/689aa3ad83d13d1f5b69a9a2?utm_campaign=1052&utm_source=git)** | Keene, NH | Hybrid | Aug 11 |
 | **[Clark Nuber PS](https://clarknuber.com/)** | **[Summer 2026 - Audit Internship (Bellevue In-Office)](https://jobright.ai/jobs/info/689a9f7e83d13d1f5b69a79a?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 11 |
 | **[Harrison Street](http://www.harrisonst.com)** | **[Summer 2026 Infrastructure Intern](https://jobright.ai/jobs/info/689a9f5383d13d1f5b69a778?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
@@ -131,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Infrastructure Summer Analyst Intern at Harrison Street](https://jobright.ai/jobs/info/689a838afaa4e875e825954c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit & Assurance Intern – Spring 2026](https://jobright.ai/jobs/info/689a826383d13d1f5b6996d8?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 11 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern Summer 2027, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/689a81745574fd6bc0c83175?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[IMD Student Intern – Public Markets at Teacher Retirement System of Texas](https://jobright.ai/jobs/info/689abf0afaa4e875e825bdad?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
-| ↳ | **[Transactions Summer Analyst Intern at Harrison Street](https://jobright.ai/jobs/info/689abe8dfaa4e875e825bcfc?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Transactions Summer Analyst Intern at Harrison Street](https://jobright.ai/jobs/info/689abe8dfaa4e875e825bcfc?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern Summer 2026, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/689a81135574fd6bc0c83118?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/689a80abfaa4e875e82592c1?utm_campaign=1052&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/689a80985574fd6bc0c8308b?utm_campaign=1052&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harrison Street](http://www.harrisonst.com)** | **[Summer 2026 Asset Management Intern](https://jobright.ai/jobs/info/689a71eb5574fd6bc0c829fe?utm_campaign=1052&utm_source=git)** | Chicago,  IL | On Site | Aug 11 |
 | ↳ | **[Summer 2026 Portfolio Management Intern](https://jobright.ai/jobs/info/689a71885574fd6bc0c829cb?utm_campaign=1052&utm_source=git)** | Chicago,  IL | On Site | Aug 11 |
 | **[SouthState Bank](https://southstatebank.com)** | **[2026 Summer Commercial Banking Intern Orlando](https://jobright.ai/jobs/info/689a703283d13d1f5b698eb6?utm_campaign=1052&utm_source=git)** | Orlando Downtown | On Site | Aug 11 |
-| **[Swinerton](http://www.swinerton.com)** | **[Scheduling/Cost Analyst Intern](https://jobright.ai/jobs/info/689a6f79faa4e875e8258b1f?utm_campaign=1052&utm_source=git)** | San Francisco CA | On Site | Aug 11 |
-| ↳ | **[Scheduling/Cost Analyst Intern](https://jobright.ai/jobs/info/689a6d455574fd6bc0c8284c?utm_campaign=1052&utm_source=git)** | Charlotte NC | On Site | Aug 11 |
-| **[Grande Custom Ingredients Group](http://www.grandecig.com)** | **[Finance & Accounting Intern - Internal Controls](https://jobright.ai/jobs/info/689a68735574fd6bc0c8270f?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Aug 11 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern](https://jobright.ai/jobs/info/689a677683d13d1f5b698be9?utm_campaign=1052&utm_source=git)** | Rock Hill Ebenezer | On Site | Aug 11 |
-| **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[2026 Summer Associate (Intern) - Corporate Finance - Turnaround & Restructuring](https://jobright.ai/jobs/info/689a6747faa4e875e8258855?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/689a6543faa4e875e825875d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
