@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metrix Vibration](http://www.metrixvibration.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/689c283883d13d1f5b6a6a38?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[Gross, Mendelsohn & Associates, P.A.](http://gma-cpa.com)** | **[Tax/Audit Accounting Intern](https://jobright.ai/jobs/info/689c027883d13d1f5b6a51a0?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Aug 12 |
 | **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Accounting Intern](https://jobright.ai/jobs/info/689bf8c479a9f96662534ebb?utm_campaign=1052&utm_source=git)** | US-NY-Melville | On Site | Aug 12 |
 | **[Andersen](http://www.Andersen.com)** | **[Intern – Tax Services – 2026 – (Hybrid)](https://jobright.ai/jobs/info/689bf89b79a9f96662534e8d?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 12 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Integrity](https://www.integritymarketing.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/689bd0a683d13d1f5b6a3aff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[AgriBank (St. Paul, MN)](http://agribank.com)** | **[Financial Reporting Intern (onsite/hybrid)](https://jobright.ai/jobs/info/689bcd7cfaa4e875e82639fa?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Aug 12 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/689bc973faa4e875e826380d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 12 |
+| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern](https://jobright.ai/jobs/info/6895301e73b3a600fe885a1b?utm_campaign=1052&utm_source=git)** | Arcadia, WI | On Site | Aug 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Institutional Equities and Research Shadow Day (January 2026) - Virtual](https://jobright.ai/jobs/info/689bc86cfaa4e875e82636b0?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Aug 12 |
 | **[Varo Bank](https://www.varomoney.com)** | **[Banking Operations Intern](https://jobright.ai/jobs/info/689bc559faa4e875e8263612?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Associate - Summer 2026 (Madison)](https://jobright.ai/jobs/info/689bc43279a9f96662533907?utm_campaign=1052&utm_source=git)** | One Erdman Place, Madison, WI, 53717, US | On Site | Aug 12 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Audit (Lake Mary, FL)](https://jobright.ai/jobs/info/689bb2ab79a9f96662532d50?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Aug 12 |
 | **[Varo Bank](https://www.varomoney.com)** | **[Banking Operations Intern](https://jobright.ai/jobs/info/689c0b6b79a9f966625359f8?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Aug 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/689bad21faa4e875e82626ff?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Aug 12 |
+| **[upskill](https://www.connectupskill.com)** | **[Summer 2027 Investment Banking Internship](https://jobright.ai/jobs/info/689c2253faa4e875e82663d4?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[Barrick Mining Corporation](http://barrick.com)** | **[Nevada Gold Mines - 2026 Summer Intern Program (Finance/Accounting)](https://jobright.ai/jobs/info/689bab9afaa4e875e8262517?utm_campaign=1052&utm_source=git)** | Nevada Gold Mines LLC, Elko, NV, 89801, US | On Site | Aug 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2026](https://jobright.ai/jobs/info/689bab95faa4e875e826250e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[MAHLE](https://www.mahle.com)** | **[Treasury Intern - Fall](https://jobright.ai/jobs/info/6894ad2f73b3a600fe881120?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI | On Site | Aug 12 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/689b6daafaa4e875e82602f0?utm_campaign=1052&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 12 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/689b6da079a9f96662530713?utm_campaign=1052&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 12 |
 | ↳ | **[Risk Management Intern](https://jobright.ai/jobs/info/689b6d6c79a9f966625306d2?utm_campaign=1052&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 12 |
-| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Financial Intern - HOH](https://jobright.ai/jobs/info/689b6d5279a9f966625306b2?utm_campaign=1052&utm_source=git)** | Nashville, Tennessee | On Site | Aug 12 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Accounting Rotational Internship - Summer 2026](https://jobright.ai/jobs/info/689b6330faa4e875e825fe68?utm_campaign=1052&utm_source=git)** | Boca Raton | On Site | Aug 12 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/689b632bfaa4e875e825fe5e?utm_campaign=1052&utm_source=git)** | New York City | On Site | Aug 12 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/689b6326faa4e875e825fe54?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/689b61f783d13d1f5b69fdd6?utm_campaign=1052&utm_source=git)** | Boca Raton | On Site | Aug 12 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/689b61f579a9f96662530139?utm_campaign=1052&utm_source=git)** | Miami | On Site | Aug 12 |
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/689b61f183d13d1f5b69fdd0?utm_campaign=1052&utm_source=git)** | Miami | On Site | Aug 12 |
+| **[Mortenson](https://www.mortenson.com)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/689c11fd83d13d1f5b6a5cbc?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/689c123479a9f96662535e9d?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern - Accounting Services Outsourced / Summer 2026](https://jobright.ai/jobs/info/67d2df55fb11b68fc00d89e5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/689b7cec79a9f96662530b84?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Retirement Actuarial Internship – Northeast - Summer 2026](https://jobright.ai/jobs/info/689b5a9ffaa4e875e825f93c?utm_campaign=1052&utm_source=git)** | One World Financial Center, New York, NY, 10281, US | On Site | Aug 12 |
-| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/689b4d7383d13d1f5b69f5f6?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Aug 12 |
-| **[Shake Shack](http://shakeshack.com)** | **[Tax Intern](https://jobright.ai/jobs/info/689b45f683d13d1f5b69f412?utm_campaign=1052&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Aug 12 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/686e15ea971c1e9673ec0242?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[MSIM- Portfolio Solutions- Quant Generalist- Intern](https://jobright.ai/jobs/info/687eec83db19f31cf0d6e2d3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
