@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern  Richmond VA](https://jobright.ai/jobs/info/689be2b4faa4e875e826425d?utm_campaign=1052&utm_source=git)** | Richmond Hill, GA | On Site | Aug 12 |
+| **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Bilingual Finance Intern (Spanish/English)](https://jobright.ai/jobs/info/689be27783d13d1f5b6a42ee?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Aug 12 |
+| **[Atradius Trade Credit Insurance, Inc.](https://atradius.us)** | **[Credit Specialties Intern](https://jobright.ai/jobs/info/689be1ca83d13d1f5b6a4284?utm_campaign=1052&utm_source=git)** | Baltimore County, MD | Hybrid | Aug 12 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/689bd9fffaa4e875e8263f1c?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 12 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA – EY-Parthenon – Corporate Finance – Decision Modeling and Analytics – Summer Associate – Summer 2026 at EY-Parthenon](https://jobright.ai/jobs/info/689bd81d79a9f96662534303?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 12 |
+| **[TellCo Europe Sagl Switzerland](https://tellco-europe.com)** | **[Finance Intern](https://jobright.ai/jobs/info/689bd81c79a9f96662534301?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 12 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2026 - Sacramento, CA](https://jobright.ai/jobs/info/689bd78283d13d1f5b6a3e17?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Aug 12 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Financial Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/689bd31d83d13d1f5b6a3b66?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Aug 12 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/689bd0a683d13d1f5b6a3aff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[AgriBank (St. Paul, MN)](http://agribank.com)** | **[Financial Reporting Intern (onsite/hybrid)](https://jobright.ai/jobs/info/689bcd7cfaa4e875e82639fa?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Aug 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/689b3b2183d13d1f5b69f0aa?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Aug 12 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Sr. Supervisor, Internal Audit](https://jobright.ai/jobs/info/689b3412faa4e875e825ef30?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 12 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Analyst](https://jobright.ai/jobs/info/687eb4972097a271a8997399?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 12 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Charleston, SC)](https://jobright.ai/jobs/info/689b1b2b79a9f9666252efaa?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Aug 12 |
-| ↳ | **[Audit Intern - Spring 2026 (Tifton, GA)](https://jobright.ai/jobs/info/6807bbd2bd5f8f945f06e910?utm_campaign=1052&utm_source=git)** | Tifton, GA | On Site | Aug 12 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfdf50?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 12 |
-| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/689b0cd279a9f9666252ee11?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Aug 12 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/681a907055dcebe72a073ca6?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 12 |
-| ↳ | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/681a9b25d2010eaa6fe7143f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
-| ↳ | **[Intern, International Tax - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/680fb5178ad0affeaecfdf52?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
