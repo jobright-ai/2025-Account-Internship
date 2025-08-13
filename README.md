@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/689c9611faa4e875e8268fba?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Aug 13 |
+| ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/689c95dafaa4e875e8268f4e?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Aug 13 |
+| **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Audit (Summer 2026)](https://jobright.ai/jobs/info/689c87bb79a9f96662538edc?utm_campaign=1052&utm_source=git)** | Burbank, WA | On Site | Aug 13 |
+| **[BASF](https://www.basf.com/)** | **[Business Management & Finance PDP Internship - Summer 2026: FP&A Track](https://jobright.ai/jobs/info/688074329f7280424570b4e3?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | Hybrid | Aug 13 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Japan Summer Analyst Program – Global Audit , Chief Operating Officer Group at Bank of America](https://jobright.ai/jobs/info/689c777d79a9f96662538ca6?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Tax Incentives - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/685e90af52b8bfa6d2ccc2a8?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 13 |
-| ↳ | **[Intern, Global Tax Incentives - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/685a4b15a0b2587615a90df2?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 13 |
-| ↳ | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/681a9b25d2010eaa6fe7143e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/6875de2bae2f413e4a5aa839?utm_campaign=1052&utm_source=git)** | Columbus, IN | On Site | Aug 13 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Tax Incentives - Multiple Locations Summer 2026](https://jobright.ai/jobs/info/685a4b15a0b2587615a90df2?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 13 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/686b3b2535584b65424d1295?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Aug 13 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/681a9b25d2010eaa6fe7143e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/68878f604174df41e0f9ee32?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/689c43f6faa4e875e8268024?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Aug 13 |
 | **[LattaHarris, LLP](https://www.lattaharris.com)** | **[2026 Summer Accounting Internship- Iowa City](https://jobright.ai/jobs/info/689c36db83d13d1f5b6a79d3?utm_campaign=1052&utm_source=git)** | Iowa City | On Site | Aug 12 |
@@ -128,6 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oliver Wyman - 2026 MBA Summer Associate - Private Capital](https://jobright.ai/jobs/info/689b99d5faa4e875e826190a?utm_campaign=1052&utm_source=git)** | New York - 1166 | Hybrid | Aug 12 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance - Huntsville - January 2026](https://jobright.ai/jobs/info/689b998979a9f96662531b98?utm_campaign=1052&utm_source=git)** | Huntsville | On Site | Aug 12 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Summer 2026 Finance Internship](https://jobright.ai/jobs/info/689c012883d13d1f5b6a4f72?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Aug 12 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6891469ef5ee707a15dbd723?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Aug 12 |
 | **[Whataburger](http://www.whataburger.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/689b90f879a9f96662531743?utm_campaign=1052&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Aug 12 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Equity Research](https://jobright.ai/jobs/info/689b8f05faa4e875e8260fa2?utm_campaign=1052&utm_source=git)** | Saint Petersburg, Florida - United States | On Site | Aug 12 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, Production Finance, SPT – Fall 2025](https://jobright.ai/jobs/info/689b8944faa4e875e8260b0c?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Aug 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/689b62a8faa4e875e825fdc8?utm_campaign=1052&utm_source=git)** | New York City | On Site | Aug 12 |
 | ↳ | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/689b62a1faa4e875e825fdbe?utm_campaign=1052&utm_source=git)** | West Palm Beach | On Site | Aug 12 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/689b629d79a9f966625301fd?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/689b628683d13d1f5b69fe79?utm_campaign=1052&utm_source=git)** | West Palm Beach | On Site | Aug 12 |
-| ↳ | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/689b626d79a9f966625301c5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
-| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/689b623f83d13d1f5b69fe2b?utm_campaign=1052&utm_source=git)** | New York City | On Site | Aug 12 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/689b623079a9f96662530183?utm_campaign=1052&utm_source=git)** | Boca Raton | On Site | Aug 12 |
-| ↳ | **[Accounting Rotational Internship - Summer 2026](https://jobright.ai/jobs/info/689b622b79a9f96662530180?utm_campaign=1052&utm_source=git)** | West Palm Beach | On Site | Aug 12 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/689b622a83d13d1f5b69fe10?utm_campaign=1052&utm_source=git)** | West Palm Beach | On Site | Aug 12 |
-| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/689b621579a9f96662530164?utm_campaign=1052&utm_source=git)** | West Palm Beach | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
