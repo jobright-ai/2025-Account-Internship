@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LattaHarris, LLP](https://www.lattaharris.com)** | **[2026 Summer Accounting Internship- Iowa City](https://jobright.ai/jobs/info/689c36db83d13d1f5b6a79d3?utm_campaign=1052&utm_source=git)** | Iowa City | On Site | Aug 12 |
+| ↳ | **[2026 Summer Accounting Internship - Cedar Rapids](https://jobright.ai/jobs/info/689c36a9faa4e875e8267922?utm_campaign=1052&utm_source=git)** | Cedar Rapids | On Site | Aug 12 |
+| ↳ | **[2026 Summer Accounting Internship- Washington](https://jobright.ai/jobs/info/689c366a79a9f96662537cc1?utm_campaign=1052&utm_source=git)** | Washington | On Site | Aug 12 |
+| ↳ | **[2026 Summer Accounting Internship - Grundy Center](https://jobright.ai/jobs/info/689c366179a9f96662537cba?utm_campaign=1052&utm_source=git)** | Grundy Center | On Site | Aug 12 |
+| **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Accounting Intern](https://jobright.ai/jobs/info/689c29a279a9f96662537259?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Aug 12 |
 | **[Metrix Vibration](http://www.metrixvibration.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/689c283883d13d1f5b6a6a38?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 12 |
+| **[Shake Shack](http://shakeshack.com)** | **[Tax Intern](https://jobright.ai/jobs/info/689c3d9479a9f966625380f8?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Gross, Mendelsohn & Associates, P.A.](http://gma-cpa.com)** | **[Tax/Audit Accounting Intern](https://jobright.ai/jobs/info/689c027883d13d1f5b6a51a0?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Aug 12 |
 | **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Accounting Intern](https://jobright.ai/jobs/info/689bf8c479a9f96662534ebb?utm_campaign=1052&utm_source=git)** | US-NY-Melville | On Site | Aug 12 |
 | **[Andersen](http://www.Andersen.com)** | **[Intern – Tax Services – 2026 – (Hybrid)](https://jobright.ai/jobs/info/689bf89b79a9f96662534e8d?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 12 |
@@ -108,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Risk Management Intern / Mortenson](https://jobright.ai/jobs/info/689ba1ec83d13d1f5b6a1df8?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | **[Andersen](http://www.Andersen.com)** | **[Intern – Private Accounting Solutions – 2026 – (Hybrid)](https://jobright.ai/jobs/info/689b9ff979a9f966625320f4?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 12 |
 | ↳ | **[Intern – Tax Services – 2026 Des Moines – (Hybrid)](https://jobright.ai/jobs/info/689b9ff379a9f966625320eb?utm_campaign=1052&utm_source=git)** | Des Moines, Iowa | Hybrid | Aug 12 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Financial Intern - HOH](https://jobright.ai/jobs/info/689b9d5b79a9f96662531fd6?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 12 |
 | **[J.R. Simplot Company](http://www.simplot.com/)** | **[Intern Accounting HQ GS](https://jobright.ai/jobs/info/689b9d2d83d13d1f5b6a1bf0?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Aug 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Full Time Financial Advisor / Financial Representative Interns](https://jobright.ai/jobs/info/689b9cdafaa4e875e8261bc6?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 12 |
 | **[Colas USA](http://colasusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/689b9a6d83d13d1f5b6a1976?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Aug 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/689b61f783d13d1f5b69fdd6?utm_campaign=1052&utm_source=git)** | Boca Raton | On Site | Aug 12 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/689b61f579a9f96662530139?utm_campaign=1052&utm_source=git)** | Miami | On Site | Aug 12 |
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/689b61f183d13d1f5b69fdd0?utm_campaign=1052&utm_source=git)** | Miami | On Site | Aug 12 |
-| **[Mortenson](https://www.mortenson.com)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/689c11fd83d13d1f5b6a5cbc?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/689c123479a9f96662535e9d?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
-| **[CBIZ](http://www.cbiz.com)** | **[Accounting Intern - Accounting Services Outsourced / Summer 2026](https://jobright.ai/jobs/info/67d2df55fb11b68fc00d89e5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 12 |
-| **[Mortenson](https://www.mortenson.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/689b7cec79a9f96662530b84?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Retirement Actuarial Internship – Northeast - Summer 2026](https://jobright.ai/jobs/info/689b5a9ffaa4e875e825f93c?utm_campaign=1052&utm_source=git)** | One World Financial Center, New York, NY, 10281, US | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
