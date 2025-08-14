@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACAMS Southern California Chapter](https://www.acams.org/acams-chapters/southern-california/)** | **[Manager, International Accounting](https://jobright.ai/jobs/info/689d234079a9f9666253da45?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Aug 13 |
+| ↳ | **[Manager, International Accounting](https://jobright.ai/jobs/info/689d225afaa4e875e826d6c5?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Aug 13 |
+| ↳ | **[Manager, International Accounting](https://jobright.ai/jobs/info/689d222183d13d1f5b6ad692?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Aug 13 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/689d1f0583d13d1f5b6ad425?utm_campaign=1052&utm_source=git)** | Arden Hills US-MN, United States | US-MN-Maple Grove | Hybrid | Aug 13 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Full Time Spring 2026 Audit Intern at Abeles and Hoffman, P.C.](https://jobright.ai/jobs/info/689d1ecf83d13d1f5b6ad387?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/689d1c0d83d13d1f5b6ad2d5?utm_campaign=1052&utm_source=git)** | Greater Jackson, MI Area | On Site | Aug 13 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Corporate Development/M&A Intern](https://jobright.ai/jobs/info/689d178f83d13d1f5b6ad15e?utm_campaign=1052&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | On Site | Aug 13 |
+| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 IT Summer Intern](https://jobright.ai/jobs/info/689d129e83d13d1f5b6acf88?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 13 |
+| ↳ | **[2026 IT Summer Intern](https://jobright.ai/jobs/info/689d127079a9f9666253d2b0?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Aug 13 |
+| **[Milwaukee Tool](https://www.milwaukeetool.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/689d1242faa4e875e826cde9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 13 |
+| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 Accounting Summer Intern](https://jobright.ai/jobs/info/689d123bfaa4e875e826cdc3?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 13 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman – Actuarial Intern (2026) – Property & Casualty](https://jobright.ai/jobs/info/689d05e983d13d1f5b6acc1a?utm_campaign=1052&utm_source=git)** | New York - 1166 | Hybrid | Aug 13 |
 | ↳ | **[Oliver Wyman – Actuarial Intern (2026) – Property & Casualty](https://jobright.ai/jobs/info/689d05d479a9f9666253cfa4?utm_campaign=1052&utm_source=git)** | Charlotte - North Tryon | Hybrid | Aug 13 |
 | ↳ | **[Oliver Wyman – Actuarial Intern (2026) – Property & Casualty](https://jobright.ai/jobs/info/689d05d479a9f9666253cfa5?utm_campaign=1052&utm_source=git)** | Atlanta - Lenox | Hybrid | Aug 13 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/689c43f6faa4e875e8268024?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Aug 13 |
 | **[LattaHarris, LLP](https://www.lattaharris.com)** | **[2026 Summer Accounting Internship- Iowa City](https://jobright.ai/jobs/info/689c36db83d13d1f5b6a79d3?utm_campaign=1052&utm_source=git)** | Iowa City | On Site | Aug 12 |
 | ↳ | **[2026 Summer Accounting Internship - Cedar Rapids](https://jobright.ai/jobs/info/689c36a9faa4e875e8267922?utm_campaign=1052&utm_source=git)** | Cedar Rapids | On Site | Aug 12 |
-| ↳ | **[2026 Summer Accounting Internship- Washington](https://jobright.ai/jobs/info/689c366a79a9f96662537cc1?utm_campaign=1052&utm_source=git)** | Washington | On Site | Aug 12 |
-| ↳ | **[2026 Summer Accounting Internship - Grundy Center](https://jobright.ai/jobs/info/689c366179a9f96662537cba?utm_campaign=1052&utm_source=git)** | Grundy Center | On Site | Aug 12 |
-| **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Accounting Intern](https://jobright.ai/jobs/info/689c29a279a9f96662537259?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Aug 12 |
-| **[Shake Shack](http://shakeshack.com)** | **[Tax Intern](https://jobright.ai/jobs/info/689c3d9479a9f966625380f8?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
-| **[Gross, Mendelsohn & Associates, P.A.](http://gma-cpa.com)** | **[Tax/Audit Accounting Intern](https://jobright.ai/jobs/info/689c027883d13d1f5b6a51a0?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Aug 12 |
-| **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Accounting Intern](https://jobright.ai/jobs/info/689bf8c479a9f96662534ebb?utm_campaign=1052&utm_source=git)** | US-NY-Melville | On Site | Aug 12 |
-| **[Andersen](http://www.Andersen.com)** | **[Intern – Tax Services – 2026 – (Hybrid)](https://jobright.ai/jobs/info/689bf89b79a9f96662534e8d?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 12 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern  Richmond VA](https://jobright.ai/jobs/info/689be2b4faa4e875e826425d?utm_campaign=1052&utm_source=git)** | Richmond Hill, GA | On Site | Aug 12 |
-| **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Bilingual Finance Intern (Spanish/English)](https://jobright.ai/jobs/info/689be27783d13d1f5b6a42ee?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Aug 12 |
-| **[Atradius Trade Credit Insurance, Inc.](https://atradius.us)** | **[Credit Specialties Intern](https://jobright.ai/jobs/info/689be1ca83d13d1f5b6a4284?utm_campaign=1052&utm_source=git)** | Baltimore County, MD | Hybrid | Aug 12 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/689bd9fffaa4e875e8263f1c?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
