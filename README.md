@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2027 Audit Internship](https://jobright.ai/jobs/info/689dc7cc79a9f96662544736?utm_campaign=1052&utm_source=git)** | USA TX Frisco | On Site | Aug 14 |
+| ↳ | **[Spring 2027 Audit Internship](https://jobright.ai/jobs/info/689dc7c279a9f9666254471f?utm_campaign=1052&utm_source=git)** | USA TX Austin | On Site | Aug 14 |
+| ↳ | **[Spring 2027 Tax Internship](https://jobright.ai/jobs/info/689dc7b5faa4e875e8274343?utm_campaign=1052&utm_source=git)** | USA TX Houston 11750 Katy Freeway | On Site | Aug 14 |
+| ↳ | **[Spring 2027 Audit Internship](https://jobright.ai/jobs/info/689dc7ae83d13d1f5b6b42f2?utm_campaign=1052&utm_source=git)** | USA TX Houston 11750 Katy Freeway | On Site | Aug 14 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/689db594faa4e875e8273bed?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 14 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2026 (Minneapolis)](https://jobright.ai/jobs/info/689dae5779a9f966625435a3?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 14 |
 | **[CareerHub.mu](https://www.careerhub.mu)** | **[Finance Trainee (YEP Program)](https://jobright.ai/jobs/info/689daa3579a9f96662543377?utm_campaign=1052&utm_source=git)** | North Township, IN | Remote | Aug 14 |
 | **[JD.COM](http://corporate.jd.com)** | **[Finance Intern](https://jobright.ai/jobs/info/689da40179a9f966625426ca?utm_campaign=1052&utm_source=git)** | Fontana, CA | On Site | Aug 14 |
@@ -109,7 +114,8 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Full Time Spring 2026 Audit Intern at Abeles and Hoffman, P.C.](https://jobright.ai/jobs/info/689d1ecf83d13d1f5b6ad387?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[355Life](http://www.355life.com/)** | **[Financial Analyst (Nationwide/Pacific Life/Aegon)](https://jobright.ai/jobs/info/689d825a83d13d1f5b6b0dc2?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 13 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Corporate Development/M&A Intern](https://jobright.ai/jobs/info/689d178f83d13d1f5b6ad15e?utm_campaign=1052&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | On Site | Aug 13 |
-| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 IT Summer Intern](https://jobright.ai/jobs/info/689d127079a9f9666253d2b0?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Aug 13 |
+| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 IT Summer Intern](https://jobright.ai/jobs/info/689d129e83d13d1f5b6acf88?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 13 |
+| ↳ | **[2026 IT Summer Intern](https://jobright.ai/jobs/info/689d127079a9f9666253d2b0?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Aug 13 |
 | **[Milwaukee Tool](https://www.milwaukeetool.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/689d1242faa4e875e826cde9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 13 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman – Actuarial Intern (2026) – Property & Casualty](https://jobright.ai/jobs/info/689d05e983d13d1f5b6acc1a?utm_campaign=1052&utm_source=git)** | New York - 1166 | Hybrid | Aug 13 |
 | ↳ | **[Oliver Wyman – Actuarial Intern (2026) – Property & Casualty](https://jobright.ai/jobs/info/689d05d479a9f9666253cfa5?utm_campaign=1052&utm_source=git)** | Atlanta - Lenox | Hybrid | Aug 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rodefer Moss & Co, PLLC](https://www.rodefermoss.com)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/689cdf11faa4e875e826b564?utm_campaign=1052&utm_source=git)** | KNOXVILLE | On Site | Aug 13 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/689cdec4faa4e875e826b432?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Family Office - Winter 2026](https://jobright.ai/jobs/info/689cdeb583d13d1f5b6ab44b?utm_campaign=1052&utm_source=git)** | Salt Lake City | On Site | Aug 13 |
-| **[Republic Airways](http://www.rjet.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/689cdcb679a9f9666253b768?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
-| ↳ | **[Finance Intern - Spring 2026](https://jobright.ai/jobs/info/689cdc7179a9f9666253b673?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
-| ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/689cdc4883d13d1f5b6ab377?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Private Equity Infrastructure & Real Assets Co-op Analyst](https://jobright.ai/jobs/info/689cdc3e83d13d1f5b6ab357?utm_campaign=1052&utm_source=git)** | New York | On Site | Aug 13 |
-| **[The Standard](https://www.standard.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/689cdbfafaa4e875e826b126?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 13 |
-| **[Republic Airways](http://www.rjet.com)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/689cdbf9faa4e875e826b120?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
