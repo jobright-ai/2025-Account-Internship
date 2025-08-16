@@ -64,10 +64,10 @@ For a complete list, click the following sortable link below:
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68a0a31283d13d1f5b6d10d8?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Aug 16 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a0a0fafaa4e875e8290f91?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Aug 16 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a09e64cc9ee94dc911fc9e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Aug 16 |
-| **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68a09e15faa4e875e8290ede?utm_campaign=1052&utm_source=git)** | All, MO | On Site | Aug 16 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68a084d0faa4e875e829097f?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Aug 16 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a0a2ff83d13d1f5b6d1061?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Aug 16 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67906552d7257309580ff842?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 16 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/66daa9096050429495351aaa?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Aug 16 |
+| ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67906552d7257309580ff842?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 16 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management - Summer Analyst (NY Metro)](https://jobright.ai/jobs/info/6868099f35584b6542c10b39?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Baltimore)](https://jobright.ai/jobs/info/677c4716c5c50c483be5567c?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Aug 16 |
 | ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/68a0563efaa4e875e829025c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 16 |
@@ -102,16 +102,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b783d13d1f5b6cb9ea?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b0faa4e875e828bc38?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b083d13d1f5b6cb9d6?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5cc9ee94dc911a6af?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5cc9ee94dc911a6ae?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5cc9ee94dc911a6b3?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5cc9ee94dc911a6af?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Private Wealth / Financial Advisor - Internship (NYC)](https://jobright.ai/jobs/info/689fe07cfaa4e875e828bb9e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / Kansas City](https://jobright.ai/jobs/info/68a0bedbfaa4e875e8291675?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Aug 15 |
 | ↳ | **[Intern Tax Summer 2027 / Kansas City](https://jobright.ai/jobs/info/68a0bed283d13d1f5b6d1662?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Aug 15 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Office of the CIO](https://jobright.ai/jobs/info/689fd98183d13d1f5b6cb807?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Wealth Planning Center](https://jobright.ai/jobs/info/689fd980faa4e875e828ba13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| ↳ | **[Summer Analyst - Investment & Client Solutions, Managed Solutions](https://jobright.ai/jobs/info/689fd97f83d13d1f5b6cb7f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Advisor Performance & Compensation](https://jobright.ai/jobs/info/689fd97f83d13d1f5b6cb7fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Summer Analyst - Investment & Client Solutions, Managed Solutions](https://jobright.ai/jobs/info/689fd97f83d13d1f5b6cb7f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Investment & Client Solutions, Directs & Co-Investments](https://jobright.ai/jobs/info/689fd96c83d13d1f5b6cb7be?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Equity Research](https://jobright.ai/jobs/info/689fd96183d13d1f5b6cb79a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Investment & Client Solutions, Managed Solutions](https://jobright.ai/jobs/info/689fd924cc9ee94dc911a4e8?utm_campaign=1052&utm_source=git)** | Trenton, NJ | On Site | Aug 15 |
@@ -145,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc5c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
 | **[Trout CPA](https://www.troutcpa.com/)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/689fc4d883d13d1f5b6cae44?utm_campaign=1052&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 15 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fc4c4faa4e875e828b0d0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
+| **[Trout CPA](https://www.troutcpa.com/)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/689fc495faa4e875e828aff5?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 | **[Ameren](http://ameren.com)** | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc48cfaa4e875e828afcc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
 | ↳ | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc3d383d13d1f5b6cad9d?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Aug 15 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Seasonal Intern, Global Mobility Services / Atlanta Fall 2025](https://jobright.ai/jobs/info/689fc25fcc9ee94dc9119a2f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analytics Analyst Internship at OneMain Financial](https://jobright.ai/jobs/info/689fbf4383d13d1f5b6cabce?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Actuary Internship 2026 - UPMC (Paid)](https://jobright.ai/jobs/info/689fbf20faa4e875e828ae61?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 15 |
 | **[Trout CPA](https://www.troutcpa.com/)** | **[Spring 2026 Tax Internship](https://jobright.ai/jobs/info/689ff904cc9ee94dc911b0b8?utm_campaign=1052&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 15 |
-| **[altafiber](https://www.altafiber.com)** | **[Treasury Co-Op](https://jobright.ai/jobs/info/689fbcb7cc9ee94dc911981e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
