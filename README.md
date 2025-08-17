@@ -60,13 +60,13 @@ For a complete list, click the following sortable link below:
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Coordinator - Accounting Crude PT](https://jobright.ai/jobs/info/68a11dca83d13d1f5b6d20cb?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | **[SAIC](http://www.saic.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68a10ffcfaa4e875e8291fe2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 16 |
 | **[Tree-Plenish](http://www.tree-plenish.com)** | **[Finance Lead](https://jobright.ai/jobs/info/68a10ff8cc9ee94dc9120e53?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 16 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a0cd84faa4e875e8291b3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Remote | Aug 16 |
 | **[SAIC](http://www.saic.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68a0c7adfaa4e875e8291a1e?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 16 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Turnaround & Restructuring Case Management - Analyst Intern](https://jobright.ai/jobs/info/689f427cfaa4e875e82855a1?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Aug 16 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a0a0fafaa4e875e8290f91?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Aug 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Student Financial Services Support Representative (Portuguese Speaking) - BYU-Pathway (Part-Time, Student Employee)](https://jobright.ai/jobs/info/68842ab36fcd973d15ae6063?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68a09e15faa4e875e8290ede?utm_campaign=1052&utm_source=git)** | All, MO | On Site | Aug 16 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Elgin](https://jobright.ai/jobs/info/68115a71aea77350adef84a8?utm_campaign=1052&utm_source=git)** | Elgin, IL | Remote | Aug 16 |
+| ↳ | **[Spring 2026 Tax Intern - Raleigh](https://jobright.ai/jobs/info/68115a71aea77350adef84a0?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Aug 16 |
 | ↳ | **[Spring 2026 Audit Intern - Louisville](https://jobright.ai/jobs/info/68116a5fe571778c6d728e55?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Aug 16 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68a084d0faa4e875e829097f?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Aug 16 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a0a2ff83d13d1f5b6d1061?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Aug 16 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3e583d13d1f5b6cbb32?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3a4faa4e875e828bd0f?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/689fe37c83d13d1f5b6cba9a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc53?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc4e?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc53?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b783d13d1f5b6cb9ea?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b083d13d1f5b6cb9d6?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b0faa4e875e828bc38?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Tax Summer 2027 / Kansas City](https://jobright.ai/jobs/info/68a0bed283d13d1f5b6d1662?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Aug 15 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Office of the CIO](https://jobright.ai/jobs/info/689fd98183d13d1f5b6cb807?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Wealth Planning Center](https://jobright.ai/jobs/info/689fd980faa4e875e828ba13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| ↳ | **[Summer Analyst - Investment & Client Solutions, Managed Solutions](https://jobright.ai/jobs/info/689fd97f83d13d1f5b6cb7f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Advisor Performance & Compensation](https://jobright.ai/jobs/info/689fd97f83d13d1f5b6cb7fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Summer Analyst - Investment & Client Solutions, Managed Solutions](https://jobright.ai/jobs/info/689fd97f83d13d1f5b6cb7f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Investment & Client Solutions, Directs & Co-Investments](https://jobright.ai/jobs/info/689fd96c83d13d1f5b6cb7be?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Equity Research](https://jobright.ai/jobs/info/689fd96183d13d1f5b6cb79a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Summer Analyst - Investment & Client Solutions, Managed Solutions](https://jobright.ai/jobs/info/689fd924cc9ee94dc911a4e8?utm_campaign=1052&utm_source=git)** | Trenton, NJ | On Site | Aug 15 |
@@ -135,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Tax Season Intern](https://jobright.ai/jobs/info/689fd55dcc9ee94dc911a241?utm_campaign=1052&utm_source=git)** | Portland, Salem | On Site | Aug 15 |
 | ↳ | **[2026 Tax Season Intern](https://jobright.ai/jobs/info/689fd55cfaa4e875e828b6d6?utm_campaign=1052&utm_source=git)** | Spokane | On Site | Aug 15 |
 | ↳ | **[2026 Audit/Tax Summer Intern](https://jobright.ai/jobs/info/689fd55683d13d1f5b6cb53c?utm_campaign=1052&utm_source=git)** | Portland, Salem | On Site | Aug 15 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Raleigh](https://jobright.ai/jobs/info/6811644104fcee544ad5236c?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Aug 15 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Finance Intern](https://jobright.ai/jobs/info/689d28bd83d13d1f5b6ad8da?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2026 - Eastern & Central Washington](https://jobright.ai/jobs/info/689fd090faa4e875e828b450?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Aug 15 |
 | ↳ | **[Tax/Audit Intern - Summer 2026 - Eastern & Central Washington](https://jobright.ai/jobs/info/689fd090faa4e875e828b44f?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Aug 15 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a913?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 15 |
 | ↳ | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fe67dcc9ee94dc911a83a?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | ↳ | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc5c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
-| ↳ | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fc4c4faa4e875e828b0d0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
+| **[Trout CPA](https://www.troutcpa.com/)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/689fc4d883d13d1f5b6cae44?utm_campaign=1052&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 15 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fc4c4faa4e875e828b0d0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[Ameren](http://ameren.com)** | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc48cfaa4e875e828afcc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
 | ↳ | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc3d383d13d1f5b6cad9d?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Aug 15 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Seasonal Intern, Global Mobility Services / Atlanta Fall 2025](https://jobright.ai/jobs/info/689fc25fcc9ee94dc9119a2f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
 | ↳ | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fc250cc9ee94dc91199f4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Intern, Economic Valuation Services - Economic Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/689fc21a83d13d1f5b6cad24?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 15 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/689fbf81cc9ee94dc91198b0?utm_campaign=1052&utm_source=git)** | San Luis Obispo County, CA | On Site | Aug 15 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Actuarial Intern (Early Development Program) at TruStage](https://jobright.ai/jobs/info/689fbf6d83d13d1f5b6cac6d?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 15 |
-| ↳ | **[Actuarial Intern (Emerging Professional Program) at TruStage](https://jobright.ai/jobs/info/689fbf6d83d13d1f5b6cac6c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
