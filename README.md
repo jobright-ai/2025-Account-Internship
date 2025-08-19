@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paschall Truck Lines, Inc.](http://ptl-inc.com)** | **[Pricing Billing Intern](https://jobright.ai/jobs/info/68a4b886e9f1c744da12392c?utm_campaign=1052&utm_source=git)** | Murray, KY | On Site | Aug 19 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a4b834e9f1c744da1238dc?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Aug 19 |
+| ↳ | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68a4b5e12d2a252445cd875f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[Javara](https://www.javararesearch.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/68a4b437e9f1c744da12372c?utm_campaign=1052&utm_source=git)** | Winston Salem, NC | On Site | Aug 19 |
+| **[KerberRose](http://kerberrose.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68a4b2492d2a252445cd8614?utm_campaign=1052&utm_source=git)** | Rhinelander, WI | On Site | Aug 19 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4aae1541cc3479840cfd1?utm_campaign=1052&utm_source=git)** | Huntsville, Alabama, United States | On Site | Aug 19 |
+| **[Javara](https://www.javararesearch.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68a4aa43541cc3479840cf50?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | Hybrid | Aug 19 |
+| **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Retirement & Insurance, Internship Program](https://jobright.ai/jobs/info/68a4a931e9f1c744da123300?utm_campaign=1052&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 19 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4a84ee9f1c744da12318a?utm_campaign=1052&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Aug 19 |
+| ↳ | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4a7662d2a252445cd826f?utm_campaign=1052&utm_source=git)** | Nashville, Tennessee, United States | On Site | Aug 19 |
+| ↳ | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4a6d42d2a252445cd820f?utm_campaign=1052&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Aug 19 |
+| ↳ | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4a6c52d2a252445cd8200?utm_campaign=1052&utm_source=git)** | Pensacola, Florida, United States | On Site | Aug 19 |
+| ↳ | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4a6be2d2a252445cd81fa?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | Aug 19 |
+| ↳ | **[Summer 2027 Full-time Internship](https://jobright.ai/jobs/info/68a4a6692d2a252445cd81b3?utm_campaign=1052&utm_source=git)** | Winter Haven, Florida, United States | On Site | Aug 19 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68a4a526e9f1c744da123139?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Aug 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Northeast WI](https://jobright.ai/jobs/info/68a49eaee9f1c744da122e31?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Aug 19 |
 | ↳ | **[Tax and Audit Intern - Spring 2027 - San Antonio, TX](https://jobright.ai/jobs/info/68a49e8a541cc3479840ca98?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 19 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/68a49e802d2a252445cd7ea0?utm_campaign=1052&utm_source=git)** | Dallas | Hybrid | Aug 19 |
@@ -97,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416eb2d2a252445cd5a3c?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416dc2d2a252445cd5a2a?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68a416af2d2a252445cd5a07?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 18 |
+| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416a72d2a252445cd59ff?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Winter 2026](https://jobright.ai/jobs/info/68a416932d2a252445cd59eb?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Aug 18 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416762d2a252445cd59d6?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a416592d2a252445cd59c1?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Winter 2026](https://jobright.ai/jobs/info/68a416542d2a252445cd59b8?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | ↳ | **[Tax Korean Business Network (KBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68a416412d2a252445cd59ac?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Aug 18 |
@@ -140,21 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Accounting Houston](https://jobright.ai/jobs/info/68a3c3961ab5f8579e8a8180?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 18 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Controllership Intern (Winter 2026)](https://jobright.ai/jobs/info/68a3c31a403ad4363b1c379e?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Remote | Aug 18 |
 | **[Fifth Third Bank](http://53.com)** | **[Finance and Accounting Leadership Program Intern: Accounting Track 2026](https://jobright.ai/jobs/info/68a3c30e1ab5f8579e8a810a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
+| **[PwC Experience Center Stockholm](https://digital.pwc.com/en-se.html)** | **[Tax Japanese Business Network (JBN) Associate - Summer / Fall 2026](https://jobright.ai/jobs/info/68a4a92fe9f1c744da1232f4?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Aug 18 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Investments General Account](https://jobright.ai/jobs/info/68a3bfbf403ad4363b1c3709?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 18 |
-| **[Duna](https://duna.com)** | **[Working Student](https://jobright.ai/jobs/info/68a48a6ee9f1c744da1223c4?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 18 |
-| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Corporate Accounting & Finance (Summer 2026)](https://jobright.ai/jobs/info/68a3bbab403ad4363b1c3522?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | On Site | Aug 18 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a3b6b41ab5f8579e8a7b7e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
-| ↳ | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a3b3f637d3cc6b0d578e7a?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 18 |
-| ↳ | **[Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/68a3b3cc37d3cc6b0d578e34?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
-| ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/68a3b39f403ad4363b1c309d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
-| ↳ | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a3b2ae1ab5f8579e8a78e3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
-| ↳ | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68a3b27e1ab5f8579e8a78a8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Assistant Internal Audit Director](https://jobright.ai/jobs/info/68a411ee541cc3479840a426?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Aug 18 |
-| **[Marine Credit Union](https://www.marinecu.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a3b09537d3cc6b0d578d28?utm_campaign=1052&utm_source=git)** | La Crosse-Onalaska Area | On Site | Aug 18 |
-| **[Anders](http://anderscpa.com/)** | **[VCFO Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/68a3af501ab5f8579e8a77d5?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Aug 18 |
-| **[Yum! Brands](http://www.yum.com)** | **[Tax Intern, Domestic Compliance](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b22?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Aug 18 |
-| **[Fifth Third Bank](http://53.com)** | **[Corporate Accounting Co-Op - Fall 2026](https://jobright.ai/jobs/info/68a3abf31ab5f8579e8a7639?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Valence](https://www.getvalence.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a3e6ae2d2a252445cd3fdf?utm_campaign=1052&utm_source=git)** | Spring, TX | On Site | Aug 18 |
-| **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a3a59537d3cc6b0d5788be?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 18 |
-| **[Fifth Third Bank](http://53.com)** | **[Corporate Accounting Co-Op - Summer 2026](https://jobright.ai/jobs/info/68a39e9c37d3cc6b0d57879e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
