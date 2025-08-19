@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Norfolk)](https://jobright.ai/jobs/info/68a3d6391ab5f8579e8a8cf4?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Aug 18 |
+| **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Actuary](https://jobright.ai/jobs/info/68a3d478403ad4363b1c4226?utm_campaign=1052&utm_source=git)** | Rolling Meadows, IL | Hybrid | Aug 18 |
+| **[Delek US](http://www.delekus.com/about-us)** | **[Intern](https://jobright.ai/jobs/info/68a3d11e403ad4363b1c4046?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Aug 18 |
+| **[Citi](https://www.citi.com)** | **[Banking - Corporate Banking, Summer Analyst, San Francisco - US, 2026](https://jobright.ai/jobs/info/68a3ce6337d3cc6b0d579c56?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
+| **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Commercial Management (Fall 2025)](https://jobright.ai/jobs/info/68a3cdf337d3cc6b0d579bd1?utm_campaign=1052&utm_source=git)** | Shippensburg, PA | On Site | Aug 18 |
+| **[Citi](https://www.citi.com)** | **[Banking - Corporate Banking, Summer Analyst, Houston - US, 2026](https://jobright.ai/jobs/info/68a3cdd0403ad4363b1c3ed1?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 18 |
+| **[AQR Capital Management](https://www.aqr.com)** | **[AQR Arbitrage - 2026 Research Summer Analyst](https://jobright.ai/jobs/info/68a3cd5e403ad4363b1c3dea?utm_campaign=1052&utm_source=git)** | Greenwich, CT | On Site | Aug 18 |
+| **[CCFBank](https://www.ccf.us/)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/68a3cba81ab5f8579e8a85d1?utm_campaign=1052&utm_source=git)** | Eau Claire | On Site | Aug 18 |
+| **[Gallagher Re](https://www.gallagherre.com/)** | **[U.S Internship - Actuary](https://jobright.ai/jobs/info/68a3cb65403ad4363b1c3c38?utm_campaign=1052&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Aug 18 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[London Offices - Opportunities in Audit - Intern/Co-op- Summer 2026](https://jobright.ai/jobs/info/68a3c9b41ab5f8579e8a83be?utm_campaign=1052&utm_source=git)** | London, CA | On Site | Aug 18 |
+| **[Fifth Third Bank](http://53.com)** | **[Corporate Accounting Co-Op - Fall 2026](https://jobright.ai/jobs/info/68a3c513403ad4363b1c3a21?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
+| ↳ | **[Corporate Accounting Co-Op - Spring 2026](https://jobright.ai/jobs/info/68a3c47737d3cc6b0d5796a4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
+| ↳ | **[Corporate Accounting Co-Op - Summer 2026](https://jobright.ai/jobs/info/68a3c409403ad4363b1c38c3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Accounting Houston](https://jobright.ai/jobs/info/68a3c3961ab5f8579e8a8180?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 18 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Controllership Intern (Winter 2026)](https://jobright.ai/jobs/info/68a3c31a403ad4363b1c379e?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Remote | Aug 18 |
+| **[Fifth Third Bank](http://53.com)** | **[Finance and Accounting Leadership Program Intern: Accounting Track 2026](https://jobright.ai/jobs/info/68a3c30e1ab5f8579e8a810a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Investments General Account](https://jobright.ai/jobs/info/68a3bfbf403ad4363b1c3709?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 18 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Corporate Accounting & Finance (Summer 2026)](https://jobright.ai/jobs/info/68a3bbab403ad4363b1c3522?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | On Site | Aug 18 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Summer Intern, Finance & Accounting Leadership Accelerator at Bristol Myers Squibb](https://jobright.ai/jobs/info/68a3ba001ab5f8579e8a7cbc?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a3b6b41ab5f8579e8a7b7e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
@@ -117,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Finance Co-Op](https://jobright.ai/jobs/info/68a37708403ad4363b1c135b?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Aug 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Interns - Spring 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/68a37549403ad4363b1c12ec?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 18 |
 | **[Republic Airways](http://www.rjet.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68a37508403ad4363b1c1294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 18 |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Winter/Spring Busy Season 2026, Conshohocken, PA](https://jobright.ai/jobs/info/689d361079a9f9666253e51b?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | On Site | Aug 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2026 - Portland](https://jobright.ai/jobs/info/68a3741537d3cc6b0d576e53?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Aug 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/68a373631ab5f8579e8a5a6d?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 18 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Credit and Collections/Accounting Co-Op - Multiple Semester Part Time](https://jobright.ai/jobs/info/68a3732b1ab5f8579e8a5a35?utm_campaign=1052&utm_source=git)** | New Bremen, OH | On Site | Aug 18 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a36973403ad4363b1c0d0b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Spring 2027 - East Coast](https://jobright.ai/jobs/info/68a369711ab5f8579e8a55fe?utm_campaign=1052&utm_source=git)** | Bethesda, MD | On Site | Aug 18 |
 | ↳ | **[Tax Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a369681ab5f8579e8a55e8?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 18 |
-| ↳ | **[Audit Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a369591ab5f8579e8a55cc?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 18 |
-| ↳ | **[Audit Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a369451ab5f8579e8a55b3?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
-| ↳ | **[Audit Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a36914403ad4363b1c0c7c?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 18 |
-| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Property Accounting Intern (Spring 2026)](https://jobright.ai/jobs/info/68a3690837d3cc6b0d576997?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Weaver](http://www.weaver.com)** | **[Audit Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a368f71ab5f8579e8a5544?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 18 |
-| ↳ | **[Audit Intern - Fall 2026/Spring 2027 - California](https://jobright.ai/jobs/info/68a368d41ab5f8579e8a5513?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/689fc6b2cc9ee94dc9119ba3?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 18 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a365e137d3cc6b0d57678f?utm_campaign=1052&utm_source=git)** | Short Hills, NJ | On Site | Aug 18 |
-| ↳ | **[Audit Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/68a365a4403ad4363b1c0b5c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 18 |
-| ↳ | **[Audit Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/68a3659c1ab5f8579e8a545e?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Aug 18 |
-| ↳ | **[Audit Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/68a36552403ad4363b1c0ae8?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 18 |
-| ↳ | **[Audit Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a365191ab5f8579e8a5350?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 18 |
-| **[Weaver](http://www.weaver.com)** | **[Tax Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a362b437d3cc6b0d5766c3?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Aug 18 |
-| ↳ | **[Tax Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a3628837d3cc6b0d5766a3?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 18 |
-| **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[ACCOUNTANT TRAINEE](https://jobright.ai/jobs/info/68a37935403ad4363b1c182e?utm_campaign=1052&utm_source=git)** | CA | On Site | Aug 18 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Actuarial Internship - Summer 2026](https://jobright.ai/jobs/info/68a362531ab5f8579e8a5245?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Aug 18 |
-| **[Weaver](http://www.weaver.com)** | **[Tax Intern - Spring 2027 - California](https://jobright.ai/jobs/info/68a3621137d3cc6b0d57664d?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
-| ↳ | **[Audit Intern - Spring 2027 - Texas & OKC](https://jobright.ai/jobs/info/68a361f4403ad4363b1c08d7?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
