@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Wichita](https://jobright.ai/jobs/info/68a429d6e9f1c744da1214d0?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern, Finance & Accounting Leadership Accelerator](https://jobright.ai/jobs/info/68a4328f2d2a252445cd65ff?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Aug 19 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2026 / Wichita](https://jobright.ai/jobs/info/68a43158541cc3479840b0f1?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
+| ↳ | **[Intern Audit Summer 2026 / Wichita](https://jobright.ai/jobs/info/68a429d6e9f1c744da1214d0?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Part-Time Accounting Intern](https://jobright.ai/jobs/info/68a41d97e9f1c744da120d84?utm_campaign=1052&utm_source=git)** | Hybrid Remote | On Site | Aug 18 |
 | **[GROB Systems, Inc](https://grobsystems.com)** | **[Finance Intern- Fall](https://jobright.ai/jobs/info/68a41d4ae9f1c744da120c97?utm_campaign=1052&utm_source=git)** | Bluffton, OH | On Site | Aug 18 |
 | **[Ecolab](http://www.ecolab.com)** | **[Undergrad Finance and Accounting Intern](https://jobright.ai/jobs/info/68a41858e9f1c744da120ae5?utm_campaign=1052&utm_source=git)** | Naperville, IL | Hybrid | Aug 18 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2026](https://jobright.ai/jobs/info/68a416f92d2a252445cd5a49?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416eb2d2a252445cd5a3c?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68a416af2d2a252445cd5a07?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 18 |
+| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416a72d2a252445cd59ff?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Winter 2026](https://jobright.ai/jobs/info/68a416932d2a252445cd59eb?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Aug 18 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68a416762d2a252445cd59d6?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68a4165f2d2a252445cd59c5?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a416592d2a252445cd59c1?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Winter 2026](https://jobright.ai/jobs/info/68a416542d2a252445cd59b8?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 18 |
@@ -76,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68a415a8541cc3479840a590?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a41593541cc3479840a57e?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Korean Business Network (KBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68a41556e9f1c744da120a40?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Aug 18 |
+| ↳ | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68a41550e9f1c744da120a3b?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 18 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68a4154ee9f1c744da120a38?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a41530e9f1c744da120a15?utm_campaign=1052&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Aug 18 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027](https://jobright.ai/jobs/info/68a4152ce9f1c744da120a12?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Aug 18 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a414d5541cc3479840a4e5?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Aug 18 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/68a414d0e9f1c744da1209c5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 18 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68a414c8e9f1c744da1209bf?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
+| **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Part-Time Accounting Intern](https://jobright.ai/jobs/info/68a43907e9f1c744da121627?utm_campaign=1052&utm_source=git)** | Westlake, OH | On Site | Aug 18 |
 | **[Biocytogen](https://biocytogen.com)** | **[Finance Intern (Full-Time)](https://jobright.ai/jobs/info/68a3f328e9f1c744da11f536?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Aug 18 |
 | **[Ecolab](http://www.ecolab.com)** | **[Undergrad Finance and Accounting Intern](https://jobright.ai/jobs/info/68a3f026e9f1c744da11f430?utm_campaign=1052&utm_source=git)** | USA - Minnesota - Saint Paul | Hybrid | Aug 18 |
 | ↳ | **[Undergrad Finance and Accounting Intern](https://jobright.ai/jobs/info/68a3f023541cc34798408f96?utm_campaign=1052&utm_source=git)** | USA - Illinois - Naperville | Hybrid | Aug 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Capital Markets Intern - Summer 2026](https://jobright.ai/jobs/info/68a37ca11ab5f8579e8a63e7?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Financial Analyst Intern (Spring 2026 - Investment Management)](https://jobright.ai/jobs/info/68a37c9a1ab5f8579e8a63d4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 | **[Weissman](https://www.weissmans.com/)** | **[Accounting Co-Op](https://jobright.ai/jobs/info/68a37c84403ad4363b1c18e8?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 18 |
-| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Part-Time Accounting Intern (January 2026 - April 2026)](https://jobright.ai/jobs/info/68a37c701ab5f8579e8a6398?utm_campaign=1052&utm_source=git)** | Triad Area | Hybrid | Aug 18 |
-| **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Spring 2026 Internship Program - Tax Intern (Buffalo Office)](https://jobright.ai/jobs/info/68a37c6e1ab5f8579e8a6392?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | Aug 18 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Risk Management Graduate Intern – Quantitative- Summer 2026](https://jobright.ai/jobs/info/68a37c5e1ab5f8579e8a6380?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Accounting Intern 2026](https://jobright.ai/jobs/info/68a37c4e1ab5f8579e8a6369?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Remote | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
