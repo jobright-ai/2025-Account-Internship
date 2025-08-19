@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lindsay Corporation](http://lindsay.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a46271541cc3479840b620?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Aug 19 |
+| **[Bull Street Mergers](https://bullstreetmergers.com/)** | **[M&A Analyst Internship](https://jobright.ai/jobs/info/68a44e0f541cc3479840b398?utm_campaign=1052&utm_source=git)** | Charleston, SC | Remote | Aug 19 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Investments Internship](https://jobright.ai/jobs/info/6888485a73e3e13cbd943b76?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Los Angeles Summer 2026](https://jobright.ai/jobs/info/686c073935584b654225d9c7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern, Finance & Accounting Leadership Accelerator](https://jobright.ai/jobs/info/68a4328f2d2a252445cd65ff?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Aug 19 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2026 / Wichita](https://jobright.ai/jobs/info/68a43158541cc3479840b0f1?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
 | ↳ | **[Intern Audit Summer 2026 / Wichita](https://jobright.ai/jobs/info/68a429d6e9f1c744da1214d0?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
@@ -113,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Fifth Third Bank](http://53.com)** | **[Finance and Accounting Leadership Program Intern: Accounting Track 2026](https://jobright.ai/jobs/info/68a3c30e1ab5f8579e8a810a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Investments General Account](https://jobright.ai/jobs/info/68a3bfbf403ad4363b1c3709?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 18 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Corporate Accounting & Finance (Summer 2026)](https://jobright.ai/jobs/info/68a3bbab403ad4363b1c3522?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | On Site | Aug 18 |
+| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Finance Co-Op](https://jobright.ai/jobs/info/68a3ba4e1ab5f8579e8a7d21?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Aug 18 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Summer Intern, Finance & Accounting Leadership Accelerator at Bristol Myers Squibb](https://jobright.ai/jobs/info/68a3ba001ab5f8579e8a7cbc?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a3b6b41ab5f8579e8a7b7e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
 | ↳ | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a3b3f637d3cc6b0d578e7a?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Audit/Tax Rotational Intern](https://jobright.ai/jobs/info/68a37db437d3cc6b0d577798?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Valuation Intern - Cedar Rapids, IA](https://jobright.ai/jobs/info/68a37d5837d3cc6b0d577725?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 18 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Internal Audit Intern (Spring 2026)](https://jobright.ai/jobs/info/68a37cfa403ad4363b1c19a0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| ↳ | **[Financial Analyst Intern (Spring 2026)](https://jobright.ai/jobs/info/68a37ce137d3cc6b0d577686?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Avion Wealth, LLC](https://www.avionwealth.com/)** | **[Personal Financial Planning Internship](https://jobright.ai/jobs/info/68a37cc237d3cc6b0d577665?utm_campaign=1052&utm_source=git)** | Spring, TX | On Site | Aug 18 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Capital Markets Intern - Summer 2026](https://jobright.ai/jobs/info/68a37ca11ab5f8579e8a63e7?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Financial Analyst Intern (Spring 2026 - Investment Management)](https://jobright.ai/jobs/info/68a37c9a1ab5f8579e8a63d4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Weissman](https://www.weissmans.com/)** | **[Accounting Co-Op](https://jobright.ai/jobs/info/68a37c84403ad4363b1c18e8?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
