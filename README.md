@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/68a5a60a33dd7158bbc9b4f8?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 20 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Audit Services - Staff Internal IT Auditor I](https://jobright.ai/jobs/info/68895c63aab47a17f67010ec?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Aug 20 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2026 / Austin](https://jobright.ai/jobs/info/68a58968758f2e4ac3fdfecc?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Transfer Pricing Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a588fab6a3617d7fa72905?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
@@ -83,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Ascent Capital Partners](https://www.linkedin.com/company/74293067)** | **[Operations & Finance Intern](https://jobright.ai/jobs/info/68a53d0833dd7158bbc982ef?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Remote | Aug 19 |
 | **[The Boring Company](http://www.boringcompany.com)** | **[Finance & Accounting Internship (Part-Time)](https://jobright.ai/jobs/info/68a550f3b6a3617d7fa706c2?utm_campaign=1052&utm_source=git)** | Bastrop, TX | On Site | Aug 19 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/68a51587758f2e4ac3fdbc7d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a5387fb6a3617d7fa6f781?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
-| ↳ | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a53876b6a3617d7fa6f776?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 19 |
+| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a53876b6a3617d7fa6f776?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Income Tax Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/68a534df758f2e4ac3fdcc83?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
 | **[Stevans & Associates, PLLC](https://www.stevanscpa.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68a534bd758f2e4ac3fdcc6d?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 19 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Venture Capital Summer Associate](https://jobright.ai/jobs/info/688cf01327f9022553c07f6e?utm_campaign=1052&utm_source=git)** | Baltimore | On Site | Aug 19 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Des Moines](https://jobright.ai/jobs/info/68a52a4c758f2e4ac3fdc892?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | Hybrid | Aug 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Winter Internship - Port Huron](https://jobright.ai/jobs/info/68a529f9758f2e4ac3fdc814?utm_campaign=1052&utm_source=git)** | Port Huron, MI | On Site | Aug 19 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Tax Intern - Co-Op Internship](https://jobright.ai/jobs/info/68a529f8758f2e4ac3fdc812?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | Aug 19 |
-| **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/68a52960758f2e4ac3fdc74f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Fall 2026 / Madison](https://jobright.ai/jobs/info/68a5285b758f2e4ac3fdc5b2?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Aug 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Internship - Port Huron](https://jobright.ai/jobs/info/68a5264cb6a3617d7fa6f022?utm_campaign=1052&utm_source=git)** | Port Huron, MI | On Site | Aug 19 |
 | **[Abbott](https://www.abbott.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a525fe33dd7158bbc97884?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Aug 19 |
@@ -112,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Part-Time Accounting Intern](https://jobright.ai/jobs/info/68a51b7db6a3617d7fa6e979?utm_campaign=1052&utm_source=git)** | Plainville, CT | On Site | Aug 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Internship - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/68a51b3e758f2e4ac3fdbdf3?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Aug 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68a515af758f2e4ac3fdbcb1?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 19 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Des Moines & Cedar Rapids, IA](https://jobright.ai/jobs/info/68a5153bb6a3617d7fa6e579?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 19 |
-| ↳ | **[Operations Intern - Spring 2026 - Des Moines & Cedar Rapids, IA](https://jobright.ai/jobs/info/68a5153bb6a3617d7fa6e57a?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Aug 19 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Des Moines & Cedar Rapids, IA](https://jobright.ai/jobs/info/68a5153bb6a3617d7fa6e57a?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Aug 19 |
+| ↳ | **[Operations Intern - Spring 2026 - Des Moines & Cedar Rapids, IA](https://jobright.ai/jobs/info/68a5153bb6a3617d7fa6e579?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 19 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68a5148cb6a3617d7fa6e493?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a51187b6a3617d7fa6e422?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 19 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a56832b6a3617d7fa71654?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
@@ -147,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4de07541cc3479840eced?utm_campaign=1052&utm_source=git)** | United States - Texas - Austin | On Site | Aug 19 |
 | ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4ddf1e9f1c744da1250ac?utm_campaign=1052&utm_source=git)** | United States - Illinois - Lake Forest | On Site | Aug 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Winter Internship - Port Huron](https://jobright.ai/jobs/info/68a4ddd8541cc3479840ec88?utm_campaign=1052&utm_source=git)** | Port Huron, MI | On Site | Aug 19 |
-| **[Abbott](https://www.abbott.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9541cc3479840ec46?utm_campaign=1052&utm_source=git)** | United States - California - Sylmar | On Site | Aug 19 |
-| ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9e9f1c744da124ff0?utm_campaign=1052&utm_source=git)** | United States - California - Santa Clara | On Site | Aug 19 |
+| **[Abbott](https://www.abbott.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9e9f1c744da124ff0?utm_campaign=1052&utm_source=git)** | United States - California - Santa Clara | On Site | Aug 19 |
+| ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9541cc3479840ec46?utm_campaign=1052&utm_source=git)** | United States - California - Sylmar | On Site | Aug 19 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4dd91e9f1c744da124fb9?utm_campaign=1052&utm_source=git)** | Binghamton, NY | On Site | Aug 19 |
 | ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a5426a758f2e4ac3fdd33d?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
 | ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d914541cc3479840eb1b?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fraser Advanced Information Systems](http://fraser-ais.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a4d5cd541cc3479840e98a?utm_campaign=1052&utm_source=git)** | Reading, PA | On Site | Aug 19 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a4d5bbe9f1c744da124d6d?utm_campaign=1052&utm_source=git)** | Austin | Hybrid | Aug 19 |
 | ↳ | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a4d524541cc3479840e7c2?utm_campaign=1052&utm_source=git)** | Charlotte | Hybrid | Aug 19 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d4aa541cc3479840e6fb?utm_campaign=1052&utm_source=git)** | Utica, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
