@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Transfer Pricing Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a57c78758f2e4ac3fdfc82?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
+| ↳ | **[Intern Global Mobility Services Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a57a34b6a3617d7fa72441?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Aug 20 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Internship - Summer 2026](https://jobright.ai/jobs/info/68a55f14b6a3617d7fa7113b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68a55ca433dd7158bbc997a2?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
 | ↳ | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a55c4c33dd7158bbc9971b?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Aug 19 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Spring 2026 - Des Moines & Cedar Rapids, IA](https://jobright.ai/jobs/info/68a5153bb6a3617d7fa6e57a?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Aug 19 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68a5148cb6a3617d7fa6e493?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a51187b6a3617d7fa6e422?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 19 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a56832b6a3617d7fa71654?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[Henkel](http://www.henkel.com)** | **[- copy](https://jobright.ai/jobs/info/68a50d48b6a3617d7fa6e253?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 19 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Tax](https://jobright.ai/jobs/info/68a50c5cb6a3617d7fa6e128?utm_campaign=1052&utm_source=git)** | Green Bay, WI | Hybrid | Aug 19 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Winter 2027 Tax Intern (Dallas)](https://jobright.ai/jobs/info/68a50c3c33dd7158bbc96a96?utm_campaign=1052&utm_source=git)** | Dallas, Texas | Hybrid | Aug 19 |
@@ -140,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4de07541cc3479840eced?utm_campaign=1052&utm_source=git)** | United States - Texas - Austin | On Site | Aug 19 |
 | ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4ddf1e9f1c744da1250ac?utm_campaign=1052&utm_source=git)** | United States - Illinois - Lake Forest | On Site | Aug 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Winter Internship - Port Huron](https://jobright.ai/jobs/info/68a4ddd8541cc3479840ec88?utm_campaign=1052&utm_source=git)** | Port Huron, MI | On Site | Aug 19 |
-| **[Abbott](https://www.abbott.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9e9f1c744da124ff0?utm_campaign=1052&utm_source=git)** | United States - California - Santa Clara | On Site | Aug 19 |
-| ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9541cc3479840ec46?utm_campaign=1052&utm_source=git)** | United States - California - Sylmar | On Site | Aug 19 |
+| **[Abbott](https://www.abbott.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9541cc3479840ec46?utm_campaign=1052&utm_source=git)** | United States - California - Sylmar | On Site | Aug 19 |
+| ↳ | **[2026 Finance Intern](https://jobright.ai/jobs/info/68a4dda9e9f1c744da124ff0?utm_campaign=1052&utm_source=git)** | United States - California - Santa Clara | On Site | Aug 19 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4dd91e9f1c744da124fb9?utm_campaign=1052&utm_source=git)** | Binghamton, NY | On Site | Aug 19 |
 | ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a5426a758f2e4ac3fdd33d?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
 | ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d914541cc3479840eb1b?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d4aa541cc3479840e6fb?utm_campaign=1052&utm_source=git)** | Utica, NY | On Site | Aug 19 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / St. Louis](https://jobright.ai/jobs/info/68a4d473541cc3479840e6c6?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Aug 19 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Retirement & Insurance, Internship Program](https://jobright.ai/jobs/info/68a4d3dbe9f1c744da124ba1?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 19 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Controllership, Finance - Phoenix, AZ](https://jobright.ai/jobs/info/68a4d3a9e9f1c744da124b75?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 19 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - San Antonio, TX](https://jobright.ai/jobs/info/68a4c747e9f1c744da124183?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Aug 19 |
-| **[Andersen](http://www.Andersen.com)** | **[2026 Tax Summer Internship - Private Client Services - McLean, Virginia](https://jobright.ai/jobs/info/68a4cd5ce9f1c744da1247b5?utm_campaign=1052&utm_source=git)** | McLean, Virginia | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
