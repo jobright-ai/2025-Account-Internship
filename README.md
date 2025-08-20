@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Transfer Pricing Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a57c78758f2e4ac3fdfc82?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Audit Services - Staff Internal IT Auditor I](https://jobright.ai/jobs/info/68895c63aab47a17f67010ec?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Aug 20 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2026 / Austin](https://jobright.ai/jobs/info/68a58968758f2e4ac3fdfecc?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
+| ↳ | **[Intern Transfer Pricing Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a588fab6a3617d7fa72905?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
+| ↳ | **[Intern Global Mobility Services Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a588ee33dd7158bbc9b15a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
+| ↳ | **[Intern Transfer Pricing Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a57c78758f2e4ac3fdfc82?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Global Mobility Services Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a57a34b6a3617d7fa72441?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Aug 20 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Internship - Summer 2026](https://jobright.ai/jobs/info/68a55f14b6a3617d7fa7113b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68a55ca433dd7158bbc997a2?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 19 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4dd91e9f1c744da124fb9?utm_campaign=1052&utm_source=git)** | Binghamton, NY | On Site | Aug 19 |
 | ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a5426a758f2e4ac3fdd33d?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
 | ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d914541cc3479840eb1b?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Aug 19 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026 / Colorado Springs](https://jobright.ai/jobs/info/68a4d85ee9f1c744da124ddb?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 19 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d643541cc3479840ea54?utm_campaign=1052&utm_source=git)** | DeWitt, NY | On Site | Aug 19 |
+| ↳ | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d643541cc3479840ea54?utm_campaign=1052&utm_source=git)** | DeWitt, NY | On Site | Aug 19 |
 | **[Madeline Hotel & Residences, Auberge Resorts Collection](https://aubergeresorts.com/madeline)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a4d62c541cc3479840ea38?utm_campaign=1052&utm_source=git)** | Mountain Village, CO | On Site | Aug 19 |
 | **[Fraser Advanced Information Systems](http://fraser-ais.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68a4d5cd541cc3479840e98a?utm_campaign=1052&utm_source=git)** | Reading, PA | On Site | Aug 19 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a4d5bbe9f1c744da124d6d?utm_campaign=1052&utm_source=git)** | Austin | Hybrid | Aug 19 |
 | ↳ | **[Internship in Portfolio Management (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a4d524541cc3479840e7c2?utm_campaign=1052&utm_source=git)** | Charlotte | Hybrid | Aug 19 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Internal Audit](https://jobright.ai/jobs/info/68a4d4aa541cc3479840e6fb?utm_campaign=1052&utm_source=git)** | Utica, NY | On Site | Aug 19 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / St. Louis](https://jobright.ai/jobs/info/68a4d473541cc3479840e6c6?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Aug 19 |
-| **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Retirement & Insurance, Internship Program](https://jobright.ai/jobs/info/68a4d3dbe9f1c744da124ba1?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
