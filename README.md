@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/68a6b069b6a3617d7fa795e8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 20 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Accounting Internship](https://jobright.ai/jobs/info/68a6b04533dd7158bbca1da2?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Aug 20 |
+| **[Segal](https://www.segalco.com)** | **[Actuarial Internship (2026)](https://jobright.ai/jobs/info/68a6a408758f2e4ac3fe6624?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68a694a1b6a3617d7fa78485?utm_campaign=1052&utm_source=git)** | Dallas | On Site | Aug 20 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/68a68dd8b6a3617d7fa7811f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
 | ↳ | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/68a68cb1758f2e4ac3fe5643?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Aug 20 |
+| **[DLC Management Corp.](http://dlcmgmt.com)** | **[Transactions Intern](https://jobright.ai/jobs/info/68a6891fb6a3617d7fa77f7e?utm_campaign=1052&utm_source=git)** | Elmsford, NY | On Site | Aug 20 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68a6889cb6a3617d7fa77f10?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Aug 20 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Accounting – Goldenvoice](https://jobright.ai/jobs/info/68a6881d758f2e4ac3fe54a9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Dallas)](https://jobright.ai/jobs/info/68a68457758f2e4ac3fe53f1?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
@@ -72,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Internship - Investments (Public/Private)](https://jobright.ai/jobs/info/68a679c7758f2e4ac3fe50d5?utm_campaign=1052&utm_source=git)** | New York, New York | Hybrid | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Austin)](https://jobright.ai/jobs/info/68a67944758f2e4ac3fe5003?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (San Antonio)](https://jobright.ai/jobs/info/68a6791b758f2e4ac3fe4fe6?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Hybrid | Aug 20 |
-| **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Trading Strategy Associate Internship – Fall 2025](https://jobright.ai/jobs/info/68a676ad758f2e4ac3fe4f6b?utm_campaign=1052&utm_source=git)** | San Francisco Office | Hybrid | Aug 20 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Dallas)](https://jobright.ai/jobs/info/68a675feb6a3617d7fa7796c?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 20 |
+| ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Dallas)](https://jobright.ai/jobs/info/68a675feb6a3617d7fa7796c?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 20 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/68a67539b6a3617d7fa778dc?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Fort Worth)](https://jobright.ai/jobs/info/68a67535758f2e4ac3fe4ed9?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Aug 20 |
 | **[Gen Re](http://www.genre.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68a67068b6a3617d7fa7787c?utm_campaign=1052&utm_source=git)** | Stamford, CT, US | Remote | Aug 20 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Zoe Feldman Design ](https://www.zoefeldmandesign.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68a66ef833dd7158bbca001b?utm_campaign=1052&utm_source=git)** | Washington, DC, DC | On Site | Aug 20 |
 | **[BDO](https://global-www.bdo.global/)** | **[Core Tax Associate - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68a66e99758f2e4ac3fe4d8b?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Associate - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68a66e84758f2e4ac3fe4d6b?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Aug 20 |
-| **[DLC Management Corp.](http://dlcmgmt.com)** | **[Transactions Intern](https://jobright.ai/jobs/info/68a66e4d758f2e4ac3fe4d05?utm_campaign=1052&utm_source=git)** | Elmsford, NY | On Site | Aug 20 |
 | **[NERA](http://www.nera.com)** | **[NERA Summer Internship (Summer 2027 Grads) (Multiple Locations)](https://jobright.ai/jobs/info/68a66d04758f2e4ac3fe4cd2?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 20 |
 | ↳ | **[NERA Summer Internship (Summer 2027 Grads) (Multiple Locations)](https://jobright.ai/jobs/info/68a66ca9758f2e4ac3fe4c8a?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Strategic Finance, Turnaround & Restructuring](https://jobright.ai/jobs/info/68a66c21b6a3617d7fa77625?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern Winter 2026](https://jobright.ai/jobs/info/68a68f95b6a3617d7fa782c7?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68e64758f2e4ac3fe5861?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
 | ↳ | **[Accounting Advisory Intern](https://jobright.ai/jobs/info/68a68cb2b6a3617d7fa77fd8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
-| ↳ | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/68a68e45b6a3617d7fa7819a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68c17758f2e4ac3fe55b4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
+| ↳ | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/68a68e45b6a3617d7fa7819a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | ↳ | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/68a68f75758f2e4ac3fe597f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68efa33dd7158bbca0b2e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | **[NERA](http://www.nera.com)** | **[NERA Summer Internship (Summer 2027 Grads) (Multiple Locations)](https://jobright.ai/jobs/info/68a68f9033dd7158bbca0bc5?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a656dbb6a3617d7fa76f4d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
 | ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68a6569333dd7158bbc9f724?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Aug 20 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a65676b6a3617d7fa76f12?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 20 |
-| **[We Energies](https://www.we-energies.com)** | **[Intern - Energy Accounting](https://jobright.ai/jobs/info/68a65436758f2e4ac3fe4490?utm_campaign=1052&utm_source=git)** | Waukesha, WI | Hybrid | Aug 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Chelsea MA](https://jobright.ai/jobs/info/68a653ec758f2e4ac3fe4456?utm_campaign=1052&utm_source=git)** | Chelsea, MA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
