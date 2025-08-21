@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/68a6fdd6758f2e4ac3fe8d9e?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
+| ↳ | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/68a6f88533dd7158bbca3d8b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 21 |
+| **[FGS Global](https://fgsglobal.com)** | **[Global Finance Intern](https://jobright.ai/jobs/info/688ac8419f961617fe21e1b0?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Aug 21 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a6eda833dd7158bbca3b3d?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 21 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/68a6e91db6a3617d7fa7b231?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Aug 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68a6e8a1b6a3617d7fa7b171?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 21 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/68a6e508758f2e4ac3fe86fc?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 21 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Accounting Internship](https://jobright.ai/jobs/info/68a6b04533dd7158bbca1da2?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Aug 20 |
 | **[Segal](https://www.segalco.com)** | **[Actuarial Internship (2026)](https://jobright.ai/jobs/info/68a6a408758f2e4ac3fe6624?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
+| **[Wall, Einhorn & Chernitzer, P.C.](http://wec-cpa.com)** | **[2026 Tax & Audit Internship](https://jobright.ai/jobs/info/689a4d1283d13d1f5b697e65?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Aug 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68a694a1b6a3617d7fa78485?utm_campaign=1052&utm_source=git)** | Dallas | On Site | Aug 20 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/68a68dd8b6a3617d7fa7811f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
 | ↳ | **[GE Vernova Finance Internship - Summer 2026](https://jobright.ai/jobs/info/68a68cb1758f2e4ac3fe5643?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Aug 20 |
@@ -128,11 +133,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68f10b6a3617d7fa78251?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68cf4b6a3617d7fa78023?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2026](https://jobright.ai/jobs/info/68a657ea33dd7158bbc9f82b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 20 |
-| ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68a657bf33dd7158bbc9f80b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | ↳ | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/68a657bf33dd7158bbc9f80d?utm_campaign=1052&utm_source=git)** | Livingston, NJ | On Site | Aug 20 |
+| ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68a657bf33dd7158bbc9f80b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a657ad758f2e4ac3fe459b?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Aug 20 |
-| ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68a657aa758f2e4ac3fe459a?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 20 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a657aa758f2e4ac3fe4599?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
+| ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68a657aa758f2e4ac3fe459a?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 20 |
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a657a7758f2e4ac3fe4595?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a657a7758f2e4ac3fe4594?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | ↳ | **[Model and Credit Risk Intern](https://jobright.ai/jobs/info/68a657a5758f2e4ac3fe4591?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68a6573c758f2e4ac3fe4530?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Aug 20 |
 | ↳ | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68a6573033dd7158bbc9f790?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Aug 20 |
 | ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/68a65726758f2e4ac3fe4518?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Aug 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a656ed758f2e4ac3fe44e5?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 20 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68a656ea758f2e4ac3fe44e1?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
-| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Actuary](https://jobright.ai/jobs/info/68a656e0758f2e4ac3fe44d5?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a656e033dd7158bbc9f74b?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Aug 20 |
-| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a656dbb6a3617d7fa76f4d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
