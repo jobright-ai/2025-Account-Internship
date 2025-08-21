@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/68a6b069b6a3617d7fa795e8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Accounting Internship](https://jobright.ai/jobs/info/68a6b04533dd7158bbca1da2?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Aug 20 |
 | **[Segal](https://www.segalco.com)** | **[Actuarial Internship (2026)](https://jobright.ai/jobs/info/68a6a408758f2e4ac3fe6624?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68a694a1b6a3617d7fa78485?utm_campaign=1052&utm_source=git)** | Dallas | On Site | Aug 20 |
@@ -126,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68f10b6a3617d7fa78251?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68cf4b6a3617d7fa78023?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Aug 20 |
 | ↳ | **[Tax Intern Winter 2026](https://jobright.ai/jobs/info/68a657ea33dd7158bbc9f82b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 20 |
-| ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68a657bf33dd7158bbc9f80b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | ↳ | **[Audit Intern Winter 2026](https://jobright.ai/jobs/info/68a657bf33dd7158bbc9f80d?utm_campaign=1052&utm_source=git)** | Livingston, NJ | On Site | Aug 20 |
+| ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68a657bf33dd7158bbc9f80b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a657ad758f2e4ac3fe459b?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Aug 20 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a657aa758f2e4ac3fe4599?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
 | ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68a657aa758f2e4ac3fe459a?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68a656dbb6a3617d7fa76f4d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
 | ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68a6569333dd7158bbc9f724?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Aug 20 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a65676b6a3617d7fa76f12?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 20 |
+| **[We Energies](https://www.we-energies.com)** | **[Intern - Energy Accounting](https://jobright.ai/jobs/info/68a65436758f2e4ac3fe4490?utm_campaign=1052&utm_source=git)** | Waukesha, WI | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
