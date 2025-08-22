@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Actuarial Intern (Omaha)](https://jobright.ai/jobs/info/68a7cf8f758f2e4ac3feea4e?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Aug 21 |
+| ↳ | **[Summer 2026 Actuarial Intern (Newport Beach)](https://jobright.ai/jobs/info/68a7cf2333dd7158bbca9bcd?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 21 |
 | **[Jamf](http://jamf.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a7c9acd627244576e2ed46?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 21 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance (IC)](https://jobright.ai/jobs/info/68a7c7acd627244576e2ec56?utm_campaign=1052&utm_source=git)** | San Jose, California | On Site | Aug 21 |
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a7c79533dd7158bbca9a1a?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 21 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Salt Lake City](https://jobright.ai/jobs/info/68a7e23933dd7158bbcaa126?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 21 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Finance Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68a7c431d627244576e2eabc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/68a7c42fd627244576e2eab7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[CBIZ](http://www.cbiz.com)** | **[Actuarial Intern - Scottsdale, AZ (Summer 2026)](https://jobright.ai/jobs/info/68a7c23533dd7158bbca975c?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Aug 21 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Norric](https://norric.ai/)** | **[Fall 2025 Internship – Private Markets Analyst (Alternative Investments)](https://jobright.ai/jobs/info/68a79d1dd627244576e2d961?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Aug 21 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2027 (Raleigh)](https://jobright.ai/jobs/info/68a79d19758f2e4ac3fed49a?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 21 |
 | ↳ | **[Assurance Intern - Winter 2027 (Charlotte)](https://jobright.ai/jobs/info/68a79d0f33dd7158bbca8586?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 21 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68a7be00758f2e4ac3fee0c4?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Aug 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68a7912033dd7158bbca83ca?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/68a790f433dd7158bbca83bb?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | ↳ | **[Federal Mergers and Acquisitions Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a7907933dd7158bbca838f?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2027 (Miami)](https://jobright.ai/jobs/info/68a78641758f2e4ac3fece3b?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 21 |
 | ↳ | **[Assurance Intern - Summer 2027 (West Palm Beach)](https://jobright.ai/jobs/info/68a7863ed627244576e2d293?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL, United States | On Site | Aug 21 |
 | ↳ | **[Core Tax Intern - Winter 2027 (Miami)](https://jobright.ai/jobs/info/68a7862e33dd7158bbca7f8d?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 21 |
-| ↳ | **[Assurance Intern - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/68a7861e758f2e4ac3fecdce?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 21 |
-| ↳ | **[Assurance Intern - Summer 2027 (Miami)](https://jobright.ai/jobs/info/68a78591758f2e4ac3fecc52?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
