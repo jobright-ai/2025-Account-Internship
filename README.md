@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance (IC)](https://jobright.ai/jobs/info/68a81c01758f2e4ac3ff0dcc?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Strategic Finance, Turnaround & Restructuring](https://jobright.ai/jobs/info/68a8173333dd7158bbcabc97?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 22 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/68a81342d627244576e30b61?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 21 |
+| **[Merchants Bank IN](http://bankmerchants.com)** | **[GSE Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/68a81310758f2e4ac3ff089c?utm_campaign=1052&utm_source=git)** | MCC-Washington D.C. | On Site | Aug 21 |
+| **[Flat Branch Home Loans](http://flatbranchhomeloans.com)** | **[Accounting Intern/Assistant](https://jobright.ai/jobs/info/68a80a6133dd7158bbcab54f?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Aug 21 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Tangible Asset Valuations - Engineering / Houston Summer 2026](https://jobright.ai/jobs/info/68a8090233dd7158bbcab3d9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
+| ↳ | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a807e1d627244576e3050b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
+| ↳ | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68a806aed627244576e303d7?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 21 |
 | **[Mass Virtual](https://massvirtual.com/)** | **[Accounting & Finance Intern (Part-Time)](https://jobright.ai/jobs/info/68a80236758f2e4ac3feff11?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Aug 21 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68a7fc8733dd7158bbcaad1b?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Healthcare Asset Management Intern - Summer 2026](https://jobright.ai/jobs/info/68a7fc3f758f2e4ac3fefb8f?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
@@ -116,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Property Tax / Atlanta Summer 2026](https://jobright.ai/jobs/info/68a7afded627244576e2e015?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | ↳ | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68a7af9cd627244576e2e001?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | ↳ | **[Tax Intern, Property Tax / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/68a7aefe33dd7158bbca8bff?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 21 |
+| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68a817bb758f2e4ac3ff0c17?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 21 |
 | ↳ | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68a7aed633dd7158bbca8bda?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 21 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7ab6ed627244576e2debe?utm_campaign=1052&utm_source=git)** | Burlington, VT | On Site | Aug 21 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f8e9d627244576e2fbc9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Core Tax Intern - Summer 2027 (Greenville)](https://jobright.ai/jobs/info/68a79d60758f2e4ac3fed4c7?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Aug 21 |
 | ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Houston)](https://jobright.ai/jobs/info/68a79d35758f2e4ac3fed4a4?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 21 |
 | **[Norric](https://norric.ai/)** | **[Fall 2025 Internship – Private Markets Analyst (Alternative Investments)](https://jobright.ai/jobs/info/68a79d1dd627244576e2d961?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Aug 21 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2027 (Raleigh)](https://jobright.ai/jobs/info/68a79d19758f2e4ac3fed49a?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 21 |
-| ↳ | **[Assurance Intern - Winter 2027 (Charlotte)](https://jobright.ai/jobs/info/68a79d0f33dd7158bbca8586?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68a7912033dd7158bbca83ca?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/68a790f433dd7158bbca83bb?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
-| ↳ | **[Federal Mergers and Acquisitions Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68a7907933dd7158bbca838f?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 21 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68a7905133dd7158bbca837e?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 21 |
-| ↳ | **[State and Local Tax - Income Franchise Intern - Winter 2026](https://jobright.ai/jobs/info/68a78fd8d627244576e2d711?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 21 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/68a78fd4d627244576e2d708?utm_campaign=1052&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Aug 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Business Intern - Winter 2026](https://jobright.ai/jobs/info/68a78fad33dd7158bbca832b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
