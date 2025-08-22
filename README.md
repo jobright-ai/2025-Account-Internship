@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Supply Chain Finance - Internship](https://jobright.ai/jobs/info/688c034a1808534a89cb7c4a?utm_campaign=1052&utm_source=git)** | Horse Cave, KY | On Site | Aug 22 |
+| ↳ | **[Finance Internal Audit Internship - Summer 2026](https://jobright.ai/jobs/info/688bb7201808534a89cb54e4?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Actuarial Internship (Summer 2026)](https://jobright.ai/jobs/info/68a83d55d627244576e320be?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Aug 22 |
+| **[Colliers](http://www.colliers.com)** | **[Brokerage Intern, Retail Investments](https://jobright.ai/jobs/info/67fdc41f416b870eee331ae9?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Aug 22 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/68a822a4d627244576e31a07?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Aug 22 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Strategic Finance, Turnaround & Restructuring](https://jobright.ai/jobs/info/68a8173333dd7158bbcabc97?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/68a81342d627244576e30b61?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Aug 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027 (Greenville)](https://jobright.ai/jobs/info/68a79d7133dd7158bbca85e4?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Aug 21 |
 | ↳ | **[Assurance Intern - Summer 2027 (Raleigh)](https://jobright.ai/jobs/info/68a79d65d627244576e2d9ac?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 21 |
 | ↳ | **[Core Tax Intern - Summer 2027 (Greenville)](https://jobright.ai/jobs/info/68a79d60758f2e4ac3fed4c7?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Aug 21 |
-| ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Houston)](https://jobright.ai/jobs/info/68a79d35758f2e4ac3fed4a4?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 21 |
-| **[Norric](https://norric.ai/)** | **[Fall 2025 Internship – Private Markets Analyst (Alternative Investments)](https://jobright.ai/jobs/info/68a79d1dd627244576e2d961?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Aug 21 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2027 (Raleigh)](https://jobright.ai/jobs/info/68a79d19758f2e4ac3fed49a?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 21 |
-| ↳ | **[Assurance Intern - Winter 2027 (Charlotte)](https://jobright.ai/jobs/info/68a79d0f33dd7158bbca8586?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
