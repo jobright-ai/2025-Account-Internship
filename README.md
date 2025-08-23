@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Audit Intern](https://jobright.ai/jobs/info/68aa1791d627244576e3c3cf?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Aug 23 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2026 / Charlotte South Park](https://jobright.ai/jobs/info/68aa14a3d627244576e3c3a6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Aug 23 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68aa1269758f2e4ac3ffc05f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Aug 23 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68aa11dc6acf96396f7298af?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Aug 23 |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Internal Auditor](https://jobright.ai/jobs/info/68aa11cc758f2e4ac3ffc028?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Aug 23 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance (IC)](https://jobright.ai/jobs/info/68aa0b0ed627244576e3c2a0?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68aa07fc6acf96396f729743?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Aug 23 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68aa049c6acf96396f729688?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Aug 23 |
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d07ca27f9022553c087a0?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Aug 23 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Accounting/Finance - Fall 2025](https://jobright.ai/jobs/info/68a9df8c758f2e4ac3ffba5b?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Aug 23 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Accounting & Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/68a9f0a36acf96396f7294b7?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 23 |
@@ -66,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Workato](http://www.workato.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/688d1eca3a30793eb9648b42?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Aug 23 |
 | ↳ | **[Intern, FP&A](https://jobright.ai/jobs/info/688d1e7527f9022553c0944c?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Aug 23 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Long Beach](https://jobright.ai/jobs/info/68a9bab96acf96396f728c10?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Aug 23 |
-| ↳ | **[2026 Staff Accountant Intern - Portland](https://jobright.ai/jobs/info/68a9baa76acf96396f728c04?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant Intern - Bellevue](https://jobright.ai/jobs/info/68a9baa76acf96396f728c03?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 23 |
+| ↳ | **[2026 Staff Accountant Intern - Portland](https://jobright.ai/jobs/info/68a9baa76acf96396f728c04?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant - Bellevue](https://jobright.ai/jobs/info/68a9ba02d627244576e3b63e?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant - Portland](https://jobright.ai/jobs/info/68a9b9c1d627244576e3b615?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant - Long Beach](https://jobright.ai/jobs/info/68a9b99f6acf96396f728b65?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Aug 23 |
@@ -83,12 +91,13 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2026 Internship - Dallas, TX](https://jobright.ai/jobs/info/68a9b1f5758f2e4ac3ffb12f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 23 |
 | **[Barclays](https://home.barclays)** | **[Risk Analyst Graduate Program 2026 New York City](https://jobright.ai/jobs/info/68a9b1b6758f2e4ac3ffb109?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[Barclays Bank US](https://barclaysus.com)** | **[Internal Audit Analyst Graduate Program 2026 Wilmington](https://jobright.ai/jobs/info/68a9b164758f2e4ac3ffb0b9?utm_campaign=1052&utm_source=git)** | Wilmington, DE | On Site | Aug 23 |
+| **[Barings](https://www.barings.com/gb/individual/funds/closed-end-funds/baring-emerging-europe-plc/GB0032273343)** | **[Barings Investment Management Summer Internship](https://jobright.ai/jobs/info/688d7e056a4aac5783cd272e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 23 |
+| **[Winsupply](http://www.winsupplyinc.com)** | **[Accounts Payable Apprenticeship](https://jobright.ai/jobs/info/685533d198e0131bb8e5ff13?utm_campaign=1052&utm_source=git)** | Moraine, OH | On Site | Aug 23 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/6871485706ad7073463c44dd?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Screen Queens Accounting - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9a8a1d627244576e3b316?utm_campaign=1052&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Finance Intern - Undergraduate](https://jobright.ai/jobs/info/68a9a4cfd627244576e3b2bd?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Aug 23 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Finance Summer Internship](https://jobright.ai/jobs/info/68a989a9758f2e4ac3ffac83?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Budget & Data Office Assistant](https://jobright.ai/jobs/info/68a983dbd627244576e3ae92?utm_campaign=1052&utm_source=git)** | Cedar City, UT | On Site | Aug 23 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Internship – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68a97c0bd627244576e3ac11?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Aug 23 |
 | **[Rhode Island Energy](http://www.rienergy.com)** | **[Summer 2026 - Accounting or Finance Intern - Rhode Island Energy](https://jobright.ai/jobs/info/68a979f86acf96396f727faf?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Aug 23 |
 | **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68a979a56acf96396f727f6f?utm_campaign=1052&utm_source=git)** | Park Ridge, IL | On Site | Aug 23 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Finance Intern - Part-Time](https://jobright.ai/jobs/info/68a96f58d627244576e3a16c?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Aug 23 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Pricing](https://jobright.ai/jobs/info/68a9140dd627244576e3764c?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Aug 22 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Tax Intern - Winter 2026 - Dover, DE](https://jobright.ai/jobs/info/68a9131fd627244576e3756a?utm_campaign=1052&utm_source=git)** | Dover, DE | On Site | Aug 22 |
 | ↳ | **[Tax Intern - Winter 2026 - Clinton, SC](https://jobright.ai/jobs/info/68a911c0d627244576e373ab?utm_campaign=1052&utm_source=git)** | Clinton, SC | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Financial Risk Management Product Summer Intern](https://jobright.ai/jobs/info/68a91179758f2e4ac3ff720a?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Accounting](https://jobright.ai/jobs/info/68a90e5cd627244576e3727d?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Model Risk Management Summer Intern](https://jobright.ai/jobs/info/68a90e3d758f2e4ac3ff6e5b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/68a90e1b6acf96396f724512?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2027 (Irving, TX)](https://jobright.ai/jobs/info/68a90e0f758f2e4ac3ff6e11?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Aug 22 |
-| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/68a90de5758f2e4ac3ff6def?utm_campaign=1052&utm_source=git)** | Sherman Oaks, CA, United States | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/68a90d70d627244576e3712a?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| ↳ | **[Quantitative Risk Management Summer Intern](https://jobright.ai/jobs/info/68a90c11d627244576e3701e?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| ↳ | **[Year-Round Intern - Stress Testing & Liquidity Risk Management](https://jobright.ai/jobs/info/68a90bb5d627244576e36fdc?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
