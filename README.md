@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stephens College](http://www.stephens.edu/)** | **[Screen Queens Accounting - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9a8a1d627244576e3b316?utm_campaign=1052&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
+| **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Finance Intern - Undergraduate](https://jobright.ai/jobs/info/68a9a4cfd627244576e3b2bd?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Aug 23 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Finance Summer Internship](https://jobright.ai/jobs/info/68a989a9758f2e4ac3ffac83?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Budget & Data Office Assistant](https://jobright.ai/jobs/info/68a983dbd627244576e3ae92?utm_campaign=1052&utm_source=git)** | Cedar City, UT | On Site | Aug 23 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Internship – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68a97c0bd627244576e3ac11?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Aug 23 |
@@ -140,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Actuary 4 (Internal Only)](https://jobright.ai/jobs/info/68a8fe1dd627244576e36c89?utm_campaign=1052&utm_source=git)** | Tumwater, WA | On Site | Aug 22 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/68a652ec33dd7158bbc9f5dd?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/68a8f56c6acf96396f723d44?utm_campaign=1052&utm_source=git)** | 15301 Ventura Blvd, Sherman Oaks, CA, 91403, US | On Site | Aug 22 |
-| **[Baird](http://www.rwbaird.com)** | **[Baird’s Women in Banking Event (Chicago, 2025)](https://jobright.ai/jobs/info/68a8f14fd627244576e36798?utm_campaign=1052&utm_source=git)** | IL-Chicago | On Site | Aug 22 |
+| **[Baird](http://www.rwbaird.com)** | **[Baird’s Women in Banking Event (Chicago, 2025)](https://jobright.ai/jobs/info/68a8f2266acf96396f723c61?utm_campaign=1052&utm_source=git)** | IL-Chicago | On Site | Aug 22 |
 | **[Silver-Line Plastics](http://www.slpipe.com)** | **[Finance Intern - Credit Risk Analyst***Analyste du risque de crédit](https://jobright.ai/jobs/info/68a8efbe758f2e4ac3ff639d?utm_campaign=1052&utm_source=git)** | CA - Pharmacy - Office | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Structured Finance](https://jobright.ai/jobs/info/68a8da3b6acf96396f723596?utm_campaign=1052&utm_source=git)** | 485 Madison Ave, New York, NY, 10022, US | On Site | Aug 22 |
 | ↳ | **[Intern - Fixed Income Capital Markets](https://jobright.ai/jobs/info/68a8daad6acf96396f7235b8?utm_campaign=1052&utm_source=git)** | 5350 Poplar Avenue, Memphis, TN, 38119, US | On Site | Aug 22 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Model Risk Management Summer Intern](https://jobright.ai/jobs/info/68a8e4c3758f2e4ac3ff6166?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Internal Audit Business and Risk Summer Intern](https://jobright.ai/jobs/info/68a8e49d758f2e4ac3ff6146?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Financial Risk Management Product Summer Intern](https://jobright.ai/jobs/info/68a8e4566acf96396f7239a3?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
-| **[Silver-Line Plastics](http://www.slpipe.com)** | **[Finance Intern, Credit Administrator***Stagiaire Finance, administrateur(rice) de credit](https://jobright.ai/jobs/info/68a8e4516acf96396f72399e?utm_campaign=1052&utm_source=git)** | CA - Pharmacy - Office | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/68a8e432d627244576e36553?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
-| ↳ | **[Internal Audit IT and Security Summer Intern](https://jobright.ai/jobs/info/68a8e3f26acf96396f72396b?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| ↳ | **[Accounting Summer Intern](https://jobright.ai/jobs/info/68a8e432d627244576e36553?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
+| **[Silver-Line Plastics](http://www.slpipe.com)** | **[Finance Intern, Credit Administrator***Stagiaire Finance, administrateur(rice) de credit](https://jobright.ai/jobs/info/68a8e4186acf96396f723983?utm_campaign=1052&utm_source=git)** | CA - Pharmacy - Office | On Site | Aug 22 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Internal Audit IT and Security Summer Intern](https://jobright.ai/jobs/info/68a8e3f26acf96396f72396b?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Quantitative Risk Management Summer Intern](https://jobright.ai/jobs/info/68a8e3c86acf96396f723942?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
-| ↳ | **[Internal Audit Business and Risk Summer Intern](https://jobright.ai/jobs/info/68a8e39f6acf96396f723923?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Middle Market Business Excess Underwriting Summer Intern](https://jobright.ai/jobs/info/68a8e358d627244576e364fe?utm_campaign=1052&utm_source=git)** | Chicago, IL United States of America | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
