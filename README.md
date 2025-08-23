@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIH](https://www.truistinsurance.com/)** | **[2026 Finance Summer Internship](https://jobright.ai/jobs/info/68a989a9758f2e4ac3ffac83?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Budget & Data Office Assistant](https://jobright.ai/jobs/info/68a983dbd627244576e3ae92?utm_campaign=1052&utm_source=git)** | Cedar City, UT | On Site | Aug 23 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Internship – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68a97c0bd627244576e3ac11?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Aug 23 |
+| **[Rhode Island Energy](http://www.rienergy.com)** | **[Summer 2026 - Accounting or Finance Intern - Rhode Island Energy](https://jobright.ai/jobs/info/68a979f86acf96396f727faf?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Aug 23 |
+| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68a979a56acf96396f727f6f?utm_campaign=1052&utm_source=git)** | Park Ridge, IL | On Site | Aug 23 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Finance Intern - Part-Time](https://jobright.ai/jobs/info/68a96f58d627244576e3a16c?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Aug 23 |
 | **[ABB](https://global.abb/group/en)** | **[Intern Treasury Technology](https://jobright.ai/jobs/info/68a9696c6acf96396f726e22?utm_campaign=1052&utm_source=git)** | Location, WV | On Site | Aug 23 |
-| **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Intern_Retail Operations Analyst (Cash)](https://jobright.ai/jobs/info/68a95dc5758f2e4ac3ff91be?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 22 |
+| **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Intern_Finance Operations and Compliance](https://jobright.ai/jobs/info/68a97eecd627244576e3acdf?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
+| ↳ | **[Intern_Retail Operations Analyst (Cash)](https://jobright.ai/jobs/info/68a95dc5758f2e4ac3ff91be?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 22 |
 | **[University of Utah](http://utah.edu)** | **[Associate Accountant Intern](https://jobright.ai/jobs/info/68a95909d627244576e3920d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68a93960d627244576e38597?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Aug 22 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Accounting and CFO Advisory Internship - Summer 2026 - San Francisco, San Jose, or San Diego](https://jobright.ai/jobs/info/68a92dd0758f2e4ac3ff7cf1?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 22 |
@@ -134,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Actuary 4 (Internal Only)](https://jobright.ai/jobs/info/68a8fe1dd627244576e36c89?utm_campaign=1052&utm_source=git)** | Tumwater, WA | On Site | Aug 22 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/68a652ec33dd7158bbc9f5dd?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/68a8f56c6acf96396f723d44?utm_campaign=1052&utm_source=git)** | 15301 Ventura Blvd, Sherman Oaks, CA, 91403, US | On Site | Aug 22 |
-| **[Silver-Line Plastics](http://www.slpipe.com)** | **[Finance Intern - Credit Risk Analyst***Analyste du risque de crédit](https://jobright.ai/jobs/info/68a8f1f1d627244576e3680b?utm_campaign=1052&utm_source=git)** | CA - Pharmacy - Office | On Site | Aug 22 |
 | **[Baird](http://www.rwbaird.com)** | **[Baird’s Women in Banking Event (Chicago, 2025)](https://jobright.ai/jobs/info/68a8f14fd627244576e36798?utm_campaign=1052&utm_source=git)** | IL-Chicago | On Site | Aug 22 |
+| **[Silver-Line Plastics](http://www.slpipe.com)** | **[Finance Intern - Credit Risk Analyst***Analyste du risque de crédit](https://jobright.ai/jobs/info/68a8efbe758f2e4ac3ff639d?utm_campaign=1052&utm_source=git)** | CA - Pharmacy - Office | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Structured Finance](https://jobright.ai/jobs/info/68a8da3b6acf96396f723596?utm_campaign=1052&utm_source=git)** | 485 Madison Ave, New York, NY, 10022, US | On Site | Aug 22 |
 | ↳ | **[Intern - Fixed Income Capital Markets](https://jobright.ai/jobs/info/68a8daad6acf96396f7235b8?utm_campaign=1052&utm_source=git)** | 5350 Poplar Avenue, Memphis, TN, 38119, US | On Site | Aug 22 |
 | ↳ | **[Public Finance Intern](https://jobright.ai/jobs/info/68a8d98e758f2e4ac3ff5e21?utm_campaign=1052&utm_source=git)** | 1 S. Wacker Dr., Chicago, IL, 60606, US | On Site | Aug 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Risk Management Summer Intern](https://jobright.ai/jobs/info/68a8e3c86acf96396f723942?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Internal Audit Business and Risk Summer Intern](https://jobright.ai/jobs/info/68a8e39f6acf96396f723923?utm_campaign=1052&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Middle Market Business Excess Underwriting Summer Intern](https://jobright.ai/jobs/info/68a8e358d627244576e364fe?utm_campaign=1052&utm_source=git)** | Chicago, IL United States of America | Hybrid | Aug 22 |
-| ↳ | **[Middle Market Umbrella & Excess Underwriting Summer Intern](https://jobright.ai/jobs/info/68a8e338d627244576e364f0?utm_campaign=1052&utm_source=git)** | Alpharetta, GA United States of America | Hybrid | Aug 22 |
-| ↳ | **[Middle Market Umbrella & Excess Underwriting Summer Intern](https://jobright.ai/jobs/info/68a8e325d627244576e364e9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA United States of America | Hybrid | Aug 22 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[2026 Accounting & Finance Summer Internship](https://jobright.ai/jobs/info/68a8e16ed627244576e364a4?utm_campaign=1052&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
-| **[Legacy Risk Solutions](https://legacyrisksolutions.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/68a9212d758f2e4ac3ff782e?utm_campaign=1052&utm_source=git)** | Gainesville, GA | On Site | Aug 22 |
-| **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Internship - Investments (ETF)](https://jobright.ai/jobs/info/68a8de026acf96396f723722?utm_campaign=1052&utm_source=git)** | Downers Grove, Illinois | Hybrid | Aug 22 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/68a8d9fbd627244576e36088?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
