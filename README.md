@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68aa11dc6acf96396f7298af?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Aug 23 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Internal Auditor](https://jobright.ai/jobs/info/68aa11cc758f2e4ac3ffc028?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Aug 23 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance (IC)](https://jobright.ai/jobs/info/68aa0b0ed627244576e3c2a0?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68aa07fc6acf96396f729743?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Aug 23 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68aa049c6acf96396f729688?utm_campaign=1052&utm_source=git)** | Salisbury, MD | On Site | Aug 23 |
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d07ca27f9022553c087a0?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Aug 23 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Accounting/Finance - Fall 2025](https://jobright.ai/jobs/info/68a9df8c758f2e4ac3ffba5b?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Aug 23 |
@@ -79,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, FP&A](https://jobright.ai/jobs/info/688d1e7527f9022553c0944c?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Aug 23 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Real Estate Investment Summer Analyst](https://jobright.ai/jobs/info/688d24651808534a89cc13c3?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Aug 23 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Long Beach](https://jobright.ai/jobs/info/68a9bab96acf96396f728c10?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Aug 23 |
-| ↳ | **[2026 Staff Accountant Intern - Portland](https://jobright.ai/jobs/info/68a9baa76acf96396f728c04?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant Intern - Bellevue](https://jobright.ai/jobs/info/68a9baa76acf96396f728c03?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 23 |
+| ↳ | **[2026 Staff Accountant Intern - Portland](https://jobright.ai/jobs/info/68a9baa76acf96396f728c04?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant - Bellevue](https://jobright.ai/jobs/info/68a9ba02d627244576e3b63e?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant - Portland](https://jobright.ai/jobs/info/68a9b9c1d627244576e3b615?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Aug 23 |
 | ↳ | **[2026 Staff Accountant - Long Beach](https://jobright.ai/jobs/info/68a9b99f6acf96396f728b65?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Aug 23 |
@@ -115,8 +114,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern_Retail Operations Analyst (Cash)](https://jobright.ai/jobs/info/68a95dc5758f2e4ac3ff91be?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Aug 22 |
 | **[University of Utah](http://utah.edu)** | **[Associate Accountant Intern](https://jobright.ai/jobs/info/68a95909d627244576e3920d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68a93960d627244576e38597?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Aug 22 |
+| **[Baird](http://www.rwbaird.com)** | **[Baird’s Women in Banking Event (Chicago, 2025)](https://jobright.ai/jobs/info/68aa8d92d627244576e3d762?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Accounting and CFO Advisory Internship - Summer 2026 - San Francisco, San Jose, or San Diego](https://jobright.ai/jobs/info/68a92dd0758f2e4ac3ff7cf1?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 22 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/68a92ac8d627244576e38010?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 22 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Business Intern - Summer 2026](https://jobright.ai/jobs/info/68aa7dc36acf96396f72a437?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Accounting and CFO Advisory Internship - Summer 2026 - San Francisco, San Jose, or San Diego](https://jobright.ai/jobs/info/68a9263d6acf96396f7250a5?utm_campaign=1052&utm_source=git)** |  US-CA-San Jose  | On Site | Aug 22 |
 | ↳ | **[Accounting and CFO Advisory Internship - Summer 2026 - San Francisco, San Jose, or San Diego](https://jobright.ai/jobs/info/68a925d4d627244576e37e7c?utm_campaign=1052&utm_source=git)** |  US-CA-San Diego | On Site | Aug 22 |
 | **[Career Launch AI](https://www.careerlaunch.ai/)** | **[MBA Intern](https://jobright.ai/jobs/info/68a94522758f2e4ac3ff85a3?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Associate Outsourced Accounting Services Winter 2025 / Joplin](https://jobright.ai/jobs/info/68a933b46acf96396f725783?utm_campaign=1052&utm_source=git)** | Joplin, MO | Hybrid | Aug 22 |
 | ↳ | **[Associate Audit Summer 2026 / Tampa](https://jobright.ai/jobs/info/68a934f56acf96396f7258b9?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Aug 22 |
 | ↳ | **[Associate Tax Fall 2026 / Greensboro](https://jobright.ai/jobs/info/68a93482d627244576e3836b?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Hybrid | Aug 22 |
-| ↳ | **[Associate Audit Fall 2026 / Greensboro](https://jobright.ai/jobs/info/68a935456acf96396f72590c?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
