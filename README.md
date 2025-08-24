@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DeFi NFT Coins](http://www.definftcoins.com)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68aa6d796acf96396f72a17e?utm_campaign=1052&utm_source=git)** | Hartford County, CT | Remote | Aug 23 |
 | **[TruStage](https://www.trustage.com/)** | **[Actuarial Internship (Hybrid)](https://jobright.ai/jobs/info/68aa5735d627244576e3c9d9?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Aug 23 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68aa3b46d627244576e3c8ea?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Aug 23 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Audit Intern](https://jobright.ai/jobs/info/68aa1791d627244576e3c3cf?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Aug 23 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2026)](https://jobright.ai/jobs/info/688d07ca27f9022553c087a0?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Aug 23 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Accounting/Finance - Fall 2025](https://jobright.ai/jobs/info/68a9df8c758f2e4ac3ffba5b?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Aug 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/6870188a01cc0956e7e7f326?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 23 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Accounting & Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/68a9f0a36acf96396f7294b7?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Aug 23 |
 | **[Siemens](https://www.siemens.com/)** | **[Finance Leadership Development Program Internship](https://jobright.ai/jobs/info/68a9cb736acf96396f728f21?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
 | ↳ | **[Finance Leadership Development Program Internship](https://jobright.ai/jobs/info/68a9caab6acf96396f728e8c?utm_campaign=1052&utm_source=git)** | Iselin, NJ | On Site | Aug 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Fall 2025 - Jacksonville FL](https://jobright.ai/jobs/info/6870d76c01cc0956e7e85f4f?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Aug 23 |
