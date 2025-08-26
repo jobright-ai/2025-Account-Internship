@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Utah)](https://jobright.ai/jobs/info/68adbc08daf1431824c9daf0?utm_campaign=1052&utm_source=git)** | SLC Metro Area | On Site | Aug 26 |
+| ↳ | **[Assurance Intern (Utah)](https://jobright.ai/jobs/info/689115cef5ee707a15dbbf6c?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[KPMG Scholar Intern – Professional Services Rotation](https://jobright.ai/jobs/info/68adb103daf1431824c9d82d?utm_campaign=1052&utm_source=git)** | Stanford, CA | Remote | Aug 26 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Financial Management Summer Internship Program](https://jobright.ai/jobs/info/689addc3faa4e875e825d3d0?utm_campaign=1052&utm_source=git)** | Greater Houston | Hybrid | Aug 26 |
 | **[PwC](http://pwc.com)** | **[Tax Korean Business Network (KBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68ad9ea7d627244576e4e266?utm_campaign=1052&utm_source=git)** | CA-Los Angeles | On Site | Aug 26 |
 | ↳ | **[Tax Chinese Business Network (CBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68ad9ea7d627244576e4e265?utm_campaign=1052&utm_source=git)** | CA-Los Angeles | On Site | Aug 26 |
@@ -65,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2027- Destination CPA](https://jobright.ai/jobs/info/68ad9e92daf1431824c9d4a5?utm_campaign=1052&utm_source=git)** | CA-San Francisco | On Site | Aug 26 |
 | ↳ | **[Audit Korean Business Network (KBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68ad9e91daf1431824c9d4a3?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Aug 26 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Winter 2026](https://jobright.ai/jobs/info/68ad9e89d627244576e4e256?utm_campaign=1052&utm_source=git)** | MI-Detroit | On Site | Aug 26 |
-| ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2027- Destination CPA](https://jobright.ai/jobs/info/68ad9e7fd627244576e4e250?utm_campaign=1052&utm_source=git)** | CA-Los Angeles | On Site | Aug 26 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Winter 2026](https://jobright.ai/jobs/info/68ad9e7fdaf1431824c9d49b?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Aug 26 |
+| ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2027- Destination CPA](https://jobright.ai/jobs/info/68ad9e7fd627244576e4e250?utm_campaign=1052&utm_source=git)** | CA-Los Angeles | On Site | Aug 26 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2027- Destination CPA](https://jobright.ai/jobs/info/68ad9e7adaf1431824c9d497?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Aug 26 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68ad9e75758f2e4ac300dd6b?utm_campaign=1052&utm_source=git)** | CA-San Francisco | On Site | Aug 26 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Winter 2027- Destination CPA](https://jobright.ai/jobs/info/68ad9e72d627244576e4e246?utm_campaign=1052&utm_source=git)** | MI-Detroit | On Site | Aug 26 |
@@ -81,7 +84,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Chinese Business Network (CBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68ad9e3cdaf1431824c9d480?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Aug 26 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68ad9e3b758f2e4ac300dd55?utm_campaign=1052&utm_source=git)** | IL-Rosemont | On Site | Aug 26 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Financial Management Summer Internship Program](https://jobright.ai/jobs/info/689ab85b5574fd6bc0c855f0?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 26 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Finance Co-op](https://jobright.ai/jobs/info/68adb05b758f2e4ac300e0d4?utm_campaign=1052&utm_source=git)** | Carol Stream, IL | On Site | Aug 26 |
 | **[CareBridge](https://www.carebridgehealth.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/68ad86d8758f2e4ac300dae6?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 26 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Accounting Intern (CPA Pathway, Rotational Program)](https://jobright.ai/jobs/info/68adab70d627244576e4e416?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Aug 26 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Financial Advisors](https://jobright.ai/jobs/info/68ad99b9758f2e4ac300dce1?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Aug 26 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Raleigh](https://jobright.ai/jobs/info/68ad70aedaf1431824c9cf06?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Aug 26 |
 | **[Water Replenishment District](https://www.wrd.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ad6fc0758f2e4ac300d757?utm_campaign=1052&utm_source=git)** | Lakewood, CA | On Site | Aug 26 |
@@ -142,9 +147,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Spring 2027](https://jobright.ai/jobs/info/68ad70b6daf1431824c9cf0c?utm_campaign=1052&utm_source=git)** | Williamsville, NY | Hybrid | Aug 25 |
 | ↳ | **[Tax Intern, Summer 2027](https://jobright.ai/jobs/info/68ad7a54d627244576e4ddf3?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 25 |
 | ↳ | **[Tax Intern, Spring 2027](https://jobright.ai/jobs/info/68ad8040d627244576e4def5?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 25 |
-| ↳ | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/68ad7c89daf1431824c9d115?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Aug 25 |
-| ↳ | **[Assurance Intern, Spring 2027](https://jobright.ai/jobs/info/68ad6ee1daf1431824c9ce69?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 25 |
 | ↳ | **[Tax Intern, Summer 2027](https://jobright.ai/jobs/info/68ad8198758f2e4ac300da66?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Aug 25 |
+| ↳ | **[Assurance Intern, Spring 2027](https://jobright.ai/jobs/info/68ad6ee1daf1431824c9ce69?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 25 |
+| ↳ | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/68ad7c89daf1431824c9d115?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Aug 25 |
 | ↳ | **[Assurance Intern, Spring 2027](https://jobright.ai/jobs/info/68ad70f1758f2e4ac300d7c3?utm_campaign=1052&utm_source=git)** | Williamsville, NY | Hybrid | Aug 25 |
 | ↳ | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/68ad79efd627244576e4ddd0?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 25 |
 | ↳ | **[Tax Intern, Spring 2027](https://jobright.ai/jobs/info/68ad7603758f2e4ac300d856?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern, Spring 2027](https://jobright.ai/jobs/info/68ad7b19daf1431824c9d0b3?utm_campaign=1052&utm_source=git)** | Towson, MD | Hybrid | Aug 25 |
 | ↳ | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/68ad871c758f2e4ac300dafa?utm_campaign=1052&utm_source=git)** | Towson, MD | Hybrid | Aug 25 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ad4aaa758f2e4ac300c8fb?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
-| **[Century 21 Advantage Gold](http://c21ag.com)** | **[UVM GSB Accounting Co-op](https://jobright.ai/jobs/info/68ad44e5daf1431824c9bed3?utm_campaign=1052&utm_source=git)** | South Burlington, VT | On Site | Aug 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Tax Intern (Fall-Winter 2025-26 School Year)](https://jobright.ai/jobs/info/68ad42efd627244576e4c76a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
-| ↳ | **[Data Analytics Intern, Internal Audit (2025-2026 School Year)](https://jobright.ai/jobs/info/68ad4259758f2e4ac300c47a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
-| **[Century 21 Advantage Gold](http://c21ag.com)** | **[Accounting Intern - Busy Season 2026](https://jobright.ai/jobs/info/68ad424cdaf1431824c9bb8c?utm_campaign=1052&utm_source=git)** | South Burlington, VT | On Site | Aug 25 |
-| ↳ | **[UVM GSB Tax Co-op](https://jobright.ai/jobs/info/68ad40e5758f2e4ac300c2a3?utm_campaign=1052&utm_source=git)** | South Burlington, VT | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
