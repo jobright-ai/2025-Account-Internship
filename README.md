@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68b026f513563e782a9f3aca?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| **[PwC Singapore](http://www.pwc.com/sg)** | **[Summer Internship - Actuarial Services - 2026](https://jobright.ai/jobs/info/68b0169c13563e782a9f3703?utm_campaign=1052&utm_source=git)** | Douglas, GA | On Site | Aug 28 |
+| ↳ | **[Internship in Audit - Academic Year 2025 - 2026](https://jobright.ai/jobs/info/68b014a6e723db6c9b7b5c00?utm_campaign=1052&utm_source=git)** | Ghent, ME | On Site | Aug 28 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Accounting Intern Temp](https://jobright.ai/jobs/info/68b00ee0b47fb001d688f6bd?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Aug 28 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Disputes & Economics (Healthcare and Life Sciences)](https://jobright.ai/jobs/info/68b00dff13563e782a9f348a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Press of Kansas Business Intern](https://jobright.ai/jobs/info/68b00a8c13563e782a9f342d?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
+| **[PwC Singapore](http://www.pwc.com/sg)** | **[School Internship in the Tax and Legal Department (2025-2026)](https://jobright.ai/jobs/info/68b00a78b47fb001d688f5ea?utm_campaign=1052&utm_source=git)** | Ghent, ME | On Site | Aug 28 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026 / Dallas](https://jobright.ai/jobs/info/68b009d8e723db6c9b7b5a1c?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
-| **[The Pasha Group](http://www.pashagroup.com)** | **[Intern - GL Accounting](https://jobright.ai/jobs/info/68b0099413563e782a9f33cd?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Aug 28 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026 / Wichita](https://jobright.ai/jobs/info/68b007b613563e782a9f329c?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 28 |
+| ↳ | **[Associate Tax Summer 2026 / Wichita](https://jobright.ai/jobs/info/68b007b613563e782a9f329c?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 28 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/68b003f713563e782a9f2f73?utm_campaign=1052&utm_source=git)** | Columbia City, IN | On Site | Aug 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, D&E Valuation & Transaction Disputes (Forensic Accounting)](https://jobright.ai/jobs/info/68b0024613563e782a9f2ec0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | ↳ | **[University Intern, Disputes & Economics (Healthcare and Life Sciences)](https://jobright.ai/jobs/info/68affefce723db6c9b7b5490?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 28 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/68aff8bee723db6c9b7b503f?utm_campaign=1052&utm_source=git)** | Pittsboro, IN | On Site | Aug 27 |
 | **[Belden Inc.](http://belden.com)** | **[FINANCE INTERN](https://jobright.ai/jobs/info/68aff89cb47fb001d688eb72?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Aug 27 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Disputes & Economics (Financial Services Disputes)](https://jobright.ai/jobs/info/68aff892b47fb001d688eb66?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 27 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Accounting & Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/68b00f91b47fb001d688f6f7?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | On Site | Aug 27 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern- IT Audit (Auditing Department)](https://jobright.ai/jobs/info/68afe0ece723db6c9b7b4894?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 27 |
 | **[TKC Holdings, Inc.](https://www.tkcholdings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68b0031713563e782a9f2f0f?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Aug 27 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Finance Content Intern](https://jobright.ai/jobs/info/68afdc3113563e782a9f1f29?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Aug 27 |
@@ -82,9 +89,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Treasury Risk Intern](https://jobright.ai/jobs/info/68afcfe6b47fb001d688d92c?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Commercial Credit/Banking Intern](https://jobright.ai/jobs/info/68afcf2913563e782a9f15bd?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Commercial Credit/Banking Intern](https://jobright.ai/jobs/info/68afce9513563e782a9f14b1?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
+| ↳ | **[Summer 2026 Loan Review Intern](https://jobright.ai/jobs/info/68afce29e723db6c9b7b3ae1?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Commercial Credit/Banking Intern - Specialty Finance](https://jobright.ai/jobs/info/68afce1de723db6c9b7b3ac7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Treasury Management Intern](https://jobright.ai/jobs/info/68afcde9b47fb001d688d588?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
-| ↳ | **[Summer 2026 Loan Review Intern](https://jobright.ai/jobs/info/68afcd76e723db6c9b7b399e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Commercial Credit/Banking Intern - Investment Real Estate](https://jobright.ai/jobs/info/68afccfcb47fb001d688d3e3?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[Comerica Bank](https://www.comerica.com/)** | **[Commercial Banking Intern Los Angeles, CA](https://jobright.ai/jobs/info/68afc983b47fb001d688d340?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Actuarial 2026 Summer Internship](https://jobright.ai/jobs/info/68afc89213563e782a9f1038?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Aug 27 |
@@ -118,8 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Internal Audit](https://jobright.ai/jobs/info/68afae74f20641371441f84c?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | On Site | Aug 27 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68afae1cf20641371441f7f2?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Aug 27 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Client Tax Intern](https://jobright.ai/jobs/info/68afad1fa15ec449cbb1c245?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[Ankura](https://ankura.com)** | **[University Intern, Construction, Disputes & Advisory](https://jobright.ai/jobs/info/68afcd3fe723db6c9b7b3948?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 27 |
-| ↳ | **[University Intern, Disputes & Economics (Competition & Class Action)](https://jobright.ai/jobs/info/68afcf5713563e782a9f15ec?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Disputes & Economics (Competition & Class Action)](https://jobright.ai/jobs/info/68afcf5713563e782a9f15ec?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68afcf79b47fb001d688d855?utm_campaign=1052&utm_source=git)** | Evansville, IN | On Site | Aug 27 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[ETF Specialist – Development Team (FWS/NFWS)](https://jobright.ai/jobs/info/68afa9b02daaba398441fbef?utm_campaign=1052&utm_source=git)** | AZ Phoenix | On Site | Aug 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Financial Analyst](https://jobright.ai/jobs/info/68afa97e1f0a2a568a063252?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68af92b4962903596357da7e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 27 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Tax & Internal Audit](https://jobright.ai/jobs/info/68af8e821f0a2a568a0628e1?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Aug 27 |
 | **[TD](https://www.td.com)** | **[TD Securities 2026 Summer Analyst Program - Investment Banking, Healthcare (New York)](https://jobright.ai/jobs/info/68af8df72daaba398441f159?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Audit Internship - Spring 2027](https://jobright.ai/jobs/info/68afad714e6a6a711484e9e1?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Aug 27 |
-| **[GuideWell Source](https://www.guidewellsource.com/)** | **[Actuarial 2026 Summer Internship](https://jobright.ai/jobs/info/68af8a6e962903596357d876?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 27 |
-| **[Florida Blue](https://www.floridablue.com)** | **[Actuarial 2026 Summer Internship](https://jobright.ai/jobs/info/68af87e42daaba398441eecd?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 27 |
-| **[Honeywell](http://www.honeywell.com)** | **[Future Finance Leaders Program - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68af86ed2daaba398441ee36?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 27 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern- IT Audit (Auditing Department)](https://jobright.ai/jobs/info/68af86c92daaba398441ee2d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/68af7dda962903596357d382?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
