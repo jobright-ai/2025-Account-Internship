@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NiSource](https://www.nisource.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68b191361ade4306aa63087e?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
+| **[Savant Wealth Management](https://savantwealth.com/)** | **[Tax Intern - Winter 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/68b1880cf4e41a61efd7e2f2?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 29 |
+| **[Equify Financial, LLC](https://www.equifyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/68952f748c6d6b4426777ea2?utm_campaign=1052&utm_source=git)** | DFW Metroplex | On Site | Aug 29 |
 | **[Molex](http://www.molex.com)** | **[Molex Automotive & Transportation Finance Internship- Summer 2026](https://jobright.ai/jobs/info/68b1619d04557a6c207bd462?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Aug 29 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Underwriting Internship](https://jobright.ai/jobs/info/68b1615104557a6c207bd41d?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Fall 2025 Accounting Intern - Cincinnati, OH](https://jobright.ai/jobs/info/68b15f32e815524ae11fe739?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 29 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68b14691e815524ae11fd2d8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Aug 28 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Public Investments – Quantitative Analyst Internship (undergraduate-level)](https://jobright.ai/jobs/info/68b145a56fab621da7b0be59?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68b1450ce815524ae11fd0f8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Aug 28 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Disputes & Economics (Financial Services Advisory)](https://jobright.ai/jobs/info/68b181d7f4e41a61efd7e164?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[MSIM- Portfolio Solutions- Quant Generalist- Intern](https://jobright.ai/jobs/info/68a6c80733dd7158bbca3191?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ACCOUNTANT TRAINEE](https://jobright.ai/jobs/info/68b1412004557a6c207bbc75?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Aug 28 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Finance Intern](https://jobright.ai/jobs/info/68b160606fab621da7b0d445?utm_campaign=1052&utm_source=git)** | Minnesota, United States | On Site | Aug 28 |
@@ -124,8 +128,10 @@ For a complete list, click the following sortable link below:
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Audit Intern - Spring 2026](https://jobright.ai/jobs/info/68b0fdd66fab621da7b09536?utm_campaign=1052&utm_source=git)** | Tulsa Office | On Site | Aug 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Underwriting Associate - Dallas or Atlanta (Summer 2026)](https://jobright.ai/jobs/info/68b11c2e04557a6c207b9fdf?utm_campaign=1052&utm_source=git)** | Addison, TX | Hybrid | Aug 28 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Corporate Finance/Accounting Intern](https://jobright.ai/jobs/info/68b0fbc404557a6c207b9245?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 28 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Accounting Intern (CPA Pathway, Rotational Program)](https://jobright.ai/jobs/info/68b18004f4e41a61efd7e04a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Aug 28 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Spring & Summer 2027](https://jobright.ai/jobs/info/68b0fb21e815524ae11fa561?utm_campaign=1052&utm_source=git)** | Tulsa/Frisco | Hybrid | Aug 28 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b0fb0fe815524ae11fa54f?utm_campaign=1052&utm_source=git)** | South Portland, ME | On Site | Aug 28 |
+| **[Southwest Airline Career Page](http://www.southwest.com)** | **[Internal Auditor (IT)](https://jobright.ai/jobs/info/68b17bb11ade4306aa6302ec?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring & Summer 2027](https://jobright.ai/jobs/info/68b0f92c04557a6c207b8fa0?utm_campaign=1052&utm_source=git)** | Tulsa/Frisco | On Site | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68b0f88b04557a6c207b8f23?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Underwriting Associate - Los Angeles, CA (Summer 2026)](https://jobright.ai/jobs/info/68b0f84004557a6c207b8ee5?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
@@ -141,20 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Analytics Modelling](https://jobright.ai/jobs/info/68b0ebbeb47fb001d6896708?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | ↳ | **[2026 Summer MBA Associate, Investments](https://jobright.ai/jobs/info/68b0ebba13563e782a9fa5d3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68b0eb37b47fb001d68966bb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
+| ↳ | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68b17b431ade4306aa6302c0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Underwriting Associate - Los Angeles, CA (Summer 2026)](https://jobright.ai/jobs/info/68b129ace815524ae11fba9a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b0e97b13563e782a9fa448?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 28 |
-| ↳ | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68b0e782b47fb001d68963c7?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Aug 28 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit IT Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b181c21ade4306aa63047e?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Aug 28 |
+| ↳ | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b0e97b13563e782a9fa448?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Aug 28 |
+| **[South Shore Health](https://www.southshorehealth.org/)** | **[General Accounting College Intern](https://jobright.ai/jobs/info/68b0e88413563e782a9fa332?utm_campaign=1052&utm_source=git)** | Weymouth, MA | On Site | Aug 28 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68b0e782b47fb001d68963c7?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Aug 28 |
 | ↳ | **[Complex Financial Instruments Associate - Summer 2026](https://jobright.ai/jobs/info/68b0e6e2b47fb001d689630d?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Associate - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/68b0e4042d46f6396cae9388?utm_campaign=1052&utm_source=git)** | 626 Washington Pl, Pittsburgh, PA, 15219, US | On Site | Aug 28 |
 | **[American Bureau of Shipping (ABS)](http://ww2.eagle.org)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/68b0e33213563e782a9fa011?utm_campaign=1052&utm_source=git)** | 1701 City Plaza Drive, Spring, TX, 77389, US | On Site | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b0fdbe04557a6c207b9456?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 28 |
-| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68b0fb9704557a6c207b9217?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Aug 28 |
-| ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68b0ff0504557a6c207b95b4?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 28 |
-| ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/68b0fd2b04557a6c207b93ae?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
-| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68b0fd4a04557a6c207b93cf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
-| ↳ | **[Audit IT Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b0fed904557a6c207b957d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Aug 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68b0dd4713563e782a9f9e35?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Aug 28 |
-| **[Republic Airways](http://www.rjet.com)** | **[LIFT Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68b0dbcdb47fb001d6895f73?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68b0db12b47fb001d6895f0a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
-| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Investments](https://jobright.ai/jobs/info/68b0fd4204557a6c207b93ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
