@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Purchasing Internship](https://jobright.ai/jobs/info/68b29eb31ade4306aa63914e?utm_campaign=1052&utm_source=git)** | Location, WV | On Site | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Functional Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68b29d011ade4306aa638f21?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Capital Markets Group Analyst](https://jobright.ai/jobs/info/68b29708bc187f64e1bddac7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Pricing and Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68b289cbf4e41a61efd8605d?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
 | **[Nichols Cauley](https://nicholscauley.com)** | **[Spring 2027 Audit Intern (Peachtree City, GA)](https://jobright.ai/jobs/info/68b284a1bc187f64e1bdc8db?utm_campaign=1052&utm_source=git)** | Peachtree City, GA | On Site | Aug 29 |
 | **[AT&T](https://www.att.com/)** | **[Senior Associate FLDP Financial Analysis - Internship](https://jobright.ai/jobs/info/68b2848fbc187f64e1bdc8b9?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 29 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[IT Audit Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/68b2671bbc187f64e1bdaed1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 29 |
 | **[Pinion](https://www.pinionglobal.com)** | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b267051ade4306aa635ff6?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | Aug 29 |
 | ↳ | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b266f3bc187f64e1bdae96?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 PE-Primaries Investments Summer Intern](https://jobright.ai/jobs/info/68b262911ade4306aa635eda?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Santander](https://www.santander.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/68b25d411ade4306aa635d32?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/68b25ce3f4e41a61efd83a0f?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Aug 29 |
 | **[B. Riley Financial](http://www.brileyfin.com)** | **[GlassRatner: Financial Advisory Internship](https://jobright.ai/jobs/info/68b25ce1f4e41a61efd83a0d?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Aug 29 |
@@ -140,21 +142,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Trading Analyst, US](https://jobright.ai/jobs/info/68b22a801ade4306aa634aac?utm_campaign=1052&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | **[MetLife](http://www.metlife.com)** | **[2026 Public Fixed Income Summer Analyst](https://jobright.ai/jobs/info/68b23be1f4e41a61efd82eec?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Aug 29 |
 | ↳ | **[Actuarial Intern](https://jobright.ai/jobs/info/68b23bcc1ade4306aa63519e?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Aug 29 |
+| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Client Accounting + Advisory Services Intern](https://jobright.ai/jobs/info/68b23bc31ade4306aa635197?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Aug 29 |
 | **[Barclays](https://home.barclays)** | **[Quantitative Finance Associate Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/68b23b971ade4306aa63516d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | ↳ | **[Quantitative Finance Analyst Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/68b23b73f4e41a61efd82e94?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[MetLife](http://www.metlife.com)** | **[2026 Real Estate Summer Analyst](https://jobright.ai/jobs/info/68b23b561ade4306aa635125?utm_campaign=1052&utm_source=git)** | Whippany, NJ | Hybrid | Aug 29 |
 | **[Thrivent](https://www.thrivent.com)** | **[Credit Research MBA/Graduate Internship – Investment Grade & High Yield - Summer 2026](https://jobright.ai/jobs/info/68b23b00f4e41a61efd82e1e?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b23a8ff4e41a61efd82da0?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
+| ↳ | **[Financial Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68b239f2f4e41a61efd82d11?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Finance Intern – Spring 2026](https://jobright.ai/jobs/info/68b238d5bc187f64e1bd9f07?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – Private Strategies Intern, US](https://jobright.ai/jobs/info/68b2388d1ade4306aa634fab?utm_campaign=1052&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
+| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68b23850bc187f64e1bd9e87?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Aug 29 |
 | **[MetLife](http://www.metlife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68b237e4bc187f64e1bd9e03?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Aug 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Audit Internship - Spring 2027](https://jobright.ai/jobs/info/68b237cbbc187f64e1bd9de9?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 29 |
 | ↳ | **[Tax Internship - Spring 2027](https://jobright.ai/jobs/info/68b23794bc187f64e1bd9da2?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Aug 29 |
 | **[MetLife](http://www.metlife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68b23768bc187f64e1bd9d73?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Tax Internship - Spring 2027](https://jobright.ai/jobs/info/68b236e7f4e41a61efd82c7a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 29 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – Private Strategies Intern, US](https://jobright.ai/jobs/info/68b236cff4e41a61efd82c66?utm_campaign=1052&utm_source=git)** | New York, NY USA | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[General Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/68b236591ade4306aa634f15?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68b2353b1ade4306aa634e36?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Aug 29 |
-| **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Financial Audit Intern—Local Government Audit, Mideast—Summer 2026](https://jobright.ai/jobs/info/68b26849f4e41a61efd83ef7?utm_campaign=1052&utm_source=git)** | Tennessee, United States | On Site | Aug 29 |
-| ↳ | **[Financial Audit Intern—Local Government Audit, Middle—Summer 2026](https://jobright.ai/jobs/info/68b266c5f4e41a61efd83cd1?utm_campaign=1052&utm_source=git)** | Middle Valley Estates, TN | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
