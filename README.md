@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax and Accounting Intern](https://jobright.ai/jobs/info/68b354d6bc187f64e1be0231?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Aug 30 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/68b354d2bc187f64e1be022f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Aug 30 |
+| **[Bankers Trust](http://www.bankerstrust.com)** | **[Finance Fall 2025 School to Work](https://jobright.ai/jobs/info/68b3515fbc187f64e1be0140?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Aug 30 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[KPMG Scholar Intern – Professional Services Rotation](https://jobright.ai/jobs/info/68b34728f4e41a61efd88eca?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Remote | Aug 30 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Advisor Services RIA Internship (WESTLAKE ONLY)](https://jobright.ai/jobs/info/68b333ccf4e41a61efd88c9e?utm_campaign=1052&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
+| **[Santander México](http://www.santander.com.mx/)** | **[Commercial Equipment Vehicle Finance Intern](https://jobright.ai/jobs/info/68b344b4bc187f64e1bdffde?utm_campaign=1052&utm_source=git)** | Boston | On Site | Aug 30 |
+| **[Pinion](https://www.pinionglobal.com)** | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b343d2f4e41a61efd88e1d?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Aug 30 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Services Intern – Audit, Tax & Advisory](https://jobright.ai/jobs/info/68b3437fbc187f64e1bdff71?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Aug 30 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Financial Services & Advisory](https://jobright.ai/jobs/info/68b337de1ade4306aa63aef1?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Trade Support Analyst - PIMCO](https://jobright.ai/jobs/info/68b337b8f4e41a61efd88d0f?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | ↳ | **[2026 Summer Intern - Finance & Accounting Analyst - PIMCO](https://jobright.ai/jobs/info/68b337b81ade4306aa63aee8?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/68b33788bc187f64e1bdfe83?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Aug 30 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Public Accounting Associate (Summer/Winter 2026)](https://jobright.ai/jobs/info/68b3342cbc187f64e1bdfe45?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333d7bc187f64e1bdfe21?utm_campaign=1052&utm_source=git)** | Boston | On Site | Aug 30 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Advisor Services RIA Internship (WESTLAKE ONLY)](https://jobright.ai/jobs/info/68b333ccf4e41a61efd88c9e?utm_campaign=1052&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333ae1ade4306aa63ae9a?utm_campaign=1052&utm_source=git)** | Conshohocken-Ridge Pike | On Site | Aug 30 |
+| ↳ | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333ae1ade4306aa63ae9a?utm_campaign=1052&utm_source=git)** | Conshohocken-Ridge Pike | On Site | Aug 30 |
 | ↳ | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333a1f4e41a61efd88c8f?utm_campaign=1052&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
 | **[Career Sprint](https://www.linkedin.com/company/86198890)** | **[Business Intern – Tax Advisory](https://jobright.ai/jobs/info/68b3262af4e41a61efd88b07?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Remote | Aug 30 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68b325e51ade4306aa63accf?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Aug 30 |
@@ -82,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Associate - Audit Tax & Advisory](https://jobright.ai/jobs/info/68b30a0cbc187f64e1bdfa39?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Aug 30 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Credit Risk Intern (Auto)](https://jobright.ai/jobs/info/68b2fcf8f4e41a61efd886ea?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/68b2f926bc187f64e1bdf83c?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 30 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Associate Audit and Tax](https://jobright.ai/jobs/info/68b2f839f4e41a61efd885df?utm_campaign=1052&utm_source=git)** | Stamford, CT | Remote | Aug 30 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2026 / Evansville](https://jobright.ai/jobs/info/685db6168f5566bc57021ce4?utm_campaign=1052&utm_source=git)** | Evansville, IN | Hybrid | Aug 30 |
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Portfolio Valuation](https://jobright.ai/jobs/info/68a6957c33dd7158bbca0edb?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 30 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op – U.S. Coffee Commercial Finance](https://jobright.ai/jobs/info/68b2ee06f4e41a61efd88449?utm_campaign=1052&utm_source=git)** | Burlington, MA | Hybrid | Aug 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/68b24aaf1ade4306aa635529?utm_campaign=1052&utm_source=git)** | St Louis Park, MN | Hybrid | Aug 29 |
 | **[Computershare U.S.](https://www.computershare.com/us)** | **[Internship - Junior Financial Analyst](https://jobright.ai/jobs/info/68b24a9f1ade4306aa63551f?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Aug 29 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b24a6f1ade4306aa635500?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | Aug 29 |
-| ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b24a6e1ade4306aa6354ff?utm_campaign=1052&utm_source=git)** | Radnor, PA | On Site | Aug 29 |
-| **[Computershare U.S.](https://www.computershare.com/us)** | **[Internship - Junior Financial Analyst](https://jobright.ai/jobs/info/68b26bda1ade4306aa63630a?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Aug 29 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b248dcbc187f64e1bda4e4?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Aug 29 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Growth Markets](https://jobright.ai/jobs/info/68b247ccbc187f64e1bda3f3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Corporate Audit Services (Accounting) Summer Intern (Paid) 2026](https://jobright.ai/jobs/info/68b247b5bc187f64e1bda3e2?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
-| **[CCI](https://ccinvest.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68b24759bc187f64e1bda3a3?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
