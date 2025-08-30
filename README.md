@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Grad Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/689852625574fd6bc0c78325?utm_campaign=1052&utm_source=git)** | Hershey, PA | On Site | Aug 30 |
+| **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2026](https://jobright.ai/jobs/info/68983db45574fd6bc0c76537?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Hattiesburg/Laurel), MS)](https://jobright.ai/jobs/info/6898577cfaa4e875e824e9aa?utm_campaign=1052&utm_source=git)** | Laurel, MS | On Site | Aug 30 |
 | **[Casa Central](https://www.casacentral.org)** | **[Accounting Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/68b2bd921ade4306aa639f00?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Student Associate Outsourced Accounting Services 2026 / Oklahoma City](https://jobright.ai/jobs/info/68b2b75fbc187f64e1bded7f?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Purchasing Internship](https://jobright.ai/jobs/info/68b29eb31ade4306aa63914e?utm_campaign=1052&utm_source=git)** | Location, WV | On Site | Aug 29 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Finance Analyst Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/68b23b73f4e41a61efd82e94?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[MetLife](http://www.metlife.com)** | **[2026 Real Estate Summer Analyst](https://jobright.ai/jobs/info/68b23b561ade4306aa635125?utm_campaign=1052&utm_source=git)** | Whippany, NJ | Hybrid | Aug 29 |
 | **[Thrivent](https://www.thrivent.com)** | **[Credit Research MBA/Graduate Internship – Investment Grade & High Yield - Summer 2026](https://jobright.ai/jobs/info/68b23b00f4e41a61efd82e1e?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
+| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Assurance Intern](https://jobright.ai/jobs/info/68b23aad1ade4306aa6350a2?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Aug 29 |
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b23a8ff4e41a61efd82da0?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | ↳ | **[Financial Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68b239f2f4e41a61efd82d11?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Finance Intern – Spring 2026](https://jobright.ai/jobs/info/68b238d5bc187f64e1bd9f07?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – Private Strategies Intern, US](https://jobright.ai/jobs/info/68b2388d1ade4306aa634fab?utm_campaign=1052&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
-| **[MetLife](http://www.metlife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68b237e4bc187f64e1bd9e03?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Aug 29 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Audit Internship - Spring 2027](https://jobright.ai/jobs/info/68b237cbbc187f64e1bd9de9?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Aug 29 |
-| ↳ | **[Tax Internship - Spring 2027](https://jobright.ai/jobs/info/68b23794bc187f64e1bd9da2?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Aug 29 |
-| **[MetLife](http://www.metlife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68b23768bc187f64e1bd9d73?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
