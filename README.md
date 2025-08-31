@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetJets](https://www.netjets.com/)** | **[Tax Intern (NJUS)](https://jobright.ai/jobs/info/68b4b473f4e41a61efd8c9e7?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Arch Reinsurance Company](https://www.archreco.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68b4a714bc187f64e1be3a0a?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Aug 31 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68b4a63f1ade4306aa63ea52?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Aug 31 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Professional Services Intern](https://jobright.ai/jobs/info/68b4a101f4e41a61efd8c8b9?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Aug 31 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Spring 2026](https://jobright.ai/jobs/info/67983039413f5bd1b560ef33?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6897db0f1b9e81727f1a1f2d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 31 |
 | **[Career Sprint](https://www.linkedin.com/company/86198890)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68b457daf4e41a61efd8c2df?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 31 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Debt Capital Markets Intern](https://jobright.ai/jobs/info/68b456ff1ade4306aa63e3a1?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Aug 31 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wells Fargo Global Payments & Liquidity Internship - Early Careers](https://jobright.ai/jobs/info/6850d84a2a14ba8ace4940f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 31 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Finance Internship Program - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024ac?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Aug 31 |
+| ↳ | **[2026 Wells Fargo Global Payments & Liquidity Internship - Early Careers](https://jobright.ai/jobs/info/6850d84a2a14ba8ace4940f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b43d18f4e41a61efd8c09e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | ↳ | **[Commercial Equipment Vehicle Finance Intern](https://jobright.ai/jobs/info/68b43cd5f4e41a61efd8c07a?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Aug 31 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Academy of Finance Intern - Spring 2026 - Baltimore, MD](https://jobright.ai/jobs/info/6880c5dd29ad6b2744adbc43?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Aug 31 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68b3a90c1ade4306aa63b7b6?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b3a8fb1ade4306aa63b7b3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68b39eadbc187f64e1be0645?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA, USA | On Site | Aug 30 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[KPMG Scholar Intern – Professional Services Rotation](https://jobright.ai/jobs/info/68b363751ade4306aa63b386?utm_campaign=1052&utm_source=git)** | Stamford, CT | Remote | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Advisor Services RIA Internship (WESTLAKE ONLY)](https://jobright.ai/jobs/info/68b333ccf4e41a61efd88c9e?utm_campaign=1052&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Accounting Intern (CPA Pathway, Rotational Program)](https://jobright.ai/jobs/info/68b35fb71ade4306aa63b338?utm_campaign=1052&utm_source=git)** | Memphis, TN | Remote | Aug 30 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/68b354d2bc187f64e1be022f?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Aug 30 |
@@ -118,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Aug 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/68b316c01ade4306aa63abea?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Aug 30 |
 | ↳ | **[Intern - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/68b3166df4e41a61efd889f5?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Aug 30 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/6897315f1b9e81727f195dd9?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 30 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678abde5339bec8d24846ebf?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/68b312fabc187f64e1bdfb64?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Aug 30 |
+| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68982b55faa4e875e824acf9?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 30 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c2353?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Aug 30 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[2026 Equity Research Summer Internship](https://jobright.ai/jobs/info/6898662f83d13d1f5b68ff81?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/66e0d7fdee754bbf71a215dc?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Aug 30 |
