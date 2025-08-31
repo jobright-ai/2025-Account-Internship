@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Santander México](http://www.santander.com.mx/)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333d7bc187f64e1bdfe21?utm_campaign=1052&utm_source=git)** | Boston | On Site | Aug 30 |
 | ↳ | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333ae1ade4306aa63ae9a?utm_campaign=1052&utm_source=git)** | Conshohocken-Ridge Pike | On Site | Aug 30 |
 | ↳ | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b333a1f4e41a61efd88c8f?utm_campaign=1052&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
+| ↳ | **[Real Estate Investment Management Intern](https://jobright.ai/jobs/info/68b3791c1ade4306aa63b439?utm_campaign=1052&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
 | **[Career Sprint](https://www.linkedin.com/company/86198890)** | **[Business Intern – Tax Advisory](https://jobright.ai/jobs/info/68b3262af4e41a61efd88b07?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Remote | Aug 30 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68b325e51ade4306aa63accf?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Aug 30 |
 | **[Career Sprint](https://www.linkedin.com/company/86198890)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68b32079bc187f64e1bdfc46?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Aug 30 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68b3163ff4e41a61efd889d9?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Aug 30 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678abde5339bec8d24846ebf?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Aug 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/68b312fabc187f64e1bdfb64?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Aug 30 |
-| **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68982b55faa4e875e824acf9?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Aug 30 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c2353?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Aug 30 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Credit Risk Intern (Auto)](https://jobright.ai/jobs/info/68b2fcf8f4e41a61efd886ea?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/68b2f926bc187f64e1bdf83c?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 30 |
@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Portfolio Valuation](https://jobright.ai/jobs/info/68a6957c33dd7158bbca0edb?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Aug 30 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op – U.S. Coffee Commercial Finance](https://jobright.ai/jobs/info/68b2ee06f4e41a61efd88449?utm_campaign=1052&utm_source=git)** | Burlington, MA | Hybrid | Aug 30 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Finance Intern (Fall 2025)](https://jobright.ai/jobs/info/689840015574fd6bc0c76887?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6898545ffaa4e875e824e3ec?utm_campaign=1052&utm_source=git)** | Catlettsburg, KY | On Site | Aug 30 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Grad Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/689852625574fd6bc0c78325?utm_campaign=1052&utm_source=git)** | Hershey, PA | On Site | Aug 30 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2026](https://jobright.ai/jobs/info/68983db45574fd6bc0c76537?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Hattiesburg/Laurel), MS)](https://jobright.ai/jobs/info/6898577cfaa4e875e824e9aa?utm_campaign=1052&utm_source=git)** | Laurel, MS | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b24bab1ade4306aa6355ca?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 29 |
 | **[Computershare U.S.](https://www.computershare.com/us)** | **[Internship - Cash Flow Modeler Intern](https://jobright.ai/jobs/info/68b24ba41ade4306aa6355c1?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Aug 29 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Accounting Summer Intern (Paid) (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68b24b3ef4e41a61efd8329c?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
-| **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Finance (Treasury) Intern](https://jobright.ai/jobs/info/68b24af41ade4306aa63555a?utm_campaign=1052&utm_source=git)** | St Louis Park, MN | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
