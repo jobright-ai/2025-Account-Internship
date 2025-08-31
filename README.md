@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander](https://www.santander.com/)** | **[Real Estate Capital Intern](https://jobright.ai/jobs/info/68b3aa5fbc187f64e1be0774?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 30 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68b3a90c1ade4306aa63b7b6?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Aug 30 |
+| **[Santander](https://www.santander.com/)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/68b3a8fb1ade4306aa63b7b3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Aug 30 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/68b3a44df4e41a61efd89585?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Aug 30 |
+| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/68b39f5e1ade4306aa63b691?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA, USA | On Site | Aug 30 |
+| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68b39eadbc187f64e1be0645?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA, USA | On Site | Aug 30 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68b365febc187f64e1be0376?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Aug 30 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[KPMG Scholar Intern – Professional Services Rotation](https://jobright.ai/jobs/info/68b363751ade4306aa63b386?utm_campaign=1052&utm_source=git)** | Stamford, CT | Remote | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Advisor Services RIA Internship (WESTLAKE ONLY)](https://jobright.ai/jobs/info/68b333ccf4e41a61efd88c9e?utm_campaign=1052&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
@@ -70,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Services Intern – Audit, Tax & Advisory](https://jobright.ai/jobs/info/68b3437fbc187f64e1bdff71?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Aug 30 |
 | **[Bankers Trust](http://www.bankerstrust.com)** | **[Finance Fall 2025 School to Work](https://jobright.ai/jobs/info/68b3515fbc187f64e1be0140?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Aug 30 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Financial Services & Advisory](https://jobright.ai/jobs/info/68b337de1ade4306aa63aef1?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Aug 30 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Trade Support Analyst - PIMCO](https://jobright.ai/jobs/info/68b337b8f4e41a61efd88d0f?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
-| ↳ | **[2026 Summer Intern - Finance & Accounting Analyst - PIMCO](https://jobright.ai/jobs/info/68b337b81ade4306aa63aee8?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Finance & Accounting Analyst - PIMCO](https://jobright.ai/jobs/info/68b337b81ade4306aa63aee8?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
+| ↳ | **[2026 Summer Intern - Trade Support Analyst - PIMCO](https://jobright.ai/jobs/info/68b337b8f4e41a61efd88d0f?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/68b33788bc187f64e1bdfe83?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Aug 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68b36950bc187f64e1be03a7?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Aug 30 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Public Accounting Associate (Summer/Winter 2026)](https://jobright.ai/jobs/info/68b3342cbc187f64e1bdfe45?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Aug 30 |
@@ -100,7 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6898545ffaa4e875e824e3ec?utm_campaign=1052&utm_source=git)** | Catlettsburg, KY | On Site | Aug 30 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Grad Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/689852625574fd6bc0c78325?utm_campaign=1052&utm_source=git)** | Hershey, PA | On Site | Aug 30 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2026](https://jobright.ai/jobs/info/68983db45574fd6bc0c76537?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset Management Client Summer Analyst Program](https://jobright.ai/jobs/info/687a4323ed63844c944a2301?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Hattiesburg/Laurel), MS)](https://jobright.ai/jobs/info/6898577cfaa4e875e824e9aa?utm_campaign=1052&utm_source=git)** | Laurel, MS | On Site | Aug 30 |
+| ↳ | **[Audit Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68982d9dfaa4e875e824b04f?utm_campaign=1052&utm_source=git)** | Ridgeland, MS | On Site | Aug 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf32?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Aug 30 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Accounting Trainee](https://jobright.ai/jobs/info/68b2e770bc187f64e1bdf4fc?utm_campaign=1052&utm_source=git)** | North Sioux City, SD | On Site | Aug 30 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Student Associate Outsourced Accounting Services 2026 / Oklahoma City](https://jobright.ai/jobs/info/68b2b75fbc187f64e1bded7f?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Aug 30 |
@@ -130,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Pinion](https://www.pinionglobal.com)** | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b259c01ade4306aa635caa?utm_campaign=1052&utm_source=git)** | Missoula, MT | On Site | Aug 29 |
 | ↳ | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b2594c1ade4306aa635c7d?utm_campaign=1052&utm_source=git)** | Helena, MT | On Site | Aug 29 |
 | ↳ | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b25938f4e41a61efd83989?utm_campaign=1052&utm_source=git)** | Chico, CA | On Site | Aug 29 |
-| ↳ | **[Summer 2027 Intern (Tax & Audit)](https://jobright.ai/jobs/info/68b259271ade4306aa635c6d?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Aug 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/68b258abf4e41a61efd83948?utm_campaign=1052&utm_source=git)** | Mettawa, IL | Hybrid | Aug 29 |
 | **[Vialto Partners](https://vialtopartners.com/)** | **[Global Mobility Tax - Winter Intern- Stamford](https://jobright.ai/jobs/info/68b250961ade4306aa63599a?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Aug 29 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Summer Analyst, Direct Lending (Summer 2026)](https://jobright.ai/jobs/info/68b24f74f4e41a61efd83587?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Aug 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern – Spring/Summer 2026](https://jobright.ai/jobs/info/68b24e6d1ade4306aa63573c?utm_campaign=1052&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Miami, FL](https://jobright.ai/jobs/info/684faf1e5bfab729075a6e53?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Aug 29 |
 | **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship - Cash Flow Modeler Intern](https://jobright.ai/jobs/info/68b24ce8f4e41a61efd833d1?utm_campaign=1052&utm_source=git)** | 1505 Energy Park Drive, St Paul, MN, 55108, US | Hybrid | Aug 29 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/68b24c94bc187f64e1bda5b9?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Aug 29 |
-| **[Newport Mental Health ](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/68b24c63f4e41a61efd83369?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | Aug 29 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Accounting/Finance Summer Intern (Paid) (Topeka, KS) 2026](https://jobright.ai/jobs/info/68b24c2cbc187f64e1bda52a?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Aug 29 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b24bdcf4e41a61efd83307?utm_campaign=1052&utm_source=git)** | Loveland, CO | On Site | Aug 29 |
-| ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68b24bab1ade4306aa6355ca?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Aug 29 |
-| **[Computershare U.S.](https://www.computershare.com/us)** | **[Internship - Cash Flow Modeler Intern](https://jobright.ai/jobs/info/68b24ba41ade4306aa6355c1?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Aug 29 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Accounting Summer Intern (Paid) (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68b24b3ef4e41a61efd8329c?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
