@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68b56d6af4e41a61efd8fb38?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Intern- Summer 2026](https://jobright.ai/jobs/info/68b57d53f4e41a61efd8fde0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Wyomissing, PA](https://jobright.ai/jobs/info/68b573731ade4306aa641c8f?utm_campaign=1052&utm_source=git)** | Wyomissing, PA | On Site | Sep 01 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Financial Services – Summer 2026](https://jobright.ai/jobs/info/68b570e0bc187f64e1be6baa?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Sep 01 |
+| ↳ | **[Credits Incentives and Methods Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68b570cebc187f64e1be6ba4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| ↳ | **[Assurance Intern- Summer 2026](https://jobright.ai/jobs/info/68b57090bc187f64e1be6b8f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Debt Capital Markets Internship](https://jobright.ai/jobs/info/68b56fbd1ade4306aa641c37?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Sep 01 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Mergers & Acquisitions Intern - Summer 2026](https://jobright.ai/jobs/info/68b56f811ade4306aa641c1e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| ↳ | **[Tax Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68b56ee31ade4306aa641bdb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68b56d6af4e41a61efd8fb38?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b56d4df4e41a61efd8fb27?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b56d0ff4e41a61efd8faff?utm_campaign=1052&utm_source=git)** | Blue Bell, PA | On Site | Sep 01 |
 | ↳ | **[Federal Credits and Incentives Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68b56cefbc187f64e1be6b31?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Sep 01 |
@@ -138,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Huntsville, AL](https://jobright.ai/jobs/info/68b5448c1ade4306aa640e16?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Sep 01 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b544541ade4306aa640dfe?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Aug 31 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54424bc187f64e1be5e3c?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Intern - Program Financial Analyst - Newport News, VA (ATAC)](https://jobright.ai/jobs/info/68b543ffbc187f64e1be5e2a?utm_campaign=1052&utm_source=git)** | Newport News, VA | Hybrid | Aug 31 |
-| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b543ffbc187f64e1be5e29?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b543ffbc187f64e1be5e29?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
+| ↳ | **[2026 Intern - Program Financial Analyst - Newport News, VA (ATAC)](https://jobright.ai/jobs/info/68b543ffbc187f64e1be5e2a?utm_campaign=1052&utm_source=git)** | Newport News, VA | Hybrid | Aug 31 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b543b4bc187f64e1be5e06?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 31 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Rockford, IL](https://jobright.ai/jobs/info/68b543a6f4e41a61efd8eda8?utm_campaign=1052&utm_source=git)** | Rockford, IL, USA | On Site | Aug 31 |
 | ↳ | **[Summer 2026 - Advisory Internship - Atlanta, GA](https://jobright.ai/jobs/info/68b543941ade4306aa640db3?utm_campaign=1052&utm_source=git)** | Atlanta, GA, USA | On Site | Aug 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68b5435cbc187f64e1be5de8?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 31 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Huntsville, AL](https://jobright.ai/jobs/info/68b543561ade4306aa640da7?utm_campaign=1052&utm_source=git)** | Huntsville, AL, USA | On Site | Aug 31 |
 | ↳ | **[Summer 2026 - Advisory Internship - Louisville, KY](https://jobright.ai/jobs/info/68b5434bbc187f64e1be5de1?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Aug 31 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b54347bc187f64e1be5ddf?utm_campaign=1052&utm_source=git)** | Sterling, IL | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Finance Intern - Augusta](https://jobright.ai/jobs/info/68b5433fbc187f64e1be5ddc?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Louisville, KY](https://jobright.ai/jobs/info/68b542ffbc187f64e1be5db2?utm_campaign=1052&utm_source=git)** | Louisville, KY, USA | On Site | Aug 31 |
-| ↳ | **[Summer 2026 - Investment Operations Internship - Rockford, IL or Middleton, WI](https://jobright.ai/jobs/info/68b540a3f4e41a61efd8ed17?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Aug 31 |
-| ↳ | **[Summer 2026 - Advisory Internship - Atlanta, GA](https://jobright.ai/jobs/info/68b5401df4e41a61efd8ecd1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Internship - Finance Business Partner](https://jobright.ai/jobs/info/68b53f86f4e41a61efd8ec57?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Investment Delivery Intern](https://jobright.ai/jobs/info/68b53f7ff4e41a61efd8ec4f?utm_campaign=1052&utm_source=git)** | Denver, CO, 80223 | Hybrid | Aug 31 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Investment Research Internship - Rockford, IL](https://jobright.ai/jobs/info/68b53f4ebc187f64e1be5cfe?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
