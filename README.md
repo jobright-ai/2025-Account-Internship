@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Accounting Intern](https://jobright.ai/jobs/info/68b5a2aebc187f64e1be7a0a?utm_campaign=1052&utm_source=git)** | San Jose, CA | Remote | Sep 01 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Rotational Intern - Audit / Tax & Advisory 2026](https://jobright.ai/jobs/info/68b59cf2f4e41a61efd907ad?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Sep 01 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Finance – Michigan](https://jobright.ai/jobs/info/68b59b1fbc187f64e1be779c?utm_campaign=1052&utm_source=git)** | Portage, MI | On Site | Sep 01 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68b59abdbc187f64e1be774c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Sep 01 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Finance – New Jersey](https://jobright.ai/jobs/info/68b59668bc187f64e1be752f?utm_campaign=1052&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
+| **[Microsoft](https://www.microsoft.com)** | **[Finance Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68b59646bc187f64e1be7503?utm_campaign=1052&utm_source=git)** | Redmond, Washington, United States | Hybrid | Sep 01 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance – Treasury Management Intern](https://jobright.ai/jobs/info/68b591b1bc187f64e1be73b8?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Sep 01 |
+| **[SPS Commerce](http://spscommerce.com)** | **[Finance Intern (Talent Pool)](https://jobright.ai/jobs/info/68b59115bc187f64e1be7358?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Intern- Summer 2026](https://jobright.ai/jobs/info/68b57d53f4e41a61efd8fde0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Wyomissing, PA](https://jobright.ai/jobs/info/68b573731ade4306aa641c8f?utm_campaign=1052&utm_source=git)** | Wyomissing, PA | On Site | Sep 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Financial Services – Summer 2026](https://jobright.ai/jobs/info/68b570e0bc187f64e1be6baa?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Sep 01 |
@@ -90,8 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Work Thread](https://www.linkedin.com/company/18242712)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68b5681af4e41a61efd8fa01?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Sep 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2026](https://jobright.ai/jobs/info/68b56768bc187f64e1be69cc?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
 | ↳ | **[State and Local Tax Intern – Winter 2026](https://jobright.ai/jobs/info/68b56729f4e41a61efd8f94a?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Accounting Clerical - Student Employment](https://jobright.ai/jobs/info/68b566b8bc187f64e1be692d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/68b566821ade4306aa641a1a?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
+| ↳ | **[Federal Tax Services Intern – Winter 2026](https://jobright.ai/jobs/info/68b566821ade4306aa641a1a?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
 | ↳ | **[Assurance Intern- Winter 2026](https://jobright.ai/jobs/info/68b566371ade4306aa6419f3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | ↳ | **[State and Local Tax Intern – Summer 2026](https://jobright.ai/jobs/info/68b5662b1ade4306aa6419ef?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Finance Intern](https://jobright.ai/jobs/info/68b5624c1ade4306aa6419b4?utm_campaign=1052&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
@@ -108,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54f661ade4306aa641611?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b54f1b1ade4306aa6415f3?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Accounting](https://jobright.ai/jobs/info/68b54b441ade4306aa641275?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68b54b41f4e41a61efd8f1cf?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Investment Delivery Intern](https://jobright.ai/jobs/info/68b54b281ade4306aa641239?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Sep 01 |
 | **[Kautex Textron](https://www.kautex.com)** | **[2026 Internship: Procurement (Troy, MI)](https://jobright.ai/jobs/info/68b54b1d1ade4306aa641229?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Sep 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Lincolnshire, IL](https://jobright.ai/jobs/info/68b54af21ade4306aa6411cf?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | On Site | Sep 01 |
@@ -125,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Business Enterprise Services / Summer 2027](https://jobright.ai/jobs/info/68b549c1bc187f64e1be5f9d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b549821ade4306aa640ef7?utm_campaign=1052&utm_source=git)** | Eau Claire, WI | On Site | Sep 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/68b5493e1ade4306aa640ec3?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
+| ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54902bc187f64e1be5ecd?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
 | ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b546d0f4e41a61efd8ee72?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Sep 01 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b546caf4e41a61efd8ee6f?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b546a6f4e41a61efd8ee64?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Rockford, IL](https://jobright.ai/jobs/info/68b5460a1ade4306aa640e9b?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Sep 01 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b545d9f4e41a61efd8ee1f?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Sep 01 |
@@ -136,7 +142,8 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b545371ade4306aa640e55?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Sep 01 |
 | ↳ | **[Audit Intern / 2027](https://jobright.ai/jobs/info/68b545361ade4306aa640e53?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship: Procurement (Troy, MI)](https://jobright.ai/jobs/info/68b54517f4e41a61efd8eddb?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/68b544f0bc187f64e1be5e84?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b545131ade4306aa640e42?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
+| ↳ | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/68b544f0bc187f64e1be5e84?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Supplier Recovery](https://jobright.ai/jobs/info/68b544e5bc187f64e1be5e7a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b544d7f4e41a61efd8edca?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
 | **[Lycoming Engines](http://www.lycoming.com/)** | **[2026 Intern - Procurement (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b544d4bc187f64e1be5e73?utm_campaign=1052&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54424bc187f64e1be5e3c?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b543ffbc187f64e1be5e29?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
 | ↳ | **[2026 Intern - Program Financial Analyst - Newport News, VA (ATAC)](https://jobright.ai/jobs/info/68b543ffbc187f64e1be5e2a?utm_campaign=1052&utm_source=git)** | Newport News, VA | Hybrid | Aug 31 |
+| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68b543f0bc187f64e1be5e21?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Aug 31 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b543b4bc187f64e1be5e06?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Aug 31 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Rockford, IL](https://jobright.ai/jobs/info/68b543a6f4e41a61efd8eda8?utm_campaign=1052&utm_source=git)** | Rockford, IL, USA | On Site | Aug 31 |
-| ↳ | **[Summer 2026 - Advisory Internship - Atlanta, GA](https://jobright.ai/jobs/info/68b543941ade4306aa640db3?utm_campaign=1052&utm_source=git)** | Atlanta, GA, USA | On Site | Aug 31 |
-| ↳ | **[Summer 2026 - Investment Operations Internship - Rockford, IL or Middleton, WI](https://jobright.ai/jobs/info/68b54389f4e41a61efd8eda2?utm_campaign=1052&utm_source=git)** | Rockford, IL, USA | On Site | Aug 31 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/68b5437fbc187f64e1be5df1?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Aug 31 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Lincolnshire, IL](https://jobright.ai/jobs/info/68b543621ade4306aa640daa?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL, USA | On Site | Aug 31 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68b5435cbc187f64e1be5de8?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 31 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Huntsville, AL](https://jobright.ai/jobs/info/68b543561ade4306aa640da7?utm_campaign=1052&utm_source=git)** | Huntsville, AL, USA | On Site | Aug 31 |
-| ↳ | **[Summer 2026 - Advisory Internship - Louisville, KY](https://jobright.ai/jobs/info/68b5434bbc187f64e1be5de1?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
