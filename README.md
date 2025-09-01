@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/68b5fd38f4e41a61efd91abe?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Sep 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Financial Services and Advisory](https://jobright.ai/jobs/info/68b5f2c1f4e41a61efd919a1?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Remote | Sep 01 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern – Audit and Tax Rotation](https://jobright.ai/jobs/info/68b5f0e3bc187f64e1be896a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Sep 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68b5eff01ade4306aa64396e?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Sep 01 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/68b5c612f4e41a61efd913ca?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Sep 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Finance Rotational Intern](https://jobright.ai/jobs/info/68b5c3ddbc187f64e1be838f?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Sep 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b5c0d81ade4306aa643360?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Sep 01 |
-| **[Career Sprint](https://www.linkedin.com/company/86198890)** | **[Finance Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68b5b55ebc187f64e1be7ee2?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Sep 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68b5b3a5f4e41a61efd90eb2?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Sep 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Actuarial Intern - Remote](https://jobright.ai/jobs/info/68b5b15dbc187f64e1be7e19?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Sep 01 |
 | ↳ | **[Summer 2026 Underwriting Intern - Remote](https://jobright.ai/jobs/info/68b5b114bc187f64e1be7dd3?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Sep 01 |
