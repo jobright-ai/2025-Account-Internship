@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Financial Services and Advisory](https://jobright.ai/jobs/info/68b5f2c1f4e41a61efd919a1?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Remote | Sep 01 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern – Audit and Tax Rotation](https://jobright.ai/jobs/info/68b5f0e3bc187f64e1be896a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Sep 01 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68b5eff01ade4306aa64396e?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Sep 01 |
+| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b5ef3abc187f64e1be88ea?utm_campaign=1052&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Income Tax Intern](https://jobright.ai/jobs/info/68b5eecaf4e41a61efd918fd?utm_campaign=1052&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Financial Systems Intern](https://jobright.ai/jobs/info/68b5eeb41ade4306aa643922?utm_campaign=1052&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/68b5ee9bf4e41a61efd918ee?utm_campaign=1052&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Corporate Finance Intern](https://jobright.ai/jobs/info/68b5ee4ef4e41a61efd918da?utm_campaign=1052&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68b5eca9bc187f64e1be886b?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Sep 01 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68b5e3eff4e41a61efd9170c?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
+| ↳ | **[Intern - Fall 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68b5e179bc187f64e1be86f7?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Financial Systems Intern](https://jobright.ai/jobs/info/68b5e14bbc187f64e1be86d5?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/68b5e04bf4e41a61efd916ab?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/68b5e02df4e41a61efd9169c?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Corporate Finance Intern](https://jobright.ai/jobs/info/68b5dfddf4e41a61efd9167f?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Income Tax Intern](https://jobright.ai/jobs/info/68b5dfc5f4e41a61efd91675?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[Year-Round Accounting Internship - Economics/Accounting/Finance](https://jobright.ai/jobs/info/68b5dd881ade4306aa6436c3?utm_campaign=1052&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
+| **[Freelancer Voice](http://freelancervoice.com)** | **[Debt Capital Markets Summer Internship](https://jobright.ai/jobs/info/68b5dd511ade4306aa6436b6?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Sep 01 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68b5d9e7bc187f64e1be861a?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Sep 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Finance Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68b5d5931ade4306aa6435a5?utm_campaign=1052&utm_source=git)** | Redmond, WA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - Procurement (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b5d227bc187f64e1be84eb?utm_campaign=1052&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
@@ -87,8 +105,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Financial Services – Summer 2026](https://jobright.ai/jobs/info/68b570e0bc187f64e1be6baa?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Sep 01 |
 | ↳ | **[Credits Incentives and Methods Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68b570cebc187f64e1be6ba4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | ↳ | **[Assurance Intern- Summer 2026](https://jobright.ai/jobs/info/68b57090bc187f64e1be6b8f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Debt Capital Markets Internship](https://jobright.ai/jobs/info/68b56fbd1ade4306aa641c37?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Sep 01 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Mergers & Acquisitions Intern - Summer 2026](https://jobright.ai/jobs/info/68b56f811ade4306aa641c1e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| ↳ | **[International Tax Mergers & Acquisitions Intern - Summer 2026](https://jobright.ai/jobs/info/68b56f811ade4306aa641c1e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | ↳ | **[Tax Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68b56ee31ade4306aa641bdb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68b56d6af4e41a61efd8fb38?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68b56d4df4e41a61efd8fb27?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
@@ -128,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / Alternative Investment Group / Summer 2027](https://jobright.ai/jobs/info/68b54ff21ade4306aa641651?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b54fc8f4e41a61efd8f5a5?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
 | ↳ | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68b54fbff4e41a61efd8f5a2?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
-| ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54f661ade4306aa641611?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b54f1b1ade4306aa6415f3?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Accounting](https://jobright.ai/jobs/info/68b54b441ade4306aa641275?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68b54b41f4e41a61efd8f1cf?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
@@ -139,22 +155,6 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[Economics Interns - Houston (May 2026)](https://jobright.ai/jobs/info/68b54acbf4e41a61efd8f0f4?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Sep 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68b54abbf4e41a61efd8f0d8?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
 | ↳ | **[Tax Intern / Business Enterprise Services / Spring 2027](https://jobright.ai/jobs/info/68b54a47f4e41a61efd8eff7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b54a351ade4306aa64103d?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Finance Intern - Augusta](https://jobright.ai/jobs/info/68b54a24bc187f64e1be6046?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b54a131ade4306aa640ff6?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[Year-Round Tax Co-Op](https://jobright.ai/jobs/info/68b549edbc187f64e1be5fdd?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b549dfbc187f64e1be5fc6?utm_campaign=1052&utm_source=git)** | Riverhead, NY | On Site | Sep 01 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b549d5bc187f64e1be5fb4?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Business Enterprise Services / Summer 2027](https://jobright.ai/jobs/info/68b549c1bc187f64e1be5f9d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b549821ade4306aa640ef7?utm_campaign=1052&utm_source=git)** | Eau Claire, WI | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/68b5493e1ade4306aa640ec3?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
-| ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54902bc187f64e1be5ecd?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
-| ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b546d0f4e41a61efd8ee72?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Sep 01 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b546caf4e41a61efd8ee6f?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b546a6f4e41a61efd8ee64?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Rockford, IL](https://jobright.ai/jobs/info/68b5460a1ade4306aa640e9b?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Sep 01 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b545d9f4e41a61efd8ee1f?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Sep 01 |
-| ↳ | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b545adf4e41a61efd8ee0e?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | On Site | Sep 01 |
-| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b545661ade4306aa640e63?utm_campaign=1052&utm_source=git)** | Diamond Bar, CA | On Site | Sep 01 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68b54555bc187f64e1be5ea2?utm_campaign=1052&utm_source=git)** | Tinley Park, IL | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b545371ade4306aa640e55?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
