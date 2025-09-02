@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Finance (Summer 2026)](https://jobright.ai/jobs/info/68b65fdff4e41a61efd927af?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
+| ↳ | **[Intern - Finance (Summer 2026)](https://jobright.ai/jobs/info/68b65b22f4e41a61efd9244f?utm_campaign=1052&utm_source=git)** | Nampa, ID | On Site | Sep 01 |
+| ↳ | **[Intern - Material Costing (Summer 2026)](https://jobright.ai/jobs/info/68b65aeef4e41a61efd92424?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
+| ↳ | **[Intern - Finance (Summer 2026)](https://jobright.ai/jobs/info/68b65abb1ade4306aa644489?utm_campaign=1052&utm_source=git)** | Buffalo Grove, IL | On Site | Sep 01 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Financial Services Intern - Spring 2026](https://jobright.ai/jobs/info/68b648f3bc187f64e1be9226?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Sep 01 |
 | ↳ | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68b6457abc187f64e1be91f4?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 01 |
 | ↳ | **[International Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68b6440bf4e41a61efd921fc?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Sep 01 |
@@ -72,10 +76,12 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Energy Accounting Intern](https://jobright.ai/jobs/info/68b635311ade4306aa644046?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b62c0ef4e41a61efd91f30?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b62be3f4e41a61efd91f17?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Sep 01 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b62ae11ade4306aa643f83?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Sep 01 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68b662a8bc187f64e1be98d1?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b62ae11ade4306aa643f83?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Sep 01 |
 | **[Wells Fargo Advisors](https://www.wellsfargoadvisors.com)** | **[Financial Advisor Intern or Associate](https://jobright.ai/jobs/info/68b62a531ade4306aa643f1f?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Sep 01 |
+| **[Ensors Chartered Accountants](https://www.ensors.co.uk/)** | **[Trainee Accountants September 2026 (Huntingdon)](https://jobright.ai/jobs/info/68b65bb51ade4306aa64452e?utm_campaign=1052&utm_source=git)** | Huntingdon County, PA | On Site | Sep 01 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68b65af3f4e41a61efd92426?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Sep 01 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/68b5fd38f4e41a61efd91abe?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Sep 01 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Engineer Intern](https://jobright.ai/jobs/info/68b6213af4e41a61efd91d65?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Sep 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Financial Services and Advisory](https://jobright.ai/jobs/info/68b5f2c1f4e41a61efd919a1?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Remote | Sep 01 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern – Audit and Tax Rotation](https://jobright.ai/jobs/info/68b5f0e3bc187f64e1be896a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Sep 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68b5eff01ade4306aa64396e?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Sep 01 |
@@ -99,10 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Intern - Procurement (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b5d227bc187f64e1be84eb?utm_campaign=1052&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Tax And  Accounting Intern](https://jobright.ai/jobs/info/68b5d15bf4e41a61efd914a9?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b5cd221ade4306aa6434d7?utm_campaign=1052&utm_source=git)** | FL - West Palm Beach, 1401 Northpoint Parkway | On Site | Sep 01 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b5ccf7f4e41a61efd91436?utm_campaign=1052&utm_source=git)** | IL - Schaumburg, 1475 E Woodfield Rd | On Site | Sep 01 |
+| **[Frontier Bank of Texas](https://www.frontierbankoftexas.bank)** | **[Finance Internship (Southwestern University Students only)](https://jobright.ai/jobs/info/68b6639bf4e41a61efd929c7?utm_campaign=1052&utm_source=git)** | Elgin, TX | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b5ccf7f4e41a61efd91436?utm_campaign=1052&utm_source=git)** | IL - Schaumburg, 1475 E Woodfield Rd | On Site | Sep 01 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Finance & Accounting Analyst - PIMCO](https://jobright.ai/jobs/info/68b5cb5d1ade4306aa6434bc?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Trade Support Analyst - PIMCO](https://jobright.ai/jobs/info/68b5c642f4e41a61efd913e4?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Sep 01 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/68b5c612f4e41a61efd913ca?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Sep 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Finance Rotational Intern](https://jobright.ai/jobs/info/68b5c3ddbc187f64e1be838f?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Sep 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b5c0d81ade4306aa643360?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Sep 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68b5b3a5f4e41a61efd90eb2?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Sep 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[State and Local Tax Intern – Summer 2026](https://jobright.ai/jobs/info/68b5662b1ade4306aa6419ef?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Finance Intern](https://jobright.ai/jobs/info/68b5624c1ade4306aa6419b4?utm_campaign=1052&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
 | ↳ | **[Parts and Service Finance Intern](https://jobright.ai/jobs/info/68b56248f4e41a61efd8f893?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Intern - Procurement (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b55fadbc187f64e1be6882?utm_campaign=1052&utm_source=git)** | US-Pennsylvania-Williamsport | Hybrid | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Plant Finance Intern](https://jobright.ai/jobs/info/68b55f39bc187f64e1be686a?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Sep 01 |
-| ↳ | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/68b55dcc1ade4306aa6418e0?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Sep 01 |
-| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b558ebf4e41a61efd8f756?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
-| ↳ | **[2026 Finance Intern - Augusta](https://jobright.ai/jobs/info/68b55931f4e41a61efd8f765?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b55916f4e41a61efd8f75f?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
