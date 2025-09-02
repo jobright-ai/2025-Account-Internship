@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Financial Services Intern - Spring 2026](https://jobright.ai/jobs/info/68b648f3bc187f64e1be9226?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Sep 01 |
+| ↳ | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68b6457abc187f64e1be91f4?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 01 |
+| ↳ | **[International Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68b6440bf4e41a61efd921fc?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Sep 01 |
+| ↳ | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/68b643ad1ade4306aa644272?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 01 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/68b64046f4e41a61efd9214b?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Sep 01 |
+| ↳ | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/68b64031f4e41a61efd92142?utm_campaign=1052&utm_source=git)** | Westlake, CA | On Site | Sep 01 |
+| ↳ | **[Audit Intern / Spring 2026](https://jobright.ai/jobs/info/68b63ff6f4e41a61efd92129?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Sep 01 |
+| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Energy Accounting Intern](https://jobright.ai/jobs/info/68b63f5bbc187f64e1be90f5?utm_campaign=1052&utm_source=git)** | 20 Greenway Plaza, Houston, TX | On Site | Sep 01 |
+| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2026](https://jobright.ai/jobs/info/68b63ec2bc187f64e1be9094?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | On Site | Sep 01 |
+| ↳ | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/68b63ea6bc187f64e1be9087?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | On Site | Sep 01 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern (Colorado Locations)](https://jobright.ai/jobs/info/68b639771ade4306aa6440ce?utm_campaign=1052&utm_source=git)** | Fort Collins, CO | On Site | Sep 01 |
+| ↳ | **[Tax Intern (Colorado Locations)](https://jobright.ai/jobs/info/68b6361ef4e41a61efd91ff5?utm_campaign=1052&utm_source=git)** | Fort Collins, CO | On Site | Sep 01 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Energy Accounting Intern](https://jobright.ai/jobs/info/68b635311ade4306aa644046?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b62c0ef4e41a61efd91f30?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b62be3f4e41a61efd91f17?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Sep 01 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b62ae11ade4306aa643f83?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Sep 01 |
@@ -95,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68b5b3a5f4e41a61efd90eb2?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Sep 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Actuarial Intern - Remote](https://jobright.ai/jobs/info/68b5b15dbc187f64e1be7e19?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Sep 01 |
 | ↳ | **[Summer 2026 Underwriting Intern - Remote](https://jobright.ai/jobs/info/68b5b114bc187f64e1be7dd3?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Sep 01 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Accounting Intern](https://jobright.ai/jobs/info/68b5a2aebc187f64e1be7a0a?utm_campaign=1052&utm_source=git)** | San Jose, CA | Remote | Sep 01 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Rotational Intern - Audit / Tax & Advisory 2026](https://jobright.ai/jobs/info/68b59cf2f4e41a61efd907ad?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Finance – Michigan](https://jobright.ai/jobs/info/68b59b1fbc187f64e1be779c?utm_campaign=1052&utm_source=git)** | Portage, MI | On Site | Sep 01 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68b59abdbc187f64e1be774c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Sep 01 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b558ebf4e41a61efd8f756?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | ↳ | **[2026 Finance Intern - Augusta](https://jobright.ai/jobs/info/68b55931f4e41a61efd8f765?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b55916f4e41a61efd8f75f?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68b55513f4e41a61efd8f708?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
-| ↳ | **[Tax Intern / Alternative Investment Group / Summer 2027](https://jobright.ai/jobs/info/68b54ff21ade4306aa641651?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b54fc8f4e41a61efd8f5a5?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
-| ↳ | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68b54fbff4e41a61efd8f5a2?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
-| ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54f661ade4306aa641611?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b54f1b1ade4306aa6415f3?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Internship - Accounting](https://jobright.ai/jobs/info/68b54b441ade4306aa641275?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68b54b41f4e41a61efd8f1cf?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Investment Delivery Intern](https://jobright.ai/jobs/info/68b54b281ade4306aa641239?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Sep 01 |
-| **[Kautex Textron](https://www.kautex.com)** | **[2026 Internship: Procurement (Troy, MI)](https://jobright.ai/jobs/info/68b54b1d1ade4306aa641229?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Sep 01 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Lincolnshire, IL](https://jobright.ai/jobs/info/68b54af21ade4306aa6411cf?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | On Site | Sep 01 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b54af1f4e41a61efd8f134?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
