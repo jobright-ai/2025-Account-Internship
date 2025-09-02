@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b62c0ef4e41a61efd91f30?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b62be3f4e41a61efd91f17?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Sep 01 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/68b62ae11ade4306aa643f83?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Sep 01 |
+| **[Wells Fargo Advisors](https://www.wellsfargoadvisors.com)** | **[Financial Advisor Intern or Associate](https://jobright.ai/jobs/info/68b62a531ade4306aa643f1f?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Sep 01 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/68b5fd38f4e41a61efd91abe?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Sep 01 |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Engineer Intern](https://jobright.ai/jobs/info/68b6213af4e41a61efd91d65?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Sep 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Financial Services and Advisory](https://jobright.ai/jobs/info/68b5f2c1f4e41a61efd919a1?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Remote | Sep 01 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern – Audit and Tax Rotation](https://jobright.ai/jobs/info/68b5f0e3bc187f64e1be896a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Sep 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68b5eff01ade4306aa64396e?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Sep 01 |
@@ -98,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Finance – New Jersey](https://jobright.ai/jobs/info/68b59668bc187f64e1be752f?utm_campaign=1052&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Finance Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68b59646bc187f64e1be7503?utm_campaign=1052&utm_source=git)** | Redmond, Washington, United States | Hybrid | Sep 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd41f?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Sep 01 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance – Treasury Management Intern](https://jobright.ai/jobs/info/68b591b1bc187f64e1be73b8?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Finance Intern (Talent Pool)](https://jobright.ai/jobs/info/68b59115bc187f64e1be7358?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Intern- Summer 2026](https://jobright.ai/jobs/info/68b57d53f4e41a61efd8fde0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Wyomissing, PA](https://jobright.ai/jobs/info/68b573731ade4306aa641c8f?utm_campaign=1052&utm_source=git)** | Wyomissing, PA | On Site | Sep 01 |
@@ -145,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / Alternative Investment Group / Summer 2027](https://jobright.ai/jobs/info/68b54ff21ade4306aa641651?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
 | ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b54fc8f4e41a61efd8f5a5?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
 | ↳ | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68b54fbff4e41a61efd8f5a2?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
+| ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68b54f661ade4306aa641611?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Finance Intern - Cartersville](https://jobright.ai/jobs/info/68b54f1b1ade4306aa6415f3?utm_campaign=1052&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Accounting](https://jobright.ai/jobs/info/68b54b441ade4306aa641275?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68b54b41f4e41a61efd8f1cf?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kautex Textron](https://www.kautex.com)** | **[2026 Internship: Procurement (Troy, MI)](https://jobright.ai/jobs/info/68b54b1d1ade4306aa641229?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Sep 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Summer 2026 - Advisory Internship - Lincolnshire, IL](https://jobright.ai/jobs/info/68b54af21ade4306aa6411cf?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68b54af1f4e41a61efd8f134?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[TC Energy](https://www.tcenergy.com/)** | **[Economics Interns - Houston (May 2026)](https://jobright.ai/jobs/info/68b54acbf4e41a61efd8f0f4?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Sep 01 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / 2027](https://jobright.ai/jobs/info/68b54abbf4e41a61efd8f0d8?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
-| ↳ | **[Tax Intern / Business Enterprise Services / Spring 2027](https://jobright.ai/jobs/info/68b54a47f4e41a61efd8eff7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 01 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68b54a351ade4306aa64103d?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 01 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Finance Intern - Augusta](https://jobright.ai/jobs/info/68b54a24bc187f64e1be6046?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
