@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Airways](http://www.rjet.com)** | **[Finance Intern - Spring 2026](https://jobright.ai/jobs/info/689cdc7179a9f9666253b673?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 04 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship - Accounting/Finance (Year-Round)](https://jobright.ai/jobs/info/689d708f79a9f96662540722?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Sep 04 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/68b965137b787c4522cf9f77?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Sep 04 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Parts and Service Finance Intern](https://jobright.ai/jobs/info/68b56248f4e41a61efd8f893?utm_campaign=1052&utm_source=git)** | Racine, WI | Hybrid | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/689ce9b3faa4e875e826bf01?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Sep 04 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Treasury Systems Year-Round Part-Time Intern](https://jobright.ai/jobs/info/68b9511d07090163b6ba9f4c?utm_campaign=1052&utm_source=git)** | Hicksville, NY | On Site | Sep 04 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Treasury Management Internship](https://jobright.ai/jobs/info/68b94f1fea901c0d269fe70b?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Sep 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Underwriting](https://jobright.ai/jobs/info/68b8e2ef07090163b6ba5c1c?utm_campaign=1052&utm_source=git)** | Mississippi, United States | Hybrid | Sep 03 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Investment Operations Extended Internship (January to August 2026)](https://jobright.ai/jobs/info/68b8e2dc07090163b6ba5bfb?utm_campaign=1052&utm_source=git)** | Des Moines, Iowa | Hybrid | Sep 03 |
 | **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Investments Intern - Summer 2026](https://jobright.ai/jobs/info/68b8e29bea901c0d269fa3d9?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
-| ↳ | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8e23e5b42bc45628287ef?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
-| **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern Audit](https://jobright.ai/jobs/info/68b9397c5b42bc456282be91?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
-| ↳ | **[Intern Internal Audit Tech](https://jobright.ai/jobs/info/68b9397d5b42bc456282be93?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
-| **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Internship - Real Estate (Equity) - Early Careers](https://jobright.ai/jobs/info/68b8ff7607090163b6ba6b9d?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
