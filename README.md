@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Summer Analyst & Associate Program](https://jobright.ai/jobs/info/68ba77535f38327491867663?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 04 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/68ba8d065f383274918681e9?utm_campaign=1052&utm_source=git)** | Chippewa Falls, WI | On Site | Sep 05 |
+| ↳ | **[Credit Intern](https://jobright.ai/jobs/info/68ba8b036105227d1189ee38?utm_campaign=1052&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | On Site | Sep 05 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Winter 2026 / San Diego Area)](https://jobright.ai/jobs/info/68ba880f6105227d1189ed57?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Sep 04 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68ba804a6105227d1189e831?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 04 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Business Tax Management Analyst (Summer)](https://jobright.ai/jobs/info/68ba7e376105227d1189e65f?utm_campaign=1052&utm_source=git)** | Pierre, SD | On Site | Sep 04 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Accounting](https://jobright.ai/jobs/info/68ba7c4a8043103d4f220ee3?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Sep 04 |
 | **[Target](https://www.target.com)** | **[Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68ba6f468043103d4f220854?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Sep 04 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - CAB Treasurer](https://jobright.ai/jobs/info/68ba6f198043103d4f220811?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 04 |
 | **[AWM Global Advisors](https://www.awmga.com)** | **[Investment Analyst](https://jobright.ai/jobs/info/68ba67316105227d1189db53?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Sep 04 |
-| **[Macquarie Group](https://www.macquarie.com)** | **[2026 Commodities and Global Markets Graduate Program](https://jobright.ai/jobs/info/68ba602c5f383274918668e9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Winter 2026](https://jobright.ai/jobs/info/68ba5bf45f383274918666b6?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68ba5b635f383274918665ce?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68ba5af55f3832749186652b?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
@@ -86,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[First Student](http://www.firststudentinc.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/68ba4f236105227d1189cbda?utm_campaign=1052&utm_source=git)** | CINCINNATI, OH - HEADQUARTERS | Hybrid | Sep 04 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Intern, Investment Solutions – Asset Management (Undergraduate and Graduate) Summer 2026](https://jobright.ai/jobs/info/68ba485a5f38327491865b13?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[HB Wealth](http://homrichberg.com)** | **[Advisory Associate Intern](https://jobright.ai/jobs/info/68ba472a6105227d1189c89c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
+| **[Macquarie Group](https://www.macquarie.com)** | **[2026 Commodities and Global Markets Graduate Program](https://jobright.ai/jobs/info/68ba602c5f383274918668e9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[American Tower](https://www.americantower.com/)** | **[Internal Audit Spring 2026 Co-Op](https://jobright.ai/jobs/info/68ba46226105227d1189c801?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Sep 04 |
 | ↳ | **[Internal Audit Internship (Summer 2026)](https://jobright.ai/jobs/info/68ba45ad8043103d4f21f281?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Sep 04 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Macquarie Asset Management Graduate Program](https://jobright.ai/jobs/info/68ba41b95f3832749186594a?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Sep 04 |
@@ -111,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39fd8043103d4f21ecab?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39ec6105227d1189c114?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39985f38327491865384?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39705f38327491865355?utm_campaign=1052&utm_source=git)** | San Ramon, CA | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba395a8043103d4f21ebde?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2026](https://jobright.ai/jobs/info/68ba39146105227d1189c055?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Accounting & Finance Summer Internship](https://jobright.ai/jobs/info/68ba38fb6105227d1189c03d?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Sep 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[Supply Chain/Function FP&A Intern, Summer 2026 (42273)](https://jobright.ai/jobs/info/68ba2a7f6105227d1189b5c4?utm_campaign=1052&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | **[KVLR Capital](https://www.kvlrcapital.com)** | **[2025 Mergers & Acquisitions Winter Analyst Internship](https://jobright.ai/jobs/info/68ba274b6105227d1189b556?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 04 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Commercial Banking and Commercial Real Estate](https://jobright.ai/jobs/info/68ba27086105227d1189b515?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
-| ↳ | **[2026 Summer Intern - Private Wealth](https://jobright.ai/jobs/info/68ba26df6105227d1189b4ea?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba26be5f383274918646be?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Sep 04 |
-| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba26b66105227d1189b4ca?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[VC Intern](https://jobright.ai/jobs/info/68ba25c16105227d1189b405?utm_campaign=1052&utm_source=git)** | Redwood City, CA | Hybrid | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
