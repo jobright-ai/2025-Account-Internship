@@ -57,17 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68bab1b45f38327491869054?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Sep 05 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Houston)](https://jobright.ai/jobs/info/689e3cea83d13d1f5b6b84e6?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Sep 05 |
+| ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6883092cb54cac0f1e734f01?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
+| **[First Student](http://www.firststudentinc.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/68baa2a56105227d1189fb73?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Sep 05 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/68ba8d065f383274918681e9?utm_campaign=1052&utm_source=git)** | Chippewa Falls, WI | On Site | Sep 05 |
 | ↳ | **[Credit Intern](https://jobright.ai/jobs/info/68ba8b036105227d1189ee38?utm_campaign=1052&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | On Site | Sep 05 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Winter 2026 / San Diego Area)](https://jobright.ai/jobs/info/68ba880f6105227d1189ed57?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68ba804a6105227d1189e831?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 04 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Business Tax Management Analyst (Summer)](https://jobright.ai/jobs/info/68ba7e376105227d1189e65f?utm_campaign=1052&utm_source=git)** | Pierre, SD | On Site | Sep 04 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Accounting](https://jobright.ai/jobs/info/68ba7c4a8043103d4f220ee3?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Sep 04 |
+| **[Arup](http://www.arup.com)** | **[Finance Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba9c548043103d4f222346?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 04 |
 | **[Target](https://www.target.com)** | **[Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68ba6f468043103d4f220854?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Sep 04 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - CAB Treasurer](https://jobright.ai/jobs/info/68ba6f198043103d4f220811?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Sep 04 |
 | **[AWM Global Advisors](https://www.awmga.com)** | **[Investment Analyst](https://jobright.ai/jobs/info/68ba67316105227d1189db53?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Sep 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Winter 2026](https://jobright.ai/jobs/info/68ba5bf45f383274918666b6?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68ba5b635f383274918665ce?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68ba5af55f3832749186652b?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
 | ↳ | **[International Tax Business Intern - Summer 2026](https://jobright.ai/jobs/info/68ba59d16105227d1189d12c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68ba596b8043103d4f21fccb?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Sep 04 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3b4b6105227d1189c320?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3ae06105227d1189c284?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3ac58043103d4f21edae?utm_campaign=1052&utm_source=git)** | Chantilly, VA | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3abb5f3832749186549e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3a6e5f38327491865459?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3a695f38327491865455?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3a5c6105227d1189c1bb?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Sep 04 |
@@ -116,6 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39fd8043103d4f21ecab?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39ec6105227d1189c114?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39985f38327491865384?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39718043103d4f21ebfa?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba395a8043103d4f21ebde?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2026](https://jobright.ai/jobs/info/68ba39146105227d1189c055?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Accounting & Finance Summer Internship](https://jobright.ai/jobs/info/68ba38fb6105227d1189c03d?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Sep 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/68ba31d06105227d1189b826?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Financial Center of Excellence (FCOE) Accounting Intern](https://jobright.ai/jobs/info/68ba31426105227d1189b7af?utm_campaign=1052&utm_source=git)** | Juno Beach, FL | On Site | Sep 04 |
 | **[Infinity Natural Resources](https://www.infinitynaturalresources.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ba54446105227d1189cde3?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Sep 04 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Internal Audit](https://jobright.ai/jobs/info/68ba2bf08043103d4f21e13a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
-| **[Amway](http://www.amway.com)** | **[Supply Chain/Function FP&A Intern, Summer 2026 (42273)](https://jobright.ai/jobs/info/68ba2a7f6105227d1189b5c4?utm_campaign=1052&utm_source=git)** | Ada, MI | On Site | Sep 04 |
-| **[KVLR Capital](https://www.kvlrcapital.com)** | **[2025 Mergers & Acquisitions Winter Analyst Internship](https://jobright.ai/jobs/info/68ba274b6105227d1189b556?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 04 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Commercial Banking and Commercial Real Estate](https://jobright.ai/jobs/info/68ba27086105227d1189b515?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
