@@ -57,6 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Winter 2026](https://jobright.ai/jobs/info/68ba5bf45f383274918666b6?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68ba5b635f383274918665ce?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68ba5af55f3832749186652b?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
+| ↳ | **[International Tax Business Intern - Summer 2026](https://jobright.ai/jobs/info/68ba59d16105227d1189d12c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68ba596b8043103d4f21fccb?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Sep 04 |
+| ↳ | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/68ba59676105227d1189d07c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| **[Vistal](https://www.mooreholdingco.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ba59568043103d4f21fcae?utm_campaign=1052&utm_source=git)** | West Fargo, ND | On Site | Sep 04 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/68ba58c88043103d4f21fbf3?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Sep 04 |
+| ↳ | **[Accounting Methods and Periods Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68ba58936105227d1189cf56?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[State and Local Tax - Income Franchise Intern - Summer 2026](https://jobright.ai/jobs/info/68ba57ec5f38327491866071?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/68ba57808043103d4f21fa2d?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[Federal Tax Services Intern - Summer 2026](https://jobright.ai/jobs/info/68ba56ed8043103d4f21f98a?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
+| ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68ba56c58043103d4f21f957?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
+| ↳ | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68ba56598043103d4f21f8b8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Sep 04 |
+| **[Sorren](sorren.com)** | **[Assurance Internship](https://jobright.ai/jobs/info/68ba54a85f38327491866020?utm_campaign=1052&utm_source=git)** | Medford, OR | Hybrid | Sep 04 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68ba540f6105227d1189cdb8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Sep 04 |
+| **[Sorren](sorren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/68ba53438043103d4f21f87c?utm_campaign=1052&utm_source=git)** | Bend, OR | On Site | Sep 04 |
+| ↳ | **[Assurance Internship](https://jobright.ai/jobs/info/68ba53348043103d4f21f869?utm_campaign=1052&utm_source=git)** | Bend, OR | Hybrid | Sep 04 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68ba527a6105227d1189cc23?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Sep 04 |
+| **[Sorren](sorren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/68ba50908043103d4f21f5f4?utm_campaign=1052&utm_source=git)** | Medford, OR | On Site | Sep 04 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Conversion - Raytheon Engineering Financial Analyst I (Onsite) CA](https://jobright.ai/jobs/info/68ba4f396105227d1189cbf9?utm_campaign=1052&utm_source=git)** | CA320: El Seg.-So. Campus Bldg E01 2000 East El Segundo Boulevard Building E01, El Segundo, CA, 90245 USA | On Site | Sep 04 |
+| **[First Student](http://www.firststudentinc.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/68ba4f236105227d1189cbda?utm_campaign=1052&utm_source=git)** | CINCINNATI, OH - HEADQUARTERS | Hybrid | Sep 04 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Intern, Investment Solutions – Asset Management (Undergraduate and Graduate) Summer 2026](https://jobright.ai/jobs/info/68ba485a5f38327491865b13?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
+| **[HB Wealth](http://homrichberg.com)** | **[Advisory Associate Intern](https://jobright.ai/jobs/info/68ba472a6105227d1189c89c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
+| **[American Tower](https://www.americantower.com/)** | **[Internal Audit Spring 2026 Co-Op](https://jobright.ai/jobs/info/68ba46226105227d1189c801?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Sep 04 |
+| ↳ | **[Internal Audit Internship (Summer 2026)](https://jobright.ai/jobs/info/68ba45ad8043103d4f21f281?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Sep 04 |
+| **[Macquarie Group](https://www.macquarie.com)** | **[2026 Macquarie Asset Management Graduate Program](https://jobright.ai/jobs/info/68ba41b95f3832749186594a?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Sep 04 |
+| **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Intern - Trade Credit (Hybrid)](https://jobright.ai/jobs/info/68ba41975f3832749186592f?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Summer 2026 / Salt Lake City](https://jobright.ai/jobs/info/68ba41646105227d1189c694?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 04 |
 | ↳ | **[Intern Audit Summer 2026 / Chicago](https://jobright.ai/jobs/info/68ba40558043103d4f21f010?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3f955f383274918656bd?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Sep 04 |
@@ -68,6 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3b4b6105227d1189c320?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3ae06105227d1189c284?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3ac58043103d4f21edae?utm_campaign=1052&utm_source=git)** | Chantilly, VA | On Site | Sep 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3abb5f3832749186549e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3a6e5f38327491865459?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3a695f38327491865455?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba3a5c6105227d1189c1bb?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Sep 04 |
@@ -77,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39fd8043103d4f21ecab?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39ec6105227d1189c114?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39985f38327491865384?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39718043103d4f21ebfa?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba39705f38327491865355?utm_campaign=1052&utm_source=git)** | San Ramon, CA | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68ba395a8043103d4f21ebde?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Sep 04 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2026](https://jobright.ai/jobs/info/68ba39146105227d1189c055?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
@@ -115,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[ERP Internship: Rising Senior Finance](https://jobright.ai/jobs/info/68ba31d18043103d4f21e322?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/68ba31d06105227d1189b826?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Financial Center of Excellence (FCOE) Accounting Intern](https://jobright.ai/jobs/info/68ba31426105227d1189b7af?utm_campaign=1052&utm_source=git)** | Juno Beach, FL | On Site | Sep 04 |
+| **[Infinity Natural Resources](https://www.infinitynaturalresources.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ba54446105227d1189cde3?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Sep 04 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Internal Audit](https://jobright.ai/jobs/info/68ba2bf08043103d4f21e13a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[Amway](http://www.amway.com)** | **[Supply Chain/Function FP&A Intern, Summer 2026 (42273)](https://jobright.ai/jobs/info/68ba2a7f6105227d1189b5c4?utm_campaign=1052&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | **[KVLR Capital](https://www.kvlrcapital.com)** | **[2025 Mergers & Acquisitions Winter Analyst Internship](https://jobright.ai/jobs/info/68ba274b6105227d1189b556?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 04 |
@@ -128,33 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Tangible Asset Valuations / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba256a5f383274918645a8?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Sep 04 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68ba25448043103d4f21ddfb?utm_campaign=1052&utm_source=git)** | Tallahassee, FL | On Site | Sep 04 |
 | **[Sun Chemical](http://sunchemical.com)** | **[Treasury Intern - Global Treasury Operations](https://jobright.ai/jobs/info/68ba251d5f3832749186456d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba24be6105227d1189b33c?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Sep 04 |
-| **[Amway](http://www.amway.com)** | **[Corporate Treasury Intern, Summer 2026 (42261)](https://jobright.ai/jobs/info/68ba249d6105227d1189b31f?utm_campaign=1052&utm_source=git)** | Ada, MI | On Site | Sep 04 |
-| ↳ | **[Global Procurement Intern, Summer 2026 (42246)](https://jobright.ai/jobs/info/68ba24848043103d4f21dd6b?utm_campaign=1052&utm_source=git)** | Ada, MI | On Site | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Portfolio Valuation / Los Angeles Winter 2026](https://jobright.ai/jobs/info/68ba24516105227d1189b2e7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| **[Andreessen Horowitz](http://www.a16z.com)** | **[Investor Relations AI & Data Intern](https://jobright.ai/jobs/info/68ba24138043103d4f21dd01?utm_campaign=1052&utm_source=git)** | Menlo Park, CA | On Site | Sep 04 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Intern Finance](https://jobright.ai/jobs/info/68ba23db5f38327491864475?utm_campaign=1052&utm_source=git)** | Hunt Valley, MD | On Site | Sep 04 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68ba23c25f38327491864455?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba23778043103d4f21dc56?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
-| ↳ | **[Audit Intern / Nashville Winter 2026](https://jobright.ai/jobs/info/68ba235a8043103d4f21dc24?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Sep 04 |
-| **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - IT Audit Intern (Austin)](https://jobright.ai/jobs/info/68ba23588043103d4f21dc1c?utm_campaign=1052&utm_source=git)** | Austin, Texas | Hybrid | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Seasonal Intern, Business Tax Services / Albany Winter 2026](https://jobright.ai/jobs/info/68ba230c8043103d4f21dbb3?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Sep 04 |
-| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba22ab8043103d4f21db20?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ba22998043103d4f21db00?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 04 |
-| **[Amcor](http://www.amcor.com/)** | **[Financial Audit Intern](https://jobright.ai/jobs/info/68ba22598043103d4f21dacb?utm_campaign=1052&utm_source=git)** | Appleton-Oshkosh Area | On Site | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/68ba22558043103d4f21dac9?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Sep 04 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Financial Analyst Intern](https://jobright.ai/jobs/info/68ba20c26105227d1189b1e3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 04 |
-| **[Amcor](http://www.amcor.com/)** | **[IT Audit Intern](https://jobright.ai/jobs/info/68ba207f5f38327491864346?utm_campaign=1052&utm_source=git)** | Appleton-Oshkosh Area | On Site | Sep 04 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ba1faa6105227d1189b073?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 04 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/68ba1f916105227d1189b056?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 04 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68ba1f835f38327491864239?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 04 |
-| ↳ | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ba1ee66105227d1189afdc?utm_campaign=1052&utm_source=git)** | Appleton, WI | Hybrid | Sep 04 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Tax Intern 2026](https://jobright.ai/jobs/info/68ba1edd6105227d1189afce?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Sep 04 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68ba1ed16105227d1189afc6?utm_campaign=1052&utm_source=git)** | Appleton, WI | Hybrid | Sep 04 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - IT Audit (NYC)](https://jobright.ai/jobs/info/68ba1ea25f38327491864194?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 04 |
-| **[NERA](http://www.nera.com)** | **[NERA Summer Internship (Summer 2027 Grads) (Multiple Locations)](https://jobright.ai/jobs/info/68ba1e8f8043103d4f21da2c?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Sep 04 |
-| **[Abacus!](http://abacuscpas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ba1dec5f38327491864117?utm_campaign=1052&utm_source=git)** | Springfield, MO | Hybrid | Sep 04 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Tax](https://jobright.ai/jobs/info/68ba1dc85f383274918640f3?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 04 |
-| ↳ | **[2026 Summer Intern: Business Planning Analyst](https://jobright.ai/jobs/info/68ba1dbb5f383274918640e2?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Sep 04 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68ba1d836105227d1189aec7?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
