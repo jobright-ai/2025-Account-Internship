@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Business Associate Audit and Tax](https://jobright.ai/jobs/info/68bc3ba0ae79610dacddb2bf?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Sep 06 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/68bc3b7068300c452ca151b1?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Sep 06 |
+| **[Siemens](https://www.siemens.com/)** | **[Project Finance Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68bc3af03bf9eb44f832385d?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, (Milwaukee)](https://jobright.ai/jobs/info/68bc3adaae79610dacddb270?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
+| **[Siemens](https://www.siemens.com/)** | **[Project Finance Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68bc3ad0ae79610dacddb26e?utm_campaign=1052&utm_source=git)** | Lexington, NC | On Site | Sep 06 |
+| **[Stellantis](https://www.stellantis.com)** | **[Finance Student Program – Corporate](https://jobright.ai/jobs/info/689f76abfaa4e875e82886ad?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Sep 06 |
+| ↳ | **[2026 Accounting Winter Internship](https://jobright.ai/jobs/info/689fca17faa4e875e828b1eb?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 06 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Debt Capital Markets Summer Intern](https://jobright.ai/jobs/info/689f2e0579a9f96662554c62?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 06 |
+| ↳ | **[Investments Analyst Summer Intern](https://jobright.ai/jobs/info/689f315279a9f96662554d5b?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Sep 06 |
+| ↳ | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/689f2f8083d13d1f5b6c494b?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Sep 06 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/68bc2bc16105227d118ac15a?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 06 |
+| **[Roeslein & Associates](https://www.roeslein.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68bc2a5a8043103d4f22e807?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
+| ↳ | **[Accounts Payable Intern](https://jobright.ai/jobs/info/68bc29c35f38327491875289?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Financial Analyst Intern](https://jobright.ai/jobs/info/68bc297f8043103d4f22e78c?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Chelsea MA](https://jobright.ai/jobs/info/68bc1f4b5f38327491875107?utm_campaign=1052&utm_source=git)** | Chelsea, MA | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Accounting Internship - Burlington, MA](https://jobright.ai/jobs/info/68bc1a1f5f38327491875018?utm_campaign=1052&utm_source=git)** | Burlington, MA | On Site | Sep 06 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Audit Tax & Advisory Intern-Summer Internship](https://jobright.ai/jobs/info/68bc14b55f38327491874f34?utm_campaign=1052&utm_source=git)** | New Orleans, LA | Remote | Sep 06 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/68bb7ad38043103d4f228ecf?utm_campaign=1052&utm_source=git)** | Auburn, WA | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68bb7a748043103d4f228e81?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Internal Audit - IT Audit)](https://jobright.ai/jobs/info/68bb7a348043103d4f228e46?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/68bb7a076105227d118a64eb?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68bb79e45f3832749186f799?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Risk Analsyt)](https://jobright.ai/jobs/info/68bb79d18043103d4f228df1?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68bb79a98043103d4f228dcf?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/68bb79a25f3832749186f75b?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Internal Audit - IT Audit)](https://jobright.ai/jobs/info/68bb79a16105227d118a648c?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/68bb79866105227d118a647a?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Internal Audit – Operational Audit)](https://jobright.ai/jobs/info/68bb79845f3832749186f746?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68bb79826105227d118a6478?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Sep 05 |
-| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68bb797a8043103d4f228daa?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 05 |
-| ↳ | **[Audit Intern, Korean Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68bb79556105227d118a6442?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bb793d5f3832749186f700?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Sep 05 |
-| ↳ | **[Summer Associate Internship (Internal Audit – Data Analytics)](https://jobright.ai/jobs/info/68bb79266105227d118a640b?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Finance and Accounting (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb791e5f3832749186f6d6?utm_campaign=1052&utm_source=git)** | Windsor Mill, MD | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
