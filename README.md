@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/68bcfc6e3bf9eb44f8325767?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
-| **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Associate, Los Angeles (North America – 2026)](https://jobright.ai/jobs/info/68bd1d443bf9eb44f8326bc2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 06 |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68af5e35962903596357c200?utm_campaign=1052&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
+| **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Global Private Debt](https://jobright.ai/jobs/info/68bd37f43bf9eb44f8327744?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Sep 07 |
+| **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Associate, Houston (North America – 2026)](https://jobright.ai/jobs/info/68bd26783bf9eb44f8326e10?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 06 |
+| ↳ | **[Banking - Investment Banking, Summer Associate, Los Angeles (North America – 2026)](https://jobright.ai/jobs/info/68bd1d443bf9eb44f8326bc2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 06 |
+| ↳ | **[Banking - Investment Banking, Summer Associate, San Francisco Healthcare (North America – 2026)](https://jobright.ai/jobs/info/68bd2b9268300c452ca18915?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
+| ↳ | **[Banking - Investment Banking, Latin America Group Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/68bd22f2ae79610dacdde734?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Second Harvest of Silicon Valley](http://www.shfb.org)** | **[Accounts Receivable Volunteer](https://jobright.ai/jobs/info/68bce74eae79610dacddc59e?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Sep 06 |
 | **[Wishes & More](http://www.wishesandmore.org)** | **[Intern - Accounting](https://jobright.ai/jobs/info/68bce6433bf9eb44f8324af0?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Sep 06 |
 | **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Associate, San Francisco Technology (North America – 2026)](https://jobright.ai/jobs/info/68bd08103bf9eb44f83260e5?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, (Milwaukee)](https://jobright.ai/jobs/info/68bce385ae79610dacddc4f2?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Associate, Chicago (North America – 2026)](https://jobright.ai/jobs/info/68bcde2968300c452ca16371?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
-| **[Aptiv](http://www.aptiv.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68bcd3af3bf9eb44f8324929?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Sep 06 |
+| **[Aptiv](http://www.aptiv.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68bcd861ae79610dacddc3cc?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Sep 06 |
 | **[Dealer Tire](http://dealertire.com)** | **[Tax Intern (Cleveland, OH)](https://jobright.ai/jobs/info/68bcbbb368300c452ca16068?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Grassi](https://www.grassiadvisors.com)** | **[Tax Internship - Winter 2026](https://jobright.ai/jobs/info/68bca49e3bf9eb44f8324603?utm_campaign=1052&utm_source=git)** | Needham, MA | On Site | Sep 06 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/68bc9c9468300c452ca15dee?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Sep 06 |
@@ -79,7 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Finance Student Experience](https://jobright.ai/jobs/info/68bc88b5ae79610dacddbd28?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Sep 06 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68bc7b52ae79610dacddbb30?utm_campaign=1052&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Sep 06 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Finance Shared Services Intern](https://jobright.ai/jobs/info/68bc7b3bae79610dacddbb23?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Sep 06 |
-| **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68bd1cb7ae79610dacdde4b0?utm_campaign=1052&utm_source=git)** | Los Angeles County, CA | On Site | Sep 06 |
+| **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68bd203e68300c452ca1858a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Sep 06 |
+| ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68bd1cb7ae79610dacdde4b0?utm_campaign=1052&utm_source=git)** | Los Angeles County, CA | On Site | Sep 06 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68bc77b33bf9eb44f8324133?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Sep 06 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68bc7769ae79610dacddbafc?utm_campaign=1052&utm_source=git)** | Detroit Metro | On Site | Sep 06 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Quantitative Finance Analyst & Associate Internship](https://jobright.ai/jobs/info/68bc7708ae79610dacddbae1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ameren](http://ameren.com)** | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc48cfaa4e875e828afcc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Underwriting Operations Intern - Bala Cynwd](https://jobright.ai/jobs/info/689f7fbbfaa4e875e8288bd8?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 06 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/68bbff6a6105227d118ab642?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 06 |
-| ↳ | **[Assurance Intern - Winter 2027 (Houston)](https://jobright.ai/jobs/info/689f87b7b3e889632cf0857d?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Sep 06 |
-| ↳ | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68830ab8b54cac0f1e735031?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Sep 06 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Audit Summer 2026 / Austin](https://jobright.ai/jobs/info/68bbf5635f383274918746e6?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Sep 06 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Accounting Intern, Part-Time Fall 2025](https://jobright.ai/jobs/info/68bbf0466105227d118ab3e4?utm_campaign=1052&utm_source=git)** | Mason, OH | Hybrid | Sep 06 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/68bbf0045f383274918745f4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
