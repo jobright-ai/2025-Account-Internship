@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68bebf505c5d5f14f46d0b2b?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
+| **[California Department of Tax and Fee Administration](https://www.cdtfa.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68bebdfd8e65e77df55b40c3?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Sep 08 |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Return Internship - Finance & Accounting](https://jobright.ai/jobs/info/68bebdf78e65e77df55b40c0?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
+| **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/68beb92d5c5d5f14f46d0a49?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| ↳ | **[FP&A and Capital Markets Summer Intern](https://jobright.ai/jobs/info/68beb8cc8e65e77df55b3ec7?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| **[JD.COM](http://corporate.jd.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68beb7158e65e77df55b3d26?utm_campaign=1052&utm_source=git)** | Fontana, CA | On Site | Sep 08 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Tax Advisory](https://jobright.ai/jobs/info/68bea98595fba9349d9650bb?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Sep 08 |
 | **[April Housing](https://www.aprilhousing.com/)** | **[Intern, Real Estate](https://jobright.ai/jobs/info/68bea37c3d31ec76b7e8b35e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Sep 08 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Debt Capital Markets Intern](https://jobright.ai/jobs/info/68bea3243d31ec76b7e8b338?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Sep 08 |
 | **[ALLDATA](http://www.alldata.com/)** | **[AutoZone 2026 Summer Internship – Internal Audit](https://jobright.ai/jobs/info/68bea2aec4c5904ff600740d?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
@@ -73,18 +80,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Investment Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68be895fe57feb02eb0af2ca?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Accounting](https://jobright.ai/jobs/info/68be892fc4c5904ff6007106?utm_campaign=1052&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/68be888f3d31ec76b7e8afc3?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Sep 08 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/68be83823d31ec76b7e8ad50?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Sep 08 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/68b8f33907090163b6ba6656?utm_campaign=1052&utm_source=git)** | Kansas City, KS | On Site | Sep 08 |
+| **[Cerity Partners](https://ceritypartners.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68be83823d31ec76b7e8ad50?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Sep 08 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Global Capital Markets Summer Analyst](https://jobright.ai/jobs/info/68be8364c4c5904ff6006e10?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[FP&A and Capital Markets Summer Intern](https://jobright.ai/jobs/info/68be80643d31ec76b7e8ad0f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
 | ↳ | **[Accounting Summer Intern](https://jobright.ai/jobs/info/68be8049c4c5904ff6006dbf?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Finance & Accounting Intern: Stars Summer 2026](https://jobright.ai/jobs/info/68be7fa03d31ec76b7e8acff?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Sep 08 |
 | **[Corient](https://corient.com)** | **[Wealth Planning Intern: Birmingham, MI (Summer 2026)](https://jobright.ai/jobs/info/68be6e3de57feb02eb0ae7ca?utm_campaign=1052&utm_source=git)** | Birmingham, MI | On Site | Sep 07 |
 | ↳ | **[Wealth Planning Intern: Shaker Heights, OH (Summer 2026)](https://jobright.ai/jobs/info/68be6e35c4c5904ff60066ee?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH | On Site | Sep 07 |
 | ↳ | **[Wealth Planning Intern: Atlanta (Summer 2026)](https://jobright.ai/jobs/info/68be6b413d31ec76b7e8a564?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
 | ↳ | **[Wealth Planning Intern: NYC (Summer 2026)](https://jobright.ai/jobs/info/68be6a663d31ec76b7e8a33a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68be69253d31ec76b7e8a2c6?utm_campaign=1052&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68be6925e57feb02eb0ae4b8?utm_campaign=1052&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Finance & Accounting Intern: Stars Summer 2026](https://jobright.ai/jobs/info/68be691ee57feb02eb0ae4b2?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
-| **[Williams](https://www.williams.com)** | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68be68f7c4c5904ff60063a7?utm_campaign=1052&utm_source=git)** | PA Pittsburgh | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68be68f7c4c5904ff60063a7?utm_campaign=1052&utm_source=git)** | PA Pittsburgh | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68be68c3c4c5904ff6006334?utm_campaign=1052&utm_source=git)** | TX Houston - Tower | Hybrid | Sep 07 |
 | **[Corient](https://corient.com)** | **[Wealth Planning Intern: Seattle, WA (Summer 2026)](https://jobright.ai/jobs/info/68be689be57feb02eb0ae3f4?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Sep 07 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Finance & Accounting Internship - General](https://jobright.ai/jobs/info/68be689a3d31ec76b7e8a2ab?utm_campaign=1052&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Core Tax Intern - Summer 2027 (Cleveland or Akron)](https://jobright.ai/jobs/info/68bd824ce57feb02eb0abd68?utm_campaign=1052&utm_source=git)** | 3875 Embassy Pkwy, Akron, OH, 44333, US | On Site | Sep 07 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68bd8043e57feb02eb0abd15?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Sep 07 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/68bd7b79df5eec448f63cc60?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Sep 07 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets: Equity Research](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 07 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Baltimore)](https://jobright.ai/jobs/info/677c2ff95b0046ffd7d56f03?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Sep 07 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68bd54eb68300c452ca1935f?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Sep 07 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Global Finance & Business Management - Summer Analyst (NY Metro)](https://jobright.ai/jobs/info/6868099f35584b6542c10b39?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 07 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/679066b2d725730958100200?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Sep 07 |
-| ↳ | **[Assurance Intern - Summer 2026 (Baltimore)](https://jobright.ai/jobs/info/677c4716c5c50c483be5567c?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Sep 07 |
-| ↳ | **[Core Tax Intern - Summer 2026 (Norfolk)](https://jobright.ai/jobs/info/677ed596b193cc93071bb661?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Sep 07 |
-| ↳ | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/6792a71b93d549cdf8f7b49e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
