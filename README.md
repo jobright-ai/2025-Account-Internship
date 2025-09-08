@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cerity Partners](https://ceritypartners.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/68be1579c4c5904ff60047ab?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Sep 07 |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Risk Control - NC](https://jobright.ai/jobs/info/68be1562e57feb02eb0aca40?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Sep 07 |
+| ↳ | **[2026 Summer Internship - Investment Banking Operations - NC](https://jobright.ai/jobs/info/68be1547e57feb02eb0aca3a?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Sep 07 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Public Finance (Austin, TX)](https://jobright.ai/jobs/info/68bdf9bdc4c5904ff600467b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Sep 07 |
 | ↳ | **[Intern - Operations](https://jobright.ai/jobs/info/68bdf929c4c5904ff600464a?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 07 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68bdf7d8e57feb02eb0ac882?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Sep 07 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68bdf4b9e57feb02eb0ac856?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Sep 07 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026 Investment Internship](https://jobright.ai/jobs/info/68bdf45ddf5eec448f63d89e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 07 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68bdeda2c4c5904ff600452e?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Sep 07 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Family Office Tax Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68bde053c4c5904ff6004488?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Accounting Internal Controls Intern- Summer 2026](https://jobright.ai/jobs/info/68bddfd3c4c5904ff6004464?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Fund Accounting Summer](https://jobright.ai/jobs/info/68bdda98df5eec448f63d6ee?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Sep 07 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68bdbcf0df5eec448f63d446?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Sep 07 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Audit Intern](https://jobright.ai/jobs/info/68bdae54df5eec448f63d33a?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Sep 07 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/68bdaaa0e57feb02eb0ac2e3?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Sep 07 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2026 Tax Intern - Richmond](https://jobright.ai/jobs/info/6811644104fcee544ad5236b?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Sep 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68bd9faee57feb02eb0ac1ea?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Sep 07 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Charlotte](https://jobright.ai/jobs/info/683bef89ba832780a8fd5657?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 07 |
 | **[Growvix](https://www.linkedin.com/company/104166605)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68bd9bf0e57feb02eb0ac17e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Remote | Sep 07 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Tax Department Intern - The Toro Company](https://jobright.ai/jobs/info/68bd8ca8df5eec448f63cf80?utm_campaign=1052&utm_source=git)** | Hennepin County, MN | On Site | Sep 07 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Cleveland or Akron)](https://jobright.ai/jobs/info/68bd8c8fe57feb02eb0abf3f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Sep 07 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/68bd8820e57feb02eb0abeee?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 07 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/68bda6afe57feb02eb0ac28b?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Sep 07 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Cleveland or Akron)](https://jobright.ai/jobs/info/68bd8251c4c5904ff6003aca?utm_campaign=1052&utm_source=git)** | 3875 Embassy Pkwy, Akron, OH, 44333, US | On Site | Sep 07 |
 | ↳ | **[Core Tax Intern - Summer 2027 (Cleveland or Akron)](https://jobright.ai/jobs/info/68bd824ce57feb02eb0abd68?utm_campaign=1052&utm_source=git)** | 3875 Embassy Pkwy, Akron, OH, 44333, US | On Site | Sep 07 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68bd8043e57feb02eb0abd15?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Sep 07 |
@@ -119,7 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/67906552d7257309580ff842?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Sep 07 |
 | ↳ | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/67e5d0f4002722fdd01857e7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Sep 07 |
 | **[CareBridge](https://www.carebridgehealth.com)** | **[Accounting Intern, Part-Time Fall 2025](https://jobright.ai/jobs/info/68bd4d4a68300c452ca192e9?utm_campaign=1052&utm_source=git)** | Mason, OH | Hybrid | Sep 07 |
-| **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68bd4a8cae79610dacddf529?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Sep 07 |
+| **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/68bd45c43bf9eb44f83278e4?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Sep 07 |
 | **[Metallus Inc.](https://metallus.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68bd663be57feb02eb0aba5a?utm_campaign=1052&utm_source=git)** | Canton, MI | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68af5e35962903596357c200?utm_campaign=1052&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Global Private Debt](https://jobright.ai/jobs/info/68bd37f43bf9eb44f8327744?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Sep 07 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[AGI Fabricators](http://www.agifabricators.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/68bc9c63ae79610dacddbeee?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Accounting Intern- Summer 2026](https://jobright.ai/jobs/info/68bc9a9468300c452ca15ddc?utm_campaign=1052&utm_source=git)** | Atlanta GA | Hybrid | Sep 06 |
 | ↳ | **[Risk Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bc9a64ae79610dacddbe6c?utm_campaign=1052&utm_source=git)** | Atlanta GA | Hybrid | Sep 06 |
-| **[Echofy](https://www.linkedin.com/company/104976665)** | **[Audit and Advisory Intern](https://jobright.ai/jobs/info/68bc936c3bf9eb44f832440e?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Remote | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5cc9ee94dc911a6ae?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Family Office Tax Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68bc8e243bf9eb44f83243c7?utm_campaign=1052&utm_source=git)** | Atlanta GA | Hybrid | Sep 06 |
 | ↳ | **[Accounting Internal Controls Intern- Summer 2026](https://jobright.ai/jobs/info/68bc8ddf68300c452ca15cfa?utm_campaign=1052&utm_source=git)** | Atlanta GA | Hybrid | Sep 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68bc76efae79610dacddbadd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[Barclays](https://home.barclays)** | **[International Corporate Banking Analyst Graduate Program 2026 New York](https://jobright.ai/jobs/info/68bc73c568300c452ca15a0e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Chicago, IL](https://jobright.ai/jobs/info/68bc72c8ae79610dacddba8e?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 06 |
-| **[NYC Campaign Finance Board](http://www.nyccfb.info)** | **[Procurement Analyst (Part-Time College Aide)](https://jobright.ai/jobs/info/68bc6f6b3bf9eb44f8324001?utm_campaign=1052&utm_source=git)** | Manhattan, NY | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
