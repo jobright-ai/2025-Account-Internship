@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Accounting - New Orleans, LA - Hybrid](https://jobright.ai/jobs/info/68c8f87195f5211cd2cec301?utm_campaign=1052&utm_source=git)** | New Orleans, LA | Hybrid | Sep 15 |
+| **[Endries International, Inc.](https://www.endries.com)** | **[Part-Time Accounting Intern (High School)](https://jobright.ai/jobs/info/68c8f3e6f9c6ff7aedf15588?utm_campaign=1052&utm_source=git)** | Brillion, WI | On Site | Sep 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Accounting Intern - Knoxville](https://jobright.ai/jobs/info/68c8f380983e6768bc554238?utm_campaign=1052&utm_source=git)** | Alcoa, TN | On Site | Sep 15 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68c8f01f95f5211cd2cebac0?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | Sep 15 |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Investment Banking Internship](https://jobright.ai/jobs/info/68c8ea8395f5211cd2ceb64e?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 15 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Pricing Analysis Intern](https://jobright.ai/jobs/info/68c8e92095f5211cd2ceb29d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Sep 15 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Summer Tax Intern - Long Island](https://jobright.ai/jobs/info/68c8e7a4f9c6ff7aedf1465e?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 15 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 E-Risk Underwriting Intern](https://jobright.ai/jobs/info/68c8e262983e6768bc552c6c?utm_campaign=1052&utm_source=git)** | Rockaway, NJ | On Site | Sep 15 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Long Island](https://jobright.ai/jobs/info/68c8e072f9c6ff7aedf13dfd?utm_campaign=1052&utm_source=git)** | Woodbury, NY | Hybrid | Sep 15 |
+| **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - Internal Audit Data Analyst Intern](https://jobright.ai/jobs/info/68c8e00895f5211cd2cea650?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Sep 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Summer Intern, Client Accounting, Tempe](https://jobright.ai/jobs/info/68c8dbf0983e6768bc55275c?utm_campaign=1052&utm_source=git)** | Tempe, Arizona, USA | On Site | Sep 15 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Internship - NYC](https://jobright.ai/jobs/info/68c8db98983e6768bc55269a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 15 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Sourcing Product Cost Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c8d993983e6768bc552209?utm_campaign=1052&utm_source=git)** | Fort Collins, CO | On Site | Sep 15 |
@@ -77,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68c8cbcd95f5211cd2ce96f0?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 15 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Catastrophe Risk Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/68c8cb93983e6768bc55176e?utm_campaign=1052&utm_source=git)** | Plymouth, MN | Hybrid | Sep 15 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68c8cb7ef9c6ff7aedf12c4a?utm_campaign=1052&utm_source=git)** | Des Plaines, IL | Hybrid | Sep 15 |
-| **[First Financial Bank Texas](https://ffin.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68c8caf7f9c6ff7aedf12b96?utm_campaign=1052&utm_source=git)** | Abilene, TX | On Site | Sep 15 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/68c8caab983e6768bc5515f5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 15 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Private Investments](https://jobright.ai/jobs/info/68c8ca3b95f5211cd2ce94bc?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Sep 15 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68c8ca1595f5211cd2ce94a0?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veritiv](https://www.veritiv.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/68c8ac9a983e6768bc55003f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Sep 15 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68c8aa8ef9c6ff7aedf1153b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 15 |
 | **[Lazard](http://www.lazard.com)** | **[2026 Lazard Investment Banking Summer Associate - San Francisco Technology](https://jobright.ai/jobs/info/68c8a98af9c6ff7aedf1141c?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Sep 15 |
-| **[Liberty First Credit Union](https://www.libertyfirstcu.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68c8a826f9c6ff7aedf11275?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Sep 15 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68c8a64595f5211cd2ce7e03?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 15 |
-| ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68c8a44895f5211cd2ce7af6?utm_campaign=1052&utm_source=git)** | Mount Laurel, NJ | On Site | Sep 15 |
-| **[Forbright Bank](https://www.congressionalbank.com/)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/68c8a2bb983e6768bc54fe5e?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Sep 15 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Structured Finance Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68c8c1e1983e6768bc551461?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Sep 15 |
-| **[Americo Financial Life and Annuity](http://americo.com)** | **[Summer 2026 Actuarial Internship](https://jobright.ai/jobs/info/68c8a1b895f5211cd2ce7744?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Sep 15 |
-| **[National Car Rental](https://www.nationalcar.com)** | **[Accounting Intern  Summer 2026](https://jobright.ai/jobs/info/68c8a15f95f5211cd2ce76c3?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Sep 15 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Finance Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c8a15ef9c6ff7aedf10f8a?utm_campaign=1052&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
-| **[84.51˚](http://8451.com/)** | **[Accounting/Billing - Co-op Program - Spring 2026](https://jobright.ai/jobs/info/68c8a0f995f5211cd2ce75f0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
