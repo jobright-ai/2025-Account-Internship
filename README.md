@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Summer 2026 Accounting Co-Op](https://jobright.ai/jobs/info/68acfa3cdaf1431824c9982d?utm_campaign=1052&utm_source=git)** | Wickliffe, OH | On Site | Sep 16 |
+| **[Zip Co](https://zip.co)** | **[Internal Controls Oversight Lead](https://jobright.ai/jobs/info/68aca609758f2e4ac300753c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 16 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Retirement Actuarial Internship – Southeast- Summer 2026](https://jobright.ai/jobs/info/68acb2fdd627244576e48160?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Sep 16 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Debt Capital Markets Intern](https://jobright.ai/jobs/info/68c92ef295f5211cd2cef382?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Sep 16 |
 | **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/68c92de1a0c52d598ea36311?utm_campaign=1052&utm_source=git)** | Burlington, VT | On Site | Sep 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Los Angeles)](https://jobright.ai/jobs/info/68ad16c9758f2e4ac300ae5c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 16 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/68c915cf95f5211cd2cee534?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Sep 16 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c9145495f5211cd2cee50f?utm_campaign=1052&utm_source=git)** | US-FL-Miami | On Site | Sep 16 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Summer Intern, Client Accounting, Tempe](https://jobright.ai/jobs/info/68c9123cf9c6ff7aedf177c7?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Sep 16 |
+| **[Expand Energy](www.expandenergy.com)** | **[Intern - Investor Relations](https://jobright.ai/jobs/info/68c9356cf9c6ff7aedf18c55?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Sep 16 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Accounting](https://jobright.ai/jobs/info/68c909fb983e6768bc555ff0?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Sep 15 |
 | **[MetLife Investment Management](https://investments.metlife.com/)** | **[2026 Public Fixed Income Analyst](https://jobright.ai/jobs/info/68a8feb86acf96396f724074?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Sep 15 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68c8ff38983e6768bc555015?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Sep 15 |
@@ -95,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Summer Internship - NYC](https://jobright.ai/jobs/info/68c8d808983e6768bc551e79?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 15 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Tucson, AZ Summer 2026)](https://jobright.ai/jobs/info/68c8d7b7983e6768bc551ddb?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Sep 15 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Transfer Pricing Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c8d62795f5211cd2ce9a6c?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Sep 15 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Summer Intern - Melville, NY](https://jobright.ai/jobs/info/68c8d60af9c6ff7aedf13172?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Sep 15 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68c8cfa8983e6768bc551bbf?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Sep 15 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Orange County Area / Fall 2025)](https://jobright.ai/jobs/info/68c8cf5e983e6768bc551b53?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Sep 15 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68c8ce93983e6768bc551a76?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Sep 15 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax and Audit Intern - Fall 2025 - Orlando, FL](https://jobright.ai/jobs/info/68c8c1d5983e6768bc55144a?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Sep 15 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68c8c18495f5211cd2ce917b?utm_campaign=1052&utm_source=git)** | Manassas, VA | On Site | Sep 15 |
 | **[Battelle](http://www.battelle.org)** | **[IT Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9148ea0c52d598ea3531b?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Sep 15 |
+| **[Solen Software Group](https://solensoftwaregroup.com)** | **[M&A Internship](https://jobright.ai/jobs/info/68c8c113983e6768bc5513a2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[US Consumer Bank Analyst Summer Internship Program 2026 Wilmington](https://jobright.ai/jobs/info/68c8c109983e6768bc551391?utm_campaign=1052&utm_source=git)** | Wilmington, DE | On Site | Sep 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Central FL](https://jobright.ai/jobs/info/68c8c0fa983e6768bc55137d?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Sep 15 |
 | **[D.A. Davidson Companies](http://www.davidsoncompanies.com/)** | **[Investment Banking Summer Analyst, Diversified Industrials Group](https://jobright.ai/jobs/info/68c8c01395f5211cd2ce8f4c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax and Audit Intern - Spring 2026 - Bethlehem, PA](https://jobright.ai/jobs/info/68c8b69ef9c6ff7aedf11cf7?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Sep 15 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68c8b654f9c6ff7aedf11c4f?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Sep 15 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Internal Audit and Controls Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68c8b62ef9c6ff7aedf11bf2?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Sep 15 |
-| **[Solen Software Group](https://solensoftwaregroup.com)** | **[M&A Internship](https://jobright.ai/jobs/info/68c8b5d295f5211cd2ce8a0f?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
-| **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Credit Associate Intern](https://jobright.ai/jobs/info/68c8b4e195f5211cd2ce8851?utm_campaign=1052&utm_source=git)** | Bloomington, IL, United States | On Site | Sep 15 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 E-Risk Underwriting Intern](https://jobright.ai/jobs/info/68c8b4c395f5211cd2ce8803?utm_campaign=1052&utm_source=git)** | New Jersey - Rockaway, 100 Enterprise Drive | On Site | Sep 15 |
-| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Intern](https://jobright.ai/jobs/info/68c8b4a895f5211cd2ce87b8?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
