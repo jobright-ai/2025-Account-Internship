@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (San Diego)](https://jobright.ai/jobs/info/68ca7e7f46caff4db51ffe2f?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Sep 17 |
+| **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68ca77b606a34016008c8e9e?utm_campaign=1052&utm_source=git)** | Lititz, PA | On Site | Sep 17 |
+| **[GlobalFoundries](https://gf.com/)** | **[Finance & Business Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca6aeb06a34016008c85bf?utm_campaign=1052&utm_source=git)** | Malta, NY | On Site | Sep 17 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Pool: Student Accounting Assistant](https://jobright.ai/jobs/info/68ca66525f9f0336447dd61e?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 17 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Finance Development Program Internship](https://jobright.ai/jobs/info/68ca5a1506a34016008c74fa?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Sep 16 |
+| **[Minot State University](http://www.minotstateu.edu/)** | **[Treasurer - Student - International Programs](https://jobright.ai/jobs/info/68ca6f5306a34016008c8b0a?utm_campaign=1052&utm_source=git)** | Minot, ND | On Site | Sep 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68ca523446caff4db51fd397?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/68ca4c2846caff4db51fce50?utm_campaign=1052&utm_source=git)** | Troy Hills, NJ | On Site | Sep 16 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68ca3e6af61c922772a75980?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Sep 16 |
@@ -82,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/68ca2e03d4187c55157a723c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 | **[Beacon Ridge](https://www.linkedin.com/company/108612819)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68ca2e03d4187c55157a723b?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Sep 16 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[IT Audit Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/68ca2d66f61c922772a739c7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 16 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/68ca2b76f16e3266d2823630?utm_campaign=1052&utm_source=git)** | Georgia - Atlanta | Hybrid | Sep 16 |
-| ↳ | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/68ca2b65f61c922772a738cc?utm_campaign=1052&utm_source=git)** | Indiana - Indianapolis | On Site | Sep 16 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/68ca2b8dd4187c55157a6e71?utm_campaign=1052&utm_source=git)** | Georgia - Atlanta | Hybrid | Sep 16 |
+| ↳ | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/68ca2b77f16e3266d2823637?utm_campaign=1052&utm_source=git)** | Indiana - Indianapolis | On Site | Sep 16 |
 | ↳ | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/68ca51f45f9f0336447dba62?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 16 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Associate – Audit, Tax & Advisory](https://jobright.ai/jobs/info/68ca2904f61c922772a7384e?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Sep 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (San Diego)](https://jobright.ai/jobs/info/68ca2758f61c922772a73666?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Sep 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68c9e6ce84fc1901fd41a7a0?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Sep 16 |
 | **[FM](https://www.fmglobal.com)** | **[Investments Intern - Graduate Student](https://jobright.ai/jobs/info/68c9e683f9c6ff7aedf1f08c?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 16 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (San Diego Area-Winter 2026 )](https://jobright.ai/jobs/info/68c9e5ee84fc1901fd41a668?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Sep 16 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68c9e5d695f5211cd2cf58d4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Sep 16 |
-| **[Dentsply Sirona Brasil](http://www.dentsplysirona.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68c9e4e4f9c6ff7aedf1ef65?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Staff Procurement Analyst](https://jobright.ai/jobs/info/68c9e4bbf9c6ff7aedf1ef24?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 16 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Real Estate - Summer 2026](https://jobright.ai/jobs/info/68c9e48df9c6ff7aedf1eecf?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
