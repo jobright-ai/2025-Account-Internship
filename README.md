@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025 / Orange County Area)](https://jobright.ai/jobs/info/68ce332b1ad6b16f028a2eb9?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Sep 19 |
+| **[Mize CPAs Inc.](http://www.mizecpas.com)** | **[Spring 2026 Accounting Intern](https://jobright.ai/jobs/info/68ce2cd1e23def7af55c2d86?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Sep 19 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Business Audit Intern](https://jobright.ai/jobs/info/68ce212de23def7af55c26e1?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Sep 19 |
 | **[Mize CPAs Inc.](http://www.mizecpas.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68ce1c4fe23def7af55c23d1?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[IT Audit Intern](https://jobright.ai/jobs/info/68ce159db2a74e1837edf1db?utm_campaign=1052&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
@@ -70,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Winter 2026 (Chicago)](https://jobright.ai/jobs/info/68ce05f11ad6b16f028a1160?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68ce05911ad6b16f028a1083?utm_campaign=1052&utm_source=git)** | Fargo, ND | Hybrid | Sep 19 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/68ce0560b2a74e1837ede76b?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Accountant (Intern to FT Conversion)](https://jobright.ai/jobs/info/68ce054bb2a74e1837ede741?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Sep 19 |
 | **[Comerica Bank](https://www.comerica.com/)** | **[Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/68ce052eb2a74e1837ede6f2?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/68ce04fe1ad6b16f028a0f59?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Sep 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Miami)](https://jobright.ai/jobs/info/68ce04f0b2a74e1837ede673?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Sep 19 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Procurement Intern](https://jobright.ai/jobs/info/68ce040de23def7af55c15b8?utm_campaign=1052&utm_source=git)** | Wisconsin, United States | On Site | Sep 19 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/68ce03ffe23def7af55c1594?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Sep 19 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Accountant (Intern to FT Conversion)](https://jobright.ai/jobs/info/68ce03e1e23def7af55c154c?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Sep 19 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68ce038be23def7af55c148a?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Sep 19 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/68ce0366e23def7af55c1439?utm_campaign=1052&utm_source=git)** | Bowling Green, OH | On Site | Sep 19 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68ce0360e23def7af55c1423?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
@@ -140,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Accountant (Intern to FT Conversion)](https://jobright.ai/jobs/info/68cddab21ad6b16f0289f78e?utm_campaign=1052&utm_source=git)** | San Antonio, Texas | On Site | Sep 19 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Winter 2026 - Audit Intern (Downtown Los Angeles)](https://jobright.ai/jobs/info/68cddab11ad6b16f0289f78c?utm_campaign=1052&utm_source=git)** | El Segundo, California | Hybrid | Sep 19 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Financial Assurance](https://jobright.ai/jobs/info/68cddab01ad6b16f0289f78a?utm_campaign=1052&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | On Site | Sep 19 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Accountant (Intern to FT Conversion)](https://jobright.ai/jobs/info/68cdda91b2a74e1837edcd28?utm_campaign=1052&utm_source=git)** | Findlay, Ohio | On Site | Sep 19 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Winter 2026 - Audit Intern (Century City)](https://jobright.ai/jobs/info/68cdda8be23def7af55bfbad?utm_campaign=1052&utm_source=git)** | Century City, California | Hybrid | Sep 19 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Financial Assurance](https://jobright.ai/jobs/info/68cdda651ad6b16f0289f720?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 19 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Accountant (Intern to FT Conversion)](https://jobright.ai/jobs/info/68cdda421ad6b16f0289f6e8?utm_campaign=1052&utm_source=git)** | Findlay, Ohio | On Site | Sep 19 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Winter 2026 - Audit Intern (Irvine)](https://jobright.ai/jobs/info/68cdda061ad6b16f0289f6a4?utm_campaign=1052&utm_source=git)** | Irvine, California | Hybrid | Sep 19 |
 | **[Northmarq](http://www.northmarq.com)** | **[Summer Rotational Internship (Agency Platform) - Commercial Real Estate Finance](https://jobright.ai/jobs/info/68cdd4e3b2a74e1837edcb8c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
 | **[Mize CPAs Inc.](http://www.mizecpas.com)** | **[Spring 2026 Accounting Intern](https://jobright.ai/jobs/info/68cdd02cb2a74e1837edca4d?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Group One Trading](http://group1.com)** | **[Trading Analyst Intern](https://jobright.ai/jobs/info/68cdc4f6b2a74e1837edc3ca?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68cdc3a3e23def7af55bf1af?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Sep 19 |
 | **[Performance Trust Capital Partners](http://www.performancetrust.com)** | **[2026 Investment Banking Summer Analyst (Internship)](https://jobright.ai/jobs/info/68cdc3321ad6b16f0289ec71?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Ag Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/68cdc31d1ad6b16f0289ec59?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Sep 19 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68cdc2fce23def7af55befe3?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
