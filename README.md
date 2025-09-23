@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Actuarial Intern - Part-Time](https://jobright.ai/jobs/info/68d262418c62e63bc7fd75ee?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 23 |
+| **[La Sierra University](http://www.lasierra.edu/)** | **[Payroll, Student Assistant](https://jobright.ai/jobs/info/68d25be98c62e63bc7fd73d6?utm_campaign=1052&utm_source=git)** | Riverside, CA | On Site | Sep 23 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Finance Intern - MBA - Summer 2026](https://jobright.ai/jobs/info/68d2513417554c2d9eee6e3a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Hybrid | Sep 23 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Tifton, Ga)](https://jobright.ai/jobs/info/68d24cf08c62e63bc7fd6c0c?utm_campaign=1052&utm_source=git)** | Tifton, GA | On Site | Sep 23 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Tax Intern – Summer 2026](https://jobright.ai/jobs/info/68d24afd8c62e63bc7fd689e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Pool: Finance Student Assistant](https://jobright.ai/jobs/info/68d24ab08c62e63bc7fd685b?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Summer Intern 2026](https://jobright.ai/jobs/info/68d1bd7ca54edb3bf3e15c04?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | ↳ | **[Financial Reporting Accounting Summer Intern 2026](https://jobright.ai/jobs/info/68d1bd0417554c2d9eedf263?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | ↳ | **[Municipal Surveillance General Obligation Sector Summer Intern 2026](https://jobright.ai/jobs/info/68d1bc758c62e63bc7fcf444?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| ↳ | **[Structured Finance Summer Intern 2026](https://jobright.ai/jobs/info/68d1bada8c62e63bc7fcf22e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[Brown Advisory](http://www.brownadvisory.com)** | **[Strategic Advisory Co-op](https://jobright.ai/jobs/info/68d1b81217554c2d9eedef75?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 22 |
-| **[Beacon Ridge](https://www.linkedin.com/company/108612819)** | **[Tax Intern-Winter/Summer 2026](https://jobright.ai/jobs/info/68d1b73317554c2d9eededae?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
