@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Commercial Loan Servicing (Summer 2026)](https://jobright.ai/jobs/info/68d37c0f8c62e63bc7fe1cf3?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Sep 23 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/68d368018c62e63bc7fe0b23?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Sep 23 |
 | ↳ | **[Grant Accountant - Tahlequah](https://jobright.ai/jobs/info/68d36101f0d9af73038e1c11?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Sep 23 |
 | **[Balsam Green](www.balsamgreen.com)** | **[Acquisitions & Development Intern - Summer 2026](https://jobright.ai/jobs/info/68d3603617554c2d9eef08c1?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Sep 23 |
@@ -69,9 +70,11 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Summer 2026/ Long Island](https://jobright.ai/jobs/info/68d3598617554c2d9eef016d?utm_campaign=1052&utm_source=git)** | Woodbury, NY | Hybrid | Sep 23 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68d358ea17554c2d9eef0067?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Sep 23 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68d3577a8c62e63bc7fdfedd?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 23 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Finance Intern  (Summer 2026)](https://jobright.ai/jobs/info/68d374c58c62e63bc7fe1629?utm_campaign=1052&utm_source=git)** | Coraopolis, PA | On Site | Sep 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Impact & Inclusion Finance & Insights Intern](https://jobright.ai/jobs/info/68d354ba17554c2d9eeeff7d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Finance Intern](https://jobright.ai/jobs/info/68d353bb8c62e63bc7fdfd04?utm_campaign=1052&utm_source=git)** | Shakopee, MN | On Site | Sep 23 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/68d3530e17554c2d9eeefdb5?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Sep 23 |
+| **[KLN Family Brands](https://www.klnfamilybrands.com/)** | **[Inventory Control Internship](https://jobright.ai/jobs/info/68d3754317554c2d9eef1824?utm_campaign=1052&utm_source=git)** | Perham, MN | On Site | Sep 23 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/68d34e01f0d9af73038e0ee7?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Sep 23 |
 | **[Carboline](https://www.carboline.com)** | **[Credit Intern - Summer 2026](https://jobright.ai/jobs/info/68d34d4d17554c2d9eeefaaa?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Sep 23 |
 | **[Citi](https://www.citi.com)** | **[Wealth – Summer Analyst, Los Angeles– USA, 2026](https://jobright.ai/jobs/info/68d34d0f17554c2d9eeefa55?utm_campaign=1052&utm_source=git)** | East Los Angeles, CA | On Site | Sep 23 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Renasant Bank](https://www.renasantbank.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68d33e8117554c2d9eeeef2d?utm_campaign=1052&utm_source=git)** | Tupelo, MS | On Site | Sep 23 |
 | **[Fifth Third Bank](http://53.com)** | **[Financial Audit Externship - Summer 2026](https://jobright.ai/jobs/info/68d33dcb17554c2d9eeeee8b?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Sep 23 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Western, WI](https://jobright.ai/jobs/info/68d33d9217554c2d9eeeee58?utm_campaign=1052&utm_source=git)** | Rice Lake, WI | On Site | Sep 23 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2026 Internship - Sunrise, FL](https://jobright.ai/jobs/info/686389ff5017de06f8590720?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Sep 23 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Commercial Credit Analyst (Omaha, NE)](https://jobright.ai/jobs/info/68d33954f0d9af73038e0046?utm_campaign=1052&utm_source=git)** | Omaha Metropolitan Area | On Site | Sep 23 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68d339368c62e63bc7fdecd3?utm_campaign=1052&utm_source=git)** | Detroit Metro | On Site | Sep 23 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68d3390d8c62e63bc7fdeca0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Actuarial](https://jobright.ai/jobs/info/68d3089f17554c2d9eeed3ba?utm_campaign=1052&utm_source=git)** | UNITED STATES-NY-New York | Hybrid | Sep 23 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2026 (Chicago)](https://jobright.ai/jobs/info/68d3087f8c62e63bc7fdd04e?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Investment Internship Co-op - Summer 2026-Winter 2026](https://jobright.ai/jobs/info/68d3086ff0d9af73038de6d0?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
-| **[The Parr McKnight Wealth Management Group](https://parrmcknightwmg.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/68d3085b8c62e63bc7fdd026?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Sep 23 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Treasury Intern- Summer 2026](https://jobright.ai/jobs/info/68d308478c62e63bc7fdcff7?utm_campaign=1052&utm_source=git)** | Trenton, NJ | On Site | Sep 23 |
-| **[Number 6](https://www.linkedin.com/company/108269947)** | **[Banking Treasury Management Intern](https://jobright.ai/jobs/info/68d30841f0d9af73038de6a2?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | Remote | Sep 23 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Durango, CO Summer 2026)](https://jobright.ai/jobs/info/68d30621f0d9af73038de4a6?utm_campaign=1052&utm_source=git)** | Durango, CO | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
