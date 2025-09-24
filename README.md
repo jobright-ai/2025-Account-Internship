@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[State Street - Finance Summer Internship -](https://jobright.ai/jobs/info/68d3d0445ae5a90cfd481c35?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 24 |
+| ↳ | **[Tax Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68d3ca8f8c62e63bc7fe4827?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 24 |
+| ↳ | **[Discovery Program: Equity + Macro Research (On-site) - Susquehanna International Group](https://jobright.ai/jobs/info/68d3c9f117554c2d9eef4894?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 24 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/68d3c9a85ae5a90cfd481b42?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Sep 24 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Greater Washington DC)](https://jobright.ai/jobs/info/68b750471ade4306aa64a07f?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Sep 24 |
+| ↳ | **[Core Tax Intern - Summer 2026 (Greater Washington DC)](https://jobright.ai/jobs/info/68b74a93f4e41a61efd97c69?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Sep 24 |
+| ↳ | **[Core Tax Intern - Summer 2026 (Anchorage)](https://jobright.ai/jobs/info/68b748541ade4306aa6499df?utm_campaign=1052&utm_source=git)** | Anchorage, AK | Hybrid | Sep 24 |
+| ↳ | **[Core Tax Intern - Summer 2027 (Greater Washington DC)](https://jobright.ai/jobs/info/68b79ad21ade4306aa64c95b?utm_campaign=1052&utm_source=git)** | Potomac, MD | Hybrid | Sep 24 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Discovery Program: Quantitative Trading (On-site) - Susquehanna International Group](https://jobright.ai/jobs/info/68d3d67117554c2d9eef4ab8?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 24 |
 | **[Partners for Growth](https://www.pfgrowth.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68d3b5ea952b4a32e23d8b53?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Sep 24 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern Summer 2027, Global Transaction Advisory Group – Financial Due Diligence](https://jobright.ai/jobs/info/68cfd1e3fb49c96ca6eabcdf?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Sep 24 |
+| ↳ | **[Intern, Private Client Services Tax - Summer 2026](https://jobright.ai/jobs/info/68115d0581abbfddc127830e?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Sep 24 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/68cedd06fb49c96ca6ea3f0f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Accounting Assistant](https://jobright.ai/jobs/info/68d3ac16952b4a32e23d871d?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Sep 24 |
 | **[Hays County](http://hayscountytx.com)** | **[Treasurer Office Intern](https://jobright.ai/jobs/info/68d39eac952b4a32e23d7f97?utm_campaign=1052&utm_source=git)** | San Marcos, TX | On Site | Sep 24 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Revenue Management Intern](https://jobright.ai/jobs/info/68d3918217554c2d9eef2d87?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Sep 23 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Risk, Claims Recovery - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68d3225417554c2d9eeee214?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
 | **[Alexander Hutton](http://www.alexanderhutton.com/)** | **[2026 Investment Banking Summer Analyst](https://jobright.ai/jobs/info/68d322498c62e63bc7fddffe?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Sep 23 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Western, WI](https://jobright.ai/jobs/info/68d322198c62e63bc7fddfa2?utm_campaign=1052&utm_source=git)** | Rice Lake, WI | On Site | Sep 23 |
-| **[Zip Co](https://zip.co)** | **[Internal Controls Oversight Lead](https://jobright.ai/jobs/info/68d3220217554c2d9eeee1bd?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Sep 23 |
-| **[Adams Street Partners](https://www.adamsstreetpartners.com)** | **[Intern, Investment Accounting - Private Equity](https://jobright.ai/jobs/info/68d320c917554c2d9eeee044?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 23 |
-| **[Klaviyo](http://www.klaviyo.com)** | **[Accounting Co-op (Spring 2026)](https://jobright.ai/jobs/info/68d3209df0d9af73038df26e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 23 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 StepStone Group Tax Intern](https://jobright.ai/jobs/info/68d32095f0d9af73038df266?utm_campaign=1052&utm_source=git)** | La Jolla | On Site | Sep 23 |
-| **[CMAC Partners](https://cmacpartners.com/)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/68d318458c62e63bc7fddb09?utm_campaign=1052&utm_source=git)** | Winter Park, FL | On Site | Sep 23 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Analyst, Charlotte, NC - USA 2026](https://jobright.ai/jobs/info/68d315788c62e63bc7fdd8f7?utm_campaign=1052&utm_source=git)** | 615 S COLLEGE STREET | On Site | Sep 23 |
-| **[Gunvor Group](https://gunvorgroup.com/en/)** | **[Trading Commodities Intern](https://jobright.ai/jobs/info/68d31295f0d9af73038ded4d?utm_campaign=1052&utm_source=git)** | Houston | On Site | Sep 23 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Analyst, New york, NY - USA 2026](https://jobright.ai/jobs/info/68d3124117554c2d9eeed9b5?utm_campaign=1052&utm_source=git)** | New York New York United States | On Site | Sep 23 |
-| **[MarshBerry](http://marshberry.com)** | **[Transaction Advisory Intern (Summer 2026)](https://jobright.ai/jobs/info/68d31109f0d9af73038dec6d?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 23 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/68d30fd98c62e63bc7fdd690?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Remote | Sep 23 |
-| **[MarshBerry](http://marshberry.com)** | **[Transaction Advisory Intern (Summer 2026)](https://jobright.ai/jobs/info/68d30d92f0d9af73038de8db?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Sep 23 |
-| **[Kem Krest](http://kemkrest.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68d30b0317554c2d9eeed487?utm_campaign=1052&utm_source=git)** | Elkhart, IN | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
