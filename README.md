@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68d4d1a18c62e63bc7fecd73?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Sep 24 |
+| **[Assured Guaranty](http://assuredguaranty.com/)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68d1bd7ca54edb3bf3e15c04?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68d4c966ffc1276de3fde157?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 24 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68d4be51ffc1276de3fddb3a?utm_campaign=1052&utm_source=git)** | US-MO-Chesterfield | On Site | Sep 24 |
+| ↳ | **[Actuarial Intern](https://jobright.ai/jobs/info/68d4bbf38c62e63bc7fec14a?utm_campaign=1052&utm_source=git)** | MO, Chesterfield - 14755 North Outer Forty | On Site | Sep 24 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Banking Intern - Aerospace, Defense and Government Finance](https://jobright.ai/jobs/info/68d4b8dcfcd3367e8df1739b?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Sep 24 |
 | **[Melton & Melton, LLP](http://melton-melton.com)** | **[January 2027 Audit Internship](https://jobright.ai/jobs/info/68d4afdcffc1276de3fdd245?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 24 |
 | ↳ | **[January 2027 Tax Internship](https://jobright.ai/jobs/info/68d4ae1cfcd3367e8df16a79?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (New York City)](https://jobright.ai/jobs/info/68d46f7577769e778f508eba?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Accounting Intern (Winter/Spring 2026 - Onsite)](https://jobright.ai/jobs/info/68d46b5d77769e778f508dca?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 24 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68d469bb8c62e63bc7fe9227?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Sep 24 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Corporate Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68d467c8ffc1276de3fdaa63?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Sep 24 |
-| **[Regeneron](http://www.regeneron.com)** | **[2026 Summer Internship - Accounting Department](https://jobright.ai/jobs/info/68d46697ffc1276de3fda8a5?utm_campaign=1052&utm_source=git)** | SLEEPY HOLLOW | On Site | Sep 24 |
-| **[Brevan Howard](http://www.brevanhoward.com)** | **[2026 Summer Internship Program – Credit Trading, New York](https://jobright.ai/jobs/info/68d466958c62e63bc7fe9154?utm_campaign=1052&utm_source=git)** | New York (1345) | On Site | Sep 24 |
-| **[Regeneron](http://www.regeneron.com)** | **[2026 Summer Internship - Accounting Department](https://jobright.ai/jobs/info/68d466458c62e63bc7fe9111?utm_campaign=1052&utm_source=git)** | TARRYTOWN | On Site | Sep 24 |
-| ↳ | **[2026 Winter Co-op - Accounting Department](https://jobright.ai/jobs/info/68d4663cffc1276de3fda7fc?utm_campaign=1052&utm_source=git)** | TARRYTOWN | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
