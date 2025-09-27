@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[INTERN - FHN Financial - SUMMER 2026](https://jobright.ai/jobs/info/68d6de13d3fe025a3015c8bb?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Sep 26 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68d780267a37c712687cf9b1?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Sep 26 |
 | **[Zipline](http://flyzipline.com)** | **[Accounting Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76c63295f8e37655d8bac?utm_campaign=1052&utm_source=git)** | South San Francisco, California, USA | On Site | Sep 26 |
 | **[Wipfli](http://www.wipfli.com)** | **[Administrative Tax Internship- Spring 2026](https://jobright.ai/jobs/info/68d74f3acb1d8e52c9766e00?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | On Site | Sep 26 |
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/68d74e77e5293e3538af3d3e?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Sep 26 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program - Credit Analyst Intern (Campus)](https://jobright.ai/jobs/info/68d7497ce5293e3538af3a82?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Analyst Intern (Hedge Funds, Private Credit, and Public Markets)](https://jobright.ai/jobs/info/68d74939cb1d8e52c9766c8e?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Sep 26 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Fall 2025 & Spring 2026 Undergraduate Investment Analyst Intern - Investment Office](https://jobright.ai/jobs/info/68d74801cb1d8e52c9766a5a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 26 |
+| **[Robinhood](https://www.robinhood.com)** | **[Corporate Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/68d168088c62e63bc7fcafce?utm_campaign=1052&utm_source=git)** | Menlo Park, CA | On Site | Sep 26 |
 | **[Dealer Tire](http://dealertire.com)** | **[Tax Intern (Cleveland, OH)](https://jobright.ai/jobs/info/68d747a8cb1d8e52c97669cd?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Barings](https://www.barings.com/gb/individual/funds/closed-end-funds/baring-emerging-europe-plc/GB0032273343)** | **[Analyst Program - Diversified Alternative Equity](https://jobright.ai/jobs/info/68d7470df9dbe42bf62c0ee1?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Sep 26 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68d746dbcb1d8e52c97668c3?utm_campaign=1052&utm_source=git)** | Murray, UT | Remote | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Financial Reporting](https://jobright.ai/jobs/info/68d6efaf894705799a2eef9d?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 26 |
 | **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68d6ef3945853d0e39ccb1a5?utm_campaign=1052&utm_source=git)** | Bloomfield Hills, MI | On Site | Sep 26 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68d6ebd8894705799a2eed14?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Remote | Sep 26 |
-| **[FCS Financial](http://myfcsfinancial.com)** | **[Credit Services Internship](https://jobright.ai/jobs/info/68d6eb88894705799a2eec4b?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern- Accounting](https://jobright.ai/jobs/info/68d6eb69894705799a2eec21?utm_campaign=1052&utm_source=git)** | Houston, TX 77046, USA | On Site | Sep 26 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Tax Data Management & Innovation Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d6eae645853d0e39ccb111?utm_campaign=1052&utm_source=git)** | Celebration, FL, USA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
