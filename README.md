@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68db5105e19b9e63ba20ab6b?utm_campaign=1052&utm_source=git)** | Woburn, MA | On Site | Sep 29 |
+| **[Verizon](https://www.verizon.com)** | **[TMCF- 2026 Finance Internship Program](https://jobright.ai/jobs/info/68db5d2434f2c406da6d7405?utm_campaign=1052&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
+| ↳ | **[University of FL- Finance Internship Program](https://jobright.ai/jobs/info/68db5d209f13662d20e4a74d?utm_campaign=1052&utm_source=git)** | Lake Mary, Florida | Hybrid | Sep 29 |
+| ↳ | **[University of FL- Finance Internship Program](https://jobright.ai/jobs/info/68db5d1fe19b9e63ba20b3b9?utm_campaign=1052&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
+| ↳ | **[TMCF- 2026 Finance Internship Program](https://jobright.ai/jobs/info/68db5d10e19b9e63ba20b38e?utm_campaign=1052&utm_source=git)** | Lake Mary, Florida | Hybrid | Sep 29 |
+| **[Accenture](https://www.accenture.com)** | **[Client Transaction Services Summer Analyst - Chicago - NAELFY26](https://jobright.ai/jobs/info/68db5cc434f2c406da6d7362?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
+| ↳ | **[Client Transaction Services Summer Analyst - Dallas - NAELFY26](https://jobright.ai/jobs/info/68db5c6534f2c406da6d72ff?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Sep 29 |
+| ↳ | **[Client Transaction Services Summer Analyst – NYC – NAELFY26](https://jobright.ai/jobs/info/68db5c0c34f2c406da6d7293?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Client Transaction Services Summer Analyst - Atlanta - NAELFY26](https://jobright.ai/jobs/info/68db5bcee19b9e63ba20b31b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Accounting Intern (GA)](https://jobright.ai/jobs/info/68db546834f2c406da6d6c85?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/68db5105e19b9e63ba20ab6b?utm_campaign=1052&utm_source=git)** | Woburn, MA | On Site | Sep 29 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68db43cb34f2c406da6d5c97?utm_campaign=1052&utm_source=git)** | Louisville, Kentucky | On Site | Sep 29 |
 | **[Vidoori Inc.](https://www.vidoori.com/)** | **[Finance Intern (Fall Semester)](https://jobright.ai/jobs/info/68db40ece19b9e63ba209b5a?utm_campaign=1052&utm_source=git)** | Hyattsville, MD | Hybrid | Sep 29 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern](https://jobright.ai/jobs/info/68db408c9f13662d20e48ebd?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 29 |
@@ -65,8 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Finance - Summer Internship (Houston, TX) 2026 Opportunities](https://jobright.ai/jobs/info/68db4050e19b9e63ba209a1c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Sep 29 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68db403e9f13662d20e48e03?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Sep 29 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68db400ce19b9e63ba2099a3?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Sep 29 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Intern - Bethesda, MD](https://jobright.ai/jobs/info/68d2ef7917554c2d9eeebdc5?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Sep 29 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Credit Risk Analyst](https://jobright.ai/jobs/info/68db348a34f2c406da6d54ab?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 29 |
-| **[Elwyn](https://www.elwyn.org)** | **[Intern - UNPAID](https://jobright.ai/jobs/info/68db2e99e9b48513789b2756?utm_campaign=1052&utm_source=git)** | Phoenixville, PA | On Site | Sep 29 |
+| **[Elwyn](https://www.elwyn.org)** | **[Intern - UNPAID](https://jobright.ai/jobs/info/68db2fa10dffed6f83d2d162?utm_campaign=1052&utm_source=git)** | Phoenixville, PA | On Site | Sep 29 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68db2b6de9b48513789b25f3?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Sep 29 |
 | **[Accenture](https://www.accenture.com)** | **[Client Financial Management Summer Analyst - Chicago - NAELFY26](https://jobright.ai/jobs/info/68db2b350dffed6f83d2cf6a?utm_campaign=1052&utm_source=git)** | Chicago, Accenture Tower, Corp | On Site | Sep 29 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68db2ae70dffed6f83d2ce9b?utm_campaign=1052&utm_source=git)** | Peachtree Corners, GA | On Site | Sep 29 |
@@ -122,14 +132,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Transaction Services Summer Analyst – NYC – NAELFY26](https://jobright.ai/jobs/info/68dafbdb0dffed6f83d2b8c5?utm_campaign=1052&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Sep 29 |
 | ↳ | **[Client Transaction Services Summer Analyst - Dallas - NAELFY26](https://jobright.ai/jobs/info/68dafe8ae9b48513789b0d3b?utm_campaign=1052&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Sep 29 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Investment Risk Analyst Intern](https://jobright.ai/jobs/info/68daf79907c157682e570448?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 29 |
-| **[Accenture](https://www.accenture.com)** | **[Client Transaction Services Summer Analyst - Chicago - NAELFY26](https://jobright.ai/jobs/info/68dafe9ae9b48513789b0d96?utm_campaign=1052&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Sep 29 |
-| ↳ | **[Client Transaction Services Summer Analyst - Atlanta - NAELFY26](https://jobright.ai/jobs/info/68dafe92e9b48513789b0d65?utm_campaign=1052&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Sep 29 |
+| **[Accenture](https://www.accenture.com)** | **[Client Transaction Services Summer Analyst - Atlanta - NAELFY26](https://jobright.ai/jobs/info/68dafe92e9b48513789b0d65?utm_campaign=1052&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Sep 29 |
+| ↳ | **[Client Transaction Services Summer Analyst - Chicago - NAELFY26](https://jobright.ai/jobs/info/68dafe9ae9b48513789b0d96?utm_campaign=1052&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Sep 29 |
 | ↳ | **[Client Transaction Services Summer Analyst - Atlanta - NAELFY26](https://jobright.ai/jobs/info/68dafd566df7b8311bb151ca?utm_campaign=1052&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Sep 29 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Investment Risk Analyst Intern](https://jobright.ai/jobs/info/68dad7170b832179ca4b18f1?utm_campaign=1052&utm_source=git)** | Madison Wisconsin | On Site | Sep 29 |
 | ↳ | **[Private Equity Investment Analyst Intern](https://jobright.ai/jobs/info/68daf99a6df7b8311bb14e74?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 29 |
 | ↳ | **[Investment Operations Analyst Intern](https://jobright.ai/jobs/info/68daf6af07c157682e5701ce?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 29 |
 | ↳ | **[Fixed Income Quantitative Intern](https://jobright.ai/jobs/info/68dafa586df7b8311bb1501a?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Sep 29 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Accounting Clerical - Student Employment](https://jobright.ai/jobs/info/68daff960dffed6f83d2bbf3?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[FM](https://www.fmglobal.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68daff750dffed6f83d2bb83?utm_campaign=1052&utm_source=git)** | Johnston, RI | On Site | Sep 29 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Finance Intern](https://jobright.ai/jobs/info/68dafd7b6df7b8311bb15240?utm_campaign=1052&utm_source=git)** | IL - Chicago | On Site | Sep 29 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Internal Audit Intern](https://jobright.ai/jobs/info/68dafd516df7b8311bb151b3?utm_campaign=1052&utm_source=git)** | Andover, MA | Hybrid | Sep 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Associate - Strategic Advisory (Boston)](https://jobright.ai/jobs/info/68daf02d6df7b8311bb14640?utm_campaign=1052&utm_source=git)** | Boston | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[State Income Tax Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68daeffb6df7b8311bb14568?utm_campaign=1052&utm_source=git)** | Celebration, FL, USA | On Site | Sep 29 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Finance Intern](https://jobright.ai/jobs/info/68daeff96df7b8311bb14555?utm_campaign=1052&utm_source=git)** | US_WI_Sheboygan_Lakeshore Road | On Site | Sep 29 |
-| **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Associate - Strategic Advisory (Houston)](https://jobright.ai/jobs/info/68daefe707c157682e56fa16?utm_campaign=1052&utm_source=git)** | Houston | On Site | Sep 29 |
-| ↳ | **[2026 Summer Associate - Strategic Advisory (Capital Markets)](https://jobright.ai/jobs/info/68daefdc6df7b8311bb144d6?utm_campaign=1052&utm_source=git)** | New York | On Site | Sep 29 |
-| **[Ascend](https://ascendtogether.com)** | **[Intern](https://jobright.ai/jobs/info/68daefc96df7b8311bb1448e?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Sep 29 |
-| **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Associate - Strategic Advisory (New York)](https://jobright.ai/jobs/info/68daefb507c157682e56f95f?utm_campaign=1052&utm_source=git)** | New York | On Site | Sep 29 |
-| **[GlobalFoundries](https://gf.com/)** | **[Corporate Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/68cc32d716d00d2beeb1b7d6?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Sep 29 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Public Sector Finance Internship](https://jobright.ai/jobs/info/68daeb2b07c157682e56f754?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/68daeae807c157682e56f6e2?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Sep 29 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Tax Internship](https://jobright.ai/jobs/info/68daeaa46df7b8311bb14209?utm_campaign=1052&utm_source=git)** | Charleston, WV | On Site | Sep 29 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/68daea7c07c157682e56f657?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
