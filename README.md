@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newbold Advisors, LLC](http://www.newboldadvisors.com)** | **[Senior Manager, Internal Audit & Risk Oversight](https://jobright.ai/jobs/info/68de3e3544d32141e0bfe954?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Oct 02 |
+| **[The Wolff Company](http://awolff.com)** | **[Analyst 2026 Internship - Parse Capital](https://jobright.ai/jobs/info/68de3e0644d32141e0bfe8f7?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Oct 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68de3dbf44d32141e0bfe88f?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | Oct 02 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Wealth & Advice Solutions Internship](https://jobright.ai/jobs/info/68de366509bda65a4b627d0b?utm_campaign=1052&utm_source=git)** | US-IN-Indianapolis | On Site | Oct 02 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68de354d44d32141e0bfdf56?utm_campaign=1052&utm_source=git)** | Hartford County, CT | Remote | Oct 02 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Wealth & Advice Solutions Internship](https://jobright.ai/jobs/info/68de352644d32141e0bfdf2f?utm_campaign=1052&utm_source=git)** | US-TX-Austin | On Site | Oct 02 |
+| ↳ | **[2026 Charles Schwab Wealth & Advice Solutions Internship](https://jobright.ai/jobs/info/68de3525a125e75c422b224f?utm_campaign=1052&utm_source=git)** | US-FL-Orlando | On Site | Oct 02 |
+| ↳ | **[2026 Charles Schwab Wealth & Advice Solutions Internship](https://jobright.ai/jobs/info/68de334609bda65a4b627ace?utm_campaign=1052&utm_source=git)** | US-TX-Westlake | On Site | Oct 02 |
+| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68de300309bda65a4b627818?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Oct 02 |
+| **[Advocate Health Care](http://www.advocatehealth.com)** | **[Finance/Accounting/Revenue Cycle Intern](https://jobright.ai/jobs/info/68de2d61a125e75c422b14a3?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | On Site | Oct 02 |
+| **[Willis Johnson & Associates](https://www.wjohnsonassociates.com/)** | **[Wealth Management Internship: Summer 2026](https://jobright.ai/jobs/info/68de2c1909bda65a4b6263ed?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Oct 02 |
+| **[VertoTech](vertotech.us)** | **[Financial Services and Advisory](https://jobright.ai/jobs/info/68de3d31a125e75c422b29ea?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Remote | Oct 01 |
+| **[Ball Corporation](http://ball.com)** | **[Intern - Financial Planning and Analysis](https://jobright.ai/jobs/info/68de2d4fa125e75c422b141c?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Oct 01 |
+| ↳ | **[Intern - Treasury Analyst](https://jobright.ai/jobs/info/68de2d7ba125e75c422b155b?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Oct 01 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Finance Modeling (Hybrid)](https://jobright.ai/jobs/info/68ddf71309bda65a4b62517c?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Oct 01 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Claims Insight Analyst, Intern (Business Insight Analyst, Intern)](https://jobright.ai/jobs/info/68ddf69c44d32141e0bfc465?utm_campaign=1052&utm_source=git)** | Trenton, NJ | On Site | Oct 01 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern – Financial Services Group](https://jobright.ai/jobs/info/68ddf2d344d32141e0bfc066?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
@@ -71,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Charles Schwab Investor Services Internship - Trading Services](https://jobright.ai/jobs/info/68ddebde09bda65a4b624a34?utm_campaign=1052&utm_source=git)** | US-TX-Westlake | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68dde9c844d32141e0bfbd63?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/68dde6fb44d32141e0bfb9be?utm_campaign=1052&utm_source=git)** | Renton | On Site | Oct 01 |
-| ↳ | **[Fall 2025 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/68dde6ed44d32141e0bfb99c?utm_campaign=1052&utm_source=git)** | Renton | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/68dde6ed44d32141e0bfb99b?utm_campaign=1052&utm_source=git)** | Renton | On Site | Oct 01 |
+| ↳ | **[Fall 2025 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/68dde6ed44d32141e0bfb99c?utm_campaign=1052&utm_source=git)** | Renton | On Site | Oct 01 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Global Audit Technology Intern](https://jobright.ai/jobs/info/68dde19744d32141e0bfb634?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 01 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68dde147ddc10244dd684416?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dde136a125e75c422af7bf?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Operations Internship - Richfield](https://jobright.ai/jobs/info/68dda05eddc10244dd6823e4?utm_campaign=1052&utm_source=git)** | Richfield, OH | On Site | Oct 01 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/68dd9fee44d32141e0bf9657?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT (Cottonwood Heights) | On Site | Oct 01 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/68dd9fdfa125e75c422ad77d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/68dd9fcb44d32141e0bf95e8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 01 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/68dd9f9dddc10244dd6821ce?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Oct 01 |
-| ↳ | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/68dd9f98a125e75c422ad5ae?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Oct 01 |
-| ↳ | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/68dd9f97ddc10244dd6821c0?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 01 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/68dd9cad44d32141e0bf935b?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Oct 01 |
-| **[ASSA ABLOY Global Solutions](https://www.assaabloyglobalsolutions.com/en/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68dd9cacddc10244dd681ff9?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Oct 01 |
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Audit Intern](https://jobright.ai/jobs/info/68dd9bf1ddc10244dd681d84?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68dd9be944d32141e0bf90e1?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Oct 01 |
-| **[Pcuro](www.pcuro.com)** | **[Accounting & Admin Intern (Unpaid / Part-Time / Internship)](https://jobright.ai/jobs/info/68dd9b5da125e75c422ad1a6?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 01 |
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68dd9ae6a125e75c422ad06d?utm_campaign=1052&utm_source=git)** | Oxnard, CA | Remote | Oct 01 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Accounting Intern - Dallas South](https://jobright.ai/jobs/info/68dd97d5a125e75c422acf40?utm_campaign=1052&utm_source=git)** | TX-Rowlett | On Site | Oct 01 |
-| **[Kearney & Company](http://www.kearneyco.com)** | **[Spring 2026 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/68dd97a2ddc10244dd6819fe?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 01 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2027 (Irving, TX)](https://jobright.ai/jobs/info/68dd95fd44d32141e0bf88d4?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Oct 01 |
-| **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor (Internship)](https://jobright.ai/jobs/info/68dd95d844d32141e0bf8865?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
