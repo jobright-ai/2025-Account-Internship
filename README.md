@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pima County](https://webcms.pima.gov/)** | **[Intern - Internal Audit - Procedures and Training Division](https://jobright.ai/jobs/info/68df7edb6be63b6ec99709a1?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Oct 03 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/68df9a0c5ab4977c2e9564e6?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Oct 03 |
+| ↳ | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/68df97e76be63b6ec9971ba7?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Oct 03 |
+| ↳ | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2026 (Bay Area)](https://jobright.ai/jobs/info/68df973e6be63b6ec9971a88?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Oct 03 |
+| **[Rocket Companies](https://rocket.com/)** | **[Accounting Operations (AR & AP) Intern - Summer 2026](https://jobright.ai/jobs/info/68df88cf5ab4977c2e9558d9?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
+| **[ADT](http://www.adt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68df85686be63b6ec997100d?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Oct 03 |
+| **[Pima County](https://webcms.pima.gov/)** | **[Intern - Financial Transactions Division](https://jobright.ai/jobs/info/68df83936be63b6ec9970dd5?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Oct 03 |
+| ↳ | **[Intern - Internal Audit - Procedures and Training Division](https://jobright.ai/jobs/info/68df7edb6be63b6ec99709a1?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Oct 03 |
 | ↳ | **[Intern - Financial Transactions Division](https://jobright.ai/jobs/info/68df7eacfe896042b0b7b70e?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Oct 03 |
 | **[Groma](https://groma.com/)** | **[Finance Co-Op](https://jobright.ai/jobs/info/68df6fcc6be63b6ec996ffe0?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 02 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / Jacksonville](https://jobright.ai/jobs/info/68df5d916be63b6ec996f408?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Oct 02 |
@@ -65,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Research Tax Intern](https://jobright.ai/jobs/info/68df4a236be63b6ec996e7f0?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | ↳ | **[Data Analytics Tax Intern](https://jobright.ai/jobs/info/68df498d6be63b6ec996e5eb?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/68df43d06be63b6ec996e0a6?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Oct 02 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Future Tax Internship Opportunities](https://jobright.ai/jobs/info/68df8d48fe896042b0b7c150?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/68df3aec5ab4977c2e951bf7?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Oct 02 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68df35136be63b6ec996d088?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | **[Freestone Capital Management](http://freestonecapital.com)** | **[Wealth Management Intern SF - Summer 2026](https://jobright.ai/jobs/info/68df34f56be63b6ec996d064?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
@@ -99,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Core-Mark International](http://www.core-mark.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68df17845ab4977c2e94f8c6?utm_campaign=1052&utm_source=git)** | Westlake, TX | On Site | Oct 02 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern](https://jobright.ai/jobs/info/68df11165ab4977c2e94e5a5?utm_campaign=1052&utm_source=git)** | Waller, TX | Remote | Oct 02 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2026 / Orlando](https://jobright.ai/jobs/info/68df10125ab4977c2e94e143?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Oct 02 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Financial Planning and Analysis](https://jobright.ai/jobs/info/68df0a615ab4977c2e94d632?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Oct 02 |
 | **[Allstate](http://www.allstate.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/68df098d5ab4977c2e94d20e?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/68df08225ab4977c2e94cb71?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 02 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Associate Tax Fall 2026 / Philadelphia](https://jobright.ai/jobs/info/68df06206be63b6ec9969530?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | Hybrid | Oct 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68dee05244d32141e0c03407?utm_campaign=1052&utm_source=git)** | Dallas | On Site | Oct 02 |
 | **[Mize CPAs Inc.](http://www.mizecpas.com)** | **[Spring 2026 Accounting Intern](https://jobright.ai/jobs/info/68dee033a125e75c422b787b?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Oct 02 |
 | **[State Street](http://www.statestreet.com)** | **[State Street Investment Management - Currency Team - Summer Internship 2026](https://jobright.ai/jobs/info/68dee02aa125e75c422b786f?utm_campaign=1052&utm_source=git)** | Quincy, MA | On Site | Oct 02 |
-| **[Mize CPAs Inc.](http://www.mizecpas.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68dee02844d32141e0c03379?utm_campaign=1052&utm_source=git)** | Topeka, KS | On Site | Oct 02 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Corporate Governance & Leadership](https://jobright.ai/jobs/info/68dee02609bda65a4b62e771?utm_campaign=1052&utm_source=git)** | Juneau, AK | On Site | Oct 02 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Portfolio Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68dee01409bda65a4b62e762?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
-| **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Rotational (Ops, IT, Risk, & Fund Treasury)](https://jobright.ai/jobs/info/68df07af5ab4977c2e94c934?utm_campaign=1052&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
-| **[S&P Global](https://www.spglobal.com)** | **[CREDit Ratings Analyst Intern - Structured Finance](https://jobright.ai/jobs/info/68df076d5ab4977c2e94c836?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 02 |
-| ↳ | **[CREDit Ratings Analyst Intern - Americas Public Finance](https://jobright.ai/jobs/info/68defade09bda65a4b62f67c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 02 |
-| ↳ | **[CREDit Ratings Analyst Intern - Corporates](https://jobright.ai/jobs/info/68df0a765ab4977c2e94d689?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 02 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Global Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/68dedbcd44d32141e0c02fed?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
