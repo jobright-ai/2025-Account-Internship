@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Financial & Planning Analyst](https://jobright.ai/jobs/info/68c7b0907d0db4114273fc19?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Oct 04 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Disputes and Investigations - Chicago Summer 2026](https://jobright.ai/jobs/info/68c799a9c96a22563ecf2ed9?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
+| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Graduate Intern - Actuarial Science](https://jobright.ai/jobs/info/68cd1b0f1ad6b16f02895085?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Oct 04 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Universal Destinations, & Experiences, Financial Accounting & Reporting (Summer 2026)](https://jobright.ai/jobs/info/68e0e4581852e62f007f01a9?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| ↳ | **[Internship-Revenue Management & Analytics, Universal Parks & Resorts Vacations (Summer2026)](https://jobright.ai/jobs/info/68e0e43af758fe1f97e526eb?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| ↳ | **[Internship – Payment Management, Finance (Summer 2026)](https://jobright.ai/jobs/info/68e0e425b99ec3563b0d49be?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| ↳ | **[Internship-Data Science, Global Product and Pricing (Summer 2026)](https://jobright.ai/jobs/info/68e0e3e21852e62f007f00ad?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[TD SYNNEX Multi-Country Area (English)](https://www.linkedin.com/company/1299160)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e0c3831852e62f007ee7ee?utm_campaign=1052&utm_source=git)** | Clearwater, Florida, United States | Hybrid | Oct 03 |
 | ↳ | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e0c369f758fe1f97e50c76?utm_campaign=1052&utm_source=git)** | Greenville, SC | Hybrid | Oct 03 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Student Hourly Assistant - FMSV - Accounting-2](https://jobright.ai/jobs/info/68e0acb1b99ec3563b0d221e?utm_campaign=1052&utm_source=git)** | Hempstead, TX | On Site | Oct 03 |
@@ -131,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Accounting Intern - Part time (1 year) - Special Projects Department](https://jobright.ai/jobs/info/68e050e91852e62f007ea1bf?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 03 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance MBA Intern (Austin, TX)](https://jobright.ai/jobs/info/68e04f661852e62f007e9fc8?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | **[Rabobank](http://www.rabobank.com)** | **[Rural Credit Risk Intern](https://jobright.ai/jobs/info/68e04eef1852e62f007e9f1a?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | Hybrid | Oct 03 |
-| **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Summer Internship- Credit Analyst](https://jobright.ai/jobs/info/68e0c756f758fe1f97e50fe4?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Oct 03 |
 | **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e04d8af758fe1f97e4c2f1?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 03 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern - Accounting and Finance](https://jobright.ai/jobs/info/68d70c23d3fe025a3015e7c5?utm_campaign=1052&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 03 |
 | **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Credit Administration Intern - Summer 2026](https://jobright.ai/jobs/info/68e04b3bb99ec3563b0ce523?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a81852e62f007e97c5?utm_campaign=1052&utm_source=git)** | Remote-IL | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a8b99ec3563b0ce0c7?utm_campaign=1052&utm_source=git)** | Tampa-8725 Henderson Rd (11067) | On Site | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a7f758fe1f97e4bc33?utm_campaign=1052&utm_source=git)** | Remote-RI | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0429b1852e62f007e979b?utm_campaign=1052&utm_source=git)** | Remote-TX | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428ff758fe1f97e4bc08?utm_campaign=1052&utm_source=git)** | Remote-MS | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428eb99ec3563b0ce092?utm_campaign=1052&utm_source=git)** | Remote-AL | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04286f758fe1f97e4bbf8?utm_campaign=1052&utm_source=git)** | Remote-WI | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04280f758fe1f97e4bbee?utm_campaign=1052&utm_source=git)** | Remote-KY | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0427f1852e62f007e9754?utm_campaign=1052&utm_source=git)** | Remote-CA | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
