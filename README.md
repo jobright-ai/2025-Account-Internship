@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honkamp, P.C.](http://honkamp.com)** | **[Assurance Intern - Spring 2026](https://jobright.ai/jobs/info/68e195e61852e62f007f3368?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Hybrid | Oct 04 |
+| **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e18fdbf758fe1f97e559d8?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Investments Analyst Summer Intern](https://jobright.ai/jobs/info/68e18f3cf758fe1f97e5591b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 04 |
+| ↳ | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/68e18e79f758fe1f97e55809?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Oct 04 |
+| ↳ | **[Financial Planning & Analysis Summer Intern](https://jobright.ai/jobs/info/68e18e17f758fe1f97e5576d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 04 |
+| **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e1840e1852e62f007f2eb8?utm_campaign=1052&utm_source=git)** | United States-Remote | Remote | Oct 04 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Rotational Intern](https://jobright.ai/jobs/info/68e17291b99ec3563b0d7471?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 04 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Fund Accounting Summer Intern](https://jobright.ai/jobs/info/68e1631ff758fe1f97e550ba?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Oct 04 |
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Finance Internship – Audit and Tax Rotation](https://jobright.ai/jobs/info/68e1600b1852e62f007f297b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 04 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/68e1547fb99ec3563b0d7192?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Tax & Accounting Intern](https://jobright.ai/jobs/info/68e15468b99ec3563b0d7189?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Oct 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Actuary Summer Intern](https://jobright.ai/jobs/info/68e15259f758fe1f97e54f94?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
-| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Audit Intern](https://jobright.ai/jobs/info/68e14aa2f758fe1f97e54e91?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Oct 04 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/68e149e91852e62f007f26e4?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Oct 04 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e149df1852e62f007f26e0?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 04 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68e148ebb99ec3563b0d6ff1?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Oct 04 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/68e1377cf758fe1f97e54a95?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Oct 04 |
 | **[PwC](http://pwc.com)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68e136a11852e62f007f2280?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | On Site | Oct 04 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68e12bd2f758fe1f97e54722?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Remote | Oct 04 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Risk and Finance Summer Intern](https://jobright.ai/jobs/info/68e12b541852e62f007f1f70?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Oct 04 |
 | **[VertoTech](vertotech.us)** | **[Treasury Management Development Intern](https://jobright.ai/jobs/info/68e12337b99ec3563b0d630d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Oct 04 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Capital Markets Intern - Summer 2026](https://jobright.ai/jobs/info/68e11fe8f758fe1f97e53ef7?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 04 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e11defb99ec3563b0d60a3?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Oct 04 |
@@ -87,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Bloomington, IN Summer 2026)](https://jobright.ai/jobs/info/68c49e7ee396b25cb5c699ba?utm_campaign=1052&utm_source=git)** | Bloomington, IN | On Site | Oct 04 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e10ac4f758fe1f97e53924?utm_campaign=1052&utm_source=git)** | Greenville, SC | Hybrid | Oct 04 |
 | **[Lufthansa Cargo](https://lufthansa-cargo.com/)** | **[Regional Commercial Intern 6-month Internship / Hybrid model (remotely & onsite)](https://jobright.ai/jobs/info/68e10ac3f758fe1f97e53923?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Financial Products, Strategy & Modeling   Summer Internship](https://jobright.ai/jobs/info/68df1c566be63b6ec996c022?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e109b3f758fe1f97e538bd?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Oct 04 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (La Crosse, WI Summer 2026)](https://jobright.ai/jobs/info/68c7b78ec008cf3402c8f7d6?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Oct 04 |
 | **[FutureTech Insights](futuretechinsights.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e0fcbdf758fe1f97e5362c?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Oct 04 |
@@ -121,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0946bb99ec3563b0d0e97?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Oct 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Denver, CO](https://jobright.ai/jobs/info/68e0945a1852e62f007ec546?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09444b99ec3563b0d0e48?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e94f?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
+| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e94f?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0941ab99ec3563b0d0dff?utm_campaign=1052&utm_source=git)** | Maine, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093edb99ec3563b0d0dbc?utm_campaign=1052&utm_source=git)** | Greater Enid Area | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093e8f758fe1f97e4e8b5?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Oct 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands](https://pimbrands.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/68e084eb1852e62f007eb9f4?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Oct 03 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Negotiated Underwriting](https://jobright.ai/jobs/info/68e083faf758fe1f97e4dd05?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 03 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Certified Financial Planner (CFP) Internship, Summer 2026](https://jobright.ai/jobs/info/68e07f1a1852e62f007eb642?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 03 |
-| **[CTBK](https://www.ctbk.com/)** | **[Staff Accountant 2026](https://jobright.ai/jobs/info/68e07a8af758fe1f97e4d7c6?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Oct 03 |
-| **[GEICO](http://www.geico.com)** | **[Analyst Internship- Controllers (CFO Org)](https://jobright.ai/jobs/info/68e075be1852e62f007eb1c5?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[Colas USA](http://colasusa.com)** | **[Finance / Accounting Intern](https://jobright.ai/jobs/info/68e075a7b99ec3563b0cf9ae?utm_campaign=1052&utm_source=git)** | Brea, CA | On Site | Oct 03 |
-| **[GEICO](http://www.geico.com)** | **[Analyst Internship Program – Pricing Track (CFO Org)](https://jobright.ai/jobs/info/68e07170b99ec3563b0cf812?utm_campaign=1052&utm_source=git)** | Chevy Chase, MD | Hybrid | Oct 03 |
-| ↳ | **[Analyst Internship- Controllers (CFO Org)](https://jobright.ai/jobs/info/68e071181852e62f007eaf79?utm_campaign=1052&utm_source=git)** | Chevy Chase, MD | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
