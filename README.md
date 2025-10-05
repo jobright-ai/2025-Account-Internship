@@ -59,14 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ingale Research](https://www.linkedin.com/company/107368417)** | **[Equity Research Intern – Independent Desk](https://jobright.ai/jobs/info/68e1c1bcf758fe1f97e55dce?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Oct 04 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68e1bb2c1852e62f007f3622?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 04 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern Summer/Winter - 2026](https://jobright.ai/jobs/info/68e19a50b99ec3563b0d7c55?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Oct 04 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Assurance Intern - Spring 2026](https://jobright.ai/jobs/info/68e195e61852e62f007f3368?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Hybrid | Oct 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e18fdbf758fe1f97e559d8?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Investments Analyst Summer Intern](https://jobright.ai/jobs/info/68e18f3cf758fe1f97e5591b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | ↳ | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/68e18e79f758fe1f97e55809?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Oct 04 |
 | ↳ | **[Financial Planning & Analysis Summer Intern](https://jobright.ai/jobs/info/68e18e17f758fe1f97e5576d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e1840e1852e62f007f2eb8?utm_campaign=1052&utm_source=git)** | United States-Remote | Remote | Oct 04 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Rotational Intern](https://jobright.ai/jobs/info/68e17291b99ec3563b0d7471?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 04 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Fund Accounting Summer Intern](https://jobright.ai/jobs/info/68e1631ff758fe1f97e550ba?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Oct 04 |
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Finance Internship – Audit and Tax Rotation](https://jobright.ai/jobs/info/68e1600b1852e62f007f297b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 04 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Accounting Intern](https://jobright.ai/jobs/info/68e15e4eb99ec3563b0d725e?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Remote | Oct 04 |
@@ -77,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/68e148e5b99ec3563b0d6fee?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Oct 04 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Treasury Management Development Intern](https://jobright.ai/jobs/info/68e14891b99ec3563b0d6fb9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 04 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e14831b99ec3563b0d6f82?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 04 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/68e145f8f758fe1f97e54d50?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Oct 04 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/68e0a97bf758fe1f97e4fcbc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2026](https://jobright.ai/jobs/info/68e13b72f758fe1f97e54b2d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/68e1399cb99ec3563b0d6c8f?utm_campaign=1052&utm_source=git)** | Huston, PA | Remote | Oct 04 |
@@ -125,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0946bb99ec3563b0d0e97?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Oct 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Denver, CO](https://jobright.ai/jobs/info/68e0945a1852e62f007ec546?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09444b99ec3563b0d0e48?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e94f?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Oct 03 |
+| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0941ab99ec3563b0d0dff?utm_campaign=1052&utm_source=git)** | Maine, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093edb99ec3563b0d0dbc?utm_campaign=1052&utm_source=git)** | Greater Enid Area | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093e8f758fe1f97e4e8b5?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Oct 03 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands](https://pimbrands.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/68e084eb1852e62f007eb9f4?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Oct 03 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Global Mobility Tax - Winter Intern- Stamford](https://jobright.ai/jobs/info/68e1e008f758fe1f97e5648c?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Oct 03 |
 | ↳ | **[Global Mobility Tax - Winter Intern - Boston](https://jobright.ai/jobs/info/68e1e15cb99ec3563b0d87b9?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 03 |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Negotiated Underwriting](https://jobright.ai/jobs/info/68e083faf758fe1f97e4dd05?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 03 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Certified Financial Planner (CFP) Internship, Summer 2026](https://jobright.ai/jobs/info/68e07f1a1852e62f007eb642?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 03 |
+| **[CTBK](https://www.ctbk.com/)** | **[Staff Accountant 2026](https://jobright.ai/jobs/info/68e07a8af758fe1f97e4d7c6?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
