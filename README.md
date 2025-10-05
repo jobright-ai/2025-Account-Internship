@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ingale Research](https://www.linkedin.com/company/107368417)** | **[Equity Research Intern – Independent Desk](https://jobright.ai/jobs/info/68e1c1bcf758fe1f97e55dce?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Oct 04 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68e1bb2c1852e62f007f3622?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 04 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Finance Intern](https://jobright.ai/jobs/info/68e1a181b99ec3563b0d7d05?utm_campaign=1052&utm_source=git)** | Waller, TX | Remote | Oct 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern Summer/Winter - 2026](https://jobright.ai/jobs/info/68e19a50b99ec3563b0d7c55?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Oct 04 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Assurance Intern - Spring 2026](https://jobright.ai/jobs/info/68e195e61852e62f007f3368?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Hybrid | Oct 04 |
@@ -70,14 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Finance Internship – Audit and Tax Rotation](https://jobright.ai/jobs/info/68e1600b1852e62f007f297b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 04 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Accounting Intern](https://jobright.ai/jobs/info/68e15e4eb99ec3563b0d725e?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Remote | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/68e1547fb99ec3563b0d7192?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Tax & Accounting Intern](https://jobright.ai/jobs/info/68e15468b99ec3563b0d7189?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Oct 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Actuary Summer Intern](https://jobright.ai/jobs/info/68e15259f758fe1f97e54f94?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/68e149e91852e62f007f26e4?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Oct 04 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e149df1852e62f007f26e0?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 04 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68e148ebb99ec3563b0d6ff1?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Oct 04 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/68e148e5b99ec3563b0d6fee?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Oct 04 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Treasury Management Development Intern](https://jobright.ai/jobs/info/68e14891b99ec3563b0d6fb9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 04 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/68e1488db99ec3563b0d6fb5?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Oct 04 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e14831b99ec3563b0d6f82?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 04 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/68e145f8f758fe1f97e54d50?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Oct 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2026](https://jobright.ai/jobs/info/68e13b72f758fe1f97e54b2d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
