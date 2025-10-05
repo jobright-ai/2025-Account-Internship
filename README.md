@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Finance Intern](https://jobright.ai/jobs/info/68e1a181b99ec3563b0d7d05?utm_campaign=1052&utm_source=git)** | Waller, TX | Remote | Oct 04 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern Summer/Winter - 2026](https://jobright.ai/jobs/info/68e19a50b99ec3563b0d7c55?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Oct 04 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Assurance Intern - Spring 2026](https://jobright.ai/jobs/info/68e195e61852e62f007f3368?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Hybrid | Oct 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e18fdbf758fe1f97e559d8?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Investments Analyst Summer Intern](https://jobright.ai/jobs/info/68e18f3cf758fe1f97e5591b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 04 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[VertoTech](vertotech.us)** | **[Treasury Management Development Intern](https://jobright.ai/jobs/info/68e12337b99ec3563b0d630d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Oct 04 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Capital Markets Intern - Summer 2026](https://jobright.ai/jobs/info/68e11fe8f758fe1f97e53ef7?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 04 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e11defb99ec3563b0d60a3?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Oct 04 |
-| ↳ | **[Finance Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68e116f2f758fe1f97e53b9c?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Oct 04 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Audit, Tax & Advisory Intern](https://jobright.ai/jobs/info/68e116bdf758fe1f97e53b6c?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Oct 04 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Bloomington, IN Summer 2026)](https://jobright.ai/jobs/info/68c49e7ee396b25cb5c699ba?utm_campaign=1052&utm_source=git)** | Bloomington, IN | On Site | Oct 04 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e10ac4f758fe1f97e53924?utm_campaign=1052&utm_source=git)** | Greenville, SC | Hybrid | Oct 04 |
@@ -95,8 +96,9 @@ For a complete list, click the following sortable link below:
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e109b3f758fe1f97e538bd?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Oct 04 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (La Crosse, WI Summer 2026)](https://jobright.ai/jobs/info/68c7b78ec008cf3402c8f7d6?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Oct 04 |
 | **[FutureTech Insights](futuretechinsights.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e0fcbdf758fe1f97e5362c?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Oct 04 |
-| **[Valorantum](valorantum.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68e0fc68b99ec3563b0d5832?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Oct 04 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Accounting (Summer 2026) - University of Alabama at Birmingham (UAB) Meet the Employers/Collat Business Career Fairs](https://jobright.ai/jobs/info/68c4b653fce86561b9288a77?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Oct 04 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c4be077279451d6a0373e5?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 04 |
+| **[Staples](http://www.staples.com)** | **[Quill Pricing Analytics Intern - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68cad64aefdec76df36b5eb0?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 04 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Financial & Planning Analyst](https://jobright.ai/jobs/info/68c7b0907d0db4114273fc19?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Oct 04 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Disputes and Investigations - Chicago Summer 2026](https://jobright.ai/jobs/info/68c799a9c96a22563ecf2ed9?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Graduate Intern - Actuarial Science](https://jobright.ai/jobs/info/68cd1b0f1ad6b16f02895085?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Oct 04 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0aca7b99ec3563b0d220e?utm_campaign=1052&utm_source=git)** | Bernalillo County, NM | Remote | Oct 03 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Student Hourly Assistant - FMSV - Accounting-1](https://jobright.ai/jobs/info/68e0ac711852e62f007ed932?utm_campaign=1052&utm_source=git)** | Hempstead, TX | On Site | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0a86cf758fe1f97e4fb01?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Oct 03 |
-| **[American University of the Caribbean](http://aucmed.edu/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e0a655b99ec3563b0d1bbc?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 03 |
 | **[WilkinGuttenplan](http://wgcpas.com)** | **[Summer 2026 Audit Internship (Commercial Practice) - Hybrid](https://jobright.ai/jobs/info/68e0a1d6b99ec3563b0d1963?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | Hybrid | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09f4c1852e62f007ed369?utm_campaign=1052&utm_source=git)** | Nashville Metro | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09e50f758fe1f97e4f54f?utm_campaign=1052&utm_source=git)** | Connecticut, United States | Remote | Oct 03 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0946bb99ec3563b0d0e97?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Oct 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Denver, CO](https://jobright.ai/jobs/info/68e0945a1852e62f007ec546?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09444b99ec3563b0d0e48?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e94f?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Oct 03 |
+| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0941ab99ec3563b0d0dff?utm_campaign=1052&utm_source=git)** | Maine, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093edb99ec3563b0d0dbc?utm_campaign=1052&utm_source=git)** | Greater Enid Area | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093e8f758fe1f97e4e8b5?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Oct 03 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09305b99ec3563b0d0c2d?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092fdb99ec3563b0d0c24?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092c1b99ec3563b0d0bc4?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb3?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb4?utm_campaign=1052&utm_source=git)** | Maryland, United States | Remote | Oct 03 |
+| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb3?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0902ff758fe1f97e4e73a?utm_campaign=1052&utm_source=git)** | South Dakota, United States | Remote | Oct 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Accounting Intern - Part time (1 year) - Special Projects Department](https://jobright.ai/jobs/info/68e08fe2b99ec3563b0d0b50?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e08fd2f758fe1f97e4e6c2?utm_campaign=1052&utm_source=git)** | Ohio, United States | Remote | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e08dde1852e62f007ec041?utm_campaign=1052&utm_source=git)** | Nevada, United States | Remote | Oct 03 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/68e084eb1852e62f007eb9f4?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Oct 03 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Negotiated Underwriting](https://jobright.ai/jobs/info/68e083faf758fe1f97e4dd05?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 03 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Certified Financial Planner (CFP) Internship, Summer 2026](https://jobright.ai/jobs/info/68e07f1a1852e62f007eb642?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
