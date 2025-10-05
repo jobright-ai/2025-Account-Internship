@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ingale Research](https://www.linkedin.com/company/107368417)** | **[Equity Research Intern – Independent Desk](https://jobright.ai/jobs/info/68e1c1bcf758fe1f97e55dce?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Oct 04 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68e1bb2c1852e62f007f3622?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 04 |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Finance Intern](https://jobright.ai/jobs/info/68e1a181b99ec3563b0d7d05?utm_campaign=1052&utm_source=git)** | Waller, TX | Remote | Oct 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern Summer/Winter - 2026](https://jobright.ai/jobs/info/68e19a50b99ec3563b0d7c55?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Oct 04 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Assurance Intern - Spring 2026](https://jobright.ai/jobs/info/68e195e61852e62f007f3368?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Hybrid | Oct 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e18fdbf758fe1f97e559d8?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
@@ -72,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Finance Internship – Audit and Tax Rotation](https://jobright.ai/jobs/info/68e1600b1852e62f007f297b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 04 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Accounting Intern](https://jobright.ai/jobs/info/68e15e4eb99ec3563b0d725e?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Remote | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/68e1547fb99ec3563b0d7192?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Actuary Summer Intern](https://jobright.ai/jobs/info/68e15259f758fe1f97e54f94?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/68e149e91852e62f007f26e4?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Oct 04 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e149df1852e62f007f26e0?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 04 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68e148ebb99ec3563b0d6ff1?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Oct 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e08dde1852e62f007ec041?utm_campaign=1052&utm_source=git)** | Nevada, United States | Remote | Oct 03 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/68e1e47bf758fe1f97e566c1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/68e084eb1852e62f007eb9f4?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Oct 03 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Global Mobility Tax - Winter Intern- Stamford](https://jobright.ai/jobs/info/68e1e008f758fe1f97e5648c?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Oct 03 |
+| ↳ | **[Global Mobility Tax - Winter Intern - Boston](https://jobright.ai/jobs/info/68e1e15cb99ec3563b0d87b9?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
