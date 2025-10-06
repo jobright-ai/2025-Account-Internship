@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68e38fe6b99ec3563b0e15d8?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 06 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - US Treasury](https://jobright.ai/jobs/info/68e396cb1852e62f007fcf7e?utm_campaign=1052&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Audit Intern](https://jobright.ai/jobs/info/68e396411852e62f007fcf03?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Oct 06 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Finance Internship, Economic Studies (Job ID 2025-3720)](https://jobright.ai/jobs/info/68e394a7b99ec3563b0e1802?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e391cd1852e62f007fcce2?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Oct 06 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Diversified Group, Nat'l & Specialty Banking)](https://jobright.ai/jobs/info/68e391561852e62f007fcc41?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68e39095f758fe1f97e5f536?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68e38fe6b99ec3563b0e15d8?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 06 |
 | ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/68e38f99f758fe1f97e5f372?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Oct 06 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e388ec1852e62f007fc900?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Oct 06 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38653f758fe1f97e5eee3?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | On Site | Oct 06 |
@@ -76,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37dc5f758fe1f97e5ea33?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | On Site | Oct 06 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d91f758fe1f97e5ea1a?utm_campaign=1052&utm_source=git)** | Mission Viejo, CA | On Site | Oct 06 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90b99ec3563b0e0b2e?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Oct 06 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90f758fe1f97e5ea17?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Oct 06 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90b99ec3563b0e0b2f?utm_campaign=1052&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 06 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90f758fe1f97e5ea17?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Oct 06 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d34f758fe1f97e5e9d5?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Oct 06 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d2cb99ec3563b0e0aec?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Oct 06 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cfbb99ec3563b0e0ac2?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Oct 06 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Hourly Assistant - FMSV - Accounting-1](https://jobright.ai/jobs/info/68e0ac711852e62f007ed932?utm_campaign=1052&utm_source=git)** | Hempstead, TX | On Site | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0a86cf758fe1f97e4fb01?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Oct 03 |
 | **[WilkinGuttenplan](http://wgcpas.com)** | **[Summer 2026 Audit Internship (Commercial Practice) - Hybrid](https://jobright.ai/jobs/info/68e0a1d6b99ec3563b0d1963?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | Hybrid | Oct 03 |
-| **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09e50f758fe1f97e4f54f?utm_campaign=1052&utm_source=git)** | Connecticut, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09d621852e62f007eced6?utm_campaign=1052&utm_source=git)** | Michigan, United States | Remote | Oct 03 |
+| **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09d621852e62f007eced6?utm_campaign=1052&utm_source=git)** | Michigan, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09cd2f758fe1f97e4f1b6?utm_campaign=1052&utm_source=git)** | Wisconsin, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09ca3f758fe1f97e4f144?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09bdcb99ec3563b0d145b?utm_campaign=1052&utm_source=git)** | Iowa, United States | Remote | Oct 03 |
 | **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Finance / Accounting Intern](https://jobright.ai/jobs/info/68e0980ff758fe1f97e4ebd9?utm_campaign=1052&utm_source=git)** | Brea, CA | On Site | Oct 03 |
-| **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094fd1852e62f007ec682?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09497f758fe1f97e4ea03?utm_campaign=1052&utm_source=git)** | Kenton County, KY | Remote | Oct 03 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Denver, CO](https://jobright.ai/jobs/info/68e0945a1852e62f007ec546?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
-| **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
