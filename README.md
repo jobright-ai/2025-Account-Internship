@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[Accounting Co-Op – Full Time Spring Semester](https://jobright.ai/jobs/info/68ce5409fb49c96ca6e9ed4b?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
 | **[Mize CPAs Inc.](http://www.mizecpas.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e2d3e31852e62f007f8873?utm_campaign=1052&utm_source=git)** | Topeka, KS | On Site | Oct 05 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Negotiated Underwriting](https://jobright.ai/jobs/info/68e2d3a0f758fe1f97e5ae6d?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 05 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68e2d37db99ec3563b0dcfe3?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Oct 05 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e283581852e62f007f7faa?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 05 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[KPMG Scholar Intern – Professional Services Rotation](https://jobright.ai/jobs/info/68e282ec1852e62f007f7f60?utm_campaign=1052&utm_source=git)** | Stamford, CT | Remote | Oct 05 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax and Accounting Intern](https://jobright.ai/jobs/info/68e282d51852e62f007f7f53?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Oct 05 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Middle Market Business Solutions Underwriting Summer Intern](https://jobright.ai/jobs/info/68a91b80758f2e4ac3ff7610?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Oct 05 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (January 2026)](https://jobright.ai/jobs/info/68e27c98b99ec3563b0dc673?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Oct 05 |
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - Finance](https://jobright.ai/jobs/info/68e27b9a1852e62f007f7e97?utm_campaign=1052&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance Rotational Intern](https://jobright.ai/jobs/info/68e278b3f758fe1f97e5a4c5?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Oct 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092c1b99ec3563b0d0bc4?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb4?utm_campaign=1052&utm_source=git)** | Maryland, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb3?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0902ff758fe1f97e4e73a?utm_campaign=1052&utm_source=git)** | South Dakota, United States | Remote | Oct 03 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Accounting Intern - Part time (1 year) - Special Projects Department](https://jobright.ai/jobs/info/68e08fe2b99ec3563b0d0b50?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
