@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/68e293ddf758fe1f97e5a78d?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Oct 05 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/688b921f1808534a89cb4210?utm_campaign=1052&utm_source=git)** | Syracuse-Auburn Area | On Site | Oct 05 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/68e28393b99ec3563b0dc72d?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Remote | Oct 05 |
+| **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Accounting Intern](https://jobright.ai/jobs/info/68e338361852e62f007f97aa?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68e283581852e62f007f7faa?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Oct 05 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[KPMG Scholar Intern – Professional Services Rotation](https://jobright.ai/jobs/info/68e282ec1852e62f007f7f60?utm_campaign=1052&utm_source=git)** | Stamford, CT | Remote | Oct 05 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Middle Market Business Solutions Underwriting Summer Intern](https://jobright.ai/jobs/info/68a91b80758f2e4ac3ff7610?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Oct 05 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0946bb99ec3563b0d0e97?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Oct 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2026 Internship - Denver, CO](https://jobright.ai/jobs/info/68e0945a1852e62f007ec546?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09444b99ec3563b0d0e48?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e94f?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Oct 03 |
+| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0943ef758fe1f97e4e950?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0941ab99ec3563b0d0dff?utm_campaign=1052&utm_source=git)** | Maine, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093edb99ec3563b0d0dbc?utm_campaign=1052&utm_source=git)** | Greater Enid Area | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093e8f758fe1f97e4e8b5?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Oct 03 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09305b99ec3563b0d0c2d?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092fdb99ec3563b0d0c24?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092c1b99ec3563b0d0bc4?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb3?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb4?utm_campaign=1052&utm_source=git)** | Maryland, United States | Remote | Oct 03 |
+| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e092b7b99ec3563b0d0bb3?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0902ff758fe1f97e4e73a?utm_campaign=1052&utm_source=git)** | South Dakota, United States | Remote | Oct 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Accounting Intern - Part time (1 year) - Special Projects Department](https://jobright.ai/jobs/info/68e08fe2b99ec3563b0d0b50?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e08fd2f758fe1f97e4e6c2?utm_campaign=1052&utm_source=git)** | Ohio, United States | Remote | Oct 03 |
 | ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e08f22b99ec3563b0d0a1e?utm_campaign=1052&utm_source=git)** | Providence County, RI | Remote | Oct 03 |
-| ↳ | **[Medicare Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e08efcf758fe1f97e4e595?utm_campaign=1052&utm_source=git)** | Indiana, United States | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
