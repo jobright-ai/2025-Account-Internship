@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Audit Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68e7946660ad860a1dc804d0?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Oct 09 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2026](https://jobright.ai/jobs/info/68cafd8c9e3a822f5d240ebd?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68e77edc60ad860a1dc7f689?utm_campaign=1052&utm_source=git)** | Columbia, MD | Remote | Oct 09 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Spring 2027](https://jobright.ai/jobs/info/68d765c87a37c712687cb99c?utm_campaign=1052&utm_source=git)** | Bozeman, MT | Hybrid | Oct 09 |
 | ↳ | **[Accounting Internship-Spring 2027](https://jobright.ai/jobs/info/68af57ad2daaba398441d666?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID | On Site | Oct 09 |
 | ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68af59162daaba398441d783?utm_campaign=1052&utm_source=git)** | Billings, MT | Hybrid | Oct 09 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[SOS Audit Intern](https://jobright.ai/jobs/info/68e788ca15da181e7e4ee370?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Oct 09 |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Audit Intern](https://jobright.ai/jobs/info/68e793cd70315f028bcac495?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Finance/ Global Business Services Internship](https://jobright.ai/jobs/info/68e75e62e8daec61499b4f19?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Finance/ Global Business Services Internship](https://jobright.ai/jobs/info/68e75acfae2b894b1d723c05?utm_campaign=1052&utm_source=git)** | US-FL-Tampa | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Finance/ Global Business Services Internship](https://jobright.ai/jobs/info/68e75a551852e62f0082487d?utm_campaign=1052&utm_source=git)** | FL- Tampa, NY- New York | On Site | Oct 08 |
@@ -127,12 +131,12 @@ For a complete list, click the following sortable link below:
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Retail Closing - Intern](https://jobright.ai/jobs/info/68e6e7d2ae2b894b1d71f8d3?utm_campaign=1052&utm_source=git)** | Emmetsburg, IA | On Site | Oct 08 |
 | **[Loudoun County Government](https://www.loudoun.gov/)** | **[Internal Auditor](https://jobright.ai/jobs/info/68e6e7b0ae2b894b1d71f8ac?utm_campaign=1052&utm_source=git)** | Leesburg, VA | Hybrid | Oct 08 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Tax Admin Intern](https://jobright.ai/jobs/info/68e6e7551852e62f00820390?utm_campaign=1052&utm_source=git)** | Bardstown, KY | Hybrid | Oct 08 |
-| ↳ | **[Wealth Management Internship](https://jobright.ai/jobs/info/68e6e737e8daec61499b0690?utm_campaign=1052&utm_source=git)** | Santa Barbara, CA | On Site | Oct 08 |
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Financial Officer - Intern](https://jobright.ai/jobs/info/68e6e6bf1852e62f008202ad?utm_campaign=1052&utm_source=git)** | Manhattan, KS | On Site | Oct 08 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/68e6e66be8daec61499b0550?utm_campaign=1052&utm_source=git)** | Bowling Green, KY | On Site | Oct 08 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Sponsor Finance](https://jobright.ai/jobs/info/68e6e612e8daec61499b04cc?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Financial Planning and Analysis - Intern](https://jobright.ai/jobs/info/68e6e598ae2b894b1d71f59d?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
-| ↳ | **[Credit Analyst - Intern](https://jobright.ai/jobs/info/68e6e481ae2b894b1d71f3fe?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
+| **[AgroLiquid](https://www.agroliquid.com/)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68e6e547ae2b894b1d71f527?utm_campaign=1052&utm_source=git)** | St Johns, MI | On Site | Oct 08 |
+| **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Credit Analyst - Intern](https://jobright.ai/jobs/info/68e6e481ae2b894b1d71f3fe?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
 | ↳ | **[Financial Officer - Intern](https://jobright.ai/jobs/info/68e6e3ace8daec61499b0185?utm_campaign=1052&utm_source=git)** | Perry, IA | On Site | Oct 08 |
 | ↳ | **[Financial Officer - Intern](https://jobright.ai/jobs/info/68e6e378e8daec61499b013a?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Oct 08 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern – Corporate Finance](https://jobright.ai/jobs/info/68e6e0ad1852e62f0081feda?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Oct 08 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[The Cigna Group](https://www.cigna.com/)** | **[Internal Audit SOC-1 Reporting Intern](https://jobright.ai/jobs/info/68e6de6dae2b894b1d71f06d?utm_campaign=1052&utm_source=git)** | Bloomfield, CT | Hybrid | Oct 08 |
 | **[TP ICAP](https://www.tpicap.com/)** | **[2026 Global Broking Summer Internship](https://jobright.ai/jobs/info/68e6dde4ae2b894b1d71efc0?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 08 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Personal Property Tax](https://jobright.ai/jobs/info/68e6dd8be8daec61499afe0c?utm_campaign=1052&utm_source=git)** | Nashville | On Site | Oct 08 |
+| ↳ | **[Summer 2026 Intern, Excise Tax](https://jobright.ai/jobs/info/68e6dd64e8daec61499afdb0?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Intern, International Income Tax](https://jobright.ai/jobs/info/68e6dd5fe8daec61499afda1?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | Oct 08 |
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Financial Officer - Intern](https://jobright.ai/jobs/info/68e6dd4bae2b894b1d71eef8?utm_campaign=1052&utm_source=git)** | Casper, WY | On Site | Oct 08 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Actuarial Internship Program - Summer 2026](https://jobright.ai/jobs/info/68e6dcbcae2b894b1d71ee4a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Actuarial Internship Program - Summer 2026](https://jobright.ai/jobs/info/68df493f5ab4977c2e952bf1?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Oct 08 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, National Tax - Tax Research Services](https://jobright.ai/jobs/info/68e6dba01852e62f0081f875?utm_campaign=1052&utm_source=git)** | New York | On Site | Oct 08 |
-| ↳ | **[Summer 2026 Intern, Excise Tax](https://jobright.ai/jobs/info/68e6db6f1852e62f0081f849?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | Oct 08 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, National Tax - Tax Research Services](https://jobright.ai/jobs/info/68e6dc04ae2b894b1d71ed72?utm_campaign=1052&utm_source=git)** | New York | On Site | Oct 08 |
 | **[Thrivent](https://www.thrivent.com)** | **[Financial Services Field Internship](https://jobright.ai/jobs/info/68e6d8b6ae2b894b1d71ec0e?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Oct 08 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2026 (Albuquerque, NM)](https://jobright.ai/jobs/info/68e6d89fae2b894b1d71ebdd?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Oct 08 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e6d8611852e62f0081f750?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 08 |
-| **[REDW Advisors & CPAs](http://www.redw.com)** | **[Audit & Assurance Intern](https://jobright.ai/jobs/info/68e6d83eae2b894b1d71eb53?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Oct 08 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Transfer Pricing](https://jobright.ai/jobs/info/68e6d7e2e8daec61499af961?utm_campaign=1052&utm_source=git)** | Washington, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
