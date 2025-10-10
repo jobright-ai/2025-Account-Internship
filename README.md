@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mariner](http://www.marinerwealthadvisors.com/)** | **[Intern, Independent](https://jobright.ai/jobs/info/68e88e4209580a2fe57f90da?utm_campaign=1052&utm_source=git)** | 5700 W. 112th St., Overland Park, KS, 66211, US | On Site | Oct 09 |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e88912cc49a84b7e107431?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Oct 09 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Tangible Asset Valuations / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68e8870709580a2fe57f8afb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/68e87f9509580a2fe57f8430?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e87ea8c72beb74cb31f342?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Oct 09 |
 | ↳ | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e87d39cc49a84b7e106a9b?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Oct 09 |
@@ -66,14 +69,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern, Personal Property Tax](https://jobright.ai/jobs/info/68e8758b09580a2fe57f7e05?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Oct 09 |
 | ↳ | **[Summer 2026 Intern, Transaction Tax Compliance](https://jobright.ai/jobs/info/68e8740cc72beb74cb31ebc1?utm_campaign=1052&utm_source=git)** | Downers Grove, IL | On Site | Oct 09 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/68e873c309580a2fe57f7bc6?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 09 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e872b6c72beb74cb31ea09?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 09 |
-| ↳ | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e8710ecc49a84b7e1062bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e8710ecc49a84b7e1062bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | ↳ | **[Summer 2026 Intern, Asset Recovery](https://jobright.ai/jobs/info/68e870a8cc49a84b7e106236?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 09 |
 | **[Alter Domus](http://www.alterdomus.com)** | **[Fund Accounting Summer Intern](https://jobright.ai/jobs/info/68e86f48cc49a84b7e1060bf?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 09 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e86f43cc49a84b7e1060b6?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 09 |
 | **[Vontier](https://www.vontier.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68e86b80c72beb74cb31e6af?utm_campaign=1052&utm_source=git)** | Duncansville, PA | On Site | Oct 09 |
 | **[GP Fund Solutions](https://gpfundsolutions.com/)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/68e868cbcc49a84b7e105e59?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Oct 09 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/68e86556c72beb74cb31e3f6?utm_campaign=1052&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 09 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68e887cc09580a2fe57f8c45?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 09 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Wealth Advisory Investments - Summer 2026 - Madison WI](https://jobright.ai/jobs/info/68e8640ccc49a84b7e105c05?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Oct 09 |
 | ↳ | **[Tax and Audit Intern - Summer 2026 - Tampa, FL](https://jobright.ai/jobs/info/68e86121c72beb74cb31e331?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 09 |
 | **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA Finance &amp; Accounting Internship (Spring 2026)](https://jobright.ai/jobs/info/68e85fcd09580a2fe57f7250?utm_campaign=1052&utm_source=git)** | Beverly, MA, USA | On Site | Oct 09 |
@@ -93,8 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/68e83b8909580a2fe57f59f8?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Oct 09 |
 | **[Southwire Company](http://southwire.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e83ac209580a2fe57f5913?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 09 |
 | **[CBIZ](http://www.cbiz.com)** | **[Forensic Accounting and Litigation Intern / 2026](https://jobright.ai/jobs/info/68e8370ec4895107182c3de1?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 09 |
-| **[Centene Corporation](http://www.centene.com)** | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e836abcc49a84b7e103c43?utm_campaign=1052&utm_source=git)** | Arkansas, United States | Remote | Oct 09 |
-| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e83656cc49a84b7e103bc8?utm_campaign=1052&utm_source=git)** | Louisiana, United States | Remote | Oct 09 |
+| **[Centene Corporation](http://www.centene.com)** | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e83656cc49a84b7e103bc8?utm_campaign=1052&utm_source=git)** | Louisiana, United States | Remote | Oct 09 |
 | **[Genesys](http://www.genesys.com)** | **[Intern, Global Tax Accounting and Reporting](https://jobright.ai/jobs/info/68e835f6cc49a84b7e103b2f?utm_campaign=1052&utm_source=git)** | Indiana, United States | Hybrid | Oct 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e835de09580a2fe57f5511?utm_campaign=1052&utm_source=git)** | Nebraska, United States | Remote | Oct 09 |
 | ↳ | **[Internal Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e835d009580a2fe57f54fc?utm_campaign=1052&utm_source=git)** | Missouri, United States | Remote | Oct 09 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Corporate Finance - Birmingham](https://jobright.ai/jobs/info/68e82dfecc49a84b7e1033c4?utm_campaign=1052&utm_source=git)** | Alabama, United States | On Site | Oct 09 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2026 - Tampa, FL](https://jobright.ai/jobs/info/68e82d7ccc49a84b7e1032b4?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 09 |
 | **[Baton](https://batonmarket.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68e82d40cc49a84b7e103235?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
-| **[Centene Corporation](http://www.centene.com)** | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e82d3bcc49a84b7e10322a?utm_campaign=1052&utm_source=git)** | Nashville Metro | Remote | Oct 09 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68e82d24cc49a84b7e1031fc?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Oct 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e82b5309580a2fe57f49d1?utm_campaign=1052&utm_source=git)** | Providence County, RI | Remote | Oct 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68e8287fcc49a84b7e103072?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
@@ -140,12 +141,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e8438909580a2fe57f60c2?utm_campaign=1052&utm_source=git)** | Greater Enid Area | Remote | Oct 09 |
 | ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e8410cc72beb74cb31ce7b?utm_campaign=1052&utm_source=git)** | Missouri, United States | Remote | Oct 09 |
 | ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e83d47c72beb74cb31c92b?utm_campaign=1052&utm_source=git)** | Kenton County, KY | Remote | Oct 09 |
-| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e8453ec72beb74cb31d029?utm_campaign=1052&utm_source=git)** | Iowa, United States | Remote | Oct 09 |
-| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e83e9fc72beb74cb31cb75?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Oct 09 |
-| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e84113c72beb74cb31ce87?utm_campaign=1052&utm_source=git)** | Michigan, United States | Remote | Oct 09 |
 | ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e83b3909580a2fe57f599b?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Oct 09 |
-| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e8454bc72beb74cb31d038?utm_campaign=1052&utm_source=git)** | West Virginia, United States | Remote | Oct 09 |
+| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e84113c72beb74cb31ce87?utm_campaign=1052&utm_source=git)** | Michigan, United States | Remote | Oct 09 |
 | ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e84644cc49a84b7e104b01?utm_campaign=1052&utm_source=git)** | South Carolina, United States | Remote | Oct 09 |
+| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e83e9fc72beb74cb31cb75?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Oct 09 |
+| ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e8454bc72beb74cb31d038?utm_campaign=1052&utm_source=git)** | West Virginia, United States | Remote | Oct 09 |
 | ↳ | **[IT Audit Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e845edcc49a84b7e104a91?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 09 |
 | **[Lewis & Ellis - Actuaries and Consultants](http://lewisellis.com)** | **[Spring 2026 Actuarial Intern - P&C](https://jobright.ai/jobs/info/68e81ec2cc49a84b7e1024ec?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 09 |
 | **[Crowe](https://www.crowe.com/)** | **[Financial Crime Intern](https://jobright.ai/jobs/info/68e81e6a09580a2fe57f3f38?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Oct 09 |
