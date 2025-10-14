@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern State and Local Tax Advisory Winter 2026 / Atlanta](https://jobright.ai/jobs/info/68eddb9170b66e2345d41c51?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 13 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Program Cost Analyst Intern - Huntsville AL - R10210225](https://jobright.ai/jobs/info/68edd10a81fdd1626d39fba8?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Oct 13 |
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68edba9181fdd1626d39e957?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Oct 13 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Property Tax Complex](https://jobright.ai/jobs/info/68edb8856335d3323612b0bd?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 13 |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[2026 Summer Finance Intern (FP&A)](https://jobright.ai/jobs/info/68edb6b881fdd1626d39e8c0?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 13 |
@@ -76,12 +78,12 @@ For a complete list, click the following sortable link below:
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/68ed9dc081fdd1626d39dc81?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Oct 13 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/68ed950081fdd1626d39da3d?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Oct 13 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Credit Intern](https://jobright.ai/jobs/info/68ed918881fdd1626d39d943?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 13 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Property Tax Complex](https://jobright.ai/jobs/info/68ed8e5881fdd1626d39d849?utm_campaign=1052&utm_source=git)** | Austin | On Site | Oct 13 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Property Tax Complex](https://jobright.ai/jobs/info/68ed8e9c81fdd1626d39d8a8?utm_campaign=1052&utm_source=git)** | Austin | On Site | Oct 13 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Tax Summer 2026 / Oklahoma City](https://jobright.ai/jobs/info/68ed8d8781fdd1626d39d70e?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Hybrid | Oct 13 |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - Farmington, CT](https://jobright.ai/jobs/info/68ed89f96335d33236129e7f?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Oct 13 |
 | **[Coinbase](https://www.coinbase.com)** | **[Tax Information Reporting Intern](https://jobright.ai/jobs/info/68ed85cf6335d33236129cb1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/68ed831981fdd1626d39d3d2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - Farmington, CT](https://jobright.ai/jobs/info/68ed830670b66e2345d3ec2a?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Oct 13 |
-| **[Coinbase](https://www.coinbase.com)** | **[Tax Operations Intern](https://jobright.ai/jobs/info/68ed82c36335d33236129c17?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| ↳ | **[Tax Operations Intern](https://jobright.ai/jobs/info/68ed82c36335d33236129c17?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | ↳ | **[Finance Operations Intern](https://jobright.ai/jobs/info/68ed829881fdd1626d39d2ec?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/68ed819b6335d33236129aaa?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[SageSure](https://www.sagesure.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68ed812370b66e2345d3e952?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 13 |
@@ -96,11 +98,11 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68ed70f981fdd1626d39c88a?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Oct 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Internal Audit - R10600](https://jobright.ai/jobs/info/68ed70ab81fdd1626d39c81a?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 13 |
 | **[Brose Group](https://www.brose.com/)** | **[Tax Intern (Year Round)](https://jobright.ai/jobs/info/68ed6e0d6335d33236128e14?utm_campaign=1052&utm_source=git)** | Metro Detroit, MI | On Site | Oct 13 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Economic Valuation Services - Valuation / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ed6c8870b66e2345d3dc72?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 13 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Tax, Accounting - R10592](https://jobright.ai/jobs/info/68ed6c4d81fdd1626d39c582?utm_campaign=1052&utm_source=git)** | Dayton, OH | Hybrid | Oct 13 |
 | ↳ | **[REMOTE - 2026 Summer Internship - Accounting - R10669](https://jobright.ai/jobs/info/68ed6b8981fdd1626d39c447?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 13 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Korean Practice / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ed6b2b81fdd1626d39c39c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - Summer Internship 2025 - Contract Analytics - R10671](https://jobright.ai/jobs/info/68ed6ae981fdd1626d39c332?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 13 |
+| **[Thrivent](https://www.thrivent.com)** | **[Financial Services Field Internship](https://jobright.ai/jobs/info/68e6d6aae8daec61499af79b?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Oct 13 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Complex Property Tax](https://jobright.ai/jobs/info/68ed695b6335d33236128a91?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Oct 13 |
 | ↳ | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/68ed66f070b66e2345d3d98b?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Oct 13 |
 | ↳ | **[Summer 2026 Intern, Complex Property Tax](https://jobright.ai/jobs/info/68ed66ca70b66e2345d3d957?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 13 |
@@ -122,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Finance Intern, FP&A](https://jobright.ai/jobs/info/68ed53af70b66e2345d3caca?utm_campaign=1052&utm_source=git)** | Bloomfield, CT | On Site | Oct 13 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Bethlehem, PA](https://jobright.ai/jobs/info/68ed529a81fdd1626d39b16d?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Oct 13 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68ed51c181fdd1626d39b02f?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Oct 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/68ed518381fdd1626d39afc9?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | On Site | Oct 13 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68ed4f3c81fdd1626d39ae83?utm_campaign=1052&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
 | ↳ | **[Finance Intern - MBA](https://jobright.ai/jobs/info/68ed4f2d81fdd1626d39ae56?utm_campaign=1052&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2026 - Denver & Colorado Springs, CO](https://jobright.ai/jobs/info/68ed4f0a70b66e2345d3c8f7?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Oct 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47f06335d33236127060?utm_campaign=1052&utm_source=git)** | Killeen, TX | Hybrid | Oct 13 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47d16335d3323612703a?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Hybrid | Oct 13 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47c86335d33236127021?utm_campaign=1052&utm_source=git)** | Montgomery, AL | Hybrid | Oct 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47b66335d33236127002?utm_campaign=1052&utm_source=git)** | Fargo, ND | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
