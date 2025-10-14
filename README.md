@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cone Health](http://www.conehealth.com)** | **[Intern - Financial Analyst](https://jobright.ai/jobs/info/68edfc5881fdd1626d3a17ef?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Oct 14 |
+| ↳ | **[Intern - Financial Planning/Project Management](https://jobright.ai/jobs/info/68edfc206335d3323612e02f?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Oct 14 |
+| **[University of Memphis](https://memphis.edu)** | **[Associate Director, Athletic Finance](https://jobright.ai/jobs/info/68edeb5f70b66e2345d42398?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Oct 13 |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Healthcare Accounting Intern](https://jobright.ai/jobs/info/68ede98370b66e2345d4201c?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 13 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68ede69070b66e2345d41fa8?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Oct 13 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern State and Local Tax Advisory Winter 2026 / Atlanta](https://jobright.ai/jobs/info/68eddb9170b66e2345d41c51?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Program Cost Analyst Intern - Huntsville AL - R10210225](https://jobright.ai/jobs/info/68edd10a81fdd1626d39fba8?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Oct 13 |
+| **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Investment Management Group (IMG) Intern](https://jobright.ai/jobs/info/68ec95cec26b9574506f44db?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Oct 13 |
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68edba9181fdd1626d39e957?utm_campaign=1052&utm_source=git)** | Sacramento, CA | Hybrid | Oct 13 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Property Tax Complex](https://jobright.ai/jobs/info/68edb8856335d3323612b0bd?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 13 |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[2026 Summer Finance Intern (FP&A)](https://jobright.ai/jobs/info/68edb6b881fdd1626d39e8c0?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 13 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern - Underwriting](https://jobright.ai/jobs/info/68edb2e170b66e2345d3ff8d?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 13 |
 | ↳ | **[Summer Intern - Underwriting](https://jobright.ai/jobs/info/68edb2d670b66e2345d3ff86?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 13 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/68edb17181fdd1626d39e6a7?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Oct 13 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern - Underwriting](https://jobright.ai/jobs/info/68edb0cf6335d3323612ae5d?utm_campaign=1052&utm_source=git)** | US-NJ-Moorestown | Hybrid | Oct 13 |
+| ↳ | **[Summer Intern - Underwriting](https://jobright.ai/jobs/info/68edb0cf6335d3323612ae5d?utm_campaign=1052&utm_source=git)** | US-NJ-Moorestown | Hybrid | Oct 13 |
 | ↳ | **[Summer Intern - Underwriting](https://jobright.ai/jobs/info/68edb0b66335d3323612ae49?utm_campaign=1052&utm_source=git)** | US-NJ-Moorestown | Hybrid | Oct 13 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68edb0586335d3323612ade5?utm_campaign=1052&utm_source=git)** | Rosemont, IL | Hybrid | Oct 13 |
 | ↳ | **[Revenue Operations Intern (Data Analytics)](https://jobright.ai/jobs/info/68edafda6335d3323612ad75?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Oct 13 |
@@ -122,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Electric Power Systems Finance Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68ed560381fdd1626d39b1d8?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Oct 13 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Finance Intern - MBA](https://jobright.ai/jobs/info/68ed55b96335d33236127a76?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Oct 13 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Finance Intern, FP&A](https://jobright.ai/jobs/info/68ed53af70b66e2345d3caca?utm_campaign=1052&utm_source=git)** | Bloomfield, CT | On Site | Oct 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Bethlehem, PA](https://jobright.ai/jobs/info/68ed529a81fdd1626d39b16d?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Oct 13 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68ed51c181fdd1626d39b02f?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Oct 13 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68ed4f3c81fdd1626d39ae83?utm_campaign=1052&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
 | ↳ | **[Finance Intern - MBA](https://jobright.ai/jobs/info/68ed4f2d81fdd1626d39ae56?utm_campaign=1052&utm_source=git)** | Santa Rosa, California | On Site | Oct 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68ed48826335d3323612714a?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Oct 13 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed48816335d33236127145?utm_campaign=1052&utm_source=git)** | Nashua, NH | Hybrid | Oct 13 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed484a6335d332361270f1?utm_campaign=1052&utm_source=git)** | Round Lake Beach, IL | Hybrid | Oct 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed48296335d332361270ab?utm_campaign=1052&utm_source=git)** | Irving, TX | Hybrid | Oct 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47f06335d33236127060?utm_campaign=1052&utm_source=git)** | Killeen, TX | Hybrid | Oct 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47d16335d3323612703a?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Hybrid | Oct 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/68ed47c86335d33236127021?utm_campaign=1052&utm_source=git)** | Montgomery, AL | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
