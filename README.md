@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Corporate Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68ef5f0cde50091dbfa4e147?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Oct 15 |
 | **[VertoTech](vertotech.us)** | **[Debt Capital Markets Summer Internship](https://jobright.ai/jobs/info/68ef3c8620456578d5eb772c?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Oct 14 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Intern](https://jobright.ai/jobs/info/68ef281ba1a1d02df61ea2d1?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[2026 Tax Intern - Summer](https://jobright.ai/jobs/info/68ef0ce620456578d5eb43b0?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 14 |
@@ -110,18 +111,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4fde0db92422580bef4?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4e4d078b81ad160ff14?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Oct 14 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4d5d078b81ad160fefe?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Oct 14 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febc?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160feb9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 14 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febc?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Oct 14 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/68eed4ade0db92422580be53?utm_campaign=1052&utm_source=git)** | 1615 Locust Street, Des Moines, IA, 50309, US | On Site | Oct 14 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed49ad078b81ad160fe87?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed488e0db92422580be12?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 14 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe54?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe53?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Oct 14 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe54?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed475e0db92422580bdea?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Oct 14 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe34?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe33?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 14 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd4b?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Oct 14 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe34?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 14 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd49?utm_campaign=1052&utm_source=git)** | Florence, SC | On Site | Oct 14 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd4b?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Oct 14 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3fcd078b81ad160fd55?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Oct 14 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3ced078b81ad160fd04?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Oct 14 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3b8d078b81ad160fcde?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Oct 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[2026 Raytheon - Summer Finance Intern/Co-op - Onsite (MA)](https://jobright.ai/jobs/info/68eed07b46e5b153e5a60158?utm_campaign=1052&utm_source=git)** | MA131: Tewksbury, MA Bldg  1 Assabet 50 Apple Hill Drive Assabet - Building 1, Tewksbury, MA, 01876 USA | Hybrid | Oct 14 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68eecf75e0db92422580ba93?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Oct 14 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eecf5ae0db92422580ba7f?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Oct 14 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eecf4ae0db92422580ba6d?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
