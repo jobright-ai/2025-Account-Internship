@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern - Accounting Majors](https://jobright.ai/jobs/info/68f099bdeb273a32d9769f16?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Corporate Treasury Internship (Summer 2026)](https://jobright.ai/jobs/info/68f07c7eeb273a32d9769050?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | ↳ | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f07c05eb273a32d9768f32?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Oct 15 |
 | ↳ | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f07b97a6b9004b5e320d6f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 15 |
@@ -124,11 +125,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0299578ba1621431e27ce?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[State Street Investment Management - Asset Stewardship - 2026 Summer Internship](https://jobright.ai/jobs/info/68f03716de50091dbfa538b7?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[ECS Financial Services LTD](https://www.ecsfinancial.com/)** | **[Accounting Intern (Tax Season)](https://jobright.ai/jobs/info/68f02ed99821486c423c9f9e?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Oct 15 |
-| **[TalentSphere Global](talentsphereglobal.us)** | **[Tax and Accounting Intern](https://jobright.ai/jobs/info/68f03552de50091dbfa535b9?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Oct 15 |
 | **[The Global Innovation Lab for Climate Finance](https://www.climatefinancelab.org)** | **[Spring 2026 Climate Finance Intern](https://jobright.ai/jobs/info/68f06d59eb273a32d97681f5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Accounting / Bolingbrook, IL](https://jobright.ai/jobs/info/68f02b89de50091dbfa527be?utm_campaign=1052&utm_source=git)** | Bolingbrook, IL | On Site | Oct 15 |
 | **[Orbient 24](orbient24.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68f02c20de50091dbfa52917?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Oct 15 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Internal Audit Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/68f02d9f78ba1621431e3030?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
+| **[Obra Capital](https://www.obra.com/)** | **[2026 Summer Analyst, Leveraged Finance](https://jobright.ai/jobs/info/68f08a191f624a7ec1cf3ad5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Forbes Partners](https://forbes-partners.com/)** | **[Investment Banking Summer Analyst Internship](https://jobright.ai/jobs/info/68f02c11de50091dbfa528f5?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 15 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68f02ee0de50091dbfa5305f?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | Oct 15 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern -  General Bank Risk Management](https://jobright.ai/jobs/info/68f02acbde50091dbfa5265d?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ECS Financial Services LTD](https://www.ecsfinancial.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68eff2be9821486c423c8113?utm_campaign=1052&utm_source=git)** | Northbrook, Illinois - Headquarters | On Site | Oct 15 |
 | **[IRA Financial](https://www.irafinancialgroup.com/)** | **[IRA Trust Intern (Summer 2026)](https://jobright.ai/jobs/info/68f0202c9821486c423c904d?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 | ↳ | **[IRA Trust Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f021cc9821486c423c925f?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
-| ↳ | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/68f01da19821486c423c8d3c?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
