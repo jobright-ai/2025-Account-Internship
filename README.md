@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68d4c571fcd3367e8df17c6a?utm_campaign=1052&utm_source=git)** | Clayton, MO | Hybrid | Oct 16 |
+| ↳ | **[Administrative Tax Internship- Spring 2026](https://jobright.ai/jobs/info/68b89290ea901c0d269f76f1?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Oct 16 |
+| **[Moneta](http://monetagroup.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68f0b2dba6b9004b5e324469?utm_campaign=1052&utm_source=git)** | Moorestown, NJ | On Site | Oct 16 |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68f0acba1f624a7ec1cf6278?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Oct 16 |
+| **[Moneta](http://monetagroup.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68f0ab7f1f624a7ec1cf5ed3?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Oct 16 |
+| **[Casa Central](https://www.casacentral.org)** | **[Accounting Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/68f0ab5ba6b9004b5e3235d4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern - Accounting Majors](https://jobright.ai/jobs/info/68f099bdeb273a32d9769f16?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Corporate Treasury Internship (Summer 2026)](https://jobright.ai/jobs/info/68f07c7eeb273a32d9769050?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | ↳ | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f07c05eb273a32d9768f32?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Oct 15 |
@@ -65,9 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Tax Fall 2026 / Austin](https://jobright.ai/jobs/info/68f07b05eb273a32d9768d4d?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Oct 15 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f07ae5eb273a32d9768d13?utm_campaign=1052&utm_source=git)** | Suwanee, GA | On Site | Oct 15 |
 | ↳ | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f07ab7a6b9004b5e320b6a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 15 |
-| ↳ | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f07a89a6b9004b5e320af9?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | ↳ | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f079c3a6b9004b5e32097d?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Oct 15 |
-| **[American University of the Caribbean](http://aucmed.edu/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68f076d5eb273a32d9768aec?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[John Deere](https://www.deere.com)** | **[2026 Intern - Accounting / Finance](https://jobright.ai/jobs/info/68f076cbeb273a32d9768add?utm_campaign=1052&utm_source=git)** | Moline, IL | Hybrid | Oct 15 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Underwriting Internship Program - Commercial Lines - Summer 2026](https://jobright.ai/jobs/info/68f076641f624a7ec1cf3232?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Oct 15 |
 | ↳ | **[Corporate Tax Internship (Summer 2026)](https://jobright.ai/jobs/info/68f075f4a6b9004b5e320840?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
@@ -125,11 +129,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0299578ba1621431e27ce?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[State Street Investment Management - Asset Stewardship - 2026 Summer Internship](https://jobright.ai/jobs/info/68f03716de50091dbfa538b7?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[ECS Financial Services LTD](https://www.ecsfinancial.com/)** | **[Accounting Intern (Tax Season)](https://jobright.ai/jobs/info/68f02ed99821486c423c9f9e?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Oct 15 |
-| **[The Global Innovation Lab for Climate Finance](https://www.climatefinancelab.org)** | **[Spring 2026 Climate Finance Intern](https://jobright.ai/jobs/info/68f06d59eb273a32d97681f5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Accounting / Bolingbrook, IL](https://jobright.ai/jobs/info/68f02b89de50091dbfa527be?utm_campaign=1052&utm_source=git)** | Bolingbrook, IL | On Site | Oct 15 |
 | **[Orbient 24](orbient24.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68f02c20de50091dbfa52917?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Oct 15 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Internal Audit Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/68f02d9f78ba1621431e3030?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
-| **[Obra Capital](https://www.obra.com/)** | **[2026 Summer Analyst, Leveraged Finance](https://jobright.ai/jobs/info/68f08a191f624a7ec1cf3ad5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Forbes Partners](https://forbes-partners.com/)** | **[Investment Banking Summer Analyst Internship](https://jobright.ai/jobs/info/68f02c11de50091dbfa528f5?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 15 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68f02ee0de50091dbfa5305f?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | Oct 15 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern -  General Bank Risk Management](https://jobright.ai/jobs/info/68f02acbde50091dbfa5265d?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/68eff333de50091dbfa51091?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 15 |
 | **[IRA Financial](https://www.irafinancialgroup.com/)** | **[Accounting Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f02b759821486c423c9868?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 | **[ECS Financial Services LTD](https://www.ecsfinancial.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68eff2be9821486c423c8113?utm_campaign=1052&utm_source=git)** | Northbrook, Illinois - Headquarters | On Site | Oct 15 |
-| **[IRA Financial](https://www.irafinancialgroup.com/)** | **[IRA Trust Intern (Summer 2026)](https://jobright.ai/jobs/info/68f0202c9821486c423c904d?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
-| ↳ | **[IRA Trust Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f021cc9821486c423c925f?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
