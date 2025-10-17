@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Airways](http://www.rjet.com)** | **[LIFT Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68c64253c96a22563ecec20e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
+| **[Hydrite](http://www.hydrite.com)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/68f1f7b4e6870116b1f5f269?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | Oct 17 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Capital Markets Group Analyst](https://jobright.ai/jobs/info/68cd94b01ad6b16f0289bbef?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[VMG Health](http://www.vmghealth.com/)** | **[Financial Analyst, Internship - Compensation Valuation](https://jobright.ai/jobs/info/68f1d186f462172a5a7dce67?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 16 |
 | ↳ | **[Financial Analyst, Internship - Business Valuation](https://jobright.ai/jobs/info/68f1cefbef766b3f0fd123f6?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | On Site | Oct 16 |
@@ -81,12 +84,15 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Danville, KY Summer 2026)](https://jobright.ai/jobs/info/68f18808f462172a5a7d997a?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Oct 16 |
 | ↳ | **[Internship – Private Wealth Management (Roseville, CA Summer 2026)](https://jobright.ai/jobs/info/68f186b6e6870116b1f5a1ff?utm_campaign=1052&utm_source=git)** | Roseville, CA | On Site | Oct 16 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Plantation](https://jobright.ai/jobs/info/68f185b8ef766b3f0fd0f11e?utm_campaign=1052&utm_source=git)** | Plantation, FL | Hybrid | Oct 16 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship - Accounting](https://jobright.ai/jobs/info/68cd086be23def7af55b3aa0?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Oct 16 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Irving, TX - Loan Processing](https://jobright.ai/jobs/info/68f1834df462172a5a7d9789?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[ACCOUNTING FALL CO-OP (Valdosta Mill)](https://jobright.ai/jobs/info/68f18095e6870116b1f59d45?utm_campaign=1052&utm_source=git)** | Valdosta, GA | On Site | Oct 16 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Financial Internships](https://jobright.ai/jobs/info/68f18000ef766b3f0fd0ec61?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Oct 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Minneapolis)](https://jobright.ai/jobs/info/68f17b5eef766b3f0fd0ea1c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Underwriting Intern - Lancer XS Auto - Summer 2026](https://jobright.ai/jobs/info/68f17a72ef766b3f0fd0e8bf?utm_campaign=1052&utm_source=git)** | Long Beach, NY | On Site | Oct 16 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Greenville](https://jobright.ai/jobs/info/68f177a6e6870116b1f59790?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Oct 16 |
 | **[Soros Fund Management](https://sorosfundmgmt.com/)** | **[Investment Intern - Summer 2026](https://jobright.ai/jobs/info/68f17798f462172a5a7d8db6?utm_campaign=1052&utm_source=git)** | New York | On Site | Oct 16 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Finance Intern](https://jobright.ai/jobs/info/68d4e2d88c62e63bc7fed9e8?utm_campaign=1052&utm_source=git)** | Shakopee, MN | On Site | Oct 16 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Appraisal Internship](https://jobright.ai/jobs/info/68f1746be6870116b1f59367?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Pensacola](https://jobright.ai/jobs/info/68f16fd5f462172a5a7d87d1?utm_campaign=1052&utm_source=git)** | Pensacola, FL | On Site | Oct 16 |
 | ↳ | **[Summer 2026 Commercial Banking Intern Columbia SC](https://jobright.ai/jobs/info/68f16ec7f462172a5a7d8664?utm_campaign=1052&utm_source=git)** | Columbia, SC | On Site | Oct 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/68f142bde6870116b1f55e1c?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 16 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance &amp; Business Operations Summer Intern / Orlando, FL](https://jobright.ai/jobs/info/68f14268ef766b3f0fd0abec?utm_campaign=1052&utm_source=git)** | Florida | Hybrid | Oct 16 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Real Estate Investment Analyst Internship - Chicago/Minneapolis](https://jobright.ai/jobs/info/68eca3e9c26b9574506f5c75?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 16 |
-| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68f14080ef766b3f0fd0a6b0?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
-| **[Hoar Construction](http://www.hoar.com)** | **[Credit Risk Management Internship](https://jobright.ai/jobs/info/68f1406eef766b3f0fd0a684?utm_campaign=1052&utm_source=git)** | Birmingham, Alabama | On Site | Oct 16 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Real Estate Investment Analyst Internship - Chicago/Minneapolis](https://jobright.ai/jobs/info/68ec8d04c26b9574506f30a7?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
-| **[PwC](http://pwc.com)** | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/68f13fe4e6870116b1f555ac?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | On Site | Oct 16 |
-| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f13fc9f462172a5a7d51ae?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
-| **[PwC](http://pwc.com)** | **[Tax Intern - Winter 2026](https://jobright.ai/jobs/info/68f13e5ae6870116b1f5525f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
