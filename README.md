@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Summer Intern, Rising Talent in Finance (RTiF) Internal Audit- New York, 2026](https://jobright.ai/jobs/info/68d5f13e1f7fb2169ab14d99?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Capital Finance](https://jobright.ai/jobs/info/68d6434a894705799a2ea0d9?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Oct 17 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68afe469e723db6c9b7b4980?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Oct 17 |
+| **[Lockton](https://global.lockton.com)** | **[Actuarial Intern (Philadelphia)](https://jobright.ai/jobs/info/68c78745db52c07d2884b6e9?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Oct 17 |
+| ↳ | **[Actuarial Intern (NYC)](https://jobright.ai/jobs/info/68cd79e7e23def7af55ba6b8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Digital Tax Services - Summer 2026](https://jobright.ai/jobs/info/68cf9d63fb49c96ca6ea9ba9?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Finance Intern - Undergraduate](https://jobright.ai/jobs/info/68c64a3e7d0db41142738039?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/68f212b6af0b5a06b5849b0f?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Oct 17 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68c64253c96a22563ecec20e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | **[Hydrite](http://www.hydrite.com)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/68f1f7b4e6870116b1f5f269?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | Oct 17 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Capital Markets Group Analyst](https://jobright.ai/jobs/info/68cd94b01ad6b16f0289bbef?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OTC Industrial Technologies](https://otcindustrial.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f147c1e6870116b1f561b0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 16 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Wealth Management Summer Intern](https://jobright.ai/jobs/info/68f14610f462172a5a7d58c5?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Oct 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68f14558f462172a5a7d57fa?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Oct 16 |
-| **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/68f1448ef462172a5a7d572d?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 16 |
-| **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[2026 Valor Internship](https://jobright.ai/jobs/info/68f1448af462172a5a7d5723?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 16 |
-| **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 16 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance &amp; Business Operations Summer Intern / Orlando, FL](https://jobright.ai/jobs/info/68f143b5e6870116b1f5604c?utm_campaign=1052&utm_source=git)** | Possible | Hybrid | Oct 16 |
-| **[Victaulic](https://www.victaulic.com)** | **[2026 Summer Internship – Accounting/Finance](https://jobright.ai/jobs/info/68f14332e6870116b1f55f48?utm_campaign=1052&utm_source=git)** | Easton, Pennsylvania | On Site | Oct 16 |
-| **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/68f142bde6870116b1f55e1c?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Oct 16 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance &amp; Business Operations Summer Intern / Orlando, FL](https://jobright.ai/jobs/info/68f14268ef766b3f0fd0abec?utm_campaign=1052&utm_source=git)** | Florida | Hybrid | Oct 16 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Real Estate Investment Analyst Internship - Chicago/Minneapolis](https://jobright.ai/jobs/info/68eca3e9c26b9574506f5c75?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
