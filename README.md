@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altra Federal Credit Union](https://www.altra.org/)** | **[Loan Servicing Intern, Operations Center - Onalaska, WI](https://jobright.ai/jobs/info/68f33c449a63986de7570493?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Oct 18 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Oct 17 |
+| **[Operation Smile](http://www.operationsmile.org)** | **[Finance Intern - Paid](https://jobright.ai/jobs/info/68f337c09a65fd3458584d1a?utm_campaign=1052&utm_source=git)** | VIRGINIA BEACH, VA (HQ) | Hybrid | Oct 17 |
+| **[Key Cooperative](https://keycoop.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f32bae9a65fd3458584700?utm_campaign=1052&utm_source=git)** | Iowa, United States | On Site | Oct 17 |
 | **[Sanmina](https://www.sanmina.com)** | **[Financial Analyst /Accounting Internship](https://jobright.ai/jobs/info/68f315ef76a51a4307bcaffc?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | **[State Street](http://www.statestreet.com)** | **[State Street Investment Management - Client Portfolio Management - Summer Internship 2026](https://jobright.ai/jobs/info/68f30b7e76a51a4307bca69b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 17 |
 | **[Social Nation - A Social Innovation Startup](http://www.socialnation.it)** | **[IMI CIB_Structured Finance Internship](https://jobright.ai/jobs/info/68f30b6d9a63986de756e63c?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 17 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Fenimore Asset Management](https://www.famfunds.com/)** | **[Investment Research Internship](https://jobright.ai/jobs/info/68f297ce9a65fd345857de88?utm_campaign=1052&utm_source=git)** | Cobleskill, NY | On Site | Oct 17 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68f291349a65fd345857da71?utm_campaign=1052&utm_source=git)** | Highland Heights, OH | On Site | Oct 17 |
 | **[Orbient 24](orbient24.us)** | **[Business Audit Intern](https://jobright.ai/jobs/info/68f2a7f376a51a4307bc5f0b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Oct 17 |
+| **[PwC](http://pwc.com)** | **[Tax Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68f2b66b9a63986de756b312?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Accounting/Finance Intern - Rates & Regulatory Reporting (Summer, 2026,Hybrid)](https://jobright.ai/jobs/info/68f287f29a63986de756893a?utm_campaign=1052&utm_source=git)** | Allentown, PA | Hybrid | Oct 17 |
-| **[PwC](http://pwc.com)** | **[Tax Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68f286219a65fd345857d51f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[East Baton Rouge Parish Housing Authority](https://www.ebrpha.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f2a5ef9a65fd345857e92a?utm_campaign=1052&utm_source=git)** | EBRPHA Main Office | On Site | Oct 17 |
 | **[Greenheck Group](https://www.greenheckgroup.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/68f283829a65fd345857d435?utm_campaign=1052&utm_source=git)** | Schofield, WI | On Site | Oct 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Asset Management - Summer 2027 (Boston)](https://jobright.ai/jobs/info/68f282bf9a63986de756878b?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
@@ -140,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Fall 2026 - Destination CPA](https://jobright.ai/jobs/info/68f29e5476a51a4307bc55ee?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Fall 2026 - Destination CPA](https://jobright.ai/jobs/info/68f2a4289a65fd345857e748?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Oct 17 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/68f2aa3d9a63986de756a273?utm_campaign=1052&utm_source=git)** | Highland Heights, OH | On Site | Oct 17 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Finance Graduate Internship](https://jobright.ai/jobs/info/68f1bdf2e6870116b1f5cac7?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
 | **[Equity Residential](http://equityapartments.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68f27c2076a51a4307bc4339?utm_campaign=1052&utm_source=git)** | 2 N Riverside Plaza, Chicago, IL, 60606, US | Hybrid | Oct 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Asset Management - Summer 2027 (Boston)](https://jobright.ai/jobs/info/68f27a4f9a65fd345857cfc5?utm_campaign=1052&utm_source=git)** | 15 One International Place, Boston, MA, 02110, US | On Site | Oct 17 |
 | **[Growvix](https://www.linkedin.com/company/104166605)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/68f2793c76a51a4307bc411d?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Oct 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2026](https://jobright.ai/jobs/info/68d5b75b2116ff37ee08fbe3?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | **[BOND Building Construction](http://bondbrothers.com)** | **[Estimating Intern/Co-Op (BOND Building)](https://jobright.ai/jobs/info/68f2ab4876a51a4307bc656f?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 17 |
 | **[Greystar (International)](http://www.greystar.com)** | **[MBA Summer Investment Associate](https://jobright.ai/jobs/info/68f26d909a63986de7567b96?utm_campaign=1052&utm_source=git)** | City Office Charleston, Charleston, SC | On Site | Oct 17 |
-| **[Constellation Brands](http://cbrands.com)** | **[Intern, Payroll & Accounts Receivable](https://jobright.ai/jobs/info/68f29bfa9a63986de756953b?utm_campaign=1052&utm_source=git)** | Canandaigua, NY | On Site | Oct 17 |
-| **[DriveWealth](https://drivewealth.com)** | **[2026 Summer Intern, Treasury](https://jobright.ai/jobs/info/68f2aa8676a51a4307bc6359?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Oct 17 |
-| **[BlackRock](http://www.blackrock.com)** | **[2026 GIP Summer Intern](https://jobright.ai/jobs/info/68f2abca9a63986de756a5fa?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Valuation Services](https://jobright.ai/jobs/info/68ca454a9f583c3191e3f1cf?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
-| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Accounting](https://jobright.ai/jobs/info/68cd543bb2a74e1837ed5719?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
