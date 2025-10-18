@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68f3e45c76a51a4307bcfde8?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Oct 18 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Tax Intern, Business Tax Services-](https://jobright.ai/jobs/info/68f3dc229a65fd34585888e0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 18 |
 | **[LumoraX](lumorax.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f3d3e89a65fd34585886b0?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Remote | Oct 18 |
 | **[Crest Vale](crestvale.us)** | **[Services Intern – Audit, Tax & Advisory](https://jobright.ai/jobs/info/68f3cb3b9a63986de75738c9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Oct 18 |
-| **[Gurusamy Ventures](https://gurusamys-venture-hub.lovable.app/)** | **[Investment Analyst Intern (Fall)](https://jobright.ai/jobs/info/68f3c8519a63986de75738b1?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bb78295f3832749186f5ce?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
 | ↳ | **[Summer Associate Internship (Mortgage Assumption Specalist)](https://jobright.ai/jobs/info/68bb86825f3832749186fcfc?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68f3bada76a51a4307bcf6e4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Financial Planning & Analysis (FP&A)](https://jobright.ai/jobs/info/68d6a07745853d0e39cc8b2d?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 18 |
 | **[Platform Accounting Group](https://platformag.com)** | **[Tax & Assurance Intern [Summer]](https://jobright.ai/jobs/info/68b9ebd26105227d1189942a?utm_campaign=1052&utm_source=git)** | Redding, CA | Hybrid | Oct 18 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Commercial Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/68b99fb18043103d4f21919f?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
-| **[Platform Accounting Group](https://platformag.com)** | **[Tax Intern [Summer]](https://jobright.ai/jobs/info/68b9e62d6105227d118990a7?utm_campaign=1052&utm_source=git)** | Santa Maria, CA | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
