@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026, Intern: Tax (hybrid, CT)](https://jobright.ai/jobs/info/68f542299a63986de7578b07?utm_campaign=1052&utm_source=git)** | Farmington, CT | Hybrid | Oct 19 |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68f541de9a63986de7578af3?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 19 |
+| **[NewDay USA](https://newdayusa.com/)** | **[Credit Specialist](https://jobright.ai/jobs/info/68f541d49a63986de7578aed?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Oct 19 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Audit and Advisory Intern – Summer Internship](https://jobright.ai/jobs/info/68f51b0976a51a4307bd469e?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bb7afe8043103d4f228f01?utm_campaign=1052&utm_source=git)** | Winchester, VA | Hybrid | Oct 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Dixon, IL](https://jobright.ai/jobs/info/689f7708faa4e875e8288802?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | Oct 19 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45fa276a51a4307bd10e0?utm_campaign=1052&utm_source=git)** | Mississippi, United States | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45fa276a51a4307bd10e1?utm_campaign=1052&utm_source=git)** | Fremont County, WY | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8e9a63986de757505c?utm_campaign=1052&utm_source=git)** | Ohio, United States | Remote | Oct 18 |
-| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8576a51a4307bd10d7?utm_campaign=1052&utm_source=git)** | Vermont, United States | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8576a51a4307bd10d6?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 18 |
+| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8576a51a4307bd10d7?utm_campaign=1052&utm_source=git)** | Vermont, United States | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f829a63986de7575052?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f7c9a65fd3458589de0?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f379a65fd3458589daa?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 18 |
-| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f379a65fd3458589dab?utm_campaign=1052&utm_source=git)** | Maryland, United States | Remote | Oct 18 |
-| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f109a65fd3458589d8d?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Oct 18 |
-| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f109a63986de757500b?utm_campaign=1052&utm_source=git)** | Virginia, United States | Remote | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
