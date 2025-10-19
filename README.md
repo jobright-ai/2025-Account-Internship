@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Audit and Advisory Intern – Summer Internship](https://jobright.ai/jobs/info/68f51b0976a51a4307bd469e?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bb7afe8043103d4f228f01?utm_campaign=1052&utm_source=git)** | Winchester, VA | Hybrid | Oct 19 |
-| **[Gurusamy Ventures](https://gurusamys-venture-hub.lovable.app/)** | **[Investment Analyst Intern- Fall](https://jobright.ai/jobs/info/68f5037e9a63986de75785a9?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Oct 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Dixon, IL](https://jobright.ai/jobs/info/689f7708faa4e875e8288802?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Assumption Specalist)](https://jobright.ai/jobs/info/68bb77905f3832749186f51e?utm_campaign=1052&utm_source=git)** | Winchester, VA | Hybrid | Oct 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Central WI](https://jobright.ai/jobs/info/68d0067e846f0b04af686fae?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | Oct 19 |
@@ -108,13 +108,13 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f337259a63986de756ffec?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/687c7997764c3d7411c37f39?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Internal Accounting Intern](https://jobright.ai/jobs/info/68ccf74ad11b445e0bee5261?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Oct 19 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68f4bc279a63986de75774c5?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f372889a63986de7572193?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Oct 19 |
+| ↳ | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f372889a63986de7572193?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Oct 19 |
 | ↳ | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f32f2c76a51a4307bcbdad?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Treasury Analyst](https://jobright.ai/jobs/info/68f4baf676a51a4307bd34d8?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f325a776a51a4307bcb8f2?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Oct 19 |
 | **[AAFCPAs](http://aafcpa.com)** | **[Summer Audit Internship (June 2026)](https://jobright.ai/jobs/info/68f30cbc9a65fd34585833d7?utm_campaign=1052&utm_source=git)** | Westborough, MA | Remote | Oct 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Accounting](https://jobright.ai/jobs/info/68f4ba8d9a65fd345858c218?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
+| ↳ | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68f4ba709a65fd345858c207?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Ameren](http://ameren.com)** | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc48cfaa4e875e828afcc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Accounting Intern - Undergraduate](https://jobright.ai/jobs/info/68ce6cc8dbd9fb154eddf8a7?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[John Deere](https://www.deere.com)** | **[Accounting/Finance Summer Intern 2026a](https://jobright.ai/jobs/info/68cba1539e3a822f5d2494a8?utm_campaign=1052&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
