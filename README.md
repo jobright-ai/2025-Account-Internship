@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Financial Planning & Analysis Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f4361476a51a4307bd060e?utm_campaign=1052&utm_source=git)** | Clayton - 7700 Forsyth Blvd (Corporate) (10109) | Remote | Oct 18 |
+| ↳ | **[Financial Planning & Analysis Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f435339a63986de757451e?utm_campaign=1052&utm_source=git)** | Remote-MO | Remote | Oct 18 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Commercial Underwriting Intern-Summer 2026](https://jobright.ai/jobs/info/68f439b676a51a4307bd0652?utm_campaign=1052&utm_source=git)** | Gilbert, AZ | On Site | Oct 18 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance Intern / Lexington, KY](https://jobright.ai/jobs/info/68f4357a9a65fd3458589242?utm_campaign=1052&utm_source=git)** | Possible | On Site | Oct 18 |
+| ↳ | **[Finance Intern / Lexington, KY](https://jobright.ai/jobs/info/68f4355f9a63986de757453d?utm_campaign=1052&utm_source=git)** | Kentucky | On Site | Oct 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Finance and Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68f4207b9a65fd3458589146?utm_campaign=1052&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 18 |
 | ↳ | **[Finance Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68f4204f9a63986de757442a?utm_campaign=1052&utm_source=git)** | Anaheim, CA, USA | On Site | Oct 18 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68f4025676a51a4307bd031d?utm_campaign=1052&utm_source=git)** | Aurora, CO | On Site | Oct 18 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/68f3f98e9a63986de75740e8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68f3f8329a63986de7574070?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Oct 18 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Corporate Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/68f3f40d9a63986de7573ff3?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Oct 18 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f3f0d19a65fd3458588c36?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 18 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/68d7f9707a37c712687d773e?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68bb7a748043103d4f228e81?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Accounting & Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/68f3b72f76a51a4307bcf64f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Risk Analsyt)](https://jobright.ai/jobs/info/68bb79d18043103d4f228df1?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Financial Services & Advisory](https://jobright.ai/jobs/info/68f3b7209a65fd3458588324?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68d7fb46295f8e37655e4817?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Commercial Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/68b99fb18043103d4f21919f?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
 | **[Platform Accounting Group](https://platformag.com)** | **[Tax Intern [Summer]](https://jobright.ai/jobs/info/68b9e62d6105227d118990a7?utm_campaign=1052&utm_source=git)** | Santa Maria, CA | Hybrid | Oct 18 |
 | **[Mars](https://www.mars.com)** | **[Mars Finance Internship Experience – Summer 2026](https://jobright.ai/jobs/info/68f38e639a65fd34585875dc?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Oct 18 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68f35d6a9a65fd34585869b3?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Oct 18 |
-| **[Mars](https://www.mars.com)** | **[Mars Finance Internship Experience – Summer 2026](https://jobright.ai/jobs/info/68f38d7b76a51a4307bce909?utm_campaign=1052&utm_source=git)** | Franklin, TN | Hybrid | Oct 18 |
-| **[Norfolk Southern](https://www.nscorp.com)** | **[2026 Summer Expenditure Accounting Intern](https://jobright.ai/jobs/info/68cb28789e3a822f5d243202?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
