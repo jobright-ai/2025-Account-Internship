@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Central WI](https://jobright.ai/jobs/info/68d0067e846f0b04af686fae?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | Oct 19 |
 | **[Orbient 24](orbient24.us)** | **[Audit, Tax & Advisory Intern](https://jobright.ai/jobs/info/68f500779a65fd345858d253?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Oct 19 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Spring and Summer Tax Intern](https://jobright.ai/jobs/info/68a0289b83d13d1f5b6ce8e8?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Oct 19 |
-| **[Crest Vale](crestvale.us)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/68f4fcf79a65fd345858d21a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - IT Audit)](https://jobright.ai/jobs/info/68bb7a348043103d4f228e46?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d8811d295f8e37655e7e30?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Oct 19 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/689ce61879a9f9666253c045?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Oct 19 |
@@ -85,12 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68db5106e19b9e63ba20ab6c?utm_campaign=1052&utm_source=git)** | Bristol, IN | On Site | Oct 19 |
 | **[Henkel](http://www.henkel.com)** | **[Finance Intern – Spring/Summer 2026](https://jobright.ai/jobs/info/68cd7b78e23def7af55baa1d?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d87dd9295f8e37655e7d49?utm_campaign=1052&utm_source=git)** | Cascade, ID | On Site | Oct 19 |
-| **[FFB Bank](https://www.ffb.bank)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f4f1729a65fd345858cf28?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Oct 19 |
-| **[Kiewit](http://www.kiewit.com)** | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d883e6295f8e37655e7f0f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 19 |
+| ↳ | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d883e6295f8e37655e7f0f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 19 |
 | ↳ | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d8832f7796a83635f119ce?utm_campaign=1052&utm_source=git)** | Vicksburg, MS | On Site | Oct 19 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Accounting Internship (CPA Pathway, Rotational Program)](https://jobright.ai/jobs/info/68f4ee7c9a63986de75781fb?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Remote | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d8835a7796a83635f11a32?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Oct 19 |
-| **[FFB Bank](https://www.ffb.bank)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f4e9a49a63986de7578149?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Oct 19 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance Associate](https://jobright.ai/jobs/info/68f4e8b49a63986de757811f?utm_campaign=1052&utm_source=git)** | Ada, MI | Remote | Oct 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Burlington, MA](https://jobright.ai/jobs/info/68cf5b9c846f0b04af681840?utm_campaign=1052&utm_source=git)** | Burlington, MA | On Site | Oct 19 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68f3201e9a65fd345858411e?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Oct 19 |
@@ -112,13 +109,13 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f337259a63986de756ffec?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/687c7997764c3d7411c37f39?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Internal Accounting Intern](https://jobright.ai/jobs/info/68ccf74ad11b445e0bee5261?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Oct 19 |
-| ↳ | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f372889a63986de7572193?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Oct 19 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68f4bc279a63986de75774c5?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f372889a63986de7572193?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Oct 19 |
 | ↳ | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f32f2c76a51a4307bcbdad?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Treasury Analyst](https://jobright.ai/jobs/info/68f4baf676a51a4307bd34d8?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f325a776a51a4307bcb8f2?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Oct 19 |
 | **[AAFCPAs](http://aafcpa.com)** | **[Summer Audit Internship (June 2026)](https://jobright.ai/jobs/info/68f30cbc9a65fd34585833d7?utm_campaign=1052&utm_source=git)** | Westborough, MA | Remote | Oct 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Accounting](https://jobright.ai/jobs/info/68f4ba8d9a65fd345858c218?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
-| ↳ | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68f4ba709a65fd345858c207?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Ameren](http://ameren.com)** | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc48cfaa4e875e828afcc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Accounting Intern - Undergraduate](https://jobright.ai/jobs/info/68ce6cc8dbd9fb154eddf8a7?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[John Deere](https://www.deere.com)** | **[Accounting/Finance Summer Intern 2026a](https://jobright.ai/jobs/info/68cba1539e3a822f5d2494a8?utm_campaign=1052&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
@@ -153,8 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45fa276a51a4307bd10e0?utm_campaign=1052&utm_source=git)** | Mississippi, United States | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45fa276a51a4307bd10e1?utm_campaign=1052&utm_source=git)** | Fremont County, WY | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8e9a63986de757505c?utm_campaign=1052&utm_source=git)** | Ohio, United States | Remote | Oct 18 |
-| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8576a51a4307bd10d6?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8576a51a4307bd10d7?utm_campaign=1052&utm_source=git)** | Vermont, United States | Remote | Oct 18 |
+| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f8576a51a4307bd10d6?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f829a63986de7575052?utm_campaign=1052&utm_source=git)** | Hillsborough County, NH | Remote | Oct 18 |
 | ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f7c9a65fd3458589de0?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Oct 18 |
+| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f379a65fd3458589daa?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 18 |
+| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f379a65fd3458589dab?utm_campaign=1052&utm_source=git)** | Maryland, United States | Remote | Oct 18 |
+| ↳ | **[Actuarial Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68f45f109a65fd3458589d8d?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
