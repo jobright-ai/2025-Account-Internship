@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StandardAero](http://www.standardaero.com/)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/68cea1bbfb49c96ca6ea24b8?utm_campaign=1052&utm_source=git)** | Kansas City, KS | On Site | Oct 20 |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Investment Banking Operations - NC](https://jobright.ai/jobs/info/68be1547e57feb02eb0aca3a?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/68f62f9e9a63986de757c8e7?utm_campaign=1052&utm_source=git)** | Moon, PA | On Site | Oct 20 |
+| **[Southwire Company](http://southwire.com)** | **[Internal Controls Intern](https://jobright.ai/jobs/info/68be345ce57feb02eb0acd29?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 20 |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Risk Control - NC](https://jobright.ai/jobs/info/68f5a1cf9a65fd345858e14b?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Sr. Investment Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccc1c2a77e5d7d744f4d88?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 20 |
+| **[Brevan Howard](http://www.brevanhoward.com)** | **[2026 Summer Internship Program - Systematic Trading](https://jobright.ai/jobs/info/68f6289e9a63986de757c787?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 20 |
+| **[Ochsner Health](https://www.ochsner.org/)** | **[Accounting Intern - Financial Accounting - Dickory](https://jobright.ai/jobs/info/68d7205345853d0e39ccd12f?utm_campaign=1052&utm_source=git)** | Jefferson, LA | Hybrid | Oct 20 |
+| **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68f4cea476a51a4307bd3ac9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Oct 20 |
+| **[Brevan Howard](http://www.brevanhoward.com)** | **[2026 Summer Internship Program - Credit Trading](https://jobright.ai/jobs/info/68f6243e9a63986de757c6e1?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Oct 20 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68be83823d31ec76b7e8ad50?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Oct 20 |
 | **[Verizon Connect](https://www.verizonconnect.com/)** | **[Thurgood Marshall Immersion Program: Finance Summer Internship 2026](https://jobright.ai/jobs/info/68f61fbf9a65fd3458591541?utm_campaign=1052&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 20 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Finance and Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68f61ef276a51a4307bd8609?utm_campaign=1052&utm_source=git)** | Anaheim, CA | On Site | Oct 20 |
@@ -72,7 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Trust Advisor Intern](https://jobright.ai/jobs/info/68bdcb4adf5eec448f63d558?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 20 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Tax Department Intern - The Toro Company](https://jobright.ai/jobs/info/68bd8ca8df5eec448f63cf80?utm_campaign=1052&utm_source=git)** | Hennepin County, MN | On Site | Oct 20 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Trust Advisor Intern](https://jobright.ai/jobs/info/68bdd2bddf5eec448f63d5e9?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Oct 20 |
-| **[Aptiv](http://www.aptiv.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68cfcdb1dbd9fb154edeafa6?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Oct 20 |
+| **[Aptiv](http://www.aptiv.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68bcd41b3bf9eb44f8324956?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Oct 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/67929edcf8c267e801e1613e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 20 |
 | ↳ | **[Core Tax Intern - Winter 2027 (Cleveland or Akron)](https://jobright.ai/jobs/info/68bd8d46df5eec448f63cfba?utm_campaign=1052&utm_source=git)** | Akron, OH | Hybrid | Oct 20 |
 | ↳ | **[Assurance Intern - Winter 2026 (San Antonio)](https://jobright.ai/jobs/info/68cf23ce846f0b04af67f75b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Hybrid | Oct 20 |
@@ -92,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[GoTriangle](http://www.gotriangle.org)** | **[Finance Intern](https://jobright.ai/jobs/info/68f543129a63986de7578b68?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Oct 19 |
 | **[RTX](http://www.raytheon.com)** | **[2026, Intern: Tax (hybrid, CT)](https://jobright.ai/jobs/info/68f542299a63986de7578b07?utm_campaign=1052&utm_source=git)** | Farmington, CT | Hybrid | Oct 19 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68f541de9a63986de7578af3?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Oct 19 |
-| **[NewDay USA](https://newdayusa.com/)** | **[Credit Specialist](https://jobright.ai/jobs/info/68f541d49a63986de7578aed?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bb7afe8043103d4f228f01?utm_campaign=1052&utm_source=git)** | Winchester, VA | Hybrid | Oct 19 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Dixon, IL](https://jobright.ai/jobs/info/689f7708faa4e875e8288802?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Assumption Specalist)](https://jobright.ai/jobs/info/68bb77905f3832749186f51e?utm_campaign=1052&utm_source=git)** | Winchester, VA | Hybrid | Oct 19 |
@@ -119,6 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Power Market Finance Analyst Intern](https://jobright.ai/jobs/info/68d8835a7796a83635f11a32?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Oct 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Burlington, MA](https://jobright.ai/jobs/info/68cf5b9c846f0b04af681840?utm_campaign=1052&utm_source=git)** | Burlington, MA | On Site | Oct 19 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68f3201e9a65fd345858411e?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Oct 19 |
+| **[Citi](https://www.citi.com)** | **[Banking - Commercial Banking, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/68f63bca76a51a4307bd8c2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 19 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[2026 Staff Accountant Intern - Naples](https://jobright.ai/jobs/info/68f63cc276a51a4307bd8ca1?utm_campaign=1052&utm_source=git)** | Naples, FL | Hybrid | Oct 19 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Accounting Intern 2026](https://jobright.ai/jobs/info/68bb37825f3832749186d48d?utm_campaign=1052&utm_source=git)** | Richfield, OH | On Site | Oct 19 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Actuarial Intern (Summer 2026)](https://jobright.ai/jobs/info/689e234579a9f96662547531?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Hybrid | Oct 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68ce9406fb49c96ca6ea1bf2?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Oct 19 |
@@ -137,24 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f337259a63986de756ffec?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Winter Intern - St. Louis, MO](https://jobright.ai/jobs/info/687c7997764c3d7411c37f39?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Internal Accounting Intern](https://jobright.ai/jobs/info/68ccf74ad11b445e0bee5261?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Oct 19 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68f4bc279a63986de75774c5?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f372889a63986de7572193?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Oct 19 |
+| ↳ | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f372889a63986de7572193?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Oct 19 |
 | ↳ | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f32f2c76a51a4307bcbdad?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Treasury Analyst](https://jobright.ai/jobs/info/68f4baf676a51a4307bd34d8?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Financial Advisor Intern](https://jobright.ai/jobs/info/68f325a776a51a4307bcb8f2?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Oct 19 |
 | **[AAFCPAs](http://aafcpa.com)** | **[Summer Audit Internship (June 2026)](https://jobright.ai/jobs/info/68f30cbc9a65fd34585833d7?utm_campaign=1052&utm_source=git)** | Westborough, MA | Remote | Oct 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Financial Accounting](https://jobright.ai/jobs/info/68f4ba8d9a65fd345858c218?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
+| ↳ | **[2026 Summer Intern: Financial Reporting](https://jobright.ai/jobs/info/68f4ba709a65fd345858c207?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
 | **[Citi](https://www.citi.com)** | **[Banking - Commercial Banking, Summer Analyst, Chicago - US, 2026](https://jobright.ai/jobs/info/68f6171576a51a4307bd83bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | **[Ameren](http://ameren.com)** | **[Finance & Internal Audit Intern](https://jobright.ai/jobs/info/689fc48cfaa4e875e828afcc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 19 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Accounting Intern - Undergraduate](https://jobright.ai/jobs/info/68ce6cc8dbd9fb154eddf8a7?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
-| **[John Deere](https://www.deere.com)** | **[Accounting/Finance Summer Intern 2026a](https://jobright.ai/jobs/info/68cba1539e3a822f5d2494a8?utm_campaign=1052&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Winter 2026 (Tampa)](https://jobright.ai/jobs/info/68d6c8e7894705799a2edb2c?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Oct 19 |
-| **[MetLife](http://www.metlife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68cd141ee23def7af55b4f01?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Oct 19 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Winter 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/68d6c8dfd3fe025a3015bfb0?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 19 |
-| ↳ | **[Tax Intern Leadership Program (TILP) - Winter & Summer 2027 (Dallas)](https://jobright.ai/jobs/info/68d86a3f295f8e37655e76e9?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 19 |
-| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / January-April 2026)](https://jobright.ai/jobs/info/68f31fed9a63986de756f35d?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 19 |
-| **[MetLife](http://www.metlife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68b23768bc187f64e1bd9d73?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 19 |
-| ↳ | **[Actuarial Intern](https://jobright.ai/jobs/info/68ccd82777add66568aba3ad?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Oct 19 |
-| **[Citi](https://www.citi.com)** | **[Banking - Commercial Banking, Summer Analyst, Dallas - US, 2026](https://jobright.ai/jobs/info/68f5fcea9a63986de757be7e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 19 |
-| ↳ | **[Banking - Investment Banking, Summer Associate, San Francisco Technology (North America – 2026)](https://jobright.ai/jobs/info/68f5f1989a65fd3458590632?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
