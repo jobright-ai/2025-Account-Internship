@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Security Finance](https://www.securityfinance.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f8699ea628d10664e829d4?utm_campaign=1052&utm_source=git)** | Spartanburg, SC | On Site | Oct 21 |
+| **[Encompass Health](http://encompasshealth.com/)** | **[Corporate Finance Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68f86215a628d10664e8262e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Oct 21 |
+| **[LumoraX](lumorax.us)** | **[Fund Accounting Summer Intern](https://jobright.ai/jobs/info/68f860594bafad6d2d7620bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 21 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68f858494bafad6d2d761da9?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Oct 21 |
 | **[VertoTech](vertotech.us)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68f852e64bafad6d2d76198b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/68f851f7a628d10664e81ae4?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 21 |
 | ↳ | **[Dallas Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/68f851946de2db04dc3dde93?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 21 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern - Underwriting - Professional Liability](https://jobright.ai/jobs/info/68f845f16de2db04dc3dd59b?utm_campaign=1052&utm_source=git)** | US-NJ-Moorestown | Hybrid | Oct 21 |
 | ↳ | **[Summer Intern - Underwriting - Casualty](https://jobright.ai/jobs/info/68f845876de2db04dc3dd565?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 21 |
 | ↳ | **[Summer Intern - Underwriting - Professional Liability](https://jobright.ai/jobs/info/68f845184bafad6d2d760f94?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 21 |
-| **[Gurusamy Ventures](https://gurusamys-venture-hub.lovable.app/)** | **[Investment Analyst Intern 2025 (Fall)](https://jobright.ai/jobs/info/68f841676de2db04dc3dd344?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Financial Services Intern](https://jobright.ai/jobs/info/68f84003a628d10664e80e84?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
 | **[The Standard](https://www.standard.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/68f83ff4a628d10664e80e76?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68f83dd56de2db04dc3dd05a?utm_campaign=1052&utm_source=git)** | Boulder, CO | Hybrid | Oct 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Global Mobility Services / Dallas Summer 2026](https://jobright.ai/jobs/info/68f7fa775dc1be601281f658?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 21 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Trader Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68f7fa49b0edcf159dc8d041?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Newtown Savings Bank](https://www.nsbonline.com)** | **[Summer Intern (onsite)](https://jobright.ai/jobs/info/68f7f8915dc1be601281f439?utm_campaign=1052&utm_source=git)** | Newtown, Newtown, CT, US | On Site | Oct 21 |
-| **[Brixmor Property Group](http://brixmor.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f7f86fb0edcf159dc8cf07?utm_campaign=1052&utm_source=git)** | Conshohocken, PA, US | On Site | Oct 21 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Executive Office Research Intern / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f7f6b6b0edcf159dc8ccd8?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68f7f6635dc1be601281f381?utm_campaign=1052&utm_source=git)** | Iselin, NJ | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
