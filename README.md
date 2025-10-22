@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Specialized Dental Partners](https://usendopartners.com/)** | **[Staff Accountant - Intern](https://jobright.ai/jobs/info/68f883a3a628d10664e838ac?utm_campaign=1052&utm_source=git)** | Franklin, TN | Remote | Oct 22 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/68f876dc6de2db04dc3df72b?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Oct 21 |
 | **[Security Finance](https://www.securityfinance.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f8699ea628d10664e829d4?utm_campaign=1052&utm_source=git)** | Spartanburg, SC | On Site | Oct 21 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Corporate Finance Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68f86215a628d10664e8262e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Oct 21 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (San Diego)](https://jobright.ai/jobs/info/68f87e974bafad6d2d763455?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Oct 21 |
 | **[LumoraX](lumorax.us)** | **[Fund Accounting Summer Intern](https://jobright.ai/jobs/info/68f860594bafad6d2d7620bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 21 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68f858494bafad6d2d761da9?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Oct 21 |
 | **[VertoTech](vertotech.us)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/68f852e64bafad6d2d76198b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Oct 21 |
@@ -78,14 +81,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Underwriting - Professional Liability](https://jobright.ai/jobs/info/68f845184bafad6d2d760f94?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Financial Services Intern](https://jobright.ai/jobs/info/68f84003a628d10664e80e84?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
 | **[The Standard](https://www.standard.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/68f83ff4a628d10664e80e76?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 21 |
+| **[Experian](http://www.experianplc.com)** | **[Risk Analyst Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83fa64bafad6d2d760cd5?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 21 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68f83dd56de2db04dc3dd05a?utm_campaign=1052&utm_source=git)** | Boulder, CO | Hybrid | Oct 21 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2026 - Los Angeles, CA](https://jobright.ai/jobs/info/68f83b8d4bafad6d2d760a35?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Oct 21 |
 | **[CoinLedger](http://www.coinledger.io)** | **[Crypto Accounting Intern](https://jobright.ai/jobs/info/68f83b64a628d10664e80b3c?utm_campaign=1052&utm_source=git)** | Missouri, United States | Remote | Oct 21 |
-| **[Experian](http://www.experianplc.com)** | **[Risk Analyst Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83b5c4bafad6d2d760a10?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 21 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Summer 2026 - Irvine, CA](https://jobright.ai/jobs/info/68f83ab6a628d10664e80ac0?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Oct 21 |
 | ↳ | **[Intern - Summer 2026 - Irvine, CA](https://jobright.ai/jobs/info/68f83957a628d10664e8098b?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Oct 21 |
 | ↳ | **[Intern - Spring 2026 - Los Angeles, CA](https://jobright.ai/jobs/info/68f838eca628d10664e80908?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 21 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Finance Intern Undergraduate Part Time](https://jobright.ai/jobs/info/68f838c06de2db04dc3dcd3b?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Risk Analyst Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f8377d6de2db04dc3dcbb1?utm_campaign=1052&utm_source=git)** | United States, United States, United States, United States | Hybrid | Oct 21 |
 | ↳ | **[Risk Analyst Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f837484bafad6d2d7604ff?utm_campaign=1052&utm_source=git)** | United States, United States, United States, United States | Hybrid | Oct 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68f837426de2db04dc3dcb6a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DOB - Accounting Technician - Summer Intern (Dallas)](https://jobright.ai/jobs/info/68f7fac35dc1be601281f6d9?utm_campaign=1052&utm_source=git)** | Dallas Regional Office12000 Ford Road, Suite 200 | On Site | Oct 21 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68f7fabab0edcf159dc8d08a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 21 |
 | ↳ | **[Tax Intern, Global Mobility Services / Dallas Summer 2026](https://jobright.ai/jobs/info/68f7fa775dc1be601281f658?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 21 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Trader Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68f7fa49b0edcf159dc8d041?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 21 |
-| **[Newtown Savings Bank](https://www.nsbonline.com)** | **[Summer Intern (onsite)](https://jobright.ai/jobs/info/68f7f8915dc1be601281f439?utm_campaign=1052&utm_source=git)** | Newtown, Newtown, CT, US | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
