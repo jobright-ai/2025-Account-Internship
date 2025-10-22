@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/68f8a65aa628d10664e84f13?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Oct 22 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern – Equity Trading Assistant](https://jobright.ai/jobs/info/68ea87812f64880ca0b5362d?utm_campaign=1052&utm_source=git)** | Winter Park, FL | On Site | Oct 22 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[State Street Investment Management - Client Portfolio Management - Summer Internship](https://jobright.ai/jobs/info/68f8a6084bafad6d2d764cd9?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 22 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f8a3704bafad6d2d764acb?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Oct 22 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Agency Equities](https://jobright.ai/jobs/info/68eb47aa76a1db7c5985e7a0?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Oct 22 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Pricing and Economics (Summer 2026)](https://jobright.ai/jobs/info/68f89ab26de2db04dc3e0bf7?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Oct 22 |
 | **[Specialized Dental Partners](https://usendopartners.com/)** | **[Staff Accountant - Intern](https://jobright.ai/jobs/info/68f883a3a628d10664e838ac?utm_campaign=1052&utm_source=git)** | Franklin, TN | Remote | Oct 22 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/68f876dc6de2db04dc3df72b?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Oct 21 |
 | **[Security Finance](https://www.securityfinance.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f8699ea628d10664e829d4?utm_campaign=1052&utm_source=git)** | Spartanburg, SC | On Site | Oct 21 |
@@ -77,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern - Underwriting - Casualty](https://jobright.ai/jobs/info/68f849414bafad6d2d7612d4?utm_campaign=1052&utm_source=git)** | US-NJ-Moorestown | Hybrid | Oct 21 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Program Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68f8483fa628d10664e81415?utm_campaign=1052&utm_source=git)** | Lone Tree, CO | On Site | Oct 21 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern - Underwriting - Professional Liability](https://jobright.ai/jobs/info/68f845f16de2db04dc3dd59b?utm_campaign=1052&utm_source=git)** | US-NJ-Moorestown | Hybrid | Oct 21 |
+| ↳ | **[Summer Intern - Underwriting - Professional Liability](https://jobright.ai/jobs/info/68f845e6a628d10664e81247?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 21 |
 | ↳ | **[Summer Intern - Underwriting - Casualty](https://jobright.ai/jobs/info/68f845876de2db04dc3dd565?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 21 |
-| ↳ | **[Summer Intern - Underwriting - Professional Liability](https://jobright.ai/jobs/info/68f845184bafad6d2d760f94?utm_campaign=1052&utm_source=git)** | NJ, Moorestown | Hybrid | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Financial Services Intern](https://jobright.ai/jobs/info/68f84003a628d10664e80e84?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
 | **[The Standard](https://www.standard.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/68f83ff4a628d10664e80e76?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Risk Analyst Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83fa64bafad6d2d760cd5?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Valley Authority](https://www.tva.com)** | **[Summer 2026 Internship/Co-Op (Finance/Accounting) - 517779](https://jobright.ai/jobs/info/68f7fc55ec6dbe7073fcfa8e?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/68f7fbacb0edcf159dc8d19d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Oct 21 |
 | ↳ | **[Miami Internal Audit and Financial Advisory Intern - 2026](https://jobright.ai/jobs/info/68f7fb3e5dc1be601281f7b6?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | Hybrid | Oct 21 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Pricing and Economics (Summer 2026)](https://jobright.ai/jobs/info/68f7fb145dc1be601281f76f?utm_campaign=1052&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 21 |
-| **[Brady Martz](http://bradymartz.com)** | **[Spring 2026 Accounting Internship](https://jobright.ai/jobs/info/68f7fb135dc1be601281f76b?utm_campaign=1052&utm_source=git)** | Grand Forks, ND | On Site | Oct 21 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Massachusetts Clean Water Trust Co-Op / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f7fb065dc1be601281f75d?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DOB - Accounting Technician - Summer Intern (Dallas)](https://jobright.ai/jobs/info/68f7fac35dc1be601281f6d9?utm_campaign=1052&utm_source=git)** | Dallas Regional Office12000 Ford Road, Suite 200 | On Site | Oct 21 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Indirect Tax Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68f7fabab0edcf159dc8d08a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 21 |
-| ↳ | **[Tax Intern, Global Mobility Services / Dallas Summer 2026](https://jobright.ai/jobs/info/68f7fa775dc1be601281f658?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
