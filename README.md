@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Tax - Winter/Spring Busy Season 2026, Wheeling, WV](https://jobright.ai/jobs/info/68f9a4bdcadb2e5a06a6695d?utm_campaign=1052&utm_source=git)** | Wheeling, WV | On Site | Oct 22 |
+| **[Valorantum](valorantum.us)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/68f9a310cadb2e5a06a66852?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Oct 22 |
+| **[Wind River](http://www.windriver.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68f9997aa628d10664e8e349?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Oct 22 |
+| **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f99221cadb2e5a06a65db2?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | On Site | Oct 22 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/68f992106de2db04dc3ea295?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Oct 22 |
+| **[Sealaska](http://www.sealaska.com/)** | **[Accounting Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f98c5fa628d10664e8dc36?utm_campaign=1052&utm_source=git)** | Juneau, AK | On Site | Oct 22 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Accounting](https://jobright.ai/jobs/info/68f986fccadb2e5a06a658c8?utm_campaign=1052&utm_source=git)** | DALLAS, Texas, United States | On Site | Oct 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2026](https://jobright.ai/jobs/info/68f9843ca628d10664e8d8a7?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Oct 22 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Investment Analyst Intern](https://jobright.ai/jobs/info/68f9827ccadb2e5a06a6565f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Oct 22 |
@@ -70,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Summer Intern, Client Accounting, Tempe](https://jobright.ai/jobs/info/68f97beb6de2db04dc3e96fb?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Oct 22 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship - Accounting](https://jobright.ai/jobs/info/68cd086be23def7af55b3aa0?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Oct 22 |
 | **[FedEx Freight](https://www.fedex.com/en-us/shipping/freight.html)** | **[Intern-Revenue Quality](https://jobright.ai/jobs/info/68f9784ea628d10664e8d271?utm_campaign=1052&utm_source=git)** | Harrison, AR | On Site | Oct 22 |
-| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68f976faa628d10664e8d1de?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
-| **[FedEx Freight](https://www.fedex.com/en-us/shipping/freight.html)** | **[Intern-Revenue Quality](https://jobright.ai/jobs/info/68f974a3a628d10664e8d0c0?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Oct 22 |
+| ↳ | **[Intern-Revenue Quality](https://jobright.ai/jobs/info/68f974a3a628d10664e8d0c0?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Oct 22 |
 | **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Shareholder Intern](https://jobright.ai/jobs/info/68f96fefcadb2e5a06a64e0d?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Oct 22 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68f96f306de2db04dc3e92d8?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Oct 22 |
 | **[Beyond International Group](https://beyond-wm.com/)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/68f96d09cadb2e5a06a64c76?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Synerga Partners](synergapartners.us)** | **[Finance Internship](https://jobright.ai/jobs/info/68f917fe6de2db04dc3e55e8?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Oct 22 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/68f9172e6de2db04dc3e54ed?utm_campaign=1052&utm_source=git)** | Cleveland Heights, OH | Hybrid | Oct 22 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/68f916dccadb2e5a06a6102c?utm_campaign=1052&utm_source=git)** | Oakley, CA | Hybrid | Oct 22 |
-| **[Koppers Inc.](http://www.koppers.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68f916bd6de2db04dc3e545f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Oct 22 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/68f916b6cadb2e5a06a60ffc?utm_campaign=1052&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Oct 22 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Trader Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68f91643a628d10664e8905c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/68f91567cadb2e5a06a60ea9?utm_campaign=1052&utm_source=git)** | North Lauderdale, FL | Hybrid | Oct 22 |
-| **[Strategy](https://www.strategy.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/68f914c3cadb2e5a06a60e34?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
