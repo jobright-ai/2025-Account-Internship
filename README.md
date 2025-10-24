@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship - Chicago, IL](https://jobright.ai/jobs/info/68f8f9a36de2db04dc3e3505?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 24 |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/68fb2c3fe154835f11efa2e9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Oct 24 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Real Estate Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/68fb1e173c99cc1d96028ca9?utm_campaign=1052&utm_source=git)** | Moon, PA | On Site | Oct 23 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Tax Intern, Business Tax Services](https://jobright.ai/jobs/info/68fb1686e154835f11ef9944?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 23 |
 | **[Valorantum](valorantum.us)** | **[Financial Rotational Intern](https://jobright.ai/jobs/info/68fb12da3c99cc1d960289a8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 23 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68fb0c493c99cc1d960287c8?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Oct 23 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Winter 2026 / Fort Lauderdale](https://jobright.ai/jobs/info/68fb0a5b9e8e925ac6c8879b?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greystar (International)](http://www.greystar.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68fa6afcedd190144238c3f9?utm_campaign=1052&utm_source=git)** | City Office Tampa, Tampa, FL | Hybrid | Oct 23 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Wealth Advisory Summer 2026 / Kansas City](https://jobright.ai/jobs/info/68fa6ab667272b29af72efe8?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Oct 23 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Private Strategies Analyst, US - PIMCO](https://jobright.ai/jobs/info/68fa681cedd190144238c052?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 23 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Winter Internship - Sterling Heights](https://jobright.ai/jobs/info/68d6d13645853d0e39cca371?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Oct 23 |
-| **[Rabobank](http://www.rabobank.com)** | **[Trade Commodity Finance -  Intern](https://jobright.ai/jobs/info/68fa63e467272b29af72ea1f?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/68fa60567959161d33e6293c?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 23 |
-| **[Phoenix Industrial, Inc.](https://phxind.com)** | **[Internship - Accounting and Finance](https://jobright.ai/jobs/info/68fabfc4edd19014423908e1?utm_campaign=1052&utm_source=git)** | Centennial, CO | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
