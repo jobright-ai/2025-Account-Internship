@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum](valorantum.us)** | **[Financial Rotational Intern](https://jobright.ai/jobs/info/68fb12da3c99cc1d960289a8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 23 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68fb0c493c99cc1d960287c8?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Oct 23 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Winter 2026 / Fort Lauderdale](https://jobright.ai/jobs/info/68fb0a5b9e8e925ac6c8879b?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 23 |
+| **[Stratify Edge](stratifyedge.us)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/68fb0a02e154835f11ef9543?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Oct 23 |
+| **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2026](https://jobright.ai/jobs/info/68d758dc61a175619f8c9835?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Finance & Accounting Summer 2026 Internship (Euclid,Oh)](https://jobright.ai/jobs/info/68ccfcebd11b445e0bee582b?utm_campaign=1052&utm_source=git)** | Euclid, OH | On Site | Oct 23 |
 | **[YHB | CPAs & Consultants](http://yhbcpa.com)** | **[Tax Intern / Summer 2026](https://jobright.ai/jobs/info/68acbc9ddaf1431824c97c6c?utm_campaign=1052&utm_source=git)** | Winchester, VA | On Site | Oct 23 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Corporate Tax Internship](https://jobright.ai/jobs/info/68f021f49821486c423c9292?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Oct 23 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Private Strategies Analyst, US - PIMCO](https://jobright.ai/jobs/info/68fa681cedd190144238c052?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Winter Internship - Sterling Heights](https://jobright.ai/jobs/info/68d6d13645853d0e39cca371?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Oct 23 |
 | **[Rabobank](http://www.rabobank.com)** | **[Trade Commodity Finance -  Intern](https://jobright.ai/jobs/info/68fa63e467272b29af72ea1f?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Finance Treasury Management Internn](https://jobright.ai/jobs/info/68fa611567272b29af72e7af?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Oct 23 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/68fa60567959161d33e6293c?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 23 |
 | **[Phoenix Industrial, Inc.](https://phxind.com)** | **[Internship - Accounting and Finance](https://jobright.ai/jobs/info/68fabfc4edd19014423908e1?utm_campaign=1052&utm_source=git)** | Centennial, CO | On Site | Oct 23 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/68fa5efb7959161d33e627b1?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Oct 23 |
-| **[Berkley Specialty Excess (a Berkley Company)](www.berkleyse.com)** | **[Intern, Finance/Data](https://jobright.ai/jobs/info/68fa5ee17959161d33e6278c?utm_campaign=1052&utm_source=git)** | Moorestown, NJ | On Site | Oct 23 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/68fa56e8edd190144238b295?utm_campaign=1052&utm_source=git)** | Hobbs, NM | Hybrid | Oct 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/68fa56527959161d33e6213b?utm_campaign=1052&utm_source=git)** | Crystal Lake, IL | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
