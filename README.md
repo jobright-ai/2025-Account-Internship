@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/68fd27a60ab3b222462a1134?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Oct 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/68fd04fde04ac838fb5ae04e?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Oct 25 |
 | ↳ | **[Core Tax Intern - Winter 2027 (Orlando)](https://jobright.ai/jobs/info/68fd0419e04ac838fb5adffd?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Oct 25 |
 | ↳ | **[Core Tax Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fd033be0c73b3a1119102c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Oct 25 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/68a317ed403ad4363b1be998?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 25 |
 | ↳ | **[Audit Summer 2027 Intern - Tysons Corner, VA](https://jobright.ai/jobs/info/68b8d62207090163b6ba5565?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 25 |
 | ↳ | **[Tax Winter 2027 Internship - Austin, TX](https://jobright.ai/jobs/info/68a75cf4d627244576e2bba3?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Oct 25 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68fcefc5e04ac838fb5adc73?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 25 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Certified Financial Planner (CFP) Internship, Summer 2026](https://jobright.ai/jobs/info/68e07f1a1852e62f007eb642?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fcef29e04ac838fb5adc34?utm_campaign=1052&utm_source=git)** | 1301 Riverplace Blvd, Jacksonville, FL, 32207, US | On Site | Oct 25 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Oct 25 |
@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/68fced52e04ac838fb5adb90?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Oct 25 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – Charlotte, NC](https://jobright.ai/jobs/info/68fced4be04ac838fb5adb8c?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Oct 25 |
 | ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/68f8fa596de2db04dc3e35d5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 25 |
-| ↳ | **[2026 Summer Internship - Client Advisory](https://jobright.ai/jobs/info/68fced30e04ac838fb5adb7c?utm_campaign=1052&utm_source=git)** | Syracuse-Auburn Area | Hybrid | Oct 25 |
 | ↳ | **[Audit Summer 2027 Internship – Miami, FL](https://jobright.ai/jobs/info/68fced30e04ac838fb5adb7d?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Oct 25 |
+| ↳ | **[2026 Summer Internship - Client Advisory](https://jobright.ai/jobs/info/68fced30e04ac838fb5adb7c?utm_campaign=1052&utm_source=git)** | Syracuse-Auburn Area | Hybrid | Oct 25 |
 | ↳ | **[Audit Winter 2027 Internship - Chicago, IL](https://jobright.ai/jobs/info/68fced29e0c73b3a11190bb1?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | ↳ | **[Tax Summer 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/68fced1ae0c73b3a11190bac?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Oct 25 |
 | ↳ | **[Tax Summer 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/68f930fc6de2db04dc3e6643?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 25 |
