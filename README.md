@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/68fdd3eb0ab3b222462a4e23?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Oct 26 |
+| **[Greenstone](http://www.greenstoneplus.com)** | **[Tax & Accounting Internship](https://jobright.ai/jobs/info/68fdd2e20ab3b222462a4d47?utm_campaign=1052&utm_source=git)** | Adrian, MI | On Site | Oct 26 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/68fdc3b30ab3b222462a459d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Oct 25 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/68fdbd9ee0c73b3a11194826?utm_campaign=1052&utm_source=git)** | Assumption, IL | On Site | Oct 25 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/68fda7dbe0c73b3a1119413f?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Oct 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/68fd97dbe04ac838fb5b0a72?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Oct 25 |
 | ↳ | **[N99452 Title IV Reporting Specialist](https://jobright.ai/jobs/info/68fd8d6ae04ac838fb5b0075?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Oct 25 |
@@ -140,12 +144,10 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Operations Intern - Spring 2026 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/68fce492e0c73b3a111908d4?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Oct 25 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Finance Intern (Lynchburg, VA)](https://jobright.ai/jobs/info/68fce481e0c73b3a111908cb?utm_campaign=1052&utm_source=git)** | Lynchburg, VA | On Site | Oct 25 |
 | **[BDO](https://global-www.bdo.global/)** | **[Core Tax Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fce3f70ab3b222462a04a7?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 25 |
-| **[Brown Edwards](https://becpas.com/)** | **[2026 Intern](https://jobright.ai/jobs/info/68fdb113e0c73b3a11194587?utm_campaign=1052&utm_source=git)** | Roanoke, VA | On Site | Oct 25 |
 | **[AXA XL](https://axaxl.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68cd2cabe23def7af55b6802?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Oct 25 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/68a72753d627244576e29ffd?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[BDO](https://global-www.bdo.global/)** | **[Core Tax Intern - Winter 2027 (Orlando)](https://jobright.ai/jobs/info/68fce07ce0c73b3a111907aa?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Oct 25 |
 | **[Henkel](http://www.henkel.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c35a3f6031587f8458a1f9?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | On Site | Oct 25 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Preferred Banking Operations](https://jobright.ai/jobs/info/68f808fbb0edcf159dc8e000?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68c35aff80e77b1fa6fc8861?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Oct 25 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Casualty Underwriting Summer Intern](https://jobright.ai/jobs/info/68ce24981ad6b16f028a24ff?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Oct 25 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 Accounting Analyst Internship](https://jobright.ai/jobs/info/68c88515f9c6ff7aedf0f8b9?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Oct 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68ced021fb49c96ca6ea3acc?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68f81aa75dc1be601282107c?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Oct 25 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/68c31e025001f8077bf611dd?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Oct 25 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/68cf8010dbd9fb154ede8461?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Oct 25 |
-| **[Merchants Capital](https://www.merchantscapital.com/)** | **[GSE Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4233ee471ef3ce16d3ed1?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
