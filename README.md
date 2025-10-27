@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/68ff31d7e0c73b3a1119a677?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Oct 27 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Finance](https://jobright.ai/jobs/info/68e24c78f758fe1f97e59fd5?utm_campaign=1052&utm_source=git)** | Conyers, GA | On Site | Oct 27 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Finance Intern (Global Shared Services) - The Toro Company](https://jobright.ai/jobs/info/68ce7e70fb49c96ca6ea0f55?utm_campaign=1052&utm_source=git)** | Hennepin County, MN | On Site | Oct 27 |
+| **[The Chemours Company](https://www.chemours.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6874ee1aae2f413e4a5a1daa?utm_campaign=1052&utm_source=git)** | New Castle County, DE | On Site | Oct 27 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Accounting & Finance (Summer 2026)](https://jobright.ai/jobs/info/68cce9985954791a1d701169?utm_campaign=1052&utm_source=git)** | Monroe, MI | Hybrid | Oct 27 |
+| **[Empower Capital](http://www.empowercapital.co.za)** | **[FinTech Intern (3-Week Part-Time Contract) in San Francisco](https://jobright.ai/jobs/info/68ff4622e04ac838fb5b7dc4?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Oct 27 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/68ff2b98e0c73b3a1119a2cf?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Oct 27 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2026 Internship - San Diego, CA](https://jobright.ai/jobs/info/68f9c5947b8936681603424f?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Oct 27 |
-| ↳ | **[Audit Summer 2027 Intern - Bethesda, MD](https://jobright.ai/jobs/info/68f8fe26a628d10664e87635?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Oct 27 |
 | ↳ | **[Tax Summer 2027 Internship – Jupiter, FL](https://jobright.ai/jobs/info/68d39d2b952b4a32e23d7d85?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Oct 27 |
 | ↳ | **[Tax Winter 2027 Internship - Dallas, TX](https://jobright.ai/jobs/info/68f8f6a8cadb2e5a06a5e84c?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 27 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contract Audit - Tysons, VA](https://jobright.ai/jobs/info/68faaf74b2c86843bf210ef5?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 26 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e10ac4f758fe1f97e53924?utm_campaign=1052&utm_source=git)** | Greenville, SC | Hybrid | Oct 26 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/68e18fdbf758fe1f97e559d8?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 26 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/68e109b3f758fe1f97e538bd?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Oct 26 |
+| **[The Bonadio Group](https://www.bonadio.com/)** | **[New York State Accounting Internship (Spring and Summer 2026)](https://jobright.ai/jobs/info/68ff5cd9e04ac838fb5b81e4?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Oct 26 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Corporate Accounting & Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68c60d6cc96a22563ecea5bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
 | **[FutureTech Insights](futuretechinsights.us)** | **[Professional Services Intern – Accounting & Advisory Track](https://jobright.ai/jobs/info/68fdfdf2e04ac838fb5b2f56?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Oct 26 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c4b6b27279451d6a037082?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68ff2415e04ac838fb5b6cc6?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Oct 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/68ff1a1ee04ac838fb5b6542?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Oct 25 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Investor Relations](https://jobright.ai/jobs/info/68ff1b4b0ab3b222462a9238?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 25 |
-| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/68fdbd9ee0c73b3a11194826?utm_campaign=1052&utm_source=git)** | Assumption, IL | On Site | Oct 25 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99452 Title IV Reporting Specialist](https://jobright.ai/jobs/info/68fd8d6ae04ac838fb5b0075?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Oct 25 |
-| **[Orbient 24](orbient24.us)** | **[Financial Advisory](https://jobright.ai/jobs/info/68fd7ccee0c73b3a11192401?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Oct 25 |
-| **[CBRE](https://www.cbre.com)** | **[Investment Accounting Summer Intern 2026 (IA&R)](https://jobright.ai/jobs/info/68fd5d7e0ab3b222462a1b93?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
