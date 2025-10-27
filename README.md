@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Accounting & Finance Rotational Intern](https://jobright.ai/jobs/info/68fe965e0ab3b222462a73c2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Oct 26 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/68fee0d3e04ac838fb5b50d3?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Oct 26 |
+| **[KCC Capital Partners](kcccapitalpartners.com)** | **[Intern](https://jobright.ai/jobs/info/68fee0c5e04ac838fb5b50bf?utm_campaign=1052&utm_source=git)** | West Hollywood, CA | On Site | Oct 26 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Public Investments – Credit Investment Internship](https://jobright.ai/jobs/info/68fed83e0ab3b222462a7a33?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 26 |
 | **[Northside Hospital](http://www.northside.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68fe8a43e04ac838fb5b4687?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 26 |
 | **[Summit](http://summitllc.us)** | **[Premium Audit Intern 2026](https://jobright.ai/jobs/info/68fe886b0ab3b222462a7262?utm_campaign=1052&utm_source=git)** | Lakeland, FL | Hybrid | Oct 26 |
 | **[Schultheis & Panettieri, LLP](https://www.snpcpa.com/)** | **[Summer Intern 2026 -Staff Auditor](https://jobright.ai/jobs/info/68fe80bae04ac838fb5b44de?utm_campaign=1052&utm_source=git)** | Hauppauge, NY | Hybrid | Oct 26 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Lead GL Accounting Technician FT – 6512](https://jobright.ai/jobs/info/68fe7b18e04ac838fb5b43cc?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Oct 26 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Credit Analyst Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68f90a29a628d10664e88485?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Oct 26 |
 | ↳ | **[Equity Analyst Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68fe79e40ab3b222462a6fa8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 26 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/68fe7721e0c73b3a1119730f?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Accounting Intern](https://jobright.ai/jobs/info/68fe72fee0c73b3a11197273?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Remote | Oct 26 |
 | **[Northside Hospital](http://www.northside.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68fe7067e04ac838fb5b422a?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | Oct 26 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/68fe6874e0c73b3a11197123?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Oct 26 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/68a91489758f2e4ac3ff7292?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Oct 26 |
 | ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/68c579f5db52c07d28842f86?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Oct 26 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68e9ccd1cdf8d94b293a273b?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Oct 26 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68fee28ae0c73b3a1119808b?utm_campaign=1052&utm_source=git)** | Radford, VA | On Site | Oct 26 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Internal Audit IT and Security Summer Intern](https://jobright.ai/jobs/info/68cc66ef7342c7623ae6448c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4acd731e5763f188e28aa?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 26 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[National Accounts Casualty Underwriting Summer Intern](https://jobright.ai/jobs/info/68f13c70f462172a5a7d4ad1?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Tax Analyst](https://jobright.ai/jobs/info/68c44d0ae396b25cb5c66ae0?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 25 |
 | **[KEB](http://kebcpa.com)** | **[Tax Intern - Spring 26'](https://jobright.ai/jobs/info/68fcf560e04ac838fb5adda5?utm_campaign=1052&utm_source=git)** | Litchfield, IL | On Site | Oct 25 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2026 - Dallas, TX](https://jobright.ai/jobs/info/68fcf3a2e0c73b3a11190d11?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/68a317ed403ad4363b1be998?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 25 |
-| ↳ | **[Audit Summer 2027 Intern - Tysons Corner, VA](https://jobright.ai/jobs/info/68b8d62207090163b6ba5565?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
