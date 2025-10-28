@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - Investment Banking (Energy & Power)](https://jobright.ai/jobs/info/69008f77e04ac838fb5c2d18?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Oct 28 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Oct 28 |
+| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Intern](https://jobright.ai/jobs/info/68c8afdd95f5211cd2ce8114?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| ↳ | **[Financial Crime Intern](https://jobright.ai/jobs/info/68cba2f69e3a822f5d2498c4?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/690081de0ab3b222462b4ff1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
+| **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Internal Audit (Summer 2026)](https://jobright.ai/jobs/info/68efaf7f9821486c423c6c21?utm_campaign=1052&utm_source=git)** | SeaTac, WA | On Site | Oct 28 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/690073610ab3b222462b4a3d?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Debt Capital Markets Summer Internship](https://jobright.ai/jobs/info/69006ad6e04ac838fb5c1c62?utm_campaign=1052&utm_source=git)** | Carmel, IN | Hybrid | Oct 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Finance Internship](https://jobright.ai/jobs/info/690067fc0ab3b222462b4451?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Oct 27 |
@@ -146,15 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Investment Operations Internship](https://jobright.ai/jobs/info/68ffd768e04ac838fb5bc2aa?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 27 |
 | **[The Standard](https://www.standard.com)** | **[Corporate Finance & Accounting, Producer Services Internship](https://jobright.ai/jobs/info/68ffd6cfe04ac838fb5bc231?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Oct 27 |
 | ↳ | **[Corporate Finance & Accounting Internship](https://jobright.ai/jobs/info/68ffd689e04ac838fb5bc1ef?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Oct 27 |
-| **[Sunrise Senior Living](https://www.sunriseseniorliving.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68ffd66ee0c73b3a1119f174?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Oct 27 |
-| **[The Standard](https://www.standard.com)** | **[Corporate Finance & Accounting, Treasury Internship](https://jobright.ai/jobs/info/68ffd61de04ac838fb5bc1a1?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Oct 27 |
+| ↳ | **[Corporate Finance & Accounting, Treasury Internship](https://jobright.ai/jobs/info/68ffd61de04ac838fb5bc1a1?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Oct 27 |
+| **[Sunrise Senior Living](https://www.sunriseseniorliving.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68ffd4e7e0c73b3a1119efa7?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Oct 27 |
 | **[Crest Vale](crestvale.us)** | **[Finance Intern – Audit, Tax & Advisory Rotation](https://jobright.ai/jobs/info/68ffd4c10ab3b222462ae9ed?utm_campaign=1052&utm_source=git)** | Hartford County, CT | Remote | Oct 27 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Analyst Intern](https://jobright.ai/jobs/info/68984a7cfaa4e875e824d2fc?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Oct 27 |
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program 2026 - Finance Intern](https://jobright.ai/jobs/info/68ffd3de0ab3b222462ae8f6?utm_campaign=1052&utm_source=git)** | United States of America | Hybrid | Oct 27 |
-| **[Bridges Trust](https://www.bridgestrust.com)** | **[2026 Investment Internship](https://jobright.ai/jobs/info/68ffd1680ab3b222462ae562?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Oct 27 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - Western OH](https://jobright.ai/jobs/info/68ffcfe0e04ac838fb5bbaba?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Oct 27 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Summer Intern, Finance Innovation & Technology (FIT)- New York, 2026](https://jobright.ai/jobs/info/68ffcf29e04ac838fb5bba24?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
-| **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[Pro Football Hall of Fame: 2026 Summer Internship Program](https://jobright.ai/jobs/info/68ffce4de0c73b3a1119ea2d?utm_campaign=1052&utm_source=git)** | Canton,OH,US | On Site | Oct 27 |
-| **[STORE Capital](http://storecapital.com/)** | **[Intern- Spring Cycle 2026](https://jobright.ai/jobs/info/68ffebcce0c73b3a111a07e7?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 27 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ffcbf5e0c73b3a1119e774?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
