@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/690073610ab3b222462b4a3d?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 28 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Debt Capital Markets Summer Internship](https://jobright.ai/jobs/info/69006ad6e04ac838fb5c1c62?utm_campaign=1052&utm_source=git)** | Carmel, IN | Hybrid | Oct 28 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Finance Internship](https://jobright.ai/jobs/info/690067fc0ab3b222462b4451?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Oct 27 |
+| **[Stratify Edge](stratifyedge.us)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/69005795e04ac838fb5c18ed?utm_campaign=1052&utm_source=git)** | San Jose, CA | Remote | Oct 27 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/690056bee04ac838fb5c1898?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | **[University of Memphis](https://memphis.edu)** | **[Associate Director, Athletic Finance](https://jobright.ai/jobs/info/690052970ab3b222462b3fca?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Oct 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/69004ca40ab3b222462b3c8f?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Oct 27 |
@@ -113,12 +117,10 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Asset Management Intern - Dallas](https://jobright.ai/jobs/info/6900066ae04ac838fb5be8c3?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Oct 27 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Birmingham](https://jobright.ai/jobs/info/69000609e04ac838fb5be894?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Hybrid | Oct 27 |
 | **[Expedia Group](https://www.expediagroup.com)** | **[Finance Analyst Intern - 2026 - Seattle](https://jobright.ai/jobs/info/690002bf0ab3b222462b11bb?utm_campaign=1052&utm_source=git)** | Washington - Seattle Campus | Hybrid | Oct 27 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Procure to Pay](https://jobright.ai/jobs/info/690001cd0ab3b222462b1148?utm_campaign=1052&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 27 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68fffe63e04ac838fb5be4de?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | Hybrid | Oct 27 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Finance Business Partner Intern 2026](https://jobright.ai/jobs/info/68fffc83e04ac838fb5be389?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 27 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/68fffb1e0ab3b222462b0c86?utm_campaign=1052&utm_source=git)** | Hybrid - Canonsburg, PA or Houston, TX | On Site | Oct 27 |
-| **[Jackson Square Aviation](https://www.jsa.com/)** | **[Internship Capital Markets](https://jobright.ai/jobs/info/68fff9a40ab3b222462b0b5c?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 27 |
-| **[EQT Corporation](https://www.eqt.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68fff547e04ac838fb5bddbf?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 27 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/68fff547e04ac838fb5bddbf?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Berkley Re (a Berkley Company)](https://www.berkleyre.com/)** | **[Actuarial Summer Intern](https://jobright.ai/jobs/info/68fff3f3e0c73b3a111a0e4d?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Oct 27 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Campaigns Financial Analyst (Onsite)](https://jobright.ai/jobs/info/68fff30be0c73b3a111a0d8b?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Oct 27 |
 | **[Keiter CPAs](http://keitercpa.com)** | **[Spring 2026 Tax Intern](https://jobright.ai/jobs/info/68a887146acf96396f720884?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | On Site | Oct 27 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Analyst Intern](https://jobright.ai/jobs/info/68984a7cfaa4e875e824d2fc?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Oct 27 |
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program 2026 - Finance Intern](https://jobright.ai/jobs/info/68ffd3de0ab3b222462ae8f6?utm_campaign=1052&utm_source=git)** | United States of America | Hybrid | Oct 27 |
 | **[Bridges Trust](https://www.bridgestrust.com)** | **[2026 Investment Internship](https://jobright.ai/jobs/info/68ffd1680ab3b222462ae562?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Oct 27 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - Western OH](https://jobright.ai/jobs/info/68ffcfe0e04ac838fb5bbaba?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Oct 27 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Summer Intern, Finance Innovation & Technology (FIT)- New York, 2026](https://jobright.ai/jobs/info/68ffcf29e04ac838fb5bba24?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - Western OH](https://jobright.ai/jobs/info/68ffce77e04ac838fb5bb92c?utm_campaign=1052&utm_source=git)** | Maumee, OH | On Site | Oct 27 |
 | **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[Pro Football Hall of Fame: 2026 Summer Internship Program](https://jobright.ai/jobs/info/68ffce4de0c73b3a1119ea2d?utm_campaign=1052&utm_source=git)** | Canton,OH,US | On Site | Oct 27 |
 | **[STORE Capital](http://storecapital.com/)** | **[Intern- Spring Cycle 2026](https://jobright.ai/jobs/info/68ffebcce0c73b3a111a07e7?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 27 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Accounting Intern](https://jobright.ai/jobs/info/68ffcbf5e0c73b3a1119e774?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Oct 27 |
-| **[MGIC](https://www.mgic.com)** | **[Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/68ffcbefe0c73b3a1119e770?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Oct 27 |
-| **[Hays County](http://hayscountytx.com)** | **[Auditor - Intern](https://jobright.ai/jobs/info/68ffcb7b0ab3b222462ae10d?utm_campaign=1052&utm_source=git)** | San Marcos, TX | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
