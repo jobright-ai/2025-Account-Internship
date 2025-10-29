@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Intern](https://jobright.ai/jobs/info/68cd232ee23def7af55b6011?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
+| **[Crest Vale](crestvale.us)** | **[Services Intern – Audit, Tax & Advisory](https://jobright.ai/jobs/info/6901dcc2f8ce7a040fdc3014?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Oct 29 |
+| **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Finance & Accounting](https://jobright.ai/jobs/info/6901d9f7d5259a1b3cff839f?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Oct 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Accounting Intern - Spring](https://jobright.ai/jobs/info/6901d0c5f8ce7a040fdc2cb0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
 | **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship (Summer 2026) - San Francisco](https://jobright.ai/jobs/info/690191dfd5259a1b3cff648d?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 28 |
 | ↳ | **[Associate Degree Apprenticeship Program - Underwriting Services - Chicago, IL (Summer 2026)](https://jobright.ai/jobs/info/69019312f8ce7a040fdc109d?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
 | ↳ | **[Underwriting Internship (Summer 2026) - Houston](https://jobright.ai/jobs/info/69018ee8d5259a1b3cff62cb?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Oct 28 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Genesys](http://www.genesys.com)** | **[Intern, Global Tax Accounting and Reporting](https://jobright.ai/jobs/info/68f6c51376a51a4307bde1e4?utm_campaign=1052&utm_source=git)** | Indiana, United States | Hybrid | Oct 28 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship – Miami, FL](https://jobright.ai/jobs/info/68f8fa8b6de2db04dc3e360b?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Oct 28 |
 | ↳ | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/69013c62f8ce7a040fdbddc7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Oct 28 |
-| ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/69013c50f8ce7a040fdbddae?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Oct 28 |
 | ↳ | **[Audit Winter 2027 Internship - Chicago, IL](https://jobright.ai/jobs/info/69013c50f8ce7a040fdbddaf?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
 | ↳ | **[Tax Winter 2027 Internship – Jupiter, FL](https://jobright.ai/jobs/info/69013c3bf8ce7a040fdbdd94?utm_campaign=1052&utm_source=git)** | Jupiter, FL | Hybrid | Oct 28 |
 | **[Genesys](http://www.genesys.com)** | **[Intern, Global Tax Accounting and Reporting](https://jobright.ai/jobs/info/68f62d1676a51a4307bd881f?utm_campaign=1052&utm_source=git)** | Arizona, United States | Hybrid | Oct 28 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Austin, TX](https://jobright.ai/jobs/info/690138dfd5259a1b3cff3142?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Oct 28 |
 | ↳ | **[Audit Winter 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/690138dfd5259a1b3cff3143?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Oct 28 |
 | ↳ | **[Tax Summer 2027 Internship - Tysons Corner, VA](https://jobright.ai/jobs/info/690138cbd5259a1b3cff3133?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 28 |
-| ↳ | **[Audit Summer 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/690138bdd5259a1b3cff3128?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 28 |
 | ↳ | **[Audit Winter 2027 Internship – Miami, FL](https://jobright.ai/jobs/info/690138b2d5259a1b3cff311d?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Oct 28 |
 | ↳ | **[Audit Winter 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/690138b1d5259a1b3cff3116?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 28 |
-| ↳ | **[Tax Winter 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/68fceb790ab3b222462a0662?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 28 |
-| ↳ | **[Audit Winter 2026 Internship - Miami, FL](https://jobright.ai/jobs/info/69013892d5259a1b3cff3106?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
