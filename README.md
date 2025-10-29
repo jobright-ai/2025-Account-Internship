@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship (Summer 2026) - Maitland](https://jobright.ai/jobs/info/690197ddf8ce7a040fdc1349?utm_campaign=1052&utm_source=git)** | Maitland, FL | Hybrid | Oct 28 |
-| ↳ | **[Underwriting Internship (Summer 2026) - Boston](https://jobright.ai/jobs/info/6901967cf8ce7a040fdc1284?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Oct 28 |
+| **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship (Summer 2026) - San Francisco](https://jobright.ai/jobs/info/690191dfd5259a1b3cff648d?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 28 |
 | ↳ | **[Associate Degree Apprenticeship Program - Underwriting Services - Chicago, IL (Summer 2026)](https://jobright.ai/jobs/info/69019312f8ce7a040fdc109d?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
+| ↳ | **[Underwriting Internship (Summer 2026) - Houston](https://jobright.ai/jobs/info/69018ee8d5259a1b3cff62cb?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Oct 28 |
 | ↳ | **[Associate Degree Apprenticeship Program - Underwriting Associate - Owings Mills, MD (Summer 2026)](https://jobright.ai/jobs/info/6901930bf8ce7a040fdc1098?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Oct 28 |
+| ↳ | **[Underwriting Internship (Summer 2026) - Chicago](https://jobright.ai/jobs/info/69019123d5259a1b3cff641d?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
+| ↳ | **[Underwriting Internship (Summer 2026) - Boston](https://jobright.ai/jobs/info/6901967cf8ce7a040fdc1284?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Oct 28 |
+| ↳ | **[Underwriting Internship (Summer 2026) - Maitland](https://jobright.ai/jobs/info/690197ddf8ce7a040fdc1349?utm_campaign=1052&utm_source=git)** | Maitland, FL | Hybrid | Oct 28 |
 | ↳ | **[Alternative Investment Management - Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/6901926c4539ea1f2142160b?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance / Cleveland / Summer 2026](https://jobright.ai/jobs/info/690191e1d5259a1b3cff6490?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Oct 28 |
-| **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship (Summer 2026) - San Francisco](https://jobright.ai/jobs/info/690191dfd5259a1b3cff648d?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 28 |
-| ↳ | **[Underwriting Internship (Summer 2026) - Chicago](https://jobright.ai/jobs/info/69019123d5259a1b3cff641d?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
-| ↳ | **[Associate Degree Apprenticeship Program - Risk Engineering Support - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/69018fbb4539ea1f2142144f?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 28 |
+| **[Zurich Insurance](http://www.zurich.com)** | **[Associate Degree Apprenticeship Program - Risk Engineering Support - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/69018fbb4539ea1f2142144f?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 28 |
 | **[CC Solutions](http://cc-solutions.net)** | **[Intern, Export and Structured Finance (part time)](https://jobright.ai/jobs/info/69018f494539ea1f21421407?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship (Summer 2026) - Houston](https://jobright.ai/jobs/info/69018ee8d5259a1b3cff62cb?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Oct 28 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2026](https://jobright.ai/jobs/info/69018eaf4539ea1f214213c3?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | On Site | Oct 28 |
 | **[Zurich Insurance](http://www.zurich.com)** | **[Sr. Investment Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69018e4b4539ea1f2142138a?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | ↳ | **[Underwriting Internship (Summer 2026) - Overland Park](https://jobright.ai/jobs/info/69018e0b4539ea1f21421364?utm_campaign=1052&utm_source=git)** | Olathe, KS | Hybrid | Oct 28 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Burns Engineering, Inc.](http://burns-group.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6901487f4539ea1f2141ef23?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Corporate Tax Internship (Summer 2026)](https://jobright.ai/jobs/info/690147864539ea1f2141ee47?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 28 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/68fced1ae0c73b3a11190bac?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Oct 28 |
-| **[Elevate Financial Planning and Wealth Management](elevatefpwm.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/690144df4539ea1f2141eba9?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Oct 28 |
 | **[Atlassian](https://www.atlassian.com)** | **[Financial Planning & Analysis Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690144714539ea1f2141eb47?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Actuarial Internship Program - Summer 2026](https://jobright.ai/jobs/info/69014386f8ce7a040fdbe4ea?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 28 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – Sunrise, FL](https://jobright.ai/jobs/info/68fcebde0ab3b222462a06ab?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Oct 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Winter 2027 Internship – Miami, FL](https://jobright.ai/jobs/info/690138b2d5259a1b3cff311d?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Oct 28 |
 | ↳ | **[Audit Winter 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/690138b1d5259a1b3cff3116?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 28 |
 | ↳ | **[Tax Winter 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/68fceb790ab3b222462a0662?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 28 |
+| ↳ | **[Audit Winter 2026 Internship - Miami, FL](https://jobright.ai/jobs/info/69013892d5259a1b3cff3106?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
