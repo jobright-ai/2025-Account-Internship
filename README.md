@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Real Property Management Miami Metro](https://www.rpmmiamimetro.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6902bef4ff462851fefe6129?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Oct 29 |
+| **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern-Accounting](https://jobright.ai/jobs/info/6902bc5900a1816c41ea1009?utm_campaign=1052&utm_source=git)** | Novi, MI | On Site | Oct 29 |
+| **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Fixed Income, Equity Trading, Multi Asset Solutions Summer Intern](https://jobright.ai/jobs/info/6902b9ea00a1816c41ea0e26?utm_campaign=1052&utm_source=git)** | Nashville, Tennessee | On Site | Oct 29 |
+| **[OPCO Skilled Management](opcoca.com )** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6902b7af98707b2b0fe723a1?utm_campaign=1052&utm_source=git)** | Lubbock, TX | Remote | Oct 29 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6902b6b198707b2b0fe72339?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | Remote | Oct 29 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance & Accounting Associate](https://jobright.ai/jobs/info/6902b67cff462851fefe5d82?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Oct 29 |
+| **[OPCO Skilled Management](opcoca.com )** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6902b61b00a1816c41ea0d2f?utm_campaign=1052&utm_source=git)** | Pomona, CA | Remote | Oct 29 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6902b3c900a1816c41ea0c31?utm_campaign=1052&utm_source=git)** | Sinton, TX | On Site | Oct 29 |
+| **[OPCO Skilled Management](opcoca.com )** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6902b34a00a1816c41ea0bf4?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Remote | Oct 29 |
+| **[Waste Connections](http://www.wasteconnections.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/6902af28ff462851fefe5b56?utm_campaign=1052&utm_source=git)** | Diamond Springs, CA | On Site | Oct 29 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship - Investment Banking Associate Summer 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/6902ae75ff462851fefe5afc?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Oct 29 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Winter 2027 / Tysons, VA](https://jobright.ai/jobs/info/6902a24c00a1816c41ea0639?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 29 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Associate Manager Internal IT Audit](https://jobright.ai/jobs/info/6902a24a00a1816c41ea0638?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Oct 29 |
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Analyst Intern (Private Markets Energy, Mining, Infrastructure)](https://jobright.ai/jobs/info/6902a085ff462851fefe55d2?utm_campaign=1052&utm_source=git)** | SLC Metro Area | On Site | Oct 29 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6902343fff462851fefe0c5c?utm_campaign=1052&utm_source=git)** | Medford, OR | Hybrid | Oct 29 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6902341800a1816c41e9bc7c?utm_campaign=1052&utm_source=git)** | High Point, NC | Hybrid | Oct 29 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69023393ff462851fefe0bfb?utm_campaign=1052&utm_source=git)** | Pembroke Pines, FL | Hybrid | Oct 29 |
-| **[Mass. Electric Construction Co.](http://www.masselec.com/)** | **[Mass Electric Industrial - Finance Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68e561b41852e62f0080ef96?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
-| ↳ | **[Mass Electric Industrial - Finance Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68e56288ae2b894b1d70e253?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Oct 29 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/690253a4ff462851fefe1ee9?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Remote | Oct 29 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690232aa00a1816c41e9bb69?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | Hybrid | Oct 29 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690232a698707b2b0fe6d01d?utm_campaign=1052&utm_source=git)** | Vallejo, CA | Hybrid | Oct 29 |
-| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/68acbaddd627244576e4895b?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Oct 29 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Audit Intern](https://jobright.ai/jobs/info/6902325d98707b2b0fe6cfe2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Oct 29 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6902322bff462851fefe0af0?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Oct 29 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690231f600a1816c41e9bafe?utm_campaign=1052&utm_source=git)** | Paradise, NV | Hybrid | Oct 29 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690231ecff462851fefe0abe?utm_campaign=1052&utm_source=git)** | Hemet, CA | Hybrid | Oct 29 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690231deff462851fefe0ab2?utm_campaign=1052&utm_source=git)** | Lakewood, CO | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
