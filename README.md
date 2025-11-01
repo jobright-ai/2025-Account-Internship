@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Wealth Advisory Summer 2026 / Asheville](https://jobright.ai/jobs/info/69063dc9ff462851fe004190?utm_campaign=1052&utm_source=git)** | Asheville, NC | Hybrid | Nov 01 |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Banking Treasury Management Intern](https://jobright.ai/jobs/info/69063bf663502c0aded81be2?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 01 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Winter 2026 / Orange County Area)](https://jobright.ai/jobs/info/6906390c122e8474c78df765?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 01 |
+| **[Exaquant](https://exaquant.com/)** | **[Finance Research Intern](https://jobright.ai/jobs/info/6906337763502c0aded819e0?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 01 |
+| **[CyOpsPath](https://www.cyopspath.com/)** | **[Credit Risk Intern (auto)](https://jobright.ai/jobs/info/6906333a122e8474c78df600?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6906325863502c0aded8198f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/69062ed9ff462851fe003df8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/690628dd122e8474c78df361?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 01 |
 | ↳ | **[N99452 Title IV Reporting Specialist](https://jobright.ai/jobs/info/6906285b63502c0aded81703?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 01 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Fund Accounting Summer Intern](https://jobright.ai/jobs/info/6906284cff462851fe003c2e?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Nov 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/68cf3870fb49c96ca6ea6598?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 01 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Internal Audit Undergraduate Intern](https://jobright.ai/jobs/info/6905a127122e8474c78da7a7?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Nov 01 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68fdbfa8e04ac838fb5b1839?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
-| ↳ | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6903251698707b2b0fe75972?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
-| **[Optiver](http://www.optiver.com)** | **[Trading Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690197594539ea1f2142198a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
-| **[Everest](https://www.everestglobal.com/)** | **[2026 Underwriting Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/6905e31e63502c0aded7ee6a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Nov 01 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68d77eba295f8e37655db9c6?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/690315e298707b2b0fe75055?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Nov 01 |
-| **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/69060f6e63502c0aded80860?utm_campaign=1052&utm_source=git)** | Cheyenne, WY | Remote | Nov 01 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/6906055b122e8474c78ddcfe?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
