@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Pasqual Fiduciary Trust Company](https://www.spftc.com/)** | **[Summer Associate (Paid Internship)](https://jobright.ai/jobs/info/6906805e63502c0aded82660?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/69067218ff462851fe0049f2?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Nov 01 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Treasury Managment Intern](https://jobright.ai/jobs/info/69066dafff462851fe00498d?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Nov 01 |
+| **[TruStage](https://www.trustage.com/)** | **[Finance & Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/69066d61ff462851fe004970?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Nov 01 |
+| **[Faropoint](https://faropoint.com/)** | **[Investments Internship - Summer 2026](https://jobright.ai/jobs/info/69066cd5ff462851fe004943?utm_campaign=1052&utm_source=git)** | Hoboken, NJ | On Site | Nov 01 |
+| **[AWM Global Advisors](https://www.awmga.com)** | **[Investment Associate](https://jobright.ai/jobs/info/69066a8963502c0aded8238d?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Nov 01 |
+| **[Willis Johnson & Associates](https://www.wjohnsonassociates.com/)** | **[Tax Internship: Spring 2026](https://jobright.ai/jobs/info/690667cd122e8474c78dff97?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Finance Intern, USTV Finance – Spring 2026](https://jobright.ai/jobs/info/69066294122e8474c78dfe73?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Graduate Intern, SPT Production Finance - Spring 2026](https://jobright.ai/jobs/info/6906612f63502c0aded821c6?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/690657beff462851fe004567?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 01 |
+| **[DoubleLine](http://doubleline.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6906822c122e8474c78e02ee?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, USA | On Site | Nov 01 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Wealth Advisory Summer 2026 / Asheville](https://jobright.ai/jobs/info/69063dc9ff462851fe004190?utm_campaign=1052&utm_source=git)** | Asheville, NC | Hybrid | Nov 01 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Banking Treasury Management Intern](https://jobright.ai/jobs/info/69063bf663502c0aded81be2?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Winter 2026 / Orange County Area)](https://jobright.ai/jobs/info/6906390c122e8474c78df765?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 01 |
+| **[Hilti North America](http://www.hilti.com)** | **[Finance Intern - Plano, TX - Summer 2026](https://jobright.ai/jobs/info/68ec9ba61eecd439f43fb5ac?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Nov 01 |
 | **[CyOpsPath](https://www.cyopspath.com/)** | **[Credit Risk Intern (auto)](https://jobright.ai/jobs/info/6906333a122e8474c78df600?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6906325863502c0aded8198f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/69062ed9ff462851fe003df8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
@@ -121,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6903ceccff462851fefef130?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/6905f979122e8474c78dd7b9?utm_campaign=1052&utm_source=git)** | Chesterfield, MI | On Site | Nov 01 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/68fb2ef23c99cc1d960296d5?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Nov 01 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/6905f903122e8474c78dd693?utm_campaign=1052&utm_source=git)** | Sterling, IL | On Site | Nov 01 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Investments](https://jobright.ai/jobs/info/69031c8300a1816c41ea3e69?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Palm Beach, Florida](https://jobright.ai/jobs/info/68e9da5d54fbf903f6a7f19e?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6876ac50299cbc74b875f688?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206dc?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
 | ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e924c90930fe0bc462282d?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
-| **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6905e66e122e8474c78dcd40?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 01 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf35?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
-| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a582840?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Nov 01 |
-| **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6905e4feff462851fe0014df?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Remote | Nov 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69057386ff462851feffd8dc?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/68ce82a2846f0b04af67a854?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
-| ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/68cf3870fb49c96ca6ea6598?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
