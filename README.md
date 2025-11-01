@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Finance Intern, USTV Finance – Spring 2026](https://jobright.ai/jobs/info/69066294122e8474c78dfe73?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
+| ↳ | **[Graduate Intern, SPT Production Finance - Spring 2026](https://jobright.ai/jobs/info/6906612f63502c0aded821c6?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/690657beff462851fe004567?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 01 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Wealth Advisory Summer 2026 / Asheville](https://jobright.ai/jobs/info/69063dc9ff462851fe004190?utm_campaign=1052&utm_source=git)** | Asheville, NC | Hybrid | Nov 01 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Banking Treasury Management Intern](https://jobright.ai/jobs/info/69063bf663502c0aded81be2?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Winter 2026 / Orange County Area)](https://jobright.ai/jobs/info/6906390c122e8474c78df765?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 01 |
-| **[Exaquant](https://exaquant.com/)** | **[Finance Research Intern](https://jobright.ai/jobs/info/6906337763502c0aded819e0?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 01 |
 | **[CyOpsPath](https://www.cyopspath.com/)** | **[Credit Risk Intern (auto)](https://jobright.ai/jobs/info/6906333a122e8474c78df600?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6906325863502c0aded8198f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/69062ed9ff462851fe003df8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69057386ff462851feffd8dc?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/68ce82a2846f0b04af67a854?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
 | ↳ | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/68cf3870fb49c96ca6ea6598?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 01 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Internal Audit Undergraduate Intern](https://jobright.ai/jobs/info/6905a127122e8474c78da7a7?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Nov 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68fdbfa8e04ac838fb5b1839?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
