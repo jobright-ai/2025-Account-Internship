@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sompo](https://www.sompo-intl.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/68e924c29020b95add6a41fb?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 01 |
 | ↳ | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e926419020b95add6a43f5?utm_campaign=1052&utm_source=git)** | Garden City, NY | Hybrid | Nov 01 |
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Summer Tax Intern (2026) - Shelton, CT](https://jobright.ai/jobs/info/68b125dae815524ae11fb5cf?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Nov 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68cd9e01e23def7af55bcd4b?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206dc?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
 | ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e924c90930fe0bc462282d?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
