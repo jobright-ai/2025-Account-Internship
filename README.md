@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/68cde20cb2a74e1837edd21e?utm_campaign=1052&utm_source=git)** | Jackson, MI | Hybrid | Nov 01 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Accounting](https://jobright.ai/jobs/info/68fcd2b70ab3b2224629fb30?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Nov 01 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Investment Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/68ea5aad2f64880ca0b52432?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Nov 01 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Debt Capital Market Summer Internship](https://jobright.ai/jobs/info/69060e78ff462851fe002d76?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Nov 01 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Accounting Summer Intern (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68b24b3ef4e41a61efd8329c?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Hybrid | Nov 01 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, NYC (2026 Summer)](https://jobright.ai/jobs/info/68ec8f7a1eecd439f43f9d8b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b1faae1ade4306aa633749?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 01 |
@@ -125,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e9179d9020b95add6a3e11?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | ↳ | **[IT Audit Intern](https://jobright.ai/jobs/info/68e916680930fe0bc46222fa?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6903ceccff462851fefef130?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/6905f979122e8474c78dd7b9?utm_campaign=1052&utm_source=git)** | Chesterfield, MI | On Site | Nov 01 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/68fb2ef23c99cc1d960296d5?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Nov 01 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Investments](https://jobright.ai/jobs/info/69031c8300a1816c41ea3e69?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Palm Beach, Florida](https://jobright.ai/jobs/info/68e9da5d54fbf903f6a7f19e?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6905e66e122e8474c78dcd40?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf35?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a582840?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Nov 01 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6905e4feff462851fe0014df?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Remote | Nov 01 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69057386ff462851feffd8dc?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
