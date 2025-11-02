@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Finance](https://jobright.ai/jobs/info/69072473122e8474c78e2e15?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Nov 02 |
+| **[Joy Baking Group](https://joycone.com/)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/69071dd5122e8474c78e2c99?utm_campaign=1052&utm_source=git)** | Hermitage, PA | On Site | Nov 02 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Commercial Engines Financial Planning & Analysis - Onsite](https://jobright.ai/jobs/info/69068d36122e8474c78e037f?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | Hybrid | Nov 01 |
 | **[San Pasqual Fiduciary Trust Company](https://www.spftc.com/)** | **[Summer Associate (Paid Internship)](https://jobright.ai/jobs/info/6906805e63502c0aded82660?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/69067218ff462851fe0049f2?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6905e66e122e8474c78dcd40?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf35?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a582840?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Nov 01 |
-| **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6905e4feff462851fe0014df?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Remote | Nov 01 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69057386ff462851feffd8dc?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
