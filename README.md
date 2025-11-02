@@ -90,11 +90,9 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Financial Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/68b2305b1ade4306aa634ccd?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Nov 01 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69061f20122e8474c78defe5?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Nov 01 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Finance & Accounting Intern (2026 Internship)](https://jobright.ai/jobs/info/68b09f5ab47fb001d6893dce?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Debt Capital Markets Summer Internship - 2026](https://jobright.ai/jobs/info/69061ea8122e8474c78defb2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/68e9359c65768b6412b195e9?utm_campaign=1052&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
 | **[HOLT Group](https://holtgrp.com)** | **[Finance Intern - High School](https://jobright.ai/jobs/info/68cb79e59e3a822f5d246932?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Nov 01 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/69047d96ff462851feff5b78?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/69057382ff462851feffd8cd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 01 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/69057382ff462851feffd8cd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 01 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68c25ad233864f172f9bfc52?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Nov 01 |
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Los Angeles, CA](https://jobright.ai/jobs/info/69061ccb122e8474c78deedb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Summer Tax Intern (2026) - Shelton, CT](https://jobright.ai/jobs/info/68b125dae815524ae11fb5cf?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Nov 01 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68cd9e01e23def7af55bcd4b?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206dc?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
+| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
