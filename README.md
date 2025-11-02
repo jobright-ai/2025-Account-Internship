@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Commercial Engines Financial Planning & Analysis - Onsite](https://jobright.ai/jobs/info/69068d36122e8474c78e037f?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | Hybrid | Nov 01 |
 | **[San Pasqual Fiduciary Trust Company](https://www.spftc.com/)** | **[Summer Associate (Paid Internship)](https://jobright.ai/jobs/info/6906805e63502c0aded82660?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/69067218ff462851fe0049f2?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Nov 01 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Treasury Managment Intern](https://jobright.ai/jobs/info/69066dafff462851fe00498d?utm_campaign=1052&utm_source=git)** | Irvine, CA | Remote | Nov 01 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Banking Treasury Management Intern](https://jobright.ai/jobs/info/69063bf663502c0aded81be2?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Winter 2026 / Orange County Area)](https://jobright.ai/jobs/info/6906390c122e8474c78df765?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 01 |
 | **[Hilti North America](http://www.hilti.com)** | **[Finance Intern - Plano, TX - Summer 2026](https://jobright.ai/jobs/info/68ec9ba61eecd439f43fb5ac?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Nov 01 |
-| **[CyOpsPath](https://www.cyopspath.com/)** | **[Credit Risk Intern (auto)](https://jobright.ai/jobs/info/6906333a122e8474c78df600?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Accounting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6906325863502c0aded8198f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
+| **[CyOpsPath](https://www.cyopspath.com/)** | **[Credit Risk Internship (auto)](https://jobright.ai/jobs/info/6906333a122e8474c78df600?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/69062ed9ff462851fe003df8?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/690628dd122e8474c78df361?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 01 |
 | ↳ | **[N99452 Title IV Reporting Specialist](https://jobright.ai/jobs/info/6906285b63502c0aded81703?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 01 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, Alpharetta Office (2026 Summer)](https://jobright.ai/jobs/info/68ec9ffac26b9574506f57b9?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Nov 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b20095bc187f64e1bd8a4f?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Nov 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Procurement Intern (Commercial & Aesthetics)](https://jobright.ai/jobs/info/68cc8c6b16d00d2beeb21350?utm_campaign=1052&utm_source=git)** | Mettawa, IL | On Site | Nov 01 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/6906909d122e8474c78e03e4?utm_campaign=1052&utm_source=git)** | Sterling, IL | On Site | Nov 01 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/6906223663502c0aded81548?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 01 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e9179d9020b95add6a3e11?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | ↳ | **[IT Audit Intern](https://jobright.ai/jobs/info/68e916680930fe0bc46222fa?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Summer Tax Intern (2026) - Shelton, CT](https://jobright.ai/jobs/info/68b125dae815524ae11fb5cf?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Nov 01 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/68cd9e01e23def7af55bcd4b?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Nov 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206dc?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
-| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
