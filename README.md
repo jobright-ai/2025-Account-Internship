@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Accounting Co-op (Jan - June 2026)](https://jobright.ai/jobs/info/6908401c122e8474c78e8e5a?utm_campaign=1052&utm_source=git)** | Framingham, MA | Hybrid | Nov 02 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 02 |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Economic Research](https://jobright.ai/jobs/info/69082be563502c0aded8a8b7?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/69081a05ff462851fe00c657?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 02 |
-| **[QSentia](https://www.linkedin.com/company/108967471)** | **[Quantitative Researcher Intern II](https://jobright.ai/jobs/info/69080a3fff462851fe00c1f9?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Economic Research](https://jobright.ai/jobs/info/6907ee5d122e8474c78e754a?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | Hybrid | Nov 02 |
 | **[Valorantum](valorantum.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6907ddd5122e8474c78e724d?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Credit Analyst Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/6907c8fe63502c0aded8926a?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Nov 02 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6907c5cd122e8474c78e6d15?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Accounting Intern](https://jobright.ai/jobs/info/6907b8b863502c0aded886e0?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Nov 02 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/69079f99122e8474c78e5d6f?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Nov 02 |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/69079930122e8474c78e5c9c?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Nov 02 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68b1450ce815524ae11fd0f8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 02 |
 | ↳ | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68b14691e815524ae11fd2d8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 02 |
 | ↳ | **[Audit & Assurance Intern - Winter 2026](https://jobright.ai/jobs/info/68faa62bb2c86843bf210a38?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 02 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - Western, WI](https://jobright.ai/jobs/info/68cdafde1ad6b16f0289db06?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Nov 02 |
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/6907888e122e8474c78e5917?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Investment Analyst Intern - Private Debt & Equity, Summer 2026](https://jobright.ai/jobs/info/67c91ed428275c956169bbc0?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 02 |
-| **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Raleigh, NC](https://jobright.ai/jobs/info/690787e5ff462851fe00a16f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
-| ↳ | **[Commercial Banking Intern Dallas, TX](https://jobright.ai/jobs/info/690787d5ff462851fe00a166?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 02 |
+| **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Dallas, TX](https://jobright.ai/jobs/info/6907885a122e8474c78e5909?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 02 |
+| ↳ | **[Commercial Banking Intern Raleigh, NC](https://jobright.ai/jobs/info/690787e5ff462851fe00a16f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Southern MN](https://jobright.ai/jobs/info/68b07a2713563e782a9f6924?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | Nov 02 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Southern MN](https://jobright.ai/jobs/info/68b1c494bc187f64e1bd6a1a?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Nov 02 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68cdf5631ad6b16f028a0353?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Summer 2026](https://jobright.ai/jobs/info/68ce955a846f0b04af67b5e7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/6905eaeb122e8474c78dcf67?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/686618e5cd3a88df203ce097?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6905736cff462851feffd7f1?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
