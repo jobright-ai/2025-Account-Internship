@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/69086954d046ab6061cc8cb5?utm_campaign=1052&utm_source=git)** | Greenville, SC | Hybrid | Nov 03 |
+| ↳ | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/69086400ff462851fe00f29a?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Nov 03 |
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Internal Audit Manager (SOX Compliance)](https://jobright.ai/jobs/info/69085f0463502c0aded8cb3f?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Nov 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69085dbb63502c0aded8c9d8?utm_campaign=1052&utm_source=git)** | Effingham, IL | Hybrid | Nov 02 |
 | ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/69085c7fff462851fe00ec8f?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Nov 02 |
 | **[Ecolab](http://www.ecolab.com)** | **[Undergrad Finance and Accounting Internship](https://jobright.ai/jobs/info/69085a16122e8474c78ea29d?utm_campaign=1052&utm_source=git)** | Naperville, IL | Hybrid | Nov 02 |
 | ↳ | **[MBA Finance Internship 2026](https://jobright.ai/jobs/info/690855d163502c0aded8c2d4?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Nov 02 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/690878304a1b456627af55c7?utm_campaign=1052&utm_source=git)** | Sunset Hills, MO | On Site | Nov 02 |
+| ↳ | **[Intern - Portfolio Management (WM)](https://jobright.ai/jobs/info/6908698fd046ab6061cc8d67?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Accounting Co-op (Jan - June 2026)](https://jobright.ai/jobs/info/6908401c122e8474c78e8e5a?utm_campaign=1052&utm_source=git)** | Framingham, MA | Hybrid | Nov 02 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 02 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Economic Research](https://jobright.ai/jobs/info/69082be563502c0aded8a8b7?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
@@ -106,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Actuarial Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/68b1f29d1ade4306aa633197?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
 | **[Northmarq](http://www.northmarq.com)** | **[Summer Rotational Internship (Agency Platform) - Commercial Real Estate Finance](https://jobright.ai/jobs/info/68cdd4e3b2a74e1837edcb8c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 02 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68cd5bbb1ad6b16f028987e3?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Nov 02 |
+| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2026 Internship](https://jobright.ai/jobs/info/6908784e4a1b456627af562a?utm_campaign=1052&utm_source=git)** | Lansing, MI | Hybrid | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance/Accounting](https://jobright.ai/jobs/info/690771aa63502c0aded873b6?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6898523983d13d1f5b68e659?utm_campaign=1052&utm_source=git)** | Anacortes, WA | On Site | Nov 02 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Potomac, MD](https://jobright.ai/jobs/info/68cdffc41ad6b16f028a0adb?utm_campaign=1052&utm_source=git)** | Potomac, MD | On Site | Nov 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b0928a2d46f6396cae69d8?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Nov 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf47?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 02 |
 | **[Crowe](https://www.crowe.com/)** | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b096702d46f6396cae6c66?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a4?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 02 |
-| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b093ea2d46f6396cae6a7e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 02 |
-| **[Olin](http://www.olin.com/)** | **[Pricing Intern - 2026](https://jobright.ai/jobs/info/68b1f741bc187f64e1bd8265?utm_campaign=1052&utm_source=git)** | Cleveland, TN | On Site | Nov 02 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6906c832122e8474c78e0cee?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Nov 02 |
-| **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Summer 2026](https://jobright.ai/jobs/info/68ce955a846f0b04af67b5e7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
