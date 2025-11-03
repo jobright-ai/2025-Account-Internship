@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/69081a05ff462851fe00c657?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 02 |
 | **[QSentia](https://www.linkedin.com/company/108967471)** | **[Quantitative Researcher Intern II](https://jobright.ai/jobs/info/69080a3fff462851fe00c1f9?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Economic Research](https://jobright.ai/jobs/info/6907ee5d122e8474c78e754a?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | Hybrid | Nov 02 |
 | **[Valorantum](valorantum.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6907ddd5122e8474c78e724d?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 02 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Commodity Associate Price Reporting Internship (Early Careers) - S&P Global](https://jobright.ai/jobs/info/690269ffff462851fefe2d3f?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Nov 02 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6907c5cd122e8474c78e6d15?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Accounting Intern](https://jobright.ai/jobs/info/6907b8b863502c0aded886e0?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Nov 02 |
-| **[Valorantum](valorantum.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6907a2f6122e8474c78e5dd3?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 02 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/69079f99122e8474c78e5d6f?utm_campaign=1052&utm_source=git)** | Carmel, IN | Remote | Nov 02 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Graduate Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/69079930122e8474c78e5c9c?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Nov 02 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68b1450ce815524ae11fd0f8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 02 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6898523983d13d1f5b68e659?utm_campaign=1052&utm_source=git)** | Anacortes, WA | On Site | Nov 02 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Potomac, MD](https://jobright.ai/jobs/info/68cdffc41ad6b16f028a0adb?utm_campaign=1052&utm_source=git)** | Potomac, MD | On Site | Nov 02 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Accounting/Finance Summer Intern (Topeka, KS) 2026](https://jobright.ai/jobs/info/68c66397c96a22563ecee127?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Nov 02 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Treasury Management Development (INTERN)](https://jobright.ai/jobs/info/6907639f63502c0aded8699c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/68984fcb5574fd6bc0c77e07?utm_campaign=1052&utm_source=git)** | Kenai, AK | On Site | Nov 02 |
 | ↳ | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/689834e183d13d1f5b68bbf8?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Nov 02 |
 | ↳ | **[Intern/Co-op - Accounting (Spring 2026)](https://jobright.ai/jobs/info/6780512379e8c43a5267277b?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Nov 02 |
@@ -116,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/69076136ff462851fe008dd4?utm_campaign=1052&utm_source=git)** | Huston, PA | Remote | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b1fcb7f4e41a61efd816a7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Analytics Modelling](https://jobright.ai/jobs/info/68ce65a6dbd9fb154eddf22d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 02 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897e9958c6d6b4426793f70?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Nov 02 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Underwriting Internship (Summer 2026) - Overland Park](https://jobright.ai/jobs/info/68b1590c6fab621da7b0ccbf?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Nov 02 |
 | **[American National](https://www.americannational.com)** | **[Internship - Actuarial, Annuity Analytics](https://jobright.ai/jobs/info/68b1ec1dbc187f64e1bd7cf3?utm_campaign=1052&utm_source=git)** | League City, TX | On Site | Nov 02 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897f3f273b3a600fe8a1b94?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Nov 02 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Corporate Tax Group (Summer 2026)](https://jobright.ai/jobs/info/68cddfaab2a74e1837edcfb3?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[National Accounts Intern](https://jobright.ai/jobs/info/69075253ff462851fe0086f1?utm_campaign=1052&utm_source=git)** | Camden, New Jersey, United States | On Site | Nov 02 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2026](https://jobright.ai/jobs/info/68983db45574fd6bc0c76537?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Summer 2026](https://jobright.ai/jobs/info/68ce955a846f0b04af67b5e7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/6905eaeb122e8474c78dcf67?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/686618e5cd3a88df203ce097?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6905736cff462851feffd7f1?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
