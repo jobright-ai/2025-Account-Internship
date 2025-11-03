@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf29?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 03 |
+| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 03 |
+| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da22069f?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 03 |
+| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Finance Intern](https://jobright.ai/jobs/info/68b545661ade4306aa640e63?utm_campaign=1052&utm_source=git)** | Diamond Bar, CA | On Site | Nov 03 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da220685?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 03 |
+| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68d77b00295f8e37655db0c4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
+| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ba?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
+| ↳ | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf46?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 03 |
+| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/68db6e7ae19b9e63ba20bf5b?utm_campaign=1052&utm_source=git)** | Kohler, WI | Hybrid | Nov 03 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a9?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68f4714b9a63986de75755e3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 03 |
+| **[Optiver](http://www.optiver.com)** | **[Accounting Intern (Winter 2025/Spring 2026)](https://jobright.ai/jobs/info/6906f49063502c0aded83f1f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/69086954d046ab6061cc8cb5?utm_campaign=1052&utm_source=git)** | Greenville, SC | Hybrid | Nov 03 |
 | ↳ | **[Summer 2026 Internship Program / Corporate Track: • Accounting • Finance • Credit • Human Resources / Talent Acquisition](https://jobright.ai/jobs/info/69086400ff462851fe00f29a?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Nov 03 |
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Internal Audit Manager (SOX Compliance)](https://jobright.ai/jobs/info/69085f0463502c0aded8cb3f?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Nov 02 |
@@ -64,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/69085c7fff462851fe00ec8f?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Nov 02 |
 | **[Ecolab](http://www.ecolab.com)** | **[Undergrad Finance and Accounting Internship](https://jobright.ai/jobs/info/69085a16122e8474c78ea29d?utm_campaign=1052&utm_source=git)** | Naperville, IL | Hybrid | Nov 02 |
 | ↳ | **[MBA Finance Internship 2026](https://jobright.ai/jobs/info/690855d163502c0aded8c2d4?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Nov 02 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/690878304a1b456627af55c7?utm_campaign=1052&utm_source=git)** | Sunset Hills, MO | On Site | Nov 02 |
-| ↳ | **[Intern - Portfolio Management (WM)](https://jobright.ai/jobs/info/6908698fd046ab6061cc8d67?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Portfolio Management (WM)](https://jobright.ai/jobs/info/6908698fd046ab6061cc8d67?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
+| ↳ | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/690878304a1b456627af55c7?utm_campaign=1052&utm_source=git)** | Sunset Hills, MO | On Site | Nov 02 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Accounting Co-op (Jan - June 2026)](https://jobright.ai/jobs/info/6908401c122e8474c78e8e5a?utm_campaign=1052&utm_source=git)** | Framingham, MA | Hybrid | Nov 02 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 02 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Economic Research](https://jobright.ai/jobs/info/69082be563502c0aded8a8b7?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
@@ -73,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Economic Research](https://jobright.ai/jobs/info/6907ee5d122e8474c78e754a?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | Hybrid | Nov 02 |
 | **[Valorantum](valorantum.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6907ddd5122e8474c78e724d?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Credit Analyst Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/6907c8fe63502c0aded8926a?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Nov 02 |
-| ↳ | **[Equity Analyst Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68fe79e40ab3b222462a6fa8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6907c7e7ff462851fe00b5c8?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Commodity Associate Price Reporting Internship (Early Careers) - S&P Global](https://jobright.ai/jobs/info/690269ffff462851fefe2d3f?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Nov 02 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6907c5cd122e8474c78e6d15?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
@@ -123,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6898545ffaa4e875e824e3ec?utm_campaign=1052&utm_source=git)** | Catlettsburg, KY | On Site | Nov 02 |
 | ↳ | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b1fcb7f4e41a61efd816a7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Analytics Modelling](https://jobright.ai/jobs/info/68ce65a6dbd9fb154eddf22d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 02 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897e9958c6d6b4426793f70?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Nov 02 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Underwriting Internship (Summer 2026) - Overland Park](https://jobright.ai/jobs/info/68b1590c6fab621da7b0ccbf?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Nov 02 |
 | **[American National](https://www.americannational.com)** | **[Internship - Actuarial, Annuity Analytics](https://jobright.ai/jobs/info/68b1ec1dbc187f64e1bd7cf3?utm_campaign=1052&utm_source=git)** | League City, TX | On Site | Nov 02 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897f3f273b3a600fe8a1b94?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Nov 02 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Corporate Tax Group (Summer 2026)](https://jobright.ai/jobs/info/68cddfaab2a74e1837edcfb3?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[National Accounts Intern](https://jobright.ai/jobs/info/69075253ff462851fe0086f1?utm_campaign=1052&utm_source=git)** | Camden, New Jersey, United States | On Site | Nov 02 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2026](https://jobright.ai/jobs/info/68983db45574fd6bc0c76537?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b6?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 02 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit IT Assurance Intern Summer 2026](https://jobright.ai/jobs/info/68b0943113563e782a9f7829?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
 | ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b0962b13563e782a9f796b?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Nov 02 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6876a9e05cebcd1dd51cb22d?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
-| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b094f113563e782a9f78af?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Nov 02 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Summer Analyst, Direct Lending (Summer 2026)](https://jobright.ai/jobs/info/68b24f74f4e41a61efd83587?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Nov 02 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b0957313563e782a9f7909?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 02 |
-| ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b098b32d46f6396cae6e1b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 02 |
-| ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b09744b47fb001d6893a93?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 02 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68b092452d46f6396cae69a3?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 02 |
-| ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b09502b47fb001d68938cc?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Nov 02 |
-| ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b0928a2d46f6396cae69d8?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Nov 02 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf47?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 02 |
-| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b096702d46f6396cae6c66?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
