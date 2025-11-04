@@ -57,11 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Columbus)](https://jobright.ai/jobs/info/690a3952bcccf20de59e0001?utm_campaign=1052&utm_source=git)** | 300 Spruce Street, Columbus, OH, 43215, US | On Site | Nov 04 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2026 - Greater Chicagoland](https://jobright.ai/jobs/info/690a5809bcccf20de59e112d?utm_campaign=1052&utm_source=git)** | Schererville, IN | On Site | Nov 04 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Investment Strategy Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/690a57fc4a1b456627b0664e?utm_campaign=1052&utm_source=git)** | Milwaukee, WI Corporate | On Site | Nov 04 |
+| **[Rea](http://reacpa.com)** | **[Accounting Internship - Winter 2027](https://jobright.ai/jobs/info/690a57dabcccf20de59e110b?utm_campaign=1052&utm_source=git)** | Ohio, United States | On Site | Nov 04 |
+| **[EQT Corporation](https://www.eqt.com/)** | **[Strategic Execution Intern](https://jobright.ai/jobs/info/68ffc249e0c73b3a1119dffd?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Nov 04 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Treasury Summer College Intern](https://jobright.ai/jobs/info/690a55a0d046ab6061cdb48e?utm_campaign=1052&utm_source=git)** | Juno Beach, FL | On Site | Nov 04 |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Finance Division](https://jobright.ai/jobs/info/690a5119bcccf20de59e0cb2?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Nov 04 |
+| **[Alabama Credit Union](https://alabamacu.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/690a4fccd046ab6061cdafab?utm_campaign=1052&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/690a4dd34a1b456627b05f83?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Nov 04 |
+| **[Jain Global](https://www.jainglobal.com)** | **[Risk Intern (Summer 2026 – New York)](https://jobright.ai/jobs/info/690a49d1bcccf20de59e084e?utm_campaign=1052&utm_source=git)** | New York Office | On Site | Nov 04 |
+| **[Crest Vale](crestvale.us)** | **[Audit Intern](https://jobright.ai/jobs/info/690a4880d046ab6061cdac44?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Global Employer Services - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/690a45e54a1b456627b05bb1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Nov 04 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/690a43434a1b456627b059b0?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL | On Site | Nov 04 |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026, Intern: Internal Controls (Hybrid)](https://jobright.ai/jobs/info/690a4283bcccf20de59e04a4?utm_campaign=1052&utm_source=git)** | Farmington, CT | Hybrid | Nov 04 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Macro Analyst Internship: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/690a3e83d046ab6061cda53b?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Nov 04 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2027 (Columbus)](https://jobright.ai/jobs/info/690a37a64a1b456627b0540f?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Nov 04 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Intern – Business, Finance AND Accounting 2026](https://jobright.ai/jobs/info/690a36514a1b456627b0534c?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Nov 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / 2027](https://jobright.ai/jobs/info/68b545361ade4306aa640e53?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Columbus)](https://jobright.ai/jobs/info/690a3464d046ab6061cd9f9d?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Nov 04 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/690a3453bcccf20de59dfc85?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, 84416, United States | On Site | Nov 04 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[IT Finance Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690a3452bcccf20de59dfc84?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Nov 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Global Employer Services - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/690a3239bcccf20de59dfae4?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 04 |
@@ -71,18 +83,20 @@ For a complete list, click the following sortable link below:
 | **[Menasha Packaging](http://menasha.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68ed1d736335d3323612597f?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Nov 04 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a31a8d046ab6061cd9e27?utm_campaign=1052&utm_source=git)** | Porterville, CA | Hybrid | Nov 04 |
 | **[Synerga Partners](synergapartners.us)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/690a31944a1b456627b05053?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 04 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Audit Intern](https://jobright.ai/jobs/info/690a4d6abcccf20de59e0a40?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Nov 04 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Accounting Intern - Indianapolis, IN (Spring 2026)](https://jobright.ai/jobs/info/690a160ad046ab6061cd9160?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / 2027](https://jobright.ai/jobs/info/68d162318c62e63bc7fcae4a?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Nov 04 |
 | **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/690a30574a1b456627b04fbd?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Nov 04 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a30524a1b456627b04fba?utm_campaign=1052&utm_source=git)** | Ellicott City, MD | Hybrid | Nov 04 |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[Asset Management Internship](https://jobright.ai/jobs/info/68d01c84fb49c96ca6eae03c?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Nov 04 |
 | **[Central Hudson](https://www.cenhud.com)** | **[Finance & Planning Intern](https://jobright.ai/jobs/info/690a2f94d046ab6061cd9d42?utm_campaign=1052&utm_source=git)** | Poughkeepsie | On Site | Nov 04 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Source to Contract Intern](https://jobright.ai/jobs/info/690a2f93bcccf20de59df992?utm_campaign=1052&utm_source=git)** | Boston, MA, USA | On Site | Nov 04 |
-| **[Rehmann](http://www.rehmann.com)** | **[Wealth Management Intern (Summer 2026)](https://jobright.ai/jobs/info/690a2f6ebcccf20de59df97b?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2026 - Denver & Colorado Springs, CO](https://jobright.ai/jobs/info/690a2f56bcccf20de59df965?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 04 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Banking Operations Intern](https://jobright.ai/jobs/info/690a2f25d046ab6061cd9d2b?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 04 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a2e764a1b456627b04ea8?utm_campaign=1052&utm_source=git)** | New Britain, CT | Hybrid | Nov 04 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a2e644a1b456627b04e9b?utm_campaign=1052&utm_source=git)** | Redlands, CA | Hybrid | Nov 04 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a2dfe4a1b456627b04e57?utm_campaign=1052&utm_source=git)** | Lakeville, MN | Hybrid | Nov 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Global Employer Services - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/690a4fbbbcccf20de59e0b94?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Nov 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/68d16dcefa731f61692debc1?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Nov 04 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Risk Analyst Intern](https://jobright.ai/jobs/info/68ed45e781fdd1626d39a813?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Spring 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/68ed518381fdd1626d39afc9?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | On Site | Nov 04 |
@@ -114,6 +128,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1ef9bcccf20de59df1aa?utm_campaign=1052&utm_source=git)** | Arlington Heights, IL | Hybrid | Nov 04 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1eb7bcccf20de59df196?utm_campaign=1052&utm_source=git)** | Redmond, WA | Hybrid | Nov 04 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1e7fbcccf20de59df186?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 04 |
+| **[Stratify Edge](stratifyedge.us)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/690a4af1bcccf20de59e08c6?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Nov 04 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/690a1e2cd046ab6061cd9578?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Nov 04 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1de9bcccf20de59df153?utm_campaign=1052&utm_source=git)** | Valdosta, GA | Hybrid | Nov 04 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[Capital Markets and Credit Risk Intern](https://jobright.ai/jobs/info/690a1de0d046ab6061cd953a?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Nov 04 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a196cbcccf20de59def35?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | Hybrid | Nov 04 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1934d046ab6061cd92da?utm_campaign=1052&utm_source=git)** | Southfield, MI | Hybrid | Nov 04 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1919d046ab6061cd92c8?utm_campaign=1052&utm_source=git)** | Pawtucket, RI | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a18ffbcccf20de59def11?utm_campaign=1052&utm_source=git)** | Wausau, WI | Hybrid | Nov 04 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[M&A Intern - Summer 2026](https://jobright.ai/jobs/info/68ed407281fdd1626d39a5ee?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Financial Analyst Intern - Kennett Square, PA](https://jobright.ai/jobs/info/68d1ffce8c62e63bc7fd2235?utm_campaign=1052&utm_source=git)** | Kennett Square, PA | Hybrid | Nov 04 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1894bcccf20de59deee8?utm_campaign=1052&utm_source=git)** | Missouri City, TX | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1867bcccf20de59deede?utm_campaign=1052&utm_source=git)** | Mansfield, OH | Hybrid | Nov 04 |
-| **[Coinbase](https://www.coinbase.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/68ed819b6335d33236129aaa?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a3604d046ab6061cda0f4?utm_campaign=1052&utm_source=git)** | Michigan City, IN | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a3a08bcccf20de59e008c?utm_campaign=1052&utm_source=git)** | Bristol, TN | Hybrid | Nov 04 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Accounting Intern](https://jobright.ai/jobs/info/690a363d4a1b456627b0533d?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 04 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/690a17cdbcccf20de59dee9e?utm_campaign=1052&utm_source=git)** | Apple Valley, CA | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a17babcccf20de59dee95?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a3586bcccf20de59dfd7d?utm_campaign=1052&utm_source=git)** | Grand Forks, ND | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a179dbcccf20de59dee88?utm_campaign=1052&utm_source=git)** | Pocatello, ID | Hybrid | Nov 04 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/690a1796bcccf20de59dee84?utm_campaign=1052&utm_source=git)** | Mansfield, TX | Hybrid | Nov 04 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Public Accounts Intern](https://jobright.ai/jobs/info/690a1765d046ab6061cd920c?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
