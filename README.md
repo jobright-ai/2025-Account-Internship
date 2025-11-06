@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Tax Internship Application - Mount Airy, NC](https://jobright.ai/jobs/info/68f0529b23b5702fba8c9f5b?utm_campaign=1052&utm_source=git)** | Mount Airy, NC | Hybrid | Nov 06 |
+| ↳ | **[Aprio Spring 2026 Tax Internship - Nashville, TN](https://jobright.ai/jobs/info/68f052b423b5702fba8c9f6d?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 06 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Ratings and Research Support Intern](https://jobright.ai/jobs/info/690c869e221b890c277fe916?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/68ec7c07c26b9574506f24fe?utm_campaign=1052&utm_source=git)** | St Charles, MO | Hybrid | Nov 06 |
+| ↳ | **[Administrative Tax Internship- Spring 2026](https://jobright.ai/jobs/info/68f876466de2db04dc3df6b6?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | Nov 06 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Corporate Treasury Intern](https://jobright.ai/jobs/info/690c600ed046ab6061cecbdf?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 06 |
 | **[Genesee & Wyoming Inc.](https://www.gwrr.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/690c5868221b890c277fcfcc?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Nov 06 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/690c577f4a1b456627b179c4?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Nov 06 |
 | **[Landmark National Bank](http://investor.banklandmark.com/)** | **[Commercial Banking Intern (42280)](https://jobright.ai/jobs/info/690c5533221b890c277fcec7?utm_campaign=1052&utm_source=git)** | Overland Park, KS, USA | On Site | Nov 05 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Corporate Treasury Intern](https://jobright.ai/jobs/info/690c3661d046ab6061cebe74?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 05 |
-| **[Crest Vale](crestvale.us)** | **[Treasury Management Development Intern](https://jobright.ai/jobs/info/690c364c4a1b456627b1703c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 05 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Finance](https://jobright.ai/jobs/info/690c2bf0d046ab6061ceba1d?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Nov 05 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Finance](https://jobright.ai/jobs/info/690c2a0f4a1b456627b16b85?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Financial Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c240a221b890c277fbdea?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Nov 05 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/690c2222d046ab6061ceb45c?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 05 |
 | **[Platform Accounting Group](https://platformag.com)** | **[Spring Tax Intern](https://jobright.ai/jobs/info/690c1ccd4a1b456627b163dd?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 05 |
@@ -118,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Materials Finance Summer Intern - Orlando, FL](https://jobright.ai/jobs/info/690c0adc4a1b456627b1572a?utm_campaign=1052&utm_source=git)** | Florida | Hybrid | Nov 05 |
 | **[MasTec](http://mastec.com)** | **[Accounting Internship (Spring 2026)](https://jobright.ai/jobs/info/690c1948221b890c277fb736?utm_campaign=1052&utm_source=git)** | Clinton, Indiana | On Site | Nov 05 |
 | **[Northwest Bank](https://www.northwest.bank)** | **[Finance Intern](https://jobright.ai/jobs/info/690bd3d74a1b456627b13532?utm_campaign=1052&utm_source=git)** | Warren, PA | On Site | Nov 05 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/690bd1534a1b456627b13304?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | Nov 05 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Tax Summer 2026 / San Antonio](https://jobright.ai/jobs/info/690be4574a1b456627b14333?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Hybrid | Nov 05 |
 | ↳ | **[Intern Audit Winter 2027 / Tulsa](https://jobright.ai/jobs/info/690be3a2d046ab6061ce9053?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Hybrid | Nov 05 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Chief Tax Office Intern](https://jobright.ai/jobs/info/690be24bd046ab6061ce8efc?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/690bb919d046ab6061ce6d59?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Nov 05 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern - Technology, Finance, and Accounting](https://jobright.ai/jobs/info/690bb79fd046ab6061ce6bca?utm_campaign=1052&utm_source=git)** | Plano | On Site | Nov 05 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Actuarial Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/690bb754d046ab6061ce6b81?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Nov 05 |
-| **[Jain Global](https://www.jainglobal.com)** | **[Commodities Internship (Summer 2026 - Houston)](https://jobright.ai/jobs/info/690bb61d221b890c277f7315?utm_campaign=1052&utm_source=git)** | New York Office | On Site | Nov 05 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2026 - Livingston/Woodcliff Lake, NJ](https://jobright.ai/jobs/info/690bb2c7221b890c277f715a?utm_campaign=1052&utm_source=git)** | Livingston, NJ | On Site | Nov 05 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/690bb265221b890c277f711e?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
