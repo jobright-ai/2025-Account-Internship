@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Human Intelligence](https://www.linkedin.com/company/109583135)** | **[Finance Intern (Nonprofit Accounting + Board Governance)](https://jobright.ai/jobs/info/690f95d5183be660d2675d1f?utm_campaign=1052&utm_source=git)** | Utah, United States | Remote | Nov 08 |
+| **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Budget Operations Intern, Division of Budget](https://jobright.ai/jobs/info/690f8ad5183be660d2675a6f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/690f859b988c2b7b4ec4e587?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Nov 08 |
 | **[Valorantum](valorantum.us)** | **[Public Accounting Intern – Paid Internship](https://jobright.ai/jobs/info/690f7e74bb519377733e8c7b?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage  Correspondence Specialist)](https://jobright.ai/jobs/info/68bb78875f3832749186f63c?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Internal Audit - IT Audit)](https://jobright.ai/jobs/info/68bb79a16105227d118a648c?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
@@ -82,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68d6821ed3fe025a3015a254?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Nov 08 |
 | ↳ | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68d6849f45853d0e39cc8172?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 08 |
 | **[Citi](https://www.citi.com)** | **[Wealth - LATAM, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68d70acfd3fe025a3015e639?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Todd](https://toddagriscience.com)** | **[Finance Analyst Intern (Summer '26)](https://jobright.ai/jobs/info/690f6b6224f1931da19cd659?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
-| **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| ↳ | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/690f6ac524f1931da19cd63b?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Remote | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68bb7a748043103d4f228e81?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68d702c3894705799a2efcb2?utm_campaign=1052&utm_source=git)** | Wickliffe, OH | Hybrid | Nov 08 |
@@ -101,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Tech World Networking](techworldnetworking.us)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/690f618e221b890c278157b2?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 08 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern- Eastern District (Summer 2026)](https://jobright.ai/jobs/info/690ddc5544146d3b6ec5041e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[Finance Analyst Intern- Eastern District (Summer 2026)](https://jobright.ai/jobs/info/690ed481d046ab6061d01925?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Nov 08 |
-| ↳ | **[Finance Analyst Intern- Eastern District (Summer 2026)](https://jobright.ai/jobs/info/690da2bbd046ab6061cf7c4a?utm_campaign=1052&utm_source=git)** | Mount Pleasant, WI | On Site | Nov 08 |
+| **[Koch](https://www.kochinc.com)** | **[Summer 2026 Tax Intern (Atlanta)](https://jobright.ai/jobs/info/690f5fb5d046ab6061d04f4f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
+| **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern- Eastern District (Summer 2026)](https://jobright.ai/jobs/info/690da2bbd046ab6061cf7c4a?utm_campaign=1052&utm_source=git)** | Mount Pleasant, WI | On Site | Nov 08 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/68bb802f6105227d118a66fd?utm_campaign=1052&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2026 Tax Intern (Atlanta)](https://jobright.ai/jobs/info/690f5f9ad046ab6061d04f49?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Londonderry, NH](https://jobright.ai/jobs/info/68ce9582fb49c96ca6ea1df1?utm_campaign=1052&utm_source=git)** | Derry, NH | On Site | Nov 08 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern- Eastern District (Summer 2026)](https://jobright.ai/jobs/info/690dd1f8221b890c27809cd5?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Nov 08 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/68d67d95894705799a2ebdbf?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Nov 08 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/68f35d6a9a65fd34585869b3?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 08 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[2026 Summer Expenditure Accounting Intern](https://jobright.ai/jobs/info/68cb28789e3a822f5d243202?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
 | **[American Tower](https://www.americantower.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6906a328122e8474c78e0517?utm_campaign=1052&utm_source=git)** | Woburn, MA | Hybrid | Nov 08 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Economic Group Intern](https://jobright.ai/jobs/info/690f497644146d3b6ec5b0a9?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 08 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Finance Intern - Paid](https://jobright.ai/jobs/info/68f2fc2f76a51a4307bc9acc?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 08 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Valuation Services](https://jobright.ai/jobs/info/68ca454a9f583c3191e3f1cf?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/690d4818221b890c27805747?utm_campaign=1052&utm_source=git)** | Mooresville, NC | On Site | Nov 08 |
@@ -127,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - Underwriting (Madison - Summer 2026)](https://jobright.ai/jobs/info/68d8cc54c52ed61722c96331?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 08 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Risk](https://jobright.ai/jobs/info/690da2de221b890c27808585?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[City of New York](http://www1.nyc.gov)** | **[Budget Operations Intern, Division of Budget](https://jobright.ai/jobs/info/690f3a2a221b890c278149e9?utm_campaign=1052&utm_source=git)** | New York City, NY | On Site | Nov 08 |
-| **[Wabash](https://onewabash.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/690f378244146d3b6ec5ab69?utm_campaign=1052&utm_source=git)** | Lafayette, IN | On Site | Nov 08 |
+| **[Wabash](https://onewabash.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/690f3871221b890c27814986?utm_campaign=1052&utm_source=git)** | Lafayette, IN | On Site | Nov 08 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern- Internal Audit](https://jobright.ai/jobs/info/68f39c639a63986de7572e56?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Nov 08 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Reimbursement Intern Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f24cf865ce784c102f0170?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 08 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Underwriting](https://jobright.ai/jobs/info/690f313d44146d3b6ec5a9fb?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](http://www.hilti.com)** | **[Tax Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68f80d725dc1be60128208de?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 07 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Summer 2026 / Dallas](https://jobright.ai/jobs/info/690ed4abd046ab6061d0194f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Nov 07 |
 | ↳ | **[Intern Tax Summer 2026 / Chicago](https://jobright.ai/jobs/info/690ecf4f44146d3b6ec57fbe?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/690ecf1c221b890c27811dbb?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
