@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/69105784183be660d267856a?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Nov 09 |
+| **[219 Health Network](https://219health.org)** | **[Patient Accounting Intern](https://jobright.ai/jobs/info/691056c3988c2b7b4ec51150?utm_campaign=1052&utm_source=git)** | Munster, IN | Hybrid | Nov 09 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Corporate Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69105672988c2b7b4ec51121?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Nov 09 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/691055cabb519377733eba5b?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 09 |
+| ↳ | **[Accounting Intern, Part-Time](https://jobright.ai/jobs/info/69104f4abb519377733eb708?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Nov 09 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[POOL: RedTire Program Finance Analyst Intern Student](https://jobright.ai/jobs/info/69104c7cbb519377733eb6e4?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 09 |
 | **[Peapack Private Bank & Trust](https://www.peapackprivate.com/)** | **[Intern](https://jobright.ai/jobs/info/69103546183be660d2677b99?utm_campaign=1052&utm_source=git)** | Bedminster, NJ | On Site | Nov 08 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6910318a183be660d2677b6d?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/69103152bb519377733eb08f?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Nov 08 |
@@ -66,11 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Finance Internship - Treasury Modeling Team](https://jobright.ai/jobs/info/691002e8988c2b7b4ec4fa03?utm_campaign=1052&utm_source=git)** | Lone Tree, CO | On Site | Nov 08 |
 | **[Value Aligners](Valuealigners.com)** | **[Accounting Intern (Unpaid)](https://jobright.ai/jobs/info/690fbbd6bb519377733e9bb3?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Nov 08 |
 | **[FM](https://www.fmglobal.com)** | **[Investments Intern - Graduate Student](https://jobright.ai/jobs/info/690fb3bf988c2b7b4ec4f1e8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 08 |
-| **[Crest Vale](crestvale.us)** | **[Services Intern – Audit, Tax & Advisory](https://jobright.ai/jobs/info/690fa360183be660d267625e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 08 |
 | **[Human Intelligence](https://www.linkedin.com/company/109583135)** | **[Finance Intern (Nonprofit Accounting + Board Governance)](https://jobright.ai/jobs/info/690f95d5183be660d2675d1f?utm_campaign=1052&utm_source=git)** | Utah, United States | Remote | Nov 08 |
 | **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Budget Operations Intern, Division of Budget](https://jobright.ai/jobs/info/690f8ad5183be660d2675a6f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Valorantum](valorantum.us)** | **[Public Accounting Intern – Paid Internship](https://jobright.ai/jobs/info/690f7e74bb519377733e8c7b?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 08 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage  Correspondence Specialist)](https://jobright.ai/jobs/info/68bb78875f3832749186f63c?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Risk Analsyt)](https://jobright.ai/jobs/info/68bb79d18043103d4f228df1?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Mortgage  Correspondence Specialist)](https://jobright.ai/jobs/info/68bb78875f3832749186f63c?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Internal Audit - IT Audit)](https://jobright.ai/jobs/info/68bb79a16105227d118a648c?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bb78295f3832749186f5ce?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 08 |
 | ↳ | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/68bb7a076105227d118a64eb?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
@@ -86,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/68d7f9707a37c712687d773e?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/68d7fb847796a83635f0e0bf?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Momentive](https://www.momentive.com/)** | **[Finance Intern - Year-long Rotational Program](https://jobright.ai/jobs/info/68e07643f758fe1f97e4d684?utm_campaign=1052&utm_source=git)** | Niskayuna, NY | On Site | Nov 08 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Risk Analsyt)](https://jobright.ai/jobs/info/68cd7b79b2a74e1837ed7acf?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Audit Intern](https://jobright.ai/jobs/info/690f6d9124f1931da19cd744?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Nov 08 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Aegon AM Internship - Real Assets (January - August 2026)](https://jobright.ai/jobs/info/68f7326faed0577b7e04ba92?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Nov 08 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Public Accounts Intern](https://jobright.ai/jobs/info/690f6c7e37acd2126472ec8a?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Nov 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Winter Tax Intern (2026) - Harrison, NY](https://jobright.ai/jobs/info/68b9e0bf5f38327491861a2b?utm_campaign=1052&utm_source=git)** | Harrison, NY | On Site | Nov 08 |
 | ↳ | **[Summer Audit Intern (2026) - Cranford, NJ](https://jobright.ai/jobs/info/68b9d8436105227d118983d4?utm_campaign=1052&utm_source=git)** | Cranford, NJ | On Site | Nov 08 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Indianapolis)](https://jobright.ai/jobs/info/68b9f2008043103d4f21c15c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 08 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Accounting, Financial & Investments Intern](https://jobright.ai/jobs/info/690f2072221b890c27814208?utm_campaign=1052&utm_source=git)** | Augusta, ME | On Site | Nov 08 |
-| ↳ | **[2026 Summer Accounting, Financial & Investments Intern](https://jobright.ai/jobs/info/690f2018d046ab6061d03acb?utm_campaign=1052&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 08 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[Accounting/Finance Intern - Rates & Regulatory Reporting (Summer, 2026,Hybrid)](https://jobright.ai/jobs/info/68f287f29a63986de756893a?utm_campaign=1052&utm_source=git)** | Allentown, PA | Hybrid | Nov 08 |
-| **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Tax Intern - Not-For-Profit (2026) - Harrison, NY](https://jobright.ai/jobs/info/68b9d8fa8043103d4f21af6a?utm_campaign=1052&utm_source=git)** | Harrison, NY | Hybrid | Nov 08 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Finance & Accounting Internship Program](https://jobright.ai/jobs/info/690f1314d046ab6061d034d0?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
