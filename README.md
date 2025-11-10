@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2026](https://jobright.ai/jobs/info/6911342c988c2b7b4ec53a2d?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 09 |
 | **[Palomar ](https://plmr.com)** | **[2026 Palomar Actuarial Internship](https://jobright.ai/jobs/info/6910fcdd988c2b7b4ec5355e?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 09 |
 | **[Valorantum](valorantum.us)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/6910fc36988c2b7b4ec53512?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Nov 09 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2026 (Centennial, CO)](https://jobright.ai/jobs/info/6862e01de9bb63f31c4d728f?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/68f2f61376a51a4307bc97d8?utm_campaign=1052&utm_source=git)** | Coraopolis, PA | On Site | Nov 08 |
 | **[Citi](https://www.citi.com)** | **[Wealth - LATAM, Summer Analyst, Miami - USA, 2026](https://jobright.ai/jobs/info/68d70b2ed3fe025a3015e6ab?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Nov 08 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/68bb802f6105227d118a66fd?utm_campaign=1052&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Londonderry, NH](https://jobright.ai/jobs/info/68ce9582fb49c96ca6ea1df1?utm_campaign=1052&utm_source=git)** | Derry, NH | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
