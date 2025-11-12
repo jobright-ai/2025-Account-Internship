@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Audit Intern](https://jobright.ai/jobs/info/691449a69c388539cbdeb786?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 12 |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Tax Intern](https://jobright.ai/jobs/info/691445039c388539cbdeb62e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Nov 12 |
+| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Audit Intern - Fall 2027](https://jobright.ai/jobs/info/691444ba9c388539cbdeb610?utm_campaign=1052&utm_source=git)** | Edison, NJ | On Site | Nov 12 |
 | **[SageSure](https://www.sagesure.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/691432f91465e02904e9b4ae?utm_campaign=1052&utm_source=git)** | Tallahassee, FL | On Site | Nov 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Engineering and Technology Finance Intern/Orlando, FL](https://jobright.ai/jobs/info/691432e2d1047e3565d09c44?utm_campaign=1052&utm_source=git)** | Florida | Hybrid | Nov 11 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/69143170e344172248f77ccd?utm_campaign=1052&utm_source=git)** | Tucson, AZ | Remote | Nov 11 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Regular Part Time Finance Intern](https://jobright.ai/jobs/info/6913bce6d1047e3565d05a1b?utm_campaign=1052&utm_source=git)** | Santa Fe | On Site | Nov 11 |
 | **[Admiral Insurance Group (a Berkley Company)](https://www.admiralins.com)** | **[Summer Intern - Underwriting - Casualty](https://jobright.ai/jobs/info/6913bccd1465e02904e9716c?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Nov 11 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Summer 2026, Wheeling, WV](https://jobright.ai/jobs/info/68ed776070b66e2345d3e723?utm_campaign=1052&utm_source=git)** | Wheeling, WV | On Site | Nov 11 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2026/ New York City](https://jobright.ai/jobs/info/6913d86ee344172248f74aa1?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | **[Admiral Insurance Group (a Berkley Company)](https://www.admiralins.com)** | **[Summer Intern - Underwriting - Casualty](https://jobright.ai/jobs/info/6913baf71465e02904e9701b?utm_campaign=1052&utm_source=git)** | Johns Creek, GA | Hybrid | Nov 11 |
 | **[Royal Oak Enterprises, LLC](https://www.royaloak.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6913b557e344172248f73758?utm_campaign=1052&utm_source=git)** | Roswell, GA | Hybrid | Nov 11 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Corporate Finance Intern-Spring 2026](https://jobright.ai/jobs/info/6913b3ede344172248f7365d?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691374a5e344172248f71519?utm_campaign=1052&utm_source=git)** | Warren, OH | Hybrid | Nov 11 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69137340e344172248f714a7?utm_campaign=1052&utm_source=git)** | Quincy, IL | Hybrid | Nov 11 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6913943e1465e02904e95b25?utm_campaign=1052&utm_source=git)** | Adelanto, CA | Hybrid | Nov 11 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance MBA Summer 2026 Intern (MBA - Santa Clara, CA)](https://jobright.ai/jobs/info/69137289d1047e3565d033f3?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Nov 11 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691372831465e02904e94b8a?utm_campaign=1052&utm_source=git)** | Clinton, MD | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
