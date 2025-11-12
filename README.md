@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounting Intern - MHC (Mobile, AL, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6914017ad1047e3565d07cd3?utm_campaign=1052&utm_source=git)** | Mobile, AL | Hybrid | Nov 11 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Case/Anthony Finance Intern](https://jobright.ai/jobs/info/6913fc481465e02904e99136?utm_campaign=1052&utm_source=git)** | Colonial Heights, VA | On Site | Nov 11 |
+| **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - Finance Internship](https://jobright.ai/jobs/info/6913fbd1e344172248f75a00?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 11 |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Sales Tax Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913fa78d1047e3565d079a1?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
+| ↳ | **[Internal Controls Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913f9361465e02904e98fb5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
+| ↳ | **[Income Tax Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913f8cfd1047e3565d078ca?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Regular Part Time Finance Intern](https://jobright.ai/jobs/info/6913f8a9d1047e3565d078b5?utm_campaign=1052&utm_source=git)** | Santa Fe, NM | On Site | Nov 11 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Buyer](https://jobright.ai/jobs/info/6913f8921465e02904e98f62?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Nov 11 |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Finance Internship Program- Performance Improvement](https://jobright.ai/jobs/info/6913f5dee344172248f756d9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 11 |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounting Intern CCL (Mobile, AL, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913f42de344172248f75633?utm_campaign=1052&utm_source=git)** | Mobile, AL | Hybrid | Nov 11 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Structured Power Trading Intern](https://jobright.ai/jobs/info/6913efa9d1047e3565d0733b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 11 |
+| **[Aflac](http://www.aflac.com)** | **[2026 Summer-Global Investments Intern](https://jobright.ai/jobs/info/6913ef381465e02904e98b1f?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
+| **[Palmer Trucks](https://www.palmertrucks.com/)** | **[Accounting Intern Part Time](https://jobright.ai/jobs/info/6913ee05e344172248f75370?utm_campaign=1052&utm_source=git)** | Indianapolis,IN,US | On Site | Nov 11 |
+| **[BPM LLP](https://www.bpm.com/)** | **[Corporate Finance Intern-Spring 2026](https://jobright.ai/jobs/info/6913e9e11465e02904e9887c?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 11 |
+| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Fund Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6913e8fde344172248f75102?utm_campaign=1052&utm_source=git)** | Del Mar, CA | Hybrid | Nov 11 |
+| **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Finance (Onsite)](https://jobright.ai/jobs/info/6913e8fce344172248f75101?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2026](https://jobright.ai/jobs/info/6913e362e344172248f74f00?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
 | ↳ | **[Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/6913e32be344172248f74ee2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Treasury Analyst Intern - Eden Prairie, MN](https://jobright.ai/jobs/info/6913e1c11465e02904e985a7?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Nov 11 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Accounting](https://jobright.ai/jobs/info/69136965d1047e3565d02f7f?utm_campaign=1052&utm_source=git)** | Little Rock | On Site | Nov 11 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6913692cd1047e3565d02f5d?utm_campaign=1052&utm_source=git)** | Vestavia Hills, AL | Hybrid | Nov 11 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Tax Intern (Summer, Hybrid)](https://jobright.ai/jobs/info/68f6971f76a51a4307bdc058?utm_campaign=1052&utm_source=git)** | Greater Cleveland | Hybrid | Nov 11 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Deal Services Intern - Spring 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/68f9b4cc7b89366816033974?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | On Site | Nov 11 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Intern - US Futures](https://jobright.ai/jobs/info/68cd140c1ad6b16f0289494e?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern – Spring 2027 – Bethlehem, PA](https://jobright.ai/jobs/info/68f9e3a68a7359609b8c75b1?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Nov 11 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69138b1bd1047e3565d03e94?utm_campaign=1052&utm_source=git)** | Holyoke, MA | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69138bbdd1047e3565d03f11?utm_campaign=1052&utm_source=git)** | Northglenn, CO | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69139e38d1047e3565d048ca?utm_campaign=1052&utm_source=git)** | Portage, IN | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69139563e344172248f72499?utm_campaign=1052&utm_source=git)** | Sun City, AZ | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691399aae344172248f727b9?utm_campaign=1052&utm_source=git)** | Hot Springs, AR | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69139317e344172248f7235f?utm_campaign=1052&utm_source=git)** | Clovis, NM | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691389b6e344172248f71eb7?utm_campaign=1052&utm_source=git)** | Riviera Beach, FL | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6913a2ace344172248f72c2e?utm_campaign=1052&utm_source=git)** | Georgetown, KY | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69138b841465e02904e95741?utm_campaign=1052&utm_source=git)** | La Quinta, CA | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6913848d1465e02904e95352?utm_campaign=1052&utm_source=git)** | Mechanicsville, VA | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69138c021465e02904e95788?utm_campaign=1052&utm_source=git)** | Urbana, IL | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69139519e344172248f72472?utm_campaign=1052&utm_source=git)** | Winter Springs, FL | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69138148d1047e3565d03abb?utm_campaign=1052&utm_source=git)** | Phenix City, AL | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
