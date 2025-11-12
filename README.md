@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SageSure](https://www.sagesure.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/691432f91465e02904e9b4ae?utm_campaign=1052&utm_source=git)** | Tallahassee, FL | On Site | Nov 11 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Engineering and Technology Finance Intern/Orlando, FL](https://jobright.ai/jobs/info/691432e2d1047e3565d09c44?utm_campaign=1052&utm_source=git)** | Florida | Hybrid | Nov 11 |
+| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/69143170e344172248f77ccd?utm_campaign=1052&utm_source=git)** | Tucson, AZ | Remote | Nov 11 |
+| **[SageSure](https://www.sagesure.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/691430b21465e02904e9b414?utm_campaign=1052&utm_source=git)** | Marlton, NJ | On Site | Nov 11 |
+| ↳ | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/691424d9e344172248f7764e?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 11 |
+| **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Financial Planning & Analysis Intern (Summer 2026)](https://jobright.ai/jobs/info/69141c93e344172248f7704a?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | Nov 11 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/691415371465e02904e9a144?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[Palmer Trucks](https://www.palmertrucks.com/)** | **[Accounting Intern Part Time](https://jobright.ai/jobs/info/691411471465e02904e99f8c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounting Intern - Quality Team (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69140a67e344172248f76301?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
@@ -66,7 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Case/Anthony Finance Intern](https://jobright.ai/jobs/info/6913fc481465e02904e99136?utm_campaign=1052&utm_source=git)** | Colonial Heights, VA | On Site | Nov 11 |
 | **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - Finance Internship](https://jobright.ai/jobs/info/6913fbd1e344172248f75a00?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Sales Tax Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913fa78d1047e3565d079a1?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
-| ↳ | **[Internal Controls Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913f9361465e02904e98fb5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
+| **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship - Charlotte, NC (Summer 2026)](https://jobright.ai/jobs/info/69141d4fd1047e3565d09145?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Internal Controls Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913f9361465e02904e98fb5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
 | ↳ | **[Income Tax Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/6913f8cfd1047e3565d078ca?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 11 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Regular Part Time Finance Intern](https://jobright.ai/jobs/info/6913f8a9d1047e3565d078b5?utm_campaign=1052&utm_source=git)** | Santa Fe, NM | On Site | Nov 11 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Buyer](https://jobright.ai/jobs/info/6913f8921465e02904e98f62?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Nov 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6913943e1465e02904e95b25?utm_campaign=1052&utm_source=git)** | Adelanto, CA | Hybrid | Nov 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance MBA Summer 2026 Intern (MBA - Santa Clara, CA)](https://jobright.ai/jobs/info/69137289d1047e3565d033f3?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Nov 11 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691372831465e02904e94b8a?utm_campaign=1052&utm_source=git)** | Clinton, MD | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6913723de344172248f71424?utm_campaign=1052&utm_source=git)** | Aventura, FL | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69137162e344172248f713b0?utm_campaign=1052&utm_source=git)** | Lancaster, TX | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69137107e344172248f71380?utm_campaign=1052&utm_source=git)** | Bell Gardens, CA | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691370e71465e02904e94aad?utm_campaign=1052&utm_source=git)** | Findlay, OH | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691370dae344172248f71370?utm_campaign=1052&utm_source=git)** | Streamwood, IL | Hybrid | Nov 11 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691370c5e344172248f7135a?utm_campaign=1052&utm_source=git)** | Park Ridge, IL | Hybrid | Nov 11 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Accounting](https://jobright.ai/jobs/info/6913703c1465e02904e94a4c?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
