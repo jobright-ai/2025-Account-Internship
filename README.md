@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilti North America](http://www.hilti.com)** | **[Tax Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68f80d725dc1be60128208de?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 12 |
 | **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Finance Intern](https://jobright.ai/jobs/info/691567b19c388539cbdf3443?utm_campaign=1052&utm_source=git)** | US-PA-Bethlehem | On Site | Nov 12 |
 | **[National Life Group](https://www.nationallife.com)** | **[IT Financial Analysis Intern  - Summer 2026](https://jobright.ai/jobs/info/69156794286ccf0a1512e002?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Nov 12 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/6915657d6f36db06ef04e674?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 12 |
@@ -71,7 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Electronic Accounts Payable  eVIA Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69155247286ccf0a1512d4ac?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 12 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Audit Internship](https://jobright.ai/jobs/info/6915514e6f36db06ef04da99?utm_campaign=1052&utm_source=git)** | Williamsport, PA | On Site | Nov 12 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounts Payable Help Desk Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69154e94286ccf0a1512d2a2?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 12 |
-| ↳ | **[Accounts Payable Research Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69154cda286ccf0a1512d18b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 12 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/69157393286ccf0a1512e72e?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Nov 12 |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounts Payable Research Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69154cda286ccf0a1512d18b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Nov 12 |
 | **[ADM](http://www.adm.com)** | **[ADMIS Finance Information Systems Intern - Chicago, IL](https://jobright.ai/jobs/info/69154cc39c388539cbdf2537?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business tax intern](https://jobright.ai/jobs/info/691567ec286ccf0a1512e019?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 12 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Audit Intern](https://jobright.ai/jobs/info/69154497286ccf0a1512cbf0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Nucor Corporation](http://www.nucor.com)** | **[Finance Intern - Nucor Towers & Structures 1](https://jobright.ai/jobs/info/6915400c9c388539cbdf1d46?utm_campaign=1052&utm_source=git)** | Rock Hill, SC | On Site | Nov 12 |
 | **[ADM](http://www.adm.com)** | **[ADMIS Treasury Intern - Chicago, IL](https://jobright.ai/jobs/info/69153f32286ccf0a1512c902?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | **[Bolton](http://www.BoltonUSA.com)** | **[Actuarial Intern (Summer)](https://jobright.ai/jobs/info/69153eb26f36db06ef04cf4b?utm_campaign=1052&utm_source=git)** | Towson,MD,US | On Site | Nov 12 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Audit Internship](https://jobright.ai/jobs/info/691577ad6f36db06ef04f06a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Retail Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/69153a9b6f36db06ef04ce46?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Finance Operations Intern - Summer 2026](https://jobright.ai/jobs/info/691537db6f36db06ef04cc7c?utm_campaign=1052&utm_source=git)** | Del Mar, CA | Hybrid | Nov 12 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Intern – FP&A and Revenue Operations (Data Analytics)](https://jobright.ai/jobs/info/690d4495221b890c2780552c?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | Hybrid | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Public Accounting Intern – Paid Internship](https://jobright.ai/jobs/info/6914d0fc286ccf0a1512899c?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Advisor, Internship Program](https://jobright.ai/jobs/info/6914d0ce6f36db06ef04904d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
 | **[National Life Group](https://www.nationallife.com)** | **[IT Financial Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6914cf29286ccf0a151288f9?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Nov 12 |
-| **[PwC](http://pwc.com)** | **[Audit Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0b44bafad6d2d766326?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 12 |
-| **[BBVA](https://bbva.csod.com)** | **[2026 Summer Analyst Program](https://jobright.ai/jobs/info/68f15fabf462172a5a7d738a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Accounting/Finance  - Winter 2026](https://jobright.ai/jobs/info/6914eb2f286ccf0a15129472?utm_campaign=1052&utm_source=git)** | Redford, MI | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
