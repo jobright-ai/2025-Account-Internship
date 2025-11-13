@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Cost & Budget Accounting Summer Student Intern](https://jobright.ai/jobs/info/6912f970ea9ab01b82bf6b3c?utm_campaign=1052&utm_source=git)** | Columbia, SC | On Site | Nov 13 |
+| **[Bolton](http://www.BoltonUSA.com)** | **[Actuarial Intern (Summer)](https://jobright.ai/jobs/info/6915947e9c388539cbdf48f2?utm_campaign=1052&utm_source=git)** | Towson, MD | On Site | Nov 13 |
+| **[M. Holland Company](http://mholland.com)** | **[Intern - Accounting (Hybrid)](https://jobright.ai/jobs/info/691592fb6f36db06ef04faa6?utm_campaign=1052&utm_source=git)** | University Park, IL | Hybrid | Nov 13 |
 | **[Hilti North America](http://www.hilti.com)** | **[Tax Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68f80d725dc1be60128208de?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 12 |
+| **[Crest Vale](crestvale.us)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/6915a71b6f36db06ef05033f?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Nov 12 |
 | **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Finance Intern](https://jobright.ai/jobs/info/691567b19c388539cbdf3443?utm_campaign=1052&utm_source=git)** | US-PA-Bethlehem | On Site | Nov 12 |
 | **[National Life Group](https://www.nationallife.com)** | **[IT Financial Analysis Intern  - Summer 2026](https://jobright.ai/jobs/info/69156794286ccf0a1512e002?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Nov 12 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/6915657d6f36db06ef04e674?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Central WI](https://jobright.ai/jobs/info/6915186e9c388539cbdf06e7?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Nov 12 |
 | ↳ | **[Audit Intern - Summer 2026 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/6915030d9c388539cbdef7e8?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Nov 12 |
 | ↳ | **[Audit Intern - Summer 2026 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/6914f8de6f36db06ef04a3a2?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Nov 12 |
-| **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Accounting - Intern](https://jobright.ai/jobs/info/691504049c388539cbdef8ce?utm_campaign=1052&utm_source=git)** | Crawfordsville, IN 47933, USA | On Site | Nov 12 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Public Accounting Intern – Paid Internship](https://jobright.ai/jobs/info/6914d0fc286ccf0a1512899c?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 12 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Advisor, Internship Program](https://jobright.ai/jobs/info/6914d0ce6f36db06ef04904d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
-| **[National Life Group](https://www.nationallife.com)** | **[IT Financial Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6914cf29286ccf0a151288f9?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
