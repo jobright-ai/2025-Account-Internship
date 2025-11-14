@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PK Companies](https://pksti.com)** | **[Internship – Accounts Receivable Clerk](https://jobright.ai/jobs/info/6916f0516f36db06ef05b1d0?utm_campaign=1052&utm_source=git)** | Wichita, KS, US | On Site | Nov 14 |
+| **[First National Bank of Bastrop](https://www.fnbbastrop.bank/)** | **[Community Banking Intern  (Summer 2026)](https://jobright.ai/jobs/info/6916e8836f36db06ef05ab51?utm_campaign=1052&utm_source=git)** | Bastrop, TX | On Site | Nov 14 |
+| **[Bender Companies](https://www.bender-companies.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6916e4ab6f36db06ef05a8cf?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 13 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6916bce3286ccf0a15138fd0?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Nov 13 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Finance Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6916bc109c388539cbdfe3c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Nov 13 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Tax Winter 2026 / Greensboro](https://jobright.ai/jobs/info/6916bbfb286ccf0a15138f8b?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Hybrid | Nov 13 |
@@ -110,6 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Markel](http://www.markel.com)** | **[Surety Department - Summer Intern](https://jobright.ai/jobs/info/69164aa86f36db06ef054ad4?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 13 |
 | **[BMO](http://www.bmo.com)** | **[Tax Specialist, Winter 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69167ed2286ccf0a15136a33?utm_campaign=1052&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Nov 13 |
 | **[RICK ](http://rickengineering.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69166e796f36db06ef056646?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
+| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/6916f3f49c388539cbe00b74?utm_campaign=1052&utm_source=git)** | Carleton Place, Ontario, Canada | On Site | Nov 13 |
+| ↳ | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/6916ef2a9c388539cbe003cc?utm_campaign=1052&utm_source=git)** | Kemptville, Ontario, Canada | On Site | Nov 13 |
+| ↳ | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/6916f4526f36db06ef05b757?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Nov 13 |
 | **[Genesee & Wyoming Inc.](https://www.gwrr.com)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/6916616e286ccf0a151351a8?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Nov 13 |
 | **[iCapital](https://icapital.com)** | **[Fund Origination - Summer 2026 Intern](https://jobright.ai/jobs/info/691667bb286ccf0a151357a6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/69163fa86f36db06ef05432b?utm_campaign=1052&utm_source=git)** | Camp Hill, Pennsylvania | Hybrid | Nov 13 |
@@ -128,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/691647d59c388539cbdf9719?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Nov 13 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691627019c388539cbdf826a?utm_campaign=1052&utm_source=git)** | Garfield, NJ | Hybrid | Nov 13 |
 | **[DoubleLine](http://doubleline.com/)** | **[2026 Summer Intern - Global Developed Credit](https://jobright.ai/jobs/info/69164663286ccf0a15133f6e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, USA | On Site | Nov 13 |
+| **[Nienhuis Financial Group Llc](https://www.nfgllc.com/)** | **[Paid Internship: Tax Team Assistant](https://jobright.ai/jobs/info/6916de81286ccf0a15139fb3?utm_campaign=1052&utm_source=git)** | Grandville, Michigan, United States | On Site | Nov 13 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Financial Insurance Advisory Services](https://jobright.ai/jobs/info/69164c669c388539cbdf99bc?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 13 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69161c249c388539cbdf7de3?utm_campaign=1052&utm_source=git)** | Lathrop, CA | Hybrid | Nov 13 |
 | **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Remote Private Equity Analyst Internship](https://jobright.ai/jobs/info/691668b29c388539cbdfaf25?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Nov 13 |
@@ -143,18 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Model Risk Management Intern](https://jobright.ai/jobs/info/69165be16f36db06ef055796?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Quantitative Modeling (Hybrid)](https://jobright.ai/jobs/info/68ddf71309bda65a4b62517c?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Nov 13 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691630c89c388539cbdf8808?utm_campaign=1052&utm_source=git)** | Savage, MN | Hybrid | Nov 13 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6916413c6f36db06ef054446?utm_campaign=1052&utm_source=git)** | St Charles, IL | Hybrid | Nov 13 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/691636c2286ccf0a15133673?utm_campaign=1052&utm_source=git)** | Los Gatos, CA | Hybrid | Nov 13 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6916413c6f36db06ef054446?utm_campaign=1052&utm_source=git)** | St Charles, IL | Hybrid | Nov 13 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cbb0f79e3a822f5d24a893?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 13 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026  Investment Internship](https://jobright.ai/jobs/info/68cf03de846f0b04af67e938?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[MacDonald-Miller Facility Solutions](https://macmiller.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/691630e06f36db06ef0539b5?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/68c642e47d0db41142737706?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Nov 13 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69160f04286ccf0a151322ee?utm_campaign=1052&utm_source=git)** | Hershey, PA 17033, USA | Hybrid | Nov 13 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Tax Spring Internship - Columbia, MD](https://jobright.ai/jobs/info/69162ff36f36db06ef053949?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Nov 13 |
-| **[repsol](http://www.repsol.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69160c1e286ccf0a151321dc?utm_campaign=1052&utm_source=git)** | Downtown Houston | On Site | Nov 13 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691662709c388539cbdfa91b?utm_campaign=1052&utm_source=git)** | Des Moines, WA | Hybrid | Nov 13 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6916383b6f36db06ef053dc3?utm_campaign=1052&utm_source=git)** | Nyack, NY | Remote | Nov 13 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69163f5b6f36db06ef0542f1?utm_campaign=1052&utm_source=git)** | Goleta, CA | Hybrid | Nov 13 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/68a5087333dd7158bbc96950?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 13 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/691641a1286ccf0a15133d13?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
