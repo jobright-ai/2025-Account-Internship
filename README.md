@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6918e80645fb6f5ead8a70c9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6918e53345fb6f5ead8a7095?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 15 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/6918c7a045fb6f5ead8a6c04?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Nov 15 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Nov 15 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6918b30dbcdbf3560c9d34c3?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 15 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Finance & Accounting Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68f29d9776a51a4307bc553a?utm_campaign=1052&utm_source=git)** | Reynoldsburg, OH | Hybrid | Nov 15 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Finance & Administration - Department of Revenue](https://jobright.ai/jobs/info/68fbba3a4129dd33cd134221?utm_campaign=1052&utm_source=git)** | Frankfort, KY | On Site | Nov 15 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68e03599f758fe1f97e4b0eb?utm_campaign=1052&utm_source=git)** | Dublin, OH | Hybrid | Nov 15 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Economics Group Intern](https://jobright.ai/jobs/info/69188e9e45fb6f5ead8a5dc7?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Nov 15 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Underwriting Intern - Lancer Non-Standard - Summer 2026](https://jobright.ai/jobs/info/68e49cd0b99ec3563b0ec690?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Asset Management Analytics - Summer Internship 2026](https://jobright.ai/jobs/info/69188ced15b4156367182c02?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Annapolis and Fulton](https://jobright.ai/jobs/info/68fc48654129dd33cd13a8df?utm_campaign=1052&utm_source=git)** | Fulton, MD | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68fc1b1f93c49825ab109d47?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Nov 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7b736758f2e4ac3feddad?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a6d133dd7158bbca8955?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 15 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68cecfa4846f0b04af67d298?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
