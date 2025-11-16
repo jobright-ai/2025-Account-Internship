@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Tax Intern](https://jobright.ai/jobs/info/6918f99abcdbf3560c9d3ff9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 15 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6918e80645fb6f5ead8a70c9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6918e53345fb6f5ead8a7095?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 15 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/6918c7a045fb6f5ead8a6c04?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Nov 15 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7b8b3d627244576e2e25b?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68c779f6db52c07d2884aeec?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Nov 15 |
 | ↳ | **[2026 Winter Financial and Accounting Outsourcing Intern](https://jobright.ai/jobs/info/68cc623c16d00d2beeb1e9bf?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 15 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf2514fb49c96ca6ea5feb?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Nov 15 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf1d85fb49c96ca6ea5d3c?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf1d85fb49c96ca6ea5d3c?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf2514fb49c96ca6ea5feb?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Nov 15 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7ba9733dd7158bbca8f43?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a847758f2e4ac3fed83b?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Nov 15 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f684758f2e4ac3fef80f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68fc1b1f93c49825ab109d47?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Nov 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7b736758f2e4ac3feddad?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 15 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a6d133dd7158bbca8955?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
