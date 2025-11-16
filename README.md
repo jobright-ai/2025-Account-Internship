@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISC Constructors, L.L.C.](http://www.iscgrp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69199d0745fb6f5ead8a9fb5?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Nov 16 |
+| **[Cass Information Systems](http://www.cassinfo.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69198462bcdbf3560c9d5d4d?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Rotational Intern – Audit, Tax & Advisory 2026](https://jobright.ai/jobs/info/6919815b45fb6f5ead8a907c?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Nov 15 |
+| **[Kalmbach Feeds Inc.](http://kalmbachfeeds.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69199df6bcdbf3560c9d6c31?utm_campaign=1052&utm_source=git)** | Upper Sandusky, OH | On Site | Nov 15 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Services Intern – Audit, Tax & Advisory](https://jobright.ai/jobs/info/69197645bcdbf3560c9d59c8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 15 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Internship](https://jobright.ai/jobs/info/6919630915b4156367185611?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Shareholder Intern](https://jobright.ai/jobs/info/69194b7215b4156367184ecd?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68a6c949b6a3617d7fa7aa3c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Nov 15 |
 | **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, General Finance](https://jobright.ai/jobs/info/69188bbe15b4156367182bae?utm_campaign=1052&utm_source=git)** | Canton, MI | On Site | Nov 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7b8b3d627244576e2e25b?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 15 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68c779f6db52c07d2884aeec?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Nov 15 |
-| ↳ | **[2026 Winter Financial and Accounting Outsourcing Intern](https://jobright.ai/jobs/info/68cc623c16d00d2beeb1e9bf?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 15 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf1d85fb49c96ca6ea5d3c?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
