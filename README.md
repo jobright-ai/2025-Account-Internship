@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rehlko](https://www.rehlko.com/)** | **[Finance Intern  Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/691a017415b4156367187cb7?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 16 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/691a016745fb6f5ead8aae12?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 16 |
+| **[LumoraX](lumorax.us)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/6919f9b7bcdbf3560c9d79ee?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Nov 16 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68c4c3537279451d6a037814?utm_campaign=1052&utm_source=git)** | Novato, CA | On Site | Nov 16 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/6919f78f45fb6f5ead8aacb0?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Nov 16 |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/6919f517bcdbf3560c9d794b?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 16 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68e9ccd1cdf8d94b293a273b?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Nov 16 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Stress Testing & Liquidity Risk Management](https://jobright.ai/jobs/info/68a90bb5d627244576e36fdc?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Nov 16 |
 | **[Citi](https://www.citi.com)** | **[NAM Investment Banking, Summer Analyst - Houston (North America - 2026)](https://jobright.ai/jobs/info/68fceeb7e0c73b3a11190c16?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Technology Intern - Summer 2027](https://jobright.ai/jobs/info/68cda80bb2a74e1837eda6f2?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68ced021fb49c96ca6ea3acc?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 15 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/68c31e025001f8077bf611dd?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Nov 15 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Finance & Accounting Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68f29d9776a51a4307bc553a?utm_campaign=1052&utm_source=git)** | Reynoldsburg, OH | Hybrid | Nov 15 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Finance & Administration - Department of Revenue](https://jobright.ai/jobs/info/68fbba3a4129dd33cd134221?utm_campaign=1052&utm_source=git)** | Frankfort, KY | On Site | Nov 15 |
-| **[Central Insurance](http://www.central-insurance.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68e03599f758fe1f97e4b0eb?utm_campaign=1052&utm_source=git)** | Dublin, OH | Hybrid | Nov 15 |
-| **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Underwriting Intern - Lancer Non-Standard - Summer 2026](https://jobright.ai/jobs/info/68e49cd0b99ec3563b0ec690?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
-| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Asset Management Analytics - Summer Internship 2026](https://jobright.ai/jobs/info/69188ced15b4156367182c02?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Annapolis and Fulton](https://jobright.ai/jobs/info/68fc48654129dd33cd13a8df?utm_campaign=1052&utm_source=git)** | Fulton, MD | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
