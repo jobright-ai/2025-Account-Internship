@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Internship](https://jobright.ai/jobs/info/6919630915b4156367185611?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 15 |
+| **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Shareholder Intern](https://jobright.ai/jobs/info/69194b7215b4156367184ecd?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/69193b3abcdbf3560c9d473f?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 15 |
 | **[Fyntrix One](fyntrixone.us)** | **[Tax and Accounting Intern](https://jobright.ai/jobs/info/69193774bcdbf3560c9d4617?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Nov 15 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/69139d7ad1047e3565d0483c?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Nov 15 |
-| **[Danber Technologies](www.danbertech.com)** | **[Finance Intern (Unpaid)](https://jobright.ai/jobs/info/6919198f45fb6f5ead8a755b?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Nov 15 |
 | **[Horizon Lane](horizonlane.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6919150ebcdbf3560c9d4164?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Tax Intern](https://jobright.ai/jobs/info/6918f99abcdbf3560c9d3ff9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 15 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6918e80645fb6f5ead8a70c9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 15 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Cumming Group](https://cumming-group.com)** | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc438893c49825ab10b4c9?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc4272f55bb021a88a20a2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ace7fce86561b92884df?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 15 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe8d84129dd33cd1363a4?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe9494129dd33cd136418?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Sacramento, CA](https://jobright.ai/jobs/info/691501089c388539cbdef67b?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Finance (Information Systems)](https://jobright.ai/jobs/info/68fc277c93c49825ab10a4d4?utm_campaign=1052&utm_source=git)** | Arlington, TX | Hybrid | Nov 15 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Winter Financial and Accounting Outsourcing Intern](https://jobright.ai/jobs/info/68cc623c16d00d2beeb1e9bf?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf1d85fb49c96ca6ea5d3c?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cf2514fb49c96ca6ea5feb?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Nov 15 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7ba9733dd7158bbca8f43?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
