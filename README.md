@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Finance Operations (Memphis, TN)](https://jobright.ai/jobs/info/691ac92915b415636718a8fd?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Investments (Memphis TN)](https://jobright.ai/jobs/info/691ae56815b415636718ba8e?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Internal Audit (Memphis, TN)](https://jobright.ai/jobs/info/691ae45215b415636718b9dc?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Accounting (Memphis, TN)](https://jobright.ai/jobs/info/691ad7f945fb6f5ead8ae351?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/691ad755bcdbf3560c9dafc7?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Finance Operations (Memphis, TN)](https://jobright.ai/jobs/info/691aef1ebcdbf3560c9dbf4a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | ↳ | **[Summer 2026 Intern - Investments (Memphis TN)](https://jobright.ai/jobs/info/691ac3b545fb6f5ead8ad8c4?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| ↳ | **[Summer 2026 Intern - Internal Audit (Memphis, TN)](https://jobright.ai/jobs/info/691ac39615b415636718a648?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/691ab8ee15b415636718a25d?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/69139ee7d1047e3565d04930?utm_campaign=1052&utm_source=git)** | Henrico, VA | Hybrid | Nov 16 |
-| **[Camellia Venture Capital](https://www.camelliavc.com/)** | **[Research & Trading Analyst Intern, Camellia Venture Capital & Avantgarde (Remote, Spring 2026)](https://jobright.ai/jobs/info/691a92b045fb6f5ead8ac023?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Tech Verses](techverses.us)** | **[Business Tax Services Intern](https://jobright.ai/jobs/info/691a924abcdbf3560c9d8c89?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 16 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/691a8987bcdbf3560c9d8887?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Nov 16 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/691a779b15b415636718872d?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 16 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6918e80645fb6f5ead8a70c9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6918e53345fb6f5ead8a7095?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 15 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Nov 15 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/6918b30dbcdbf3560c9d34c3?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Tax Analyst](https://jobright.ai/jobs/info/68c44d0ae396b25cb5c66ae0?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 15 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, GBSG](https://jobright.ai/jobs/info/68fc0c0493c49825ab10935d?utm_campaign=1052&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Royalty Financing Intern](https://jobright.ai/jobs/info/689511a973b3a600fe884e02?utm_campaign=1052&utm_source=git)** | New York | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68c35aff80e77b1fa6fc8861?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Nov 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6916d7f1286ccf0a15139c60?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68c7ab95c96a22563ecf40e4?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Nov 15 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68ea2c074ae33307d3ed9f06?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
