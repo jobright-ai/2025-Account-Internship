@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allianz Partners](https://allianz-partners.com)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/69139ee7d1047e3565d04930?utm_campaign=1052&utm_source=git)** | Henrico, VA | Hybrid | Nov 16 |
 | **[Camellia Venture Capital](https://www.camelliavc.com/)** | **[Research & Trading Analyst Intern, Camellia Venture Capital & Avantgarde (Remote, Spring 2026)](https://jobright.ai/jobs/info/691a92b045fb6f5ead8ac023?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Tech Verses](techverses.us)** | **[Business Tax Services Intern](https://jobright.ai/jobs/info/691a924abcdbf3560c9d8c89?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 16 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/691a8987bcdbf3560c9d8887?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Nov 16 |
@@ -142,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Cumming Group](https://cumming-group.com)** | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc438893c49825ab10b4c9?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc4272f55bb021a88a20a2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ace7fce86561b92884df?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 15 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe9494129dd33cd136418?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe8d84129dd33cd1363a4?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Sacramento, CA](https://jobright.ai/jobs/info/691501089c388539cbdef67b?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Finance (Information Systems)](https://jobright.ai/jobs/info/68fc277c93c49825ab10a4d4?utm_campaign=1052&utm_source=git)** | Arlington, TX | Hybrid | Nov 15 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c35a3f6031587f8458a1f9?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | On Site | Nov 15 |
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Credit Administration Intern - Summer 2026](https://jobright.ai/jobs/info/68fc0e5c4129dd33cd1384f0?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Nov 15 |
 | **[Inspire](https://inspirebrands.com)** | **[Supply Chain Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6918a09145fb6f5ead8a6372?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
-| **[BPM LLP](https://www.bpm.com/)** | **[Tax Intern (January 2026)](https://jobright.ai/jobs/info/683796afef8f94bbf9bcca09?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
