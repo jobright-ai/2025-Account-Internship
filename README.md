@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/691a779b15b415636718872d?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 16 |
 | **[MITRE](http://www.mitre.org)** | **[Finance Intern](https://jobright.ai/jobs/info/691a612215b4156367188584?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Nov 16 |
-| **[Tech Verses](techverses.us)** | **[Transaction Economics Intern](https://jobright.ai/jobs/info/691a5dec45fb6f5ead8ab67d?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 16 |
 | **[Fyntrix One](fyntrixone.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/691a5b0e45fb6f5ead8ab657?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[MITRE](http://www.mitre.org)** | **[Finance Intern](https://jobright.ai/jobs/info/691a584045fb6f5ead8ab61d?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Nov 16 |
 | **[PropyLaw](www.propylaw.com)** | **[Chief Financial Officer - Intern](https://jobright.ai/jobs/info/691a523f15b415636718845f?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 16 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6903c1e8ff462851fefee585?utm_campaign=1052&utm_source=git)** | Radford, VA | On Site | Nov 16 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4acd731e5763f188e28aa?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 16 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/68e0465ff758fe1f97e4bdcb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 16 |
-| **[Matrix Executions](https://matrixexecutions.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6919e2fa45fb6f5ead8aaa74?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[National Accounts Casualty Underwriting Summer Intern](https://jobright.ai/jobs/info/68f13c70f462172a5a7d4ad1?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Nov 16 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Co-Op Tax Intern - Summer](https://jobright.ai/jobs/info/68e003d71852e62f007e67f5?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | Nov 16 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Investments 2026 Summer Intern, Global Macro](https://jobright.ai/jobs/info/690916a3bcccf20de59d6e5c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
@@ -140,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Cumming Group](https://cumming-group.com)** | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc438893c49825ab10b4c9?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc4272f55bb021a88a20a2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ace7fce86561b92884df?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 15 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe9494129dd33cd136418?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe8d84129dd33cd1363a4?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Sacramento, CA](https://jobright.ai/jobs/info/691501089c388539cbdef67b?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Finance (Information Systems)](https://jobright.ai/jobs/info/68fc277c93c49825ab10a4d4?utm_campaign=1052&utm_source=git)** | Arlington, TX | Hybrid | Nov 15 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BPM LLP](https://www.bpm.com/)** | **[Tax Intern (January 2026)](https://jobright.ai/jobs/info/683796afef8f94bbf9bcca09?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Nov 15 |
 | **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Payment Integrity Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/69189d1415b4156367183145?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Nov 15 |
 | **[ERCO Worldwide](http://www.ercoworldwide.com/)** | **[Tax Analyst Intern](https://jobright.ai/jobs/info/6918995a45fb6f5ead8a615e?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 15 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6900386ae04ac838fb5c0647?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
