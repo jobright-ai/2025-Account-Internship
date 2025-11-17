@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camellia Venture Capital](https://www.camelliavc.com/)** | **[Research & Trading Analyst Intern, Camellia Venture Capital & Avantgarde (Remote, Spring 2026)](https://jobright.ai/jobs/info/691a92b045fb6f5ead8ac023?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
+| **[Tech Verses](techverses.us)** | **[Business Tax Services Intern](https://jobright.ai/jobs/info/691a924abcdbf3560c9d8c89?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 16 |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Intern – Business, Finance & Accounting 2026](https://jobright.ai/jobs/info/691a8987bcdbf3560c9d8887?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Nov 16 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/691a779b15b415636718872d?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 16 |
 | **[MITRE](http://www.mitre.org)** | **[Finance Intern](https://jobright.ai/jobs/info/691a612215b4156367188584?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Nov 16 |
 | **[Fyntrix One](fyntrixone.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/691a5b0e45fb6f5ead8ab657?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Financial and Actuarial Advisory Services](https://jobright.ai/jobs/info/691a1b5915b4156367187e86?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Nov 16 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Finance Intern  Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/691a017415b4156367187cb7?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 16 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Public Accounting Intern](https://jobright.ai/jobs/info/691a016745fb6f5ead8aae12?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 16 |
-| **[LumoraX](lumorax.us)** | **[Advisory Intern – Finance & Accounting 2026](https://jobright.ai/jobs/info/6919f9b7bcdbf3560c9d79ee?utm_campaign=1052&utm_source=git)** | Tulsa, OK | Remote | Nov 16 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68c4c3537279451d6a037814?utm_campaign=1052&utm_source=git)** | Novato, CA | On Site | Nov 16 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/6919f78f45fb6f5ead8aacb0?utm_campaign=1052&utm_source=git)** | Detroit, MI | Remote | Nov 16 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/6919f517bcdbf3560c9d794b?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 16 |
@@ -125,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Kalmbach Feeds Inc.](http://kalmbachfeeds.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69199df6bcdbf3560c9d6c31?utm_campaign=1052&utm_source=git)** | Upper Sandusky, OH | On Site | Nov 15 |
 | **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Shareholder Intern](https://jobright.ai/jobs/info/69194b7215b4156367184ecd?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/69193b3abcdbf3560c9d473f?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 15 |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Finance Intern](https://jobright.ai/jobs/info/691a883a15b41563671888c3?utm_campaign=1052&utm_source=git)** | Hunt Valley, MD | On Site | Nov 15 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/69139d7ad1047e3565d0483c?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Nov 15 |
 | **[Good Book Accounting Services LLC](goodbookaccounting.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6919cacc15b4156367187578?utm_campaign=1052&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 15 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6918e80645fb6f5ead8a70c9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 15 |
@@ -139,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Cumming Group](https://cumming-group.com)** | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc438893c49825ab10b4c9?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[Construction Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc4272f55bb021a88a20a2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ace7fce86561b92884df?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 15 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe8d84129dd33cd1363a4?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe9494129dd33cd136418?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Sacramento, CA](https://jobright.ai/jobs/info/691501089c388539cbdef67b?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Finance (Information Systems)](https://jobright.ai/jobs/info/68fc277c93c49825ab10a4d4?utm_campaign=1052&utm_source=git)** | Arlington, TX | Hybrid | Nov 15 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Credit Administration Intern - Summer 2026](https://jobright.ai/jobs/info/68fc0e5c4129dd33cd1384f0?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Nov 15 |
 | **[Inspire](https://inspirebrands.com)** | **[Supply Chain Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6918a09145fb6f5ead8a6372?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Tax Intern (January 2026)](https://jobright.ai/jobs/info/683796afef8f94bbf9bcca09?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Nov 15 |
-| **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Payment Integrity Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/69189d1415b4156367183145?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Nov 15 |
-| **[ERCO Worldwide](http://www.ercoworldwide.com/)** | **[Tax Analyst Intern](https://jobright.ai/jobs/info/6918995a45fb6f5ead8a615e?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 15 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6900386ae04ac838fb5c0647?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
