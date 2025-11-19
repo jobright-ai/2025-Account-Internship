@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance Intern / Orlando, FL](https://jobright.ai/jobs/info/691d6bf70b7dff73415035c3?utm_campaign=1052&utm_source=git)** | Possible | Hybrid | Nov 18 |
+| ↳ | **[Finance Intern / Orlando, FL](https://jobright.ai/jobs/info/691d6901bcdbf3560c9f0a9e?utm_campaign=1052&utm_source=git)** | Florida | Hybrid | Nov 18 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Summer Intern, Finance Candidate Pool - San Diego](https://jobright.ai/jobs/info/691d5cd9bcdbf3560c9f045d?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Nov 18 |
+| **[General Dynamics Land Systems](http://www.gdls.com)** | **[Procurement Internship](https://jobright.ai/jobs/info/691d5bbb7481340785ed6ecc?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Nov 18 |
+| **[Viveo Capital Partners](https://www.linkedin.com/company/106478841)** | **[Operations & Performance Analyst Intern](https://jobright.ai/jobs/info/691d5b450b7dff7341502e2a?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Tax Intern – Winter/Summer 2026](https://jobright.ai/jobs/info/691d52c5bcdbf3560c9efdf5?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Nov 18 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Summer Intern, Finance Candidate Pool - San Diego](https://jobright.ai/jobs/info/691d5188bcdbf3560c9efd52?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Clerical Accounting Internship - Medina Location](https://jobright.ai/jobs/info/691d50b4bcdbf3560c9efcc9?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Nov 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Innovation](https://jobright.ai/jobs/info/691cf9f7ff7024498416c84e?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Nov 18 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/691ccdda22a2cb4b9bd1d61f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Nov 18 |
 | **[LG&E and KU Energy LLC](https://lge-ku.com)** | **[Accounting Intern - Corporate Accounting (Spring 2026, Hybrid KY)](https://jobright.ai/jobs/info/691d1d1e7481340785ed3eb0?utm_campaign=1052&utm_source=git)** | Louisville, Kentucky | Hybrid | Nov 18 |
-| **[Barings](https://www.barings.com/gb/individual/funds/closed-end-funds/baring-emerging-europe-plc/GB0032273343)** | **[Barings Sovereign Debt Summer Internship](https://jobright.ai/jobs/info/691ceceeff7024498416beb5?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 18 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance - Intern](https://jobright.ai/jobs/info/691cc983bcdbf3560c9e9ba0?utm_campaign=1052&utm_source=git)** | Texas | Hybrid | Nov 18 |
-| **[International Institute of New England](https://iine.org/)** | **[Finance Intern (IINE Boston)](https://jobright.ai/jobs/info/691cc983bcdbf3560c9e9b9f?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Finance](https://jobright.ai/jobs/info/691cf7a722a2cb4b9bd1f490?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, XQ Institute: Finance](https://jobright.ai/jobs/info/691cf31922a2cb4b9bd1f0c1?utm_campaign=1052&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
