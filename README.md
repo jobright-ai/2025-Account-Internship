@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Verses](techverses.us)** | **[Business Tax Services Intern](https://jobright.ai/jobs/info/691ea397a49a885af9a2a195?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 19 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/691e94bf3f782d2f1afb5f6d?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 19 |
+| **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern](https://jobright.ai/jobs/info/691e902d09cc522e8773afa7?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA Summer 2026 Risk Management Intern](https://jobright.ai/jobs/info/691e8d5c3f782d2f1afb5d38?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Nov 19 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Data Intern - Summer 2026](https://jobright.ai/jobs/info/691e84ad09cc522e8773aa67?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 19 |
 | **[Orbient 24](orbient24.us)** | **[Audit Intern](https://jobright.ai/jobs/info/691e7ca73f782d2f1afb533b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Nov 19 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Revenue Cycle Management - Collections Analyst](https://jobright.ai/jobs/info/691e7c543f782d2f1afb52e8?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Nov 19 |
-| **[Legrand, North America](http://www.legrand.us)** | **[Finance Intern](https://jobright.ai/jobs/info/691e7abc09cc522e8773a267?utm_campaign=1052&utm_source=git)** | Canonsburg, PA | On Site | Nov 19 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Revenue Cycle Management - Collections Analyst](https://jobright.ai/jobs/info/691e7a5ea49a885af9a28e37?utm_campaign=1052&utm_source=git)** | North Carolina, United States | Remote | Nov 19 |
+| ↳ | **[Intern - Revenue Cycle Management - Collections Analyst](https://jobright.ai/jobs/info/691e7a5ea49a885af9a28e37?utm_campaign=1052&utm_source=git)** | North Carolina, United States | Remote | Nov 19 |
 | **[RubinBrown LLP](http://rubinbrown.com/)** | **[Winter/Spring 2026 State and Local Tax Intern](https://jobright.ai/jobs/info/691e75b3a49a885af9a28b8e?utm_campaign=1052&utm_source=git)** | St. Louis, Missouri, United States | On Site | Nov 19 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Investments Intern - Bank Loans](https://jobright.ai/jobs/info/691e7537a49a885af9a28afa?utm_campaign=1052&utm_source=git)** | Downers Grove, IL | On Site | Nov 19 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/691e749aa49a885af9a28a25?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 19 |
@@ -94,11 +96,10 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Pricing Automation](https://jobright.ai/jobs/info/691e4416a49a885af9a26f13?utm_campaign=1052&utm_source=git)** | Lehi, UT | On Site | Nov 19 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Tax Compliance](https://jobright.ai/jobs/info/691e439a3f782d2f1afb3109?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Nov 19 |
 | **[McGovern Wealth Group](https://www.mcgovernwealth.com/)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691e43083f782d2f1afb306b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 19 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Finance)](https://jobright.ai/jobs/info/691e3c6d3f782d2f1afb2d0e?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Nov 19 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Summer Intern, Finance Candidate Pool - Marlboro, MA](https://jobright.ai/jobs/info/691e39c009cc522e87737d22?utm_campaign=1052&utm_source=git)** | Marlborough, MA, United States | On Site | Nov 19 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/691e384ea49a885af9a266b8?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona | On Site | Nov 19 |
-| **[The Relationship Clinic PLLC](http://www.therelationshipclinic.com)** | **[Business & Finance Intern](https://jobright.ai/jobs/info/691e355aa49a885af9a26402?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Finance)](https://jobright.ai/jobs/info/691e333109cc522e87737604?utm_campaign=1052&utm_source=git)** | US-FL-St Petersburg | On Site | Nov 19 |
+| ↳ | **[2026 Summer Intern (Finance)](https://jobright.ai/jobs/info/691e32473f782d2f1afb232c?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Nov 19 |
 | **[Goldbelt, Incorporated](http://goldbelt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/691e308209cc522e8773730f?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Nov 19 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant(Payroll Coordinator)](https://jobright.ai/jobs/info/691e3073a49a885af9a25e91?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Nov 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Finance Internships – Summer 2026](https://jobright.ai/jobs/info/691e303509cc522e87737293?utm_campaign=1052&utm_source=git)** | Universal City, CA | On Site | Nov 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e21a93f782d2f1afb16bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 19 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/691e25da3f782d2f1afb1a2a?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 19 |
 | ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e298da49a885af9a25a61?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 19 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Public Accounts Intern](https://jobright.ai/jobs/info/691e241109cc522e87736aac?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
