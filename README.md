@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SMUD](https://www.smud.org/en)** | **[Business Finance and Project Support Intern - Year Round](https://jobright.ai/jobs/info/691ebdb2a49a885af9a2a83c?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 19 |
+| **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Business Valuation Intern (January 2026)](https://jobright.ai/jobs/info/691eb962a49a885af9a2a6fd?utm_campaign=1052&utm_source=git)** | Ann Arbor, Michigan | On Site | Nov 19 |
 | **[Tech Verses](techverses.us)** | **[Business Tax Services Intern](https://jobright.ai/jobs/info/691ea397a49a885af9a2a195?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 19 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/691e94bf3f782d2f1afb5f6d?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 19 |
 | **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern](https://jobright.ai/jobs/info/691e902d09cc522e8773afa7?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA Summer 2026 Risk Management Intern](https://jobright.ai/jobs/info/691e8d5c3f782d2f1afb5d38?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Nov 19 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Data Intern - Summer 2026](https://jobright.ai/jobs/info/691e84ad09cc522e8773aa67?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 19 |
 | **[Orbient 24](orbient24.us)** | **[Audit Intern](https://jobright.ai/jobs/info/691e7ca73f782d2f1afb533b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Nov 19 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Revenue Cycle Management - Collections Analyst](https://jobright.ai/jobs/info/691e7c543f782d2f1afb52e8?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Nov 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/691e27f33f782d2f1afb1bf5?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 19 |
 | ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e21a93f782d2f1afb16bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 19 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/691e25da3f782d2f1afb1a2a?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 19 |
-| ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e298da49a885af9a25a61?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
