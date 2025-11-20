@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KatzAbosch](https://www.katzabosch.com)** | **[Summer Intern](https://jobright.ai/jobs/info/691f13023f782d2f1afb83e8?utm_campaign=1052&utm_source=git)** | Timonium, MD | On Site | Nov 20 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Finance Intern](https://jobright.ai/jobs/info/68ccf13ad11b445e0bee4c72?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Nov 20 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Finance](https://jobright.ai/jobs/info/68cd56f4e23def7af55b8746?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Nov 20 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68ce1ab9b2a74e1837edf58c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 20 |
+| **[Crown Fund](Crownfund.co)** | **[Asset Management Intern](https://jobright.ai/jobs/info/691f0b093f782d2f1afb80ce?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 20 |
+| **[Acrisure](http://acrisure.com)** | **[Actuarial Intern (May-Aug 2026)](https://jobright.ai/jobs/info/691deb0dad5a517034797e87?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
+| **[Tektronix](http://www.tek.com)** | **[Financial Analyst (FP&A) Intern Summer 2026](https://jobright.ai/jobs/info/68ae4909758f2e4ac30128ff?utm_campaign=1052&utm_source=git)** | Beaverton, OR | Hybrid | Nov 20 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Investigations & Forensic Accounting (Summer 2026)](https://jobright.ai/jobs/info/68ccd942d11b445e0bee2ced?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Nov 20 |
+| ↳ | **[Intern, Investigations & Forensic Accounting (Summer 2026)](https://jobright.ai/jobs/info/68cd102ce23def7af55b482a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69183eda45fb6f5ead8a37d3?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Nov 20 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Fort Worth)](https://jobright.ai/jobs/info/68ae1048758f2e4ac3011091?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 20 |
+| **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern](https://jobright.ai/jobs/info/691efe5fa49a885af9a2ba0c?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/68ae1119daf1431824ca0779?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Nov 20 |
 | ↳ | **[Core Tax Intern - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/68ae0e12758f2e4ac3010e07?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Nov 20 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Commodities Trading Intern](https://jobright.ai/jobs/info/690265ea98707b2b0fe6ee61?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Nov 20 |
@@ -78,10 +90,13 @@ For a complete list, click the following sortable link below:
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - Accounting Internship](https://jobright.ai/jobs/info/691eedaf3f782d2f1afb7a30?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Nov 20 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Spring 2027](https://jobright.ai/jobs/info/68ec9748c26b9574506f49a8?utm_campaign=1052&utm_source=git)** | Helena, MT | On Site | Nov 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Milwaukee)](https://jobright.ai/jobs/info/68cbfe6d16d00d2beeb17e0c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 20 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6903125198707b2b0fe74ed0?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 20 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Analyst](https://jobright.ai/jobs/info/68adeaf2758f2e4ac300f80d?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Nov 20 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Integrated Finance & Market Analytics Graduate Intern](https://jobright.ai/jobs/info/69197dac15b4156367185d4e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Nov 20 |
+| **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Business Valuation Intern (January 2026)](https://jobright.ai/jobs/info/691f06833f782d2f1afb8040?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Nov 20 |
 | **[SMUD](https://www.smud.org/en)** | **[Business Finance and Project Support Intern - Year Round](https://jobright.ai/jobs/info/691ebdb2a49a885af9a2a83c?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Nov 19 |
 | **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Business Valuation Intern (January 2026)](https://jobright.ai/jobs/info/691eb962a49a885af9a2a6fd?utm_campaign=1052&utm_source=git)** | Ann Arbor, Michigan | On Site | Nov 19 |
 | **[Tech Verses](techverses.us)** | **[Transaction Economics Intern](https://jobright.ai/jobs/info/691ee3b6a49a885af9a2b416?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 19 |
-| ↳ | **[Business Tax Services Intern](https://jobright.ai/jobs/info/691ea397a49a885af9a2a195?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 19 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/691e94bf3f782d2f1afb5f6d?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 19 |
 | **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern](https://jobright.ai/jobs/info/691e902d09cc522e8773afa7?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Data Intern - Summer 2026](https://jobright.ai/jobs/info/691e84ad09cc522e8773aa67?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 19 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 –  Pratt and Whitney Engine Leasing (PWEL) Finance (Hybrid)](https://jobright.ai/jobs/info/691e243ca49a885af9a256af?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | Hybrid | Nov 19 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e219309cc522e877368fc?utm_campaign=1052&utm_source=git)** | Tulsa | On Site | Nov 19 |
 | ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/691e1ed7a49a885af9a252ce?utm_campaign=1052&utm_source=git)** | Tulsa | On Site | Nov 19 |
-| ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e1eb309cc522e877366dc?utm_campaign=1052&utm_source=git)** | Frisco | On Site | Nov 19 |
-| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/691e1e23a49a885af9a25235?utm_campaign=1052&utm_source=git)** | Frisco | On Site | Nov 19 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/691e1e17a49a885af9a2522e?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 19 |
-| **[Grameen America, Inc.](http://grameenamerica.org)** | **[Intern](https://jobright.ai/jobs/info/691e1d7e3f782d2f1afb1354?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Finance Internships – Summer 2026](https://jobright.ai/jobs/info/691e387a09cc522e87737bc4?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Nov 19 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[2026 Private Wealth Internship](https://jobright.ai/jobs/info/691e1ac909cc522e877364c6?utm_campaign=1052&utm_source=git)** | Louisville, Kentucky | On Site | Nov 19 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Summer Intern, Finance Candidate Pool - Marlboro, MA](https://jobright.ai/jobs/info/691e37eaa49a885af9a2663d?utm_campaign=1052&utm_source=git)** | Marlborough, MA | On Site | Nov 19 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Financial Risk Management Product Summer Intern](https://jobright.ai/jobs/info/691e39ef3f782d2f1afb2ae8?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Audit Intern - 2026](https://jobright.ai/jobs/info/691e383d09cc522e87737b8a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Remote | Nov 19 |
-| **[CONMED Corporation](http://www.conmed.com/)** | **[Pricing Administrator Internship (January - April 2026)](https://jobright.ai/jobs/info/691e3a833f782d2f1afb2b8a?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 19 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[2026 Private Wealth Internship](https://jobright.ai/jobs/info/691e15e43f782d2f1afb0d59?utm_campaign=1052&utm_source=git)** | Fort Wright, Kentucky | On Site | Nov 19 |
-| **[Multimatic](https://www.multimatic.com/)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/691e3be3a49a885af9a26a51?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 19 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[2026 Private Wealth Internship](https://jobright.ai/jobs/info/691e15b609cc522e87735fa3?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Nov 19 |
-| **[Continental](https://www.continental.com)** | **[Intern - Logistics Finance / Controlling, Year-Round](https://jobright.ai/jobs/info/690d0548d046ab6061cf196c?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Nov 19 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[2026 Private Wealth Internship](https://jobright.ai/jobs/info/691e13aca49a885af9a249ae?utm_campaign=1052&utm_source=git)** | Lexington, Kentucky | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
