@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kent District Library](https://kdl.org)** | **[Finance Dept. Intern - 15-20 hours/wk. Starting January 2026](https://jobright.ai/jobs/info/69202927a49a885af9a371c4?utm_campaign=1052&utm_source=git)** | Comstock Park, MI | On Site | Nov 21 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Finance Leadership Development Program Internship](https://jobright.ai/jobs/info/6920240509cc522e8774850f?utm_campaign=1052&utm_source=git)** | Malvern, PA | Remote | Nov 21 |
 | **[Geneva Trading](https://geneva-trading.com)** | **[Intern - Quantitative Trader - Digital Assets](https://jobright.ai/jobs/info/68b858ae07090163b6ba0ff6?utm_campaign=1052&utm_source=git)** | Chicago Office | On Site | Nov 20 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Financial Planning Group](https://jobright.ai/jobs/info/692010443f782d2f1afc291e?utm_campaign=1052&utm_source=git)** | Remote, USA | Hybrid | Nov 20 |
 | ↳ | **[Intern, Financial Planning Group](https://jobright.ai/jobs/info/692007cf3f782d2f1afc2537?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Nov 20 |
@@ -111,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 FP&A Intern](https://jobright.ai/jobs/info/68efbb5cde50091dbfa4fe28?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Corporate Intern - GBS Finance](https://jobright.ai/jobs/info/691f957ca49a885af9a32252?utm_campaign=1052&utm_source=git)** | Rolling Meadows, Illinois | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Accounting Intern](https://jobright.ai/jobs/info/68efa89dde50091dbfa4f7fd?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
-| **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Intern (Summer) - Houston, River Oaks](https://jobright.ai/jobs/info/691f94c4a49a885af9a32189?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | Nov 20 |
+| **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Intern (Summer) - Houston, River Oaks](https://jobright.ai/jobs/info/691f8fdc3f782d2f1afbde33?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | Nov 20 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Fairfax, VA Summer 2026)](https://jobright.ai/jobs/info/691f8d423f782d2f1afbdb20?utm_campaign=1052&utm_source=git)** | VA-Fairfax | On Site | Nov 20 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Financial Analyst Intern](https://jobright.ai/jobs/info/691f57b0a49a885af9a2e678?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Financial Planning & Analysis - Summer Internship 2026](https://jobright.ai/jobs/info/691f894b09cc522e87742a00?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/691f67bb3f782d2f1afbb8ab?utm_campaign=1052&utm_source=git)** | Maywood, CA | Hybrid | Nov 20 |
 | **[Superior](http://superiorgroup.net)** | **[Finance Internship, Summer 2026](https://jobright.ai/jobs/info/691f6750a49a885af9a2f563?utm_campaign=1052&utm_source=git)** | Columbus, Ohio, United States | On Site | Nov 20 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/691f993d09cc522e87743898?utm_campaign=1052&utm_source=git)** | Shelbyville, TN | Hybrid | Nov 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/691f8c4c3f782d2f1afbda4a?utm_campaign=1052&utm_source=git)** | Emporia, KS | Hybrid | Nov 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/691f8d193f782d2f1afbdaee?utm_campaign=1052&utm_source=git)** | Papillion, NE | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
