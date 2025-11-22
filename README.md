@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Associate](https://jobright.ai/jobs/info/69222620d1ec2c3565c46dcb?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Nov 22 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Ratings Analytical Intern - Americas - S&P Global](https://jobright.ai/jobs/info/6922217cd1ec2c3565c46d08?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance Internship](https://jobright.ai/jobs/info/692218803f782d2f1afd4995?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 22 |
+| **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/69221745d1ec2c3565c46b35?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
+| **[Stratagem One](stratagemone.us)** | **[Audit Intern](https://jobright.ai/jobs/info/6922253ea49a885af9a4882e?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Nov 22 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ea378c6afbef49f2c665ee?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Nov 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/6921fc923f782d2f1afd4478?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Nov 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/692196d53f782d2f1afd308f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
@@ -94,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Associate, Houston (North America – 2026)](https://jobright.ai/jobs/info/69053f0d63502c0aded79da0?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 22 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Cape Girardeau (Summer 2026)](https://jobright.ai/jobs/info/690c4cb8d046ab6061cec4fc?utm_campaign=1052&utm_source=git)** | Cape Girardeau, MO | On Site | Nov 22 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6921d440a49a885af9a47c28?utm_campaign=1052&utm_source=git)** | Morrisville, NC | Hybrid | Nov 22 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Finance Internship](https://jobright.ai/jobs/info/6921d3f3d1ec2c3565c46179?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 22 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Internal Audit - Birmingham](https://jobright.ai/jobs/info/68cda1bdb2a74e1837eda306?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Nov 22 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, NYC (2026 Summer)](https://jobright.ai/jobs/info/68ec8f7a1eecd439f43f9d8b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Palm Beach, Florida](https://jobright.ai/jobs/info/68e9da5d54fbf903f6a7f19e?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 22 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reinsurance Facultative Underwriting Intern](https://jobright.ai/jobs/info/68e925a70930fe0bc462291f?utm_campaign=1052&utm_source=git)** | Garden City, NY | Hybrid | Nov 22 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/68e9f7e654fbf903f6a7ff65?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Nov 22 |
 | **[Waterton](https://www.waterton.com/)** | **[Residential Accounting Intern](https://jobright.ai/jobs/info/69054f72122e8474c78d8345?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
-| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/692199af3f782d2f1afd31f6?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/68d77eba295f8e37655db9c6?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Nov 22 |
 | **[Air Products](http://www.airproducts.com/)** | **[Summer Intern- IT & Cyber Audit (2026)](https://jobright.ai/jobs/info/68b09efb13563e782a9f7dfd?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Nov 22 |
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Winter Audit Intern (2026) - Woodcliff Lake, NJ](https://jobright.ai/jobs/info/68cc1b4a7342c7623ae5f232?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ | On Site | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reinsurance Claims Intern](https://jobright.ai/jobs/info/68e9259e9020b95add6a430e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: National Processing Group Internship – Memphis - 2026](https://jobright.ai/jobs/info/68af5e7c1f0a2a568a060ff4?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 22 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/690531b363502c0aded79651?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e926419020b95add6a43f5?utm_campaign=1052&utm_source=git)** | Garden City, NY | Hybrid | Nov 22 |
-| ↳ | **[Pricing Intern](https://jobright.ai/jobs/info/68e9261f9020b95add6a43bf?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
