@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ea378c6afbef49f2c665ee?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Nov 22 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/6921fc923f782d2f1afd4478?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Nov 22 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/692196d53f782d2f1afd308f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Nov 22 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ce9d97dbd9fb154ede15f3?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Los Angeles, CA](https://jobright.ai/jobs/info/69061ccb122e8474c78deedb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Audit Intern](https://jobright.ai/jobs/info/6921f390a49a885af9a47fff?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Nov 22 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68e9fd22cfc08e49089143c1?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Nov 22 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/6921dd6e3f782d2f1afd4121?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 22 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68d8c7f6eed6e340d9e1d885?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Nov 22 |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/6921fa5fd1ec2c3565c46617?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 22 |
 | **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Associate, Chicago (North America – 2026)](https://jobright.ai/jobs/info/69052e3863502c0aded7920b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b20095bc187f64e1bd8a4f?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Nov 22 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691d49430b7dff73415020bd?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Nov 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/690531b363502c0aded79651?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e926419020b95add6a43f5?utm_campaign=1052&utm_source=git)** | Garden City, NY | Hybrid | Nov 22 |
 | ↳ | **[Pricing Intern](https://jobright.ai/jobs/info/68e9261f9020b95add6a43bf?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 22 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Accounting Internship: Summer 2026](https://jobright.ai/jobs/info/6905360563502c0aded79865?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/68e924c29020b95add6a41fb?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 22 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b3?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 22 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Audit Winter Internship - Irvine, CA](https://jobright.ai/jobs/info/69216a0da49a885af9a45aca?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Nov 22 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/69053124ff462851feffb8b7?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
