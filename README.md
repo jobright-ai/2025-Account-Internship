@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Associate](https://jobright.ai/jobs/info/69222620d1ec2c3565c46dcb?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Nov 22 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Spring 2026 / San Diego Area)](https://jobright.ai/jobs/info/692285d438cd5478a8d54008?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 22 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Ratings Analytical Intern - Americas - S&P Global](https://jobright.ai/jobs/info/6922217cd1ec2c3565c46d08?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/69221745d1ec2c3565c46b35?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
 | **[Stratagem One](stratagemone.us)** | **[Audit Intern](https://jobright.ai/jobs/info/6922253ea49a885af9a4882e?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Nov 22 |
