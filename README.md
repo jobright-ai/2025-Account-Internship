@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSL, LLP](https://lslcpas.com)** | **[Assurance Intern (Spring 2026)](https://jobright.ai/jobs/info/691be20e22a2cb4b9bd1715c?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 23 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Nov 22 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Spring 2026 / San Diego Area)](https://jobright.ai/jobs/info/692285d438cd5478a8d54008?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 22 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Ratings Analytical Intern - Americas - S&P Global](https://jobright.ai/jobs/info/6922217cd1ec2c3565c46d08?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/69221745d1ec2c3565c46b35?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: National Processing Group Internship – Memphis - 2026](https://jobright.ai/jobs/info/68af5e7c1f0a2a568a060ff4?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/690531b363502c0aded79651?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e926419020b95add6a43f5?utm_campaign=1052&utm_source=git)** | Garden City, NY | Hybrid | Nov 22 |
-| ↳ | **[Pricing Intern](https://jobright.ai/jobs/info/68e9261f9020b95add6a43bf?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
