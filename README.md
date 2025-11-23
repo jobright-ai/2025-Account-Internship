@@ -59,9 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Associate](https://jobright.ai/jobs/info/69222620d1ec2c3565c46dcb?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Nov 22 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Ratings Analytical Intern - Americas - S&P Global](https://jobright.ai/jobs/info/6922217cd1ec2c3565c46d08?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance Internship](https://jobright.ai/jobs/info/692218803f782d2f1afd4995?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 22 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/69221745d1ec2c3565c46b35?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
 | **[Stratagem One](stratagemone.us)** | **[Audit Intern](https://jobright.ai/jobs/info/6922253ea49a885af9a4882e?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Nov 22 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ea378c6afbef49f2c665ee?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Nov 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/6921fc923f782d2f1afd4478?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Nov 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/692196d53f782d2f1afd308f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Nov 22 |
