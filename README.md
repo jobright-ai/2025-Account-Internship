@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northmarq](http://www.northmarq.com)** | **[Summer Rotational Internship (Agency Platform) - Commercial Real Estate Finance](https://jobright.ai/jobs/info/68cdd4e3b2a74e1837edcb8c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 23 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/692325b938cd5478a8d561e2?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 23 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/6923219bc0cefa13343da3bc?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Nov 23 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Tax Intern - CPA Firm Local to Greenville, SC Only](https://jobright.ai/jobs/info/69231daf7795cd460c83813f?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Nov 23 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/6897e9958c6d6b4426793f70?utm_campaign=1052&utm_source=git)** | Texas City, TX | On Site | Nov 23 |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Acquisitions, Development & Construction](https://jobright.ai/jobs/info/691b9f5d15b4156367190ff1?utm_campaign=1052&utm_source=git)** | San Mateo, California, United States | On Site | Nov 23 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/689859fa83d13d1f5b68eecb?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Nov 23 |
 | **[City of Lubbock](http://mylubbock.us)** | **[Part-Time Internal Audit Intern](https://jobright.ai/jobs/info/6923096538cd5478a8d55ed6?utm_campaign=1052&utm_source=git)** | Lubbock, TX | On Site | Nov 23 |
 | **[American National](https://www.americannational.com)** | **[Internship - Actuarial, Annuity Analytics](https://jobright.ai/jobs/info/691fdb74a49a885af9a34c63?utm_campaign=1052&utm_source=git)** | League City, TX | On Site | Nov 23 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/691d6eaebcdbf3560c9f0d29?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Nov 23 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Nov 22 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ce9d97dbd9fb154ede15f3?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Los Angeles, CA](https://jobright.ai/jobs/info/69061ccb122e8474c78deedb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Audit Intern](https://jobright.ai/jobs/info/6921f390a49a885af9a47fff?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Nov 22 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Accounting Intern - Dickory - PRN](https://jobright.ai/jobs/info/6921f364d1ec2c3565c46559?utm_campaign=1052&utm_source=git)** | Jefferson, LA | Hybrid | Nov 22 |
 | **[Tech Verses](techverses.us)** | **[Tax Services Intern](https://jobright.ai/jobs/info/6921efab3f782d2f1afd4320?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 22 |
 | **[Hawkins Ash CPAs](https://www.hawkinsash.cpa)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6921ef91a49a885af9a47fa8?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | Nov 22 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Accounting](https://jobright.ai/jobs/info/68fcd2b70ab3b2224629fb30?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Nov 22 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Finance Intern](https://jobright.ai/jobs/info/691dfa49a49a885af9a23207?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 22 |
-| **[HOLT Group](https://holtgrp.com)** | **[Finance Intern - High School](https://jobright.ai/jobs/info/68cb79e59e3a822f5d246932?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Nov 22 |
-| **[Brother USA](https://brother-usa.com)** | **[Senior Analyst, International Tax](https://jobright.ai/jobs/info/69054a51122e8474c78d820d?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Nov 22 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68c25ad233864f172f9bfc52?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 22 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68e9fd22cfc08e49089143c1?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Nov 22 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68d8c7f6eed6e340d9e1d885?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Nov 22 |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/6921fa5fd1ec2c3565c46617?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
