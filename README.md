@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance Internship](https://jobright.ai/jobs/info/692218803f782d2f1afd4995?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 22 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/69221745d1ec2c3565c46b35?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
 | **[Stratagem One](stratagemone.us)** | **[Audit Intern](https://jobright.ai/jobs/info/6922253ea49a885af9a4882e?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Nov 22 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ea378c6afbef49f2c665ee?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Nov 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/6921fc923f782d2f1afd4478?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Nov 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/692196d53f782d2f1afd308f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Nov 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reinsurance Claims Intern](https://jobright.ai/jobs/info/68e9259e9020b95add6a430e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Nov 22 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: National Processing Group Internship – Memphis - 2026](https://jobright.ai/jobs/info/68af5e7c1f0a2a568a060ff4?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 22 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/690531b363502c0aded79651?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
