@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F&G](https://fglife.com)** | **[Intern, Financial Controls](https://jobright.ai/jobs/info/691bacfebcdbf3560c9e152c?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Nov 23 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate FP&A](https://jobright.ai/jobs/info/692383a57795cd460c838bfe?utm_campaign=1052&utm_source=git)** | Boise, ID - Main Site | On Site | Nov 23 |
 | **[K1 Investment Management](http://www.k1im.com)** | **[Intern, Diligence (Summer 2026)](https://jobright.ai/jobs/info/69237445c0cefa13343dacf8?utm_campaign=1052&utm_source=git)** | Manhattan Beach, CA | On Site | Nov 23 |
 | **[MST](https://www.mstiller.com/)** | **[Spring 2026 Tax Internship](https://jobright.ai/jobs/info/692370b07795cd460c838a6b?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Nov 23 |
 | **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Intern (Summer) - Houston, River Oaks](https://jobright.ai/jobs/info/69236feac0cefa13343dac69?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 23 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2026)](https://jobright.ai/jobs/info/689859fa83d13d1f5b68eecb?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Nov 23 |
 | **[City of Lubbock](http://mylubbock.us)** | **[Part-Time Internal Audit Intern](https://jobright.ai/jobs/info/6923096538cd5478a8d55ed6?utm_campaign=1052&utm_source=git)** | Lubbock, TX | On Site | Nov 23 |
 | **[American National](https://www.americannational.com)** | **[Internship - Actuarial, Annuity Analytics](https://jobright.ai/jobs/info/691fdb74a49a885af9a34c63?utm_campaign=1052&utm_source=git)** | League City, TX | On Site | Nov 23 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/691be82422a2cb4b9bd175aa?utm_campaign=1052&utm_source=git)** | Chesterfield, MI | On Site | Nov 23 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Audit Intern, Korean Practice / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/691aaa5515b4156367189bb7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 23 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206d1?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Nov 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b09744b47fb001d6893a93?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Summer Audit Intern (2026) - Wethersfield, CT](https://jobright.ai/jobs/info/68cd18b21ad6b16f02894c60?utm_campaign=1052&utm_source=git)** | Wethersfield, CT | On Site | Nov 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b0923ab47fb001d689370d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b0981b2d46f6396cae6dc7?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 23 |
-| ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b092ce2d46f6396cae6a04?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
