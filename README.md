@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[2026 Spring Internship - Tax Compliance](https://jobright.ai/jobs/info/69241ea5c0cefa13343dd663?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Nov 24 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/692400c138cd5478a8d58779?utm_campaign=1052&utm_source=git)** | Westerville, OH | Hybrid | Nov 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6923f616c0cefa13343dc712?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Nov 23 |
 | **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Finance & Accounting](https://jobright.ai/jobs/info/6923f2867795cd460c83a418?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Nov 23 |
-| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Summer 2026 / Orange County Area)](https://jobright.ai/jobs/info/6923d7b87795cd460c839923?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Nov 23 |
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6923c11a7795cd460c8391a2?utm_campaign=1052&utm_source=git)** | Luling, TX | On Site | Nov 23 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6923ba4c38cd5478a8d57084?utm_campaign=1052&utm_source=git)** | Sault Saint Marie, MI | On Site | Nov 23 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6923b51b7795cd460c839023?utm_campaign=1052&utm_source=git)** | Midland, MI | On Site | Nov 23 |
@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Dallas, TX](https://jobright.ai/jobs/info/690787d5ff462851fe00a166?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Nov 23 |
 | **[Henkel](http://www.henkel.com)** | **[Finance & Business Controlling Intern - Hair Professionals - Summer 2026](https://jobright.ai/jobs/info/68b976506105227d11894d58?utm_campaign=1052&utm_source=git)** | Culver City, CA | Hybrid | Nov 23 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68b1450ce815524ae11fd0f8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 23 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/6923f8a0c0cefa13343dc722?utm_campaign=1052&utm_source=git)** | Lansing, MI | Hybrid | Nov 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68cd5bbb1ad6b16f028987e3?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Nov 23 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68b14691e815524ae11fd2d8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Nov 23 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Auditing Intern](https://jobright.ai/jobs/info/692338b438cd5478a8d56395?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Nov 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68b092452d46f6396cae69a3?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
 | ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68b094f113563e782a9f78af?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Nov 23 |
 | ↳ | **[Tax Intern Summer 2026](https://jobright.ai/jobs/info/68cce0e2d11b445e0bee38b0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Nov 23 |
+| ↳ | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/68b0957313563e782a9f7909?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
