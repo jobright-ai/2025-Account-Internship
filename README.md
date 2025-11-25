@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clairvest Group Inc.](http://www.clairvest.com)** | **[Private Equity Associate Intern (2026)](https://jobright.ai/jobs/info/69255d07d47de4798eccf7d4?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Nov 24 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/6925553e27bf2f41a2c3e255?utm_campaign=1052&utm_source=git)** | Assumption, IL | On Site | Nov 24 |
+| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Hot Section Module Center Operation Finance (Hybrid)](https://jobright.ai/jobs/info/6925457427bf2f41a2c3dc6e?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | Hybrid | Nov 24 |
+| ↳ | **[Intern: 2026 - Engine Alliance Finance (EA) (Onsite)](https://jobright.ai/jobs/info/69254445d47de4798ecceeed?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 24 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2027 Summer Analyst Intern / CAG](https://jobright.ai/jobs/info/692510a238cd5478a8d61f91?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 24 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Tax Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/6925331827bf2f41a2c3d23b?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
 | **[Camellia Venture Capital](https://www.camelliavc.com/)** | **[Research & Trading Analyst Intern, Camellia Venture Capital & Avantgarde (Remote, Spring 2026)](https://jobright.ai/jobs/info/692530ad27bf2f41a2c3cf6f?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 24 |
@@ -123,11 +127,12 @@ For a complete list, click the following sortable link below:
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Multifamily Intern](https://jobright.ai/jobs/info/6924d82ac0cefa13343e29c7?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
 | **[Moldtelecom](https://moldtelecom.md)** | **[Lider de echipă audit intern](https://jobright.ai/jobs/info/6924d739ec574f4265bb7adf?utm_campaign=1052&utm_source=git)** | Clackamas County, OR | On Site | Nov 24 |
 | **[BMO](http://www.bmo.com)** | **[Credit Analyst Intern - San Francisco, CA (2)](https://jobright.ai/jobs/info/6925007a38cd5478a8d6139a?utm_campaign=1052&utm_source=git)** | San Francisco, CA, USA | On Site | Nov 24 |
-| ↳ | **[Credit Analyst Internship - San Francisco, CA (1)](https://jobright.ai/jobs/info/6924f726c0cefa13343e4e0e?utm_campaign=1052&utm_source=git)** | San Francisco, CA, USA | On Site | Nov 24 |
 | ↳ | **[Credit Analyst Intern - Los Angeles, CA (Summer 2026) (CRE 2)](https://jobright.ai/jobs/info/6924f639ec574f4265bb9e4f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, USA | On Site | Nov 24 |
+| ↳ | **[Credit Analyst Internship - San Francisco, CA (1)](https://jobright.ai/jobs/info/6924f726c0cefa13343e4e0e?utm_campaign=1052&utm_source=git)** | San Francisco, CA, USA | On Site | Nov 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/6924d340ec574f4265bb77f9?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 24 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6924d17aec574f4265bb7654?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6924d082c0cefa13343e24d1?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6924d08aec574f4265bb7576?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Nov 24 |
+| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6924d082c0cefa13343e24d1?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/6924d034c0cefa13343e2499?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Nov 24 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6924d01aec574f4265bb7509?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Accounting](https://jobright.ai/jobs/info/6924cfd3ec574f4265bb74d4?utm_campaign=1052&utm_source=git)** | Fort Madison, IA USA 52627 | On Site | Nov 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Tax Internship](https://jobright.ai/jobs/info/6924e6a0c0cefa13343e3aeb?utm_campaign=1052&utm_source=git)** | Southfield, MI | Hybrid | Nov 24 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Asset Management, Corporate Leasing Intern - Summer 2026](https://jobright.ai/jobs/info/691533e96f36db06ef04ca57?utm_campaign=1052&utm_source=git)** | Del Mar, CA | Hybrid | Nov 24 |
 | **[The Boldt Company](https://www.boldt.com)** | **[Accounting & Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6924b877ec574f4265bb62b8?utm_campaign=1052&utm_source=git)** | Montgomery, IL | On Site | Nov 24 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Accounting](https://jobright.ai/jobs/info/6924dffdc0cefa13343e3234?utm_campaign=1052&utm_source=git)** | Fort Madison, IA | On Site | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Finance Business Analyst Intern - 2026](https://jobright.ai/jobs/info/691bc3d722a2cb4b9bd15dbd?utm_campaign=1052&utm_source=git)** | Research Park, CA | On Site | Nov 24 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6924b59a38cd5478a8d5cd77?utm_campaign=1052&utm_source=git)** | Mesa, AZ | Hybrid | Nov 24 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6924b594ec574f4265bb60c1?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Finance Leadership Development Program (FLDP) Summer Intern 2026](https://jobright.ai/jobs/info/69125ae7ea9ab01b82bf1c0b?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
