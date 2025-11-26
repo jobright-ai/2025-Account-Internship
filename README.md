@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CN](http://www.cn.ca)** | **[Intern, Accounts Payable- EN](https://jobright.ai/jobs/info/69269178f0beb07232625c1f?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Finance (Onsite)](https://jobright.ai/jobs/info/6926af52d47de4798ecd86e0?utm_campaign=1052&utm_source=git)** | PW109: West Palm Beach 17900 Beeline Highway, West Palm Beach, FL, 33410 USA | On Site | Nov 25 |
+| ↳ | **[Intern: Summer 2026 - Financial Services (Onsite)](https://jobright.ai/jobs/info/6926abaff0beb0723262603f?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 25 |
+| ↳ | **[Intern: Mature Commercial Engines Program Finance (Onsite)](https://jobright.ai/jobs/info/6926ab69f0beb07232626033?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 25 |
+| **[CN](http://www.cn.ca)** | **[Intern, Accounting- EN](https://jobright.ai/jobs/info/69269674d47de4798ecd8376?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| ↳ | **[Intern, Accounts Payable- EN](https://jobright.ai/jobs/info/69269178f0beb07232625c1f?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Intern, Accounting Development- EN](https://jobright.ai/jobs/info/69268bebf0beb07232625a7a?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Finance Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/692682f427bf2f41a2c46ac9?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 25 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69267fe027bf2f41a2c4692a?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 25 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69024691ff462851fefe1698?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Nov 25 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Internal Audit IT Intern](https://jobright.ai/jobs/info/68ed45f170b66e2345d3c0b3?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Nov 25 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261dadd47de4798ecd4b0c?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926178cd47de4798ecd4705?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261c40d47de4798ecd4a40?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926166ff0beb07232621e33?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69262bddf0beb07232622c12?utm_campaign=1052&utm_source=git)** | Ohio, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926191cd47de4798ecd4815?utm_campaign=1052&utm_source=git)** | North Carolina, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261be0f0beb072326221ea?utm_campaign=1052&utm_source=git)** | Iowa, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261864d47de4798ecd479a?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926159b27bf2f41a2c43397?utm_campaign=1052&utm_source=git)** | Michigan, United States | On Site | Nov 25 |
+| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926178cd47de4798ecd4705?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
