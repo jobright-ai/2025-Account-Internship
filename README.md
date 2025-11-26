@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metrea](https://www.metrea.aero)** | **[Finance Intern](https://jobright.ai/jobs/info/6926c900d47de4798ecd8bc6?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Nov 26 |
+| **[X-Bow Systems](https://www.xbowsystems.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6923c11a7795cd460c8391a2?utm_campaign=1052&utm_source=git)** | Luling, TX | On Site | Nov 26 |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Associate (Banking and Investing)](https://jobright.ai/jobs/info/6926c40727bf2f41a2c478c4?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 26 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Finance (Onsite)](https://jobright.ai/jobs/info/6926af52d47de4798ecd86e0?utm_campaign=1052&utm_source=git)** | PW109: West Palm Beach 17900 Beeline Highway, West Palm Beach, FL, 33410 USA | On Site | Nov 25 |
 | ↳ | **[Intern: Summer 2026 - Financial Services (Onsite)](https://jobright.ai/jobs/info/6926abaff0beb0723262603f?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 25 |
 | ↳ | **[Intern: Mature Commercial Engines Program Finance (Onsite)](https://jobright.ai/jobs/info/6926ab69f0beb07232626033?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 25 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Credit Analyst Internship - Newport Beach, CA (Summer 2026) (Tech)](https://jobright.ai/jobs/info/69261a1127bf2f41a2c434fc?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, USA | On Site | Nov 25 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Equity Research Associate Intern](https://jobright.ai/jobs/info/6926192c27bf2f41a2c43467?utm_campaign=1052&utm_source=git)** | CA-QC-Montreal-Montréal | On Site | Nov 25 |
 | **[UMB Bank](https://www.umb.com)** | **[Private Wealth Intern](https://jobright.ai/jobs/info/6926189ed47de4798ecd47bc?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Nov 25 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69261681d47de4798ecd4639?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69202f9fa49a885af9a375a7?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Nov 25 |
 | **[Cleveland Metroparks](https://clevelandmetroparks.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69261526d47de4798ecd451a?utm_campaign=1052&utm_source=git)** | Cleveland, OH, 44144, United States | On Site | Nov 25 |
 | **[Duncan-Parnell Inc.](https://www.duncan-parnell.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/691fcd9609cc522e87745941?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Nov 25 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69024691ff462851fefe1698?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Nov 25 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Internal Audit IT Intern](https://jobright.ai/jobs/info/68ed45f170b66e2345d3c0b3?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Nov 25 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261dadd47de4798ecd4b0c?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261c40d47de4798ecd4a40?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926166ff0beb07232621e33?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69262bddf0beb07232622c12?utm_campaign=1052&utm_source=git)** | Ohio, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926178cd47de4798ecd4705?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 25 |
+| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926191cd47de4798ecd4815?utm_campaign=1052&utm_source=git)** | North Carolina, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
