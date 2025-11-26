@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Accounts Payable- EN](https://jobright.ai/jobs/info/69269178f0beb07232625c1f?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| ↳ | **[Intern, Accounting Development- EN](https://jobright.ai/jobs/info/69268bebf0beb07232625a7a?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Finance Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/692682f427bf2f41a2c46ac9?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Nov 25 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69267fe027bf2f41a2c4692a?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 25 |
+| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Cash and Treasury](https://jobright.ai/jobs/info/6926776e27bf2f41a2c46597?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 25 |
+| **[Segal](https://www.segalco.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6926774227bf2f41a2c46579?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 25 |
 | **[Marquardt Group](https://www.marquardt.com)** | **[Finance & Controlling Intern](https://jobright.ai/jobs/info/6926734ef0beb07232624fd4?utm_campaign=1052&utm_source=git)** | Rochester Hills, MI | Hybrid | Nov 25 |
 | **[CG Financial Services](http://mycgfinancial.com)** | **[Future Finance Leaders Internship](https://jobright.ai/jobs/info/69266ff3f0beb07232624e03?utm_campaign=1052&utm_source=git)** | Williamston, MI | On Site | Nov 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern Highlands Ranch](https://jobright.ai/jobs/info/69266a0f27bf2f41a2c45f26?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Nov 25 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Audit Intern - Summer 2027 - Des Moines and Cedar Rapids, IA](https://jobright.ai/jobs/info/69265bdd27bf2f41a2c45919?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Nov 25 |
 | ↳ | **[Tax and Audit Intern - Spring 2027 - Tampa, FL](https://jobright.ai/jobs/info/69265bc427bf2f41a2c4590a?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Nov 25 |
 | **[BioLife Plasma Services](https://www.biolifeplasma.com/us/)** | **[2026 Summer Internship Program: Financial Planning and Analysis (FP&A), Global BioLife Intern](https://jobright.ai/jobs/info/69265a6ff0beb07232624490?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 25 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Director Internal Audit](https://jobright.ai/jobs/info/69268b37f0beb07232625a47?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Nov 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Intern - Kiewit Mining Group (Summer 2026)](https://jobright.ai/jobs/info/69265740d47de4798ecd68dc?utm_campaign=1052&utm_source=git)** | Lone Tree, CO | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Risk Analysis)](https://jobright.ai/jobs/info/6926570cd47de4798ecd68b2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Inland: We Power Great Packaging](http://inlandpackaging.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69265630d47de4798ecd6802?utm_campaign=1052&utm_source=git)** | La Crosse, WI, US | On Site | Nov 25 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69024691ff462851fefe1698?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Nov 25 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Internal Audit IT Intern](https://jobright.ai/jobs/info/68ed45f170b66e2345d3c0b3?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Nov 25 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261dadd47de4798ecd4b0c?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926191cd47de4798ecd4815?utm_campaign=1052&utm_source=git)** | North Carolina, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926178cd47de4798ecd4705?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69262bddf0beb07232622c12?utm_campaign=1052&utm_source=git)** | Ohio, United States | On Site | Nov 25 |
-| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926166ff0beb07232621e33?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261c40d47de4798ecd4a40?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Nov 25 |
+| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926166ff0beb07232621e33?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Nov 25 |
+| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69262bddf0beb07232622c12?utm_campaign=1052&utm_source=git)** | Ohio, United States | On Site | Nov 25 |
+| ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926191cd47de4798ecd4815?utm_campaign=1052&utm_source=git)** | North Carolina, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261be0f0beb072326221ea?utm_campaign=1052&utm_source=git)** | Iowa, United States | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69261864d47de4798ecd479a?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/6926159b27bf2f41a2c43397?utm_campaign=1052&utm_source=git)** | Michigan, United States | On Site | Nov 25 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6925f6e4f0beb07232620b8f?utm_campaign=1052&utm_source=git)** | Green Bay, WI | Hybrid | Nov 25 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6925f6cff0beb07232620b81?utm_campaign=1052&utm_source=git)** | Nashua, NH | Hybrid | Nov 25 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6925f64a27bf2f41a2c41f0e?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Hybrid | Nov 25 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6925f625f0beb07232620b05?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Nov 25 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6925f5f2f0beb07232620ae1?utm_campaign=1052&utm_source=git)** | Brownsville, TX | Hybrid | Nov 25 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6925f5d327bf2f41a2c41ea2?utm_campaign=1052&utm_source=git)** | San Bernardino, CA | Hybrid | Nov 25 |
-| **[James Hardie](https://www.jameshardie.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6925f5cdf0beb07232620ac4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
