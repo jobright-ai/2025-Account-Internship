@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Credit](https://jobright.ai/jobs/info/6927a9b8d47de4798ecdf654?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Nov 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Private Equity Port Cos - Summer 2027](https://jobright.ai/jobs/info/6927a97a91ceeb2e8a54216c?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Nov 26 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Summer 2025](https://jobright.ai/jobs/info/6927a65091ceeb2e8a541fbc?utm_campaign=1052&utm_source=git)** | Taylor | On Site | Nov 26 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Accounts Receivable](https://jobright.ai/jobs/info/6927a56bd47de4798ecdf52d?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 26 |
+| **[Berkshire Bank](http://berkshirebank.com/)** | **[Commercial Credit Underwriter Intern](https://jobright.ai/jobs/info/69167fd0286ccf0a15136af1?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Nov 26 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Nov 26 |
+| **[KEB](http://kebcpa.com)** | **[Spring Tax Intern](https://jobright.ai/jobs/info/691380f0e344172248f71a8f?utm_campaign=1052&utm_source=git)** | Marion, IL | On Site | Nov 26 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[MBA Intern - Investor Relations](https://jobright.ai/jobs/info/6927939df0beb0723262c3d6?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Nov 26 |
 | **[Nutanix](http://www.nutanix.com)** | **[Internal Audit & Finance Operations and Transformation Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/691fa73609cc522e87744267?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Private Markets Operations](https://jobright.ai/jobs/info/69278923d47de4798ecde38c?utm_campaign=1052&utm_source=git)** | Toronto - 16 York St | Hybrid | Nov 26 |
 | **[Nutanix](http://www.nutanix.com)** | **[Financial Analyst Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/691fa3b13f782d2f1afbee09?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/691c1399bcdbf3560c9e5706?utm_campaign=1052&utm_source=git)** | Erie, PA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd4b?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed23246e5b153e5a6054c?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Nov 26 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Data Intern - Summer 2026](https://jobright.ai/jobs/info/692737a7f0beb07232628607?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692736e091ceeb2e8a53d48f?utm_campaign=1052&utm_source=git)** | Warner Robins, GA | Hybrid | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Tax Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/690ab171d046ab6061cdf37d?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe53?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Planning & Allocation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/689a73f8faa4e875e8258d5a?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Nov 26 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Summer 2026 Infrastructure Intern](https://jobright.ai/jobs/info/689a9f5383d13d1f5b69a778?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
-| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/692734a8f0beb07232628465?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692732ea91ceeb2e8a53d374?utm_campaign=1052&utm_source=git)** | Santa Cruz, CA | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6927329a91ceeb2e8a53d343?utm_campaign=1052&utm_source=git)** | Leesburg, FL | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692731ef91ceeb2e8a53d2de?utm_campaign=1052&utm_source=git)** | Ontario, CA | Hybrid | Nov 26 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Auditing Intern](https://jobright.ai/jobs/info/6927316991ceeb2e8a53d297?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Nov 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6927315c91ceeb2e8a53d291?utm_campaign=1052&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Nov 26 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/69273153f0beb0723262826f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
