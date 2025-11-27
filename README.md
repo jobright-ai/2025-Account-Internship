@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Pricing Intern](https://jobright.ai/jobs/info/6927c5aed47de4798ece056d?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Nov 26 |
+| ↳ | **[Summer 2026 Strategic Pricing Intern](https://jobright.ai/jobs/info/6927c060d47de4798ece024d?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Nov 26 |
+| **[KMH LLP](http://kmhllp.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6927bbe7f0beb0723262d863?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Nov 26 |
+| **[Crest Vale](crestvale.us)** | **[Business Tax Intern](https://jobright.ai/jobs/info/6927b9b1d47de4798ecdffc8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 26 |
+| **[Ardagh Metal Packaging](https://www.ardaghmetalpackaging.com)** | **[Summer Procurement Intern](https://jobright.ai/jobs/info/6927b45191ceeb2e8a5426d7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 26 |
+| **[National Car Rental](https://www.nationalcar.com)** | **[Accounting Internship Summer 2025](https://jobright.ai/jobs/info/6927b371f0beb0723262d461?utm_campaign=1052&utm_source=git)** | Taylor, MI | On Site | Nov 26 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6927add791ceeb2e8a542348?utm_campaign=1052&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
+| **[Farmers & Merchants Bank](https://www.fmb1919.bank/)** | **[Intern-Operations](https://jobright.ai/jobs/info/6927ac4df0beb0723262d0c4?utm_campaign=1052&utm_source=git)** | Milford, NE | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Credit](https://jobright.ai/jobs/info/6927a9b8d47de4798ecdf654?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Private Equity Port Cos - Summer 2027](https://jobright.ai/jobs/info/6927a97a91ceeb2e8a54216c?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Nov 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Summer 2025](https://jobright.ai/jobs/info/6927a65091ceeb2e8a541fbc?utm_campaign=1052&utm_source=git)** | Taylor | On Site | Nov 26 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Accounts Receivable](https://jobright.ai/jobs/info/6927a56bd47de4798ecdf52d?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Nov 26 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Portfolio Management (WM)](https://jobright.ai/jobs/info/6927c265f0beb0723262dc2f?utm_campaign=1052&utm_source=git)** | Rockford, IL | On Site | Nov 26 |
 | **[Berkshire Bank](http://berkshirebank.com/)** | **[Commercial Credit Underwriter Intern](https://jobright.ai/jobs/info/69167fd0286ccf0a15136af1?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Nov 26 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Nov 26 |
 | **[KEB](http://kebcpa.com)** | **[Spring Tax Intern](https://jobright.ai/jobs/info/691380f0e344172248f71a8f?utm_campaign=1052&utm_source=git)** | Marion, IL | On Site | Nov 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69273a4191ceeb2e8a53d66b?utm_campaign=1052&utm_source=git)** | Macon, GA | Hybrid | Nov 26 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692739e5d47de4798ecdacc2?utm_campaign=1052&utm_source=git)** | Champaign, IL | Hybrid | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed380e0db92422580bc80?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Nov 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692739c5d47de4798ecdacb2?utm_campaign=1052&utm_source=git)** | South Lyon, MI | Hybrid | Nov 26 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/691c1399bcdbf3560c9e5706?utm_campaign=1052&utm_source=git)** | Erie, PA | On Site | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd4b?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed23246e5b153e5a6054c?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Nov 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692736e091ceeb2e8a53d48f?utm_campaign=1052&utm_source=git)** | Warner Robins, GA | Hybrid | Nov 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Tax Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/690ab171d046ab6061cdf37d?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe53?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Planning & Allocation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/689a73f8faa4e875e8258d5a?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Nov 26 |
-| **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Summer 2026 Infrastructure Intern](https://jobright.ai/jobs/info/689a9f5383d13d1f5b69a778?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
