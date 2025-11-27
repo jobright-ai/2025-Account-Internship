@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutanix](http://www.nutanix.com)** | **[Internal Audit & Finance Operations and Transformation Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/691fa73609cc522e87744267?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
+| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Private Markets Operations](https://jobright.ai/jobs/info/69278923d47de4798ecde38c?utm_campaign=1052&utm_source=git)** | Toronto - 16 York St | Hybrid | Nov 26 |
+| **[Nutanix](http://www.nutanix.com)** | **[Financial Analyst Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/691fa3b13f782d2f1afbee09?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
+| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/692785add47de4798ecddee8?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Nov 26 |
+| **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Financial Analyst (Winter 2026)](https://jobright.ai/jobs/info/6927841491ceeb2e8a5409c1?utm_campaign=1052&utm_source=git)** | Aurora, Ontario, Canada | On Site | Nov 26 |
+| **[Symetra](http://www.symetra.com)** | **[2026 High Yield Investment Internship - Remote](https://jobright.ai/jobs/info/6927825291ceeb2e8a540705?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 26 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Winnipeg - January 2026](https://jobright.ai/jobs/info/6927809df0beb0723262b44b?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 26 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor intern](https://jobright.ai/jobs/info/6927757b91ceeb2e8a53f7a1?utm_campaign=1052&utm_source=git)** | Langley, British Columbia, Canada | On Site | Nov 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[MBA Intern - Investor Relations](https://jobright.ai/jobs/info/692773ead47de4798ecdcd28?utm_campaign=1052&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Nov 26 |
 | **[RBC](https://www.rbc.com)** | **[Manager Credit Structures Intern](https://jobright.ai/jobs/info/692773b991ceeb2e8a53f621?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Nov 26 |
 | **[Tokio Marine HCC – A&H Group](tmhcc.com/AHGroup)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6927736691ceeb2e8a53f5c8?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | On Site | Nov 26 |
-| **[New Balance](http://www.newbalance.com)** | **[Financial Analyst - Intern](https://jobright.ai/jobs/info/692772e0f0beb0723262a5f5?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 26 |
 | **[Kelly Benefits](http://www.kellybenefits.com)** | **[Summer '26 Intern to join our Payroll/Tax Team](https://jobright.ai/jobs/info/69277171d47de4798ecdcc45?utm_campaign=1052&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 26 |
 | **[Chalice AI](https://www.chalice.ai/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69276f6af0beb0723262a2c9?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 26 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Economic Analyst](https://jobright.ai/jobs/info/69276f5f91ceeb2e8a53f45c?utm_campaign=1052&utm_source=git)** | Holyoke, MA | On Site | Nov 26 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eecf0de0db92422580ba28?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6927734ef0beb0723262a674?utm_campaign=1052&utm_source=git)** | Luling, TX | On Site | Nov 26 |
 | **[Ardagh Group](http://www.ardaghgroup.com)** | **[Summer Procurement Intern](https://jobright.ai/jobs/info/6927523591ceeb2e8a53e043?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 26 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Staff Accountant Intern](https://jobright.ai/jobs/info/692776e391ceeb2e8a53f866?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 26 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/69275198d47de4798ecdb609?utm_campaign=1052&utm_source=git)** | Warrensburg, MO | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Private Equity Port Cos - Summer 2027](https://jobright.ai/jobs/info/6927709a91ceeb2e8a53f4de?utm_campaign=1052&utm_source=git)** | St. Louis | On Site | Nov 26 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Finance Intern (Lynchburg, VA)](https://jobright.ai/jobs/info/6927503ad47de4798ecdb503?utm_campaign=1052&utm_source=git)** | Lynchburg, VA | On Site | Nov 26 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Planning & Allocation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/689a73f8faa4e875e8258d5a?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Nov 26 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Summer 2026 Infrastructure Intern](https://jobright.ai/jobs/info/689a9f5383d13d1f5b69a778?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/692734a8f0beb07232628465?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/692733b191ceeb2e8a53d3aa?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Nov 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692732ea91ceeb2e8a53d374?utm_campaign=1052&utm_source=git)** | Santa Cruz, CA | Hybrid | Nov 26 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6927329a91ceeb2e8a53d343?utm_campaign=1052&utm_source=git)** | Leesburg, FL | Hybrid | Nov 26 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692731ef91ceeb2e8a53d2de?utm_campaign=1052&utm_source=git)** | Ontario, CA | Hybrid | Nov 26 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Auditing Intern](https://jobright.ai/jobs/info/6927316991ceeb2e8a53d297?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Nov 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6927315c91ceeb2e8a53d291?utm_campaign=1052&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Nov 26 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Audit Intern Summer 2026](https://jobright.ai/jobs/info/69273153f0beb0723262826f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe34?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Nov 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69272fb191ceeb2e8a53d1ed?utm_campaign=1052&utm_source=git)** | Murfreesboro, TN | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69272f8691ceeb2e8a53d1da?utm_campaign=1052&utm_source=git)** | Norwich, CT | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69272f6891ceeb2e8a53d1cb?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69272f0491ceeb2e8a53d1b3?utm_campaign=1052&utm_source=git)** | Yonkers, NY | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69272e7a91ceeb2e8a53d15c?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
