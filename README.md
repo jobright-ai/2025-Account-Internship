@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Accounts Payable Auditor Accounts Payable / Receivable (Summer Intern)](https://jobright.ai/jobs/info/69227922c0cefa13343d7d8d?utm_campaign=1052&utm_source=git)** | Aiken, SC | On Site | Nov 27 |
+| **[Howmet Aerospace](https://www.howmet.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69280b01f0beb0723262f359?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Remote | Nov 27 |
+| **[National HME](http://www.nationalhme.com)** | **[Intern, Property Tax (US)](https://jobright.ai/jobs/info/692809b5d47de4798ece19b2?utm_campaign=1052&utm_source=git)** | Homewood, IL | On Site | Nov 27 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/6927ffabf0beb0723262f0eb?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Nov 26 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69281a5fd47de4798ece1d6f?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6927e8d4d47de4798ece13b9?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 26 |
 | **[GreenRoom Ventures](https://greenroomventures.net)** | **[Intern](https://jobright.ai/jobs/info/6927e887f0beb0723262ecb8?utm_campaign=1052&utm_source=git)** | Summerlin South, NV | Remote | Nov 26 |
 | **[Crest Vale](crestvale.us)** | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/6927e0caf0beb0723262eaee?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Nov 26 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Bank](http://berkshirebank.com/)** | **[Commercial Credit Underwriter Intern](https://jobright.ai/jobs/info/69167fd0286ccf0a15136af1?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Nov 26 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Nov 26 |
 | **[KEB](http://kebcpa.com)** | **[Spring Tax Intern](https://jobright.ai/jobs/info/691380f0e344172248f71a8f?utm_campaign=1052&utm_source=git)** | Marion, IL | On Site | Nov 26 |
-| **[Blue Ventis](blueventis.us)** | **[Fund Accounting Summer Internship](https://jobright.ai/jobs/info/6927d3eb91ceeb2e8a5437db?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[MBA Intern - Investor Relations](https://jobright.ai/jobs/info/6927939df0beb0723262c3d6?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Nov 26 |
 | **[Nutanix](http://www.nutanix.com)** | **[Internal Audit & Finance Operations and Transformation Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/691fa73609cc522e87744267?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Private Markets Operations](https://jobright.ai/jobs/info/69278923d47de4798ecde38c?utm_campaign=1052&utm_source=git)** | Toronto - 16 York St | Hybrid | Nov 26 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Finance, Finance - New York, NY](https://jobright.ai/jobs/info/68d202b317554c2d9eee229e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/69275ba6d47de4798ecdbc54?utm_campaign=1052&utm_source=git)** | Oak Ridge,  TN | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Private Company – Summer 2027](https://jobright.ai/jobs/info/69275a0c91ceeb2e8a53e4c2?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Nov 26 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Finance Intern](https://jobright.ai/jobs/info/6927594091ceeb2e8a53e443?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Nov 26 |
 | **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/692756c691ceeb2e8a53e30c?utm_campaign=1052&utm_source=git)** | Oak Ridge, TN | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Corporations - Summer 2027](https://jobright.ai/jobs/info/69275693d47de4798ecdb986?utm_campaign=1052&utm_source=git)** | St. Louis | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed507d078b81ad160ff5f?utm_campaign=1052&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed16146e5b153e5a60332?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Nov 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69273c5091ceeb2e8a53d79f?utm_campaign=1052&utm_source=git)** | Lakewood, CO | Hybrid | Nov 26 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69273c4bd47de4798ecdae15?utm_campaign=1052&utm_source=git)** | Burlington, NC | Hybrid | Nov 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69273c23d47de4798ecdadfd?utm_campaign=1052&utm_source=git)** | Hollywood, FL | Hybrid | Nov 26 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor intern](https://jobright.ai/jobs/info/69273bffd47de4798ecdadea?utm_campaign=1052&utm_source=git)** | LANGLEY, British Columbia, Canada | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
