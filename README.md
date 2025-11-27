@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Tax Intern – Accounting, Audit & Tax Support](https://jobright.ai/jobs/info/6928a8de91ceeb2e8a546121?utm_campaign=1052&utm_source=git)** | Seattle, WA | Remote | Nov 27 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6928a89ff0beb07232630fdc?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 27 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Tax Intern – Business Analytics & Compliance](https://jobright.ai/jobs/info/6928a852f0beb07232630fcf?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 27 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Co-op Student - Treasury (8 or 12 months)](https://jobright.ai/jobs/info/6916e8929c388539cbdffb39?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69289f1e91ceeb2e8a545f8e?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, CA | On Site | Nov 27 |
+| **[Sanctuary AI](https://www.sanctuary.ai)** | **[Procurement Intern (Jan 2026)](https://jobright.ai/jobs/info/69289cce91ceeb2e8a545f1d?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Nov 27 |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Finance Internship](https://jobright.ai/jobs/info/69289915d47de4798ece3429?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 27 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Property Underwriting Summer Intern](https://jobright.ai/jobs/info/6928984fd47de4798ece33da?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Nov 27 |
+| **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68efde5278ba1621431e0f21?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
+| ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd77878ba1621431e0bdc?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 27 |
+| ↳ | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68f01603de50091dbfa51b90?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Nov 27 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Tax Intern – Financial Planning & Tax Review](https://jobright.ai/jobs/info/692893edd47de4798ece3346?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Nov 27 |
+| **[The Peak Group of Companies](https://www.peakproducts.com)** | **[Inventory Planning & Forecasting Co-Op](https://jobright.ai/jobs/info/69289119f0beb07232630c8f?utm_campaign=1052&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Nov 27 |
+| **[Rhode Island Public Transit Authority](https://www.ripta.com/)** | **[Intern-Finance Division](https://jobright.ai/jobs/info/69288ff391ceeb2e8a545da7?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Nov 27 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69288c1491ceeb2e8a545d31?utm_campaign=1052&utm_source=git)** | Westminster, CO | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69288c1291ceeb2e8a545d2d?utm_campaign=1052&utm_source=git)** | Harlingen, TX | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69288bd391ceeb2e8a545d20?utm_campaign=1052&utm_source=git)** | Kailua, HI | Hybrid | Nov 27 |
@@ -122,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807dd47de4798ece3060?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69288075f0beb07232630981?utm_campaign=1052&utm_source=git)** | Clovis, CA | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807491ceeb2e8a545b0c?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807291ceeb2e8a545b0b?utm_campaign=1052&utm_source=git)** | Dover, DE | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807291ceeb2e8a545b0a?utm_campaign=1052&utm_source=git)** | Seaside, CA | Hybrid | Nov 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807291ceeb2e8a545b0b?utm_campaign=1052&utm_source=git)** | Dover, DE | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928802a91ceeb2e8a545afb?utm_campaign=1052&utm_source=git)** | Waldorf, MD | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928801dd47de4798ece304f?utm_campaign=1052&utm_source=git)** | Rochester, MN | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928801c91ceeb2e8a545af6?utm_campaign=1052&utm_source=git)** | Coeur d'Alene, ID | Hybrid | Nov 27 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/686e15ea971c1e9673ec0242?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69287b3ef0beb07232630883?utm_campaign=1052&utm_source=git)** | Meridian, ID | Hybrid | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4d5d078b81ad160fefe?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Nov 27 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Western, WI](https://jobright.ai/jobs/info/68f312769a63986de756eafd?utm_campaign=1052&utm_source=git)** | Hudson, WI | On Site | Nov 27 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Property and Specialty Underwriting Intern](https://jobright.ai/jobs/info/692876b0f0beb072326307b7?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Remote | Nov 27 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69287679f0beb072326307aa?utm_campaign=1052&utm_source=git)** | Miramar, FL | Hybrid | Nov 27 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Western, WI](https://jobright.ai/jobs/info/68d33d9217554c2d9eeeee58?utm_campaign=1052&utm_source=git)** | Rice Lake, WI | On Site | Nov 27 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692875eaf0beb0723263078d?utm_campaign=1052&utm_source=git)** | Olathe, KS | Hybrid | Nov 27 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed562e0db92422580bfa6?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Nov 27 |
-| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52ae0db92422580bf4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/692874f1d47de4798ece2e2b?utm_campaign=1052&utm_source=git)** | Yuba City, CA | Hybrid | Nov 27 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/68c649bedb52c07d288469fc?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Nov 27 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Western, WI](https://jobright.ai/jobs/info/68d344668c62e63bc7fdf33e?utm_campaign=1052&utm_source=git)** | Tomah, WI | On Site | Nov 27 |
-| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/690bdef8d046ab6061ce8c02?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 27 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed39ae0db92422580bca9?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | On Site | Nov 27 |
-| **[Uline](http://www.uline.com)** | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5678ba1621431e0e18?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Indirect Procurement Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6911b2e7183be660d267d81c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
