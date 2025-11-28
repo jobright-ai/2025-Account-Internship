@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Desjardins](https://www.desjardins.com)** | **[Directeur principal ou directrice principale, Évaluation des contrôles internes technologiques-FR](https://jobright.ai/jobs/info/692a13314c474121999cb5f1?utm_campaign=1052&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 28 |
+| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/692a0f6efa28370be269646f?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 28 |
+| **[Independent Consultant](https://www.linkedin.com/company/18662810/)** | **[Finance Intern](https://jobright.ai/jobs/info/692a08f34c474121999cb3bd?utm_campaign=1052&utm_source=git)** | Brantford, Ontario, Canada | On Site | Nov 28 |
+| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Finance Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a08db66796e3028f8e11e?utm_campaign=1052&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Nov 28 |
+| **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Accounting and Finance](https://jobright.ai/jobs/info/692a08074c474121999cb344?utm_campaign=1052&utm_source=git)** | Wayne, PA | Hybrid | Nov 28 |
 | **[BMO](http://www.bmo.com)** | **[Private Wealth Analyst, Winter 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6929fb8666796e3028f8ddb0?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Nov 28 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Regulatory Accounting](https://jobright.ai/jobs/info/6929f955fa28370be2695eda?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | ↳ | **[Co-op Student, Finance](https://jobright.ai/jobs/info/6929f92ffa28370be2695ed4?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1ccfa28370be269526a?utm_campaign=1052&utm_source=git)** | Highlands Ranch, CO | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1bcfa28370be2695269?utm_campaign=1052&utm_source=git)** | Allen, TX | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1834c474121999ca32a?utm_campaign=1052&utm_source=git)** | Columbia, MD | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c13666796e3028f8d07e?utm_campaign=1052&utm_source=git)** | Temecula, CA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1234c474121999ca315?utm_campaign=1052&utm_source=git)** | Sandy, UT | Hybrid | Nov 28 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/690c3580d046ab6061cebc56?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Nov 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c08e4c474121999ca2fa?utm_campaign=1052&utm_source=git)** | Davie, FL | Hybrid | Nov 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691f98bca49a885af9a32366?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
