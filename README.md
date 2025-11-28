@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanctuary AI](https://www.sanctuary.ai)** | **[Procurement Intern (Jan 2026)](https://jobright.ai/jobs/info/69290f31d47de4798ece42fa?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 27 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Audit Summer Internship](https://jobright.ai/jobs/info/69290af0d47de4798ece425a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Nov 27 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69290a3e91ceeb2e8a546d6e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/6929058291ceeb2e8a546cd0?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 27 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6928e18891ceeb2e8a5468d3?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Remote | Nov 27 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6928e0ddd47de4798ece3df0?utm_campaign=1052&utm_source=git)** | Lubbock, TX | Remote | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Internal Audit- EN](https://jobright.ai/jobs/info/6928d248f0beb072326315ef?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807dd47de4798ece3060?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69288075f0beb07232630981?utm_campaign=1052&utm_source=git)** | Clovis, CA | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807491ceeb2e8a545b0c?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807291ceeb2e8a545b0a?utm_campaign=1052&utm_source=git)** | Seaside, CA | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807291ceeb2e8a545b0b?utm_campaign=1052&utm_source=git)** | Dover, DE | Hybrid | Nov 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928807291ceeb2e8a545b0a?utm_campaign=1052&utm_source=git)** | Seaside, CA | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928802a91ceeb2e8a545afb?utm_campaign=1052&utm_source=git)** | Waldorf, MD | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928801dd47de4798ece304f?utm_campaign=1052&utm_source=git)** | Rochester, MN | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928801c91ceeb2e8a545af7?utm_campaign=1052&utm_source=git)** | Logan, UT | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928801c91ceeb2e8a545af6?utm_campaign=1052&utm_source=git)** | Coeur d'Alene, ID | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928801591ceeb2e8a545af4?utm_campaign=1052&utm_source=git)** | Monroe, LA | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928800891ceeb2e8a545af0?utm_campaign=1052&utm_source=git)** | Carrollton, TX | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69287ff3d47de4798ece3043?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
