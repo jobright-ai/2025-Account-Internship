@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928811b91ceeb2e8a545b40?utm_campaign=1052&utm_source=git)** | Independence, MO | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928810ff0beb072326309ad?utm_campaign=1052&utm_source=git)** | Pearland, TX | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6928810091ceeb2e8a545b34?utm_campaign=1052&utm_source=git)** | Burlington, VT | Hybrid | Nov 27 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692880f4d47de4798ece3080?utm_campaign=1052&utm_source=git)** | Abilene, TX | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692880f4d47de4798ece307f?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | Hybrid | Nov 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692880f4d47de4798ece3080?utm_campaign=1052&utm_source=git)** | Abilene, TX | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692880eff0beb072326309a2?utm_campaign=1052&utm_source=git)** | Johnson City, TN | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692880ecf0beb0723263099f?utm_campaign=1052&utm_source=git)** | Simi Valley, CA | Hybrid | Nov 27 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/692880e5d47de4798ece3079?utm_campaign=1052&utm_source=git)** | Greenville, NC | Hybrid | Nov 27 |
