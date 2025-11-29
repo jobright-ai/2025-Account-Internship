@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/692a6223fa28370be2697052?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Nov 28 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Finance Internship](https://jobright.ai/jobs/info/69229de17795cd460c836738?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Nov 28 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Finance Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a529efa28370be2696e30?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Pharmacy Finance Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a44e2fa28370be2696c2b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Auditing Intern](https://jobright.ai/jobs/info/692a371efa28370be2696a2d?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Nov 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - CRE](https://jobright.ai/jobs/info/6929c289fa28370be269529c?utm_campaign=1052&utm_source=git)** | Pittsburgh, Pennsylvania - United States | On Site | Nov 28 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c2524c474121999ca363?utm_campaign=1052&utm_source=git)** | Quincy, MA | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c2444c474121999ca35c?utm_campaign=1052&utm_source=git)** | Hillsboro, OR | Hybrid | Nov 28 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Capital Markets](https://jobright.ai/jobs/info/6929c2444c474121999ca35d?utm_campaign=1052&utm_source=git)** | Pittsburgh, Pennsylvania - United States | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd9fa9821486c423c7c6d?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
