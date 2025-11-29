@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Finance Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a529efa28370be2696e30?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 28 |
+| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Pharmacy Finance Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a44e2fa28370be2696c2b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 28 |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Auditing Intern](https://jobright.ai/jobs/info/692a371efa28370be2696a2d?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Nov 28 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692a2f8f4c474121999cba04?utm_campaign=1052&utm_source=git)** | Pomona, CA | Remote | Nov 28 |
 | **[Push Operations](http://www.pushoperations.com)** | **[Payroll Accounting Intern](https://jobright.ai/jobs/info/6917dead15b415636717c4dd?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 28 |
 | **[Desjardins](https://www.desjardins.com)** | **[Directeur principal ou directrice principale, Évaluation des contrôles internes technologiques-FR](https://jobright.ai/jobs/info/692a13314c474121999cb5f1?utm_campaign=1052&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c2444c474121999ca35c?utm_campaign=1052&utm_source=git)** | Hillsboro, OR | Hybrid | Nov 28 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Capital Markets](https://jobright.ai/jobs/info/6929c2444c474121999ca35d?utm_campaign=1052&utm_source=git)** | Pittsburgh, Pennsylvania - United States | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd9fa9821486c423c7c6d?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Nov 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c22a66796e3028f8d0ba?utm_campaign=1052&utm_source=git)** | Norwalk, CA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1d166796e3028f8d0a2?utm_campaign=1052&utm_source=git)** | Longview, TX | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1ccfa28370be269526a?utm_campaign=1052&utm_source=git)** | Highlands Ranch, CO | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
