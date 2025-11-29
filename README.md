@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Nov 29 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6911ab20bb519377733f0768?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Nov 29 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68d16c08cece431f8b583a31?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Nov 29 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Indianapolis)](https://jobright.ai/jobs/info/68b9f2008043103d4f21c15c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 29 |
+| ↳ | **[Assurance Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/68b99bf45f3832749185f48d?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Nov 29 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Closing Specialist](https://jobright.ai/jobs/info/68d62cfe894705799a2e8696?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 29 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - International Trade & Foreign Exchange Sales Support](https://jobright.ai/jobs/info/690e454944146d3b6ec526b2?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 29 |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/692acb0566796e3028f8f956?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/68c8e6ee95f5211cd2cead6a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/692ac9074c474121999ccb81?utm_campaign=1052&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 29 |
 | **[PADNOS](http://padnos.com)** | **[Finance Intern](https://jobright.ai/jobs/info/692ac2794c474121999ccb19?utm_campaign=1052&utm_source=git)** | Grandville, MI | On Site | Nov 29 |
 | **[Oxford Bank](http://oxfordbank.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/692ab79466796e3028f8f813?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 29 |
 | **[LaSalle Investment Management](http://www.lasalle.com/Pages/default.aspx)** | **[Rotational Intern, Americas](https://jobright.ai/jobs/info/692ab76e4c474121999cca2c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
@@ -113,8 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929d2fc66796e3028f8d313?utm_campaign=1052&utm_source=git)** | Roswell, GA | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929d2c9fa28370be26954bd?utm_campaign=1052&utm_source=git)** | Carson, CA | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929d214fa28370be2695482?utm_campaign=1052&utm_source=git)** | St Augustine, FL | Hybrid | Nov 28 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance Internship](https://jobright.ai/jobs/info/6929cf4966796e3028f8d28e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929cebcfa28370be2695436?utm_campaign=1052&utm_source=git)** | Lynn, MA | Hybrid | Nov 28 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929cebcfa28370be2695436?utm_campaign=1052&utm_source=git)** | Lynn, MA | Hybrid | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd87de50091dbfa50b8f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929ce75fa28370be2695429?utm_campaign=1052&utm_source=git)** | San Angelo, TX | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929ce74fa28370be2695427?utm_campaign=1052&utm_source=git)** | Vista, CA | Hybrid | Nov 28 |
@@ -129,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929ccfffa28370be26953b9?utm_campaign=1052&utm_source=git)** | San Tan Valley, AZ | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929ccbefa28370be26953af?utm_campaign=1052&utm_source=git)** | Spokane Valley, WA | Hybrid | Nov 28 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/68c7a93e7d0db4114273f1c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Nov 28 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/691d567abcdbf3560c9f0061?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Nov 28 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c95866796e3028f8d1e0?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c8d366796e3028f8d1be?utm_campaign=1052&utm_source=git)** | Lees Summit, MO | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c8c64c474121999ca459?utm_campaign=1052&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c6d94c474121999ca3e3?utm_campaign=1052&utm_source=git)** | Brockton, MA | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c6d866796e3028f8d13b?utm_campaign=1052&utm_source=git)** | Wichita Falls, TX | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c66f4c474121999ca3ca?utm_campaign=1052&utm_source=git)** | Everett, WA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c6504c474121999ca3c2?utm_campaign=1052&utm_source=git)** | West Covina, CA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c6204c474121999ca3b9?utm_campaign=1052&utm_source=git)** | Chico, CA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c396fa28370be26952d3?utm_campaign=1052&utm_source=git)** | Murrieta, CA | Hybrid | Nov 28 |
-| **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Chief Financial Office - Jacksonville 2026](https://jobright.ai/jobs/info/690e067244146d3b6ec50dc5?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c39066796e3028f8d119?utm_campaign=1052&utm_source=git)** | Rialto, CA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c381fa28370be26952cf?utm_campaign=1052&utm_source=git)** | Downey, CA | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c36366796e3028f8d10d?utm_campaign=1052&utm_source=git)** | Fishers, IN | Hybrid | Nov 28 |
-| **[Aser Ventures](http://aser.com/)** | **[M&A and Research Intern](https://jobright.ai/jobs/info/6929c35c66796e3028f8d10b?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
