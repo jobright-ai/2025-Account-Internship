@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PADNOS](http://padnos.com)** | **[Finance Intern](https://jobright.ai/jobs/info/692ac2794c474121999ccb19?utm_campaign=1052&utm_source=git)** | Grandville, MI | On Site | Nov 29 |
+| **[Oxford Bank](http://oxfordbank.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/692ab79466796e3028f8f813?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 29 |
+| **[LaSalle Investment Management](http://www.lasalle.com/Pages/default.aspx)** | **[Rotational Intern, Americas](https://jobright.ai/jobs/info/692ab76e4c474121999cca2c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
+| **[Rocket Companies](https://rocket.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/692ab36d4c474121999cc9bf?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a77b666796e3028f8f11c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 28 |
 | ↳ | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a779f66796e3028f8f10f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 28 |
 | ↳ | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a776466796e3028f8f0f7?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Nov 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c381fa28370be26952cf?utm_campaign=1052&utm_source=git)** | Downey, CA | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c36366796e3028f8d10d?utm_campaign=1052&utm_source=git)** | Fishers, IN | Hybrid | Nov 28 |
 | **[Aser Ventures](http://aser.com/)** | **[M&A and Research Intern](https://jobright.ai/jobs/info/6929c35c66796e3028f8d10b?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c33966796e3028f8d0fc?utm_campaign=1052&utm_source=git)** | Riverview, FL | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c2e7fa28370be26952b7?utm_campaign=1052&utm_source=git)** | San Mateo, CA | Hybrid | Nov 28 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Tax Intern – Financial Planning & Tax Review](https://jobright.ai/jobs/info/6929c2c1fa28370be26952af?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Nov 28 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Financial Analysis & Controlling Intern/Co-op](https://jobright.ai/jobs/info/68d58aad1f7fb2169ab113c0?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Nov 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c299fa28370be26952a3?utm_campaign=1052&utm_source=git)** | Inglewood, CA | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
