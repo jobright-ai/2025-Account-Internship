@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692a2f8f4c474121999cba04?utm_campaign=1052&utm_source=git)** | Pomona, CA | Remote | Nov 28 |
+| **[Push Operations](http://www.pushoperations.com)** | **[Payroll Accounting Intern](https://jobright.ai/jobs/info/6917dead15b415636717c4dd?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 28 |
 | **[Desjardins](https://www.desjardins.com)** | **[Directeur principal ou directrice principale, Évaluation des contrôles internes technologiques-FR](https://jobright.ai/jobs/info/692a13314c474121999cb5f1?utm_campaign=1052&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 28 |
 | **[Growvix](https://www.linkedin.com/company/104166605)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/692a0f6efa28370be269646f?utm_campaign=1052&utm_source=git)** | Ogden, UT | Remote | Nov 28 |
 | **[Independent Consultant](https://www.linkedin.com/company/18662810/)** | **[Finance Intern](https://jobright.ai/jobs/info/692a08f34c474121999cb3bd?utm_campaign=1052&utm_source=git)** | Brantford, Ontario, Canada | On Site | Nov 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c22a66796e3028f8d0ba?utm_campaign=1052&utm_source=git)** | Norwalk, CA | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1d166796e3028f8d0a2?utm_campaign=1052&utm_source=git)** | Longview, TX | Hybrid | Nov 28 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1ccfa28370be269526a?utm_campaign=1052&utm_source=git)** | Highlands Ranch, CO | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1bcfa28370be2695269?utm_campaign=1052&utm_source=git)** | Allen, TX | Hybrid | Nov 28 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6929c1834c474121999ca32a?utm_campaign=1052&utm_source=git)** | Columbia, MD | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
