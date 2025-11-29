@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Quantitative Tax Analysis](https://jobright.ai/jobs/info/692b5dab4c474121999cdb85?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Nov 29 |
+| **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/692b564b4c474121999cdac1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Nov 29 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/692b531566796e3028f9078a?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/692b52b166796e3028f90771?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 29 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Audit Intern summer 2026](https://jobright.ai/jobs/info/692b4ea366796e3028f906c8?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690ea850d046ab6061cffd55?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Nov 29 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Tax Intern – Advisory & Tax Strategy](https://jobright.ai/jobs/info/692b47f066796e3028f9060e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Companies](https://rocket.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/692ab36d4c474121999cc9bf?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a77b666796e3028f8f11c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 28 |
-| ↳ | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a779f66796e3028f8f10f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 28 |
-| ↳ | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a776466796e3028f8f0f7?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Nov 28 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/692a6223fa28370be2697052?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Nov 28 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Finance Internship](https://jobright.ai/jobs/info/69229de17795cd460c836738?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
