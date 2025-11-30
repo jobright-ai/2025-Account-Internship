@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LumoraX](lumorax.us)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/692b787e4c474121999cdd42?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Quantitative Tax Analysis](https://jobright.ai/jobs/info/692b5dab4c474121999cdb85?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Nov 29 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/692b564b4c474121999cdac1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Nov 29 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/692b531566796e3028f9078a?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 29 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Risk](https://jobright.ai/jobs/info/692b03794c474121999cd152?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/691a9a6545fb6f5ead8ac425?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
 | **[AZCO](http://www.azco-inc.com)** | **[Business Analyst Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68da11fe3c03cd3270942a0d?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Nov 29 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/692b75b2fa28370be2698c8d?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Nov 29 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/690e290e221b890c2780b5b4?utm_campaign=1052&utm_source=git)** | Kokomo, IN | On Site | Nov 29 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/692affa8fa28370be2698096?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Nov 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Manufacturing Plant Finance Intern](https://jobright.ai/jobs/info/692aff864c474121999cd0f7?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Nov 29 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - Underwriting (Madison - Summer 2026)](https://jobright.ai/jobs/info/68d8cc54c52ed61722c96331?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Nov 29 |
 | **[KLA](https://www.kla.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/690e6d9f221b890c2780decd?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Nov 29 |
 | ↳ | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/690e6b78221b890c2780dd6a?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Nov 29 |
-| **[Blue Ventis](blueventis.us)** | **[Fund Accounting Summer Internship](https://jobright.ai/jobs/info/692adfc3fa28370be2697c5c?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 29 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Nov 29 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6911ab20bb519377733f0768?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Nov 29 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68d16c08cece431f8b583a31?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oxford Bank](http://oxfordbank.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/692ab79466796e3028f8f813?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 29 |
 | **[Rocket Companies](https://rocket.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/692ab36d4c474121999cc9bf?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 29 |
-| **[CN](http://www.cn.ca)** | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a77b666796e3028f8f11c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
