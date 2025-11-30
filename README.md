@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equity Bank](https://www.equitybank.com/)** | **[Credit Summer Internship 2026](https://jobright.ai/jobs/info/692b9dd066796e3028f90c55?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
+| **[Wyoming Investor](https://www.wyominginvestor.com)** | **[Investment Analyst Internship](https://jobright.ai/jobs/info/692b8d21fa28370be2698dd6?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 29 |
+| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692ba127fa28370be2698f00?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Remote | Nov 29 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692ba1654c474121999cdf84?utm_campaign=1052&utm_source=git)** | Lubbock, TX | Remote | Nov 29 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692b9dc3fa28370be2698eb5?utm_campaign=1052&utm_source=git)** | Pomona, CA | Remote | Nov 29 |
 | **[LumoraX](lumorax.us)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/692b787e4c474121999cdd42?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Quantitative Tax Analysis](https://jobright.ai/jobs/info/692b5dab4c474121999cdb85?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Nov 29 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/692b564b4c474121999cdac1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Nov 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - International Trade & Foreign Exchange Sales Support](https://jobright.ai/jobs/info/690e454944146d3b6ec526b2?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 29 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/692acb0566796e3028f8f956?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/68c8e6ee95f5211cd2cead6a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/692ac9074c474121999ccb81?utm_campaign=1052&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 29 |
-| **[PADNOS](http://padnos.com)** | **[Finance Intern](https://jobright.ai/jobs/info/692ac2794c474121999ccb19?utm_campaign=1052&utm_source=git)** | Grandville, MI | On Site | Nov 29 |
-| **[Oxford Bank](http://oxfordbank.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/692ab79466796e3028f8f813?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 29 |
-| **[Rocket Companies](https://rocket.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/692ab36d4c474121999cc9bf?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
-| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
