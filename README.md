@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Clovis](ClovisCA.gov)** | **[Accounting Intern Extra Help Part-Time](https://jobright.ai/jobs/info/692c08df4c474121999cf977?utm_campaign=1052&utm_source=git)** | Clovis, CA | On Site | Nov 30 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Management Accounting & Tax](https://jobright.ai/jobs/info/692bde6ffa28370be269a10f?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Nov 29 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Credit Summer Internship 2026](https://jobright.ai/jobs/info/692b9dd066796e3028f90c55?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692ba127fa28370be2698f00?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Remote | Nov 29 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[LumoraX](lumorax.us)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/692b787e4c474121999cdd42?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Quantitative Tax Analysis](https://jobright.ai/jobs/info/692b5dab4c474121999cdb85?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Nov 29 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/692b564b4c474121999cdac1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Nov 29 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/692b531566796e3028f9078a?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/692b52b166796e3028f90771?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Nov 29 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Audit Intern summer 2026](https://jobright.ai/jobs/info/692b4ea366796e3028f906c8?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690ea850d046ab6061cffd55?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Nov 29 |
@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage  Correspondence Specialist)](https://jobright.ai/jobs/info/68bb78875f3832749186f63c?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Accounting](https://jobright.ai/jobs/info/691ab463bcdbf3560c9d9c32?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Nov 29 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Underwriting](https://jobright.ai/jobs/info/690f313d44146d3b6ec5a9fb?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/692b2215fa28370be269848b?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Tax Intern – Business Analytics & Compliance](https://jobright.ai/jobs/info/692b21e3fa28370be2698479?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Nov 29 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern - 2026](https://jobright.ai/jobs/info/692b2159fa28370be269845f?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690eaa1e221b890c27810747?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Nov 29 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Accounting/Finance](https://jobright.ai/jobs/info/690f306244146d3b6ec5a9c8?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/692b123efa28370be269831a?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Valuation Services](https://jobright.ai/jobs/info/68ccc9f0a77e5d7d744f577f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/692b11314c474121999cd3be?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Stewardship and Sustainable Investing MBA Intern - New York](https://jobright.ai/jobs/info/690e5ae3221b890c2780d188?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Tax Intern – Business Analytics & Compliance](https://jobright.ai/jobs/info/692b0e1a66796e3028f900a2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
 | **[Cadence Bank](https://cadencebank.com)** | **[Credit Analyst Internship](https://jobright.ai/jobs/info/68eb690176a1db7c5985fd91?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Nov 29 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Accounting and Finance Intern - Year Round](https://jobright.ai/jobs/info/68acfa91daf1431824c99860?utm_campaign=1052&utm_source=git)** | Saukville, WI | Hybrid | Nov 29 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Equity Research Associate Intern](https://jobright.ai/jobs/info/6927b868d47de4798ecdfece?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 29 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Tax Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/689d2cd2faa4e875e826da2d?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Nov 29 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Tax Intern - Accounting OR Audit and Tax Support](https://jobright.ai/jobs/info/692b03f666796e3028f8ff00?utm_campaign=1052&utm_source=git)** | Seattle, WA | Remote | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/690e6facd046ab6061cfd9c0?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Risk](https://jobright.ai/jobs/info/692b03794c474121999cd152?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/691a9a6545fb6f5ead8ac425?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/68b99bf45f3832749185f48d?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Nov 29 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Closing Specialist](https://jobright.ai/jobs/info/68d62cfe894705799a2e8696?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 29 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - International Trade & Foreign Exchange Sales Support](https://jobright.ai/jobs/info/690e454944146d3b6ec526b2?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Nov 29 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/692acb0566796e3028f8f956?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/68c8e6ee95f5211cd2cead6a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/692ac9074c474121999ccb81?utm_campaign=1052&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 29 |
 | **[PADNOS](http://padnos.com)** | **[Finance Intern](https://jobright.ai/jobs/info/692ac2794c474121999ccb19?utm_campaign=1052&utm_source=git)** | Grandville, MI | On Site | Nov 29 |
 | **[Oxford Bank](http://oxfordbank.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/692ab79466796e3028f8f813?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Nov 29 |
 | **[Rocket Companies](https://rocket.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/692ab36d4c474121999cc9bf?utm_campaign=1052&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Nov 29 |
+| **[CN](http://www.cn.ca)** | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a77b666796e3028f8f11c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
