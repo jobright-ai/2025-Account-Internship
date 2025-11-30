@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Management Accounting & Tax](https://jobright.ai/jobs/info/692bde6ffa28370be269a10f?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Nov 29 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Credit Summer Internship 2026](https://jobright.ai/jobs/info/692b9dd066796e3028f90c55?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692ba127fa28370be2698f00?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Remote | Nov 29 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/692ba1654c474121999cdf84?utm_campaign=1052&utm_source=git)** | Lubbock, TX | Remote | Nov 29 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[Tax Intern – Corporate Tax & Business Analysis](https://jobright.ai/jobs/info/692b399b4c474121999cd7a8?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Nov 29 |
 | **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Nov 29 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance Internship](https://jobright.ai/jobs/info/692b385366796e3028f904f1?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage  Correspondence Specialist)](https://jobright.ai/jobs/info/68bb78875f3832749186f63c?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Accounting](https://jobright.ai/jobs/info/691ab463bcdbf3560c9d9c32?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Nov 29 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Underwriting](https://jobright.ai/jobs/info/690f313d44146d3b6ec5a9fb?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
