@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/692d8b33fa28370be269d384?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Summer Internship, Underwriting - New York June 2026](https://jobright.ai/jobs/info/692d88d24c474121999d22bd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 01 |
+| **[Orvanta](orvanta.us)** | **[Tax Intern – Risk Management & Tax Advisory](https://jobright.ai/jobs/info/692d870efa28370be269d306?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 01 |
+| **[Crown Fund](Crownfund.co)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/692d861666796e3028f95022?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Dec 01 |
+| **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - California & Reno](https://jobright.ai/jobs/info/68bb2f136105227d118a39a7?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Dec 01 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern – Risk Management & Tax Advisory](https://jobright.ai/jobs/info/692d7c64fa28370be269d12c?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/67929edcf8c267e801e1613e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Dec 01 |
 | ↳ | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68cd3092b2a74e1837ed3a4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Dec 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit – Operational Audit)](https://jobright.ai/jobs/info/691cfa88bcdbf3560c9ebed3?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
 | ↳ | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/692288b138cd5478a8d54063?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/68ccd0a9b274cd205ab4f60f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/6922b3e238cd5478a8d54c39?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Nov 29 |
-| **[Citi](https://www.citi.com)** | **[Wealth - LATAM, Summer Analyst, Miami - USA, 2026](https://jobright.ai/jobs/info/68d70b2ed3fe025a3015e6ab?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Nov 29 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/691d006fff7024498416ccb3?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
-| **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Nov 29 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
