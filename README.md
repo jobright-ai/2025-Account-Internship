@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Analyst Intern - Summer 2026 (Savannah, GA)](https://jobright.ai/jobs/info/692e7d4fef4b48533d14033f?utm_campaign=1052&utm_source=git)** | Rincon, GA | On Site | Dec 01 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Program Finance Intern](https://jobright.ai/jobs/info/692e76b64c474121999d9b40?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Dec 01 |
+| **[LumoraX](lumorax.us)** | **[Auditing Intern](https://jobright.ai/jobs/info/692e8f804c474121999da0e0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Dec 01 |
 | **[Montana Department of Transportation](http://mdt.mt.gov)** | **[Accounting MDT Intern](https://jobright.ai/jobs/info/692e766bfa28370be26a4ce6?utm_campaign=1052&utm_source=git)** | Helena, MT | On Site | Dec 01 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/692e81024c474121999d9e53?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Dec 01 |
+| **[York Catholic District School Board](http://www.ycdsb.ca)** | **[Regional Internal Audit Specialist](https://jobright.ai/jobs/info/692e80a84c474121999d9e3c?utm_campaign=1052&utm_source=git)** | Aurora, IL | On Site | Dec 01 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Tax Intern / Multiple Locations (Summer 2027)](https://jobright.ai/jobs/info/692e7e5bfa28370be26a4f39?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 01 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Analyst Intern - Summer 2026 (Muskogee, OK)](https://jobright.ai/jobs/info/692e7e36ef4b48533d14038a?utm_campaign=1052&utm_source=git)** | Muskogee, OK | On Site | Dec 01 |
+| ↳ | **[Georgia-Pacific Analyst Intern - Summer 2026 (Savannah, GA)](https://jobright.ai/jobs/info/692e7d4fef4b48533d14033f?utm_campaign=1052&utm_source=git)** | Rincon, GA | On Site | Dec 01 |
+| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Program Finance Intern](https://jobright.ai/jobs/info/692e76b64c474121999d9b40?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Dec 01 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Audit Intern](https://jobright.ai/jobs/info/692e75aafa28370be26a4c51?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Dec 01 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Internal Audit Associate](https://jobright.ai/jobs/info/692e71604c474121999d9897?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Dec 01 |
 | **[Metal Processing Group, an Affiliate of The Heico Companies](https://www.heicocompanies.com/metal-processing-group)** | **[Intern- Finance](https://jobright.ai/jobs/info/692e71214c474121999d987a?utm_campaign=1052&utm_source=git)** | Warrenville, IL | On Site | Dec 01 |
@@ -86,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Finance Operations (Memphis, TN)](https://jobright.ai/jobs/info/691aef1ebcdbf3560c9dbf4a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 01 |
 | **[Nienhuis Financial Group Llc](https://www.nfgllc.com/)** | **[Paid Internship: Accounting - Compilation and Review](https://jobright.ai/jobs/info/692e5044fa28370be26a3750?utm_campaign=1052&utm_source=git)** | Grandville, Michigan, United States | On Site | Dec 01 |
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/692e4f5eef4b48533d13e8d0?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 01 |
+| **[Melotech](https://www.melotech.ai)** | **[Fund & Investment Intern](https://jobright.ai/jobs/info/692e7f32ef4b48533d14040a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
 | **[The Heico Companies LLC](http://www.heicocompanies.com/)** | **[Intern- Finance](https://jobright.ai/jobs/info/692e4d8b4c474121999d836e?utm_campaign=1052&utm_source=git)** | Warrenville, IL | On Site | Dec 01 |
 | **[PCL Construction](http://www.pcl.com)** | **[Procurement Student](https://jobright.ai/jobs/info/692e6a0dfa28370be26a46b4?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 01 |
 | **[TransUnion](http://www.transunion.com)** | **[Accounting & Tax Internship - Summer 2026](https://jobright.ai/jobs/info/692e6b88fa28370be26a47ec?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Undergraduate Intern, Power Opportunities](https://jobright.ai/jobs/info/692e2a714c474121999d6d6d?utm_campaign=1052&utm_source=git)** | Brentwood | On Site | Dec 01 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Corporate Audit Intern](https://jobright.ai/jobs/info/692e28654c474121999d6bce?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Dec 01 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Intern, Investment Operations](https://jobright.ai/jobs/info/692e26af4c474121999d6a7e?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Dec 01 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Year-Round)](https://jobright.ai/jobs/info/692e2334ef4b48533d13cf2d?utm_campaign=1052&utm_source=git)** | Highland Park, MI | On Site | Dec 01 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[2026 Summer Intern - Reinsurance Services](https://jobright.ai/jobs/info/692e3f324c474121999d7a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Accounting & Finance (Summer 2026)](https://jobright.ai/jobs/info/692e49e9ef4b48533d13e6cc?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Dec 01 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Cost Modeling Intern - Summer 2026](https://jobright.ai/jobs/info/692e64edfa28370be26a42e6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phelps Health](https://phelpshealth.org/)** | **[Accounting Intern / Full-Time](https://jobright.ai/jobs/info/692e0fe3fa28370be26a0c35?utm_campaign=1052&utm_source=git)** | Phelps Health Hospital | On Site | Dec 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance MBA Summer 2026 Intern (MBA - Santa Clara, CA)](https://jobright.ai/jobs/info/692e3dd2fa28370be26a2a65?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Dec 01 |
 | **[Lennox](http://www.lennox.com)** | **[Corporate Audit Intern Summer 2026](https://jobright.ai/jobs/info/692e2ba14c474121999d6e5f?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Dec 01 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Internal Audit](https://jobright.ai/jobs/info/692e0ca5ef4b48533d13c0ac?utm_campaign=1052&utm_source=git)** | Suffolk, VA | On Site | Dec 01 |
-| **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/692e2f34ef4b48533d13d56c?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Payment Services](https://jobright.ai/jobs/info/692e0b05ef4b48533d13bf42?utm_campaign=1052&utm_source=git)** | Suffolk, VA | On Site | Dec 01 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Fixed Income Quantitative Intern](https://jobright.ai/jobs/info/691de9b1ad5a517034797d93?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 01 |
-| **[Tokio Marine HCC – A&H Group](tmhcc.com/AHGroup)** | **[Underwriting Intern - Wakefield](https://jobright.ai/jobs/info/692e2906fa28370be26a1dae?utm_campaign=1052&utm_source=git)** | Wakefield, MA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
