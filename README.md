@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barclays](https://home.barclays)** | **[Credit Research Analyst Summer Internship Program 2027 New York](https://jobright.ai/jobs/info/692eb4074c474121999da914?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
+| **[UAB Medicine](https://www.uabmedicine.org)** | **[Finance Intern](https://jobright.ai/jobs/info/692eb286ef4b48533d140ea1?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Hybrid | Dec 02 |
+| **[Encova Insurance](https://www.encova.com)** | **[Intern, Actuarial](https://jobright.ai/jobs/info/6920d52300c9ee50eaec87ab?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Dec 02 |
+| **[Barclays](https://home.barclays)** | **[Public Finance Analyst Summer Internship Program 2027 New York](https://jobright.ai/jobs/info/692ead4bfa28370be26a5903?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
+| **[General Dynamics](https://www.gd.com)** | **[Finance Intern - Spring 2026](https://jobright.ai/jobs/info/692e9a51ef4b48533d140973?utm_campaign=1052&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Dec 01 |
+| **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Internal Audit Associate](https://jobright.ai/jobs/info/692eb31cfa28370be26a5aae?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Dec 01 |
 | **[LumoraX](lumorax.us)** | **[Auditing Intern](https://jobright.ai/jobs/info/692e8f804c474121999da0e0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Dec 01 |
 | **[Montana Department of Transportation](http://mdt.mt.gov)** | **[Accounting MDT Intern](https://jobright.ai/jobs/info/692e766bfa28370be26a4ce6?utm_campaign=1052&utm_source=git)** | Helena, MT | On Site | Dec 01 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/692e81024c474121999d9e53?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Dec 01 |
@@ -138,11 +144,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Undergraduate Intern, Power Opportunities](https://jobright.ai/jobs/info/692e2a714c474121999d6d6d?utm_campaign=1052&utm_source=git)** | Brentwood | On Site | Dec 01 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Corporate Audit Intern](https://jobright.ai/jobs/info/692e28654c474121999d6bce?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Dec 01 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Intern, Investment Operations](https://jobright.ai/jobs/info/692e26af4c474121999d6a7e?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Dec 01 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Year-Round)](https://jobright.ai/jobs/info/692e2334ef4b48533d13cf2d?utm_campaign=1052&utm_source=git)** | Highland Park, MI | On Site | Dec 01 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[2026 Summer Intern - Reinsurance Services](https://jobright.ai/jobs/info/692e3f324c474121999d7a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Accounting & Finance (Summer 2026)](https://jobright.ai/jobs/info/692e49e9ef4b48533d13e6cc?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Dec 01 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Cost Modeling Intern - Summer 2026](https://jobright.ai/jobs/info/692e64edfa28370be26a42e6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 01 |
-| **[TransUnion](http://www.transunion.com)** | **[Accounting & Tax Internship - Summer 2026](https://jobright.ai/jobs/info/692e41e3fa28370be26a2dc4?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | On Site | Dec 01 |
-| ↳ | **[Diversified Markets Financial Planning & Analysis Internship - Summer 2026](https://jobright.ai/jobs/info/692e4eb5fa28370be26a366e?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 01 |
+| **[TransUnion](http://www.transunion.com)** | **[Diversified Markets Financial Planning & Analysis Internship - Summer 2026](https://jobright.ai/jobs/info/692e4eb5fa28370be26a366e?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 01 |
+| ↳ | **[Accounting & Tax Internship - Summer 2026](https://jobright.ai/jobs/info/692e41e3fa28370be26a2dc4?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | On Site | Dec 01 |
 | **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Spring Internship](https://jobright.ai/jobs/info/692e1e60ef4b48533d13cb9e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Commercial Banking Credit Analyst Internship - Chicago, IL (Summer 2026)](https://jobright.ai/jobs/info/692e1e21ef4b48533d13cb78?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentive Group - Summer 2026 (New York City)](https://jobright.ai/jobs/info/692e3407ef4b48533d13d854?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Accounting Summer Internship](https://jobright.ai/jobs/info/692e3f934c474121999d7a78?utm_campaign=1052&utm_source=git)** | Huntsville, AL | Hybrid | Dec 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Accounting Intern](https://jobright.ai/jobs/info/692e3493ef4b48533d13d8c8?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Madison)](https://jobright.ai/jobs/info/692e1501fa28370be26a0fec?utm_campaign=1052&utm_source=git)** | One Erdman Place, Madison, WI, 53717, US | On Site | Dec 01 |
-| **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Public Finance Analyst Summer Internship Program 2027 New York](https://jobright.ai/jobs/info/692e121d4c474121999d5cf2?utm_campaign=1052&utm_source=git)** | 745 7th Avenue, New York | On Site | Dec 01 |
-| **[Gen II Fund Services](http://www.gen2fund.com)** | **[Intern - Career Fairs](https://jobright.ai/jobs/info/692e11e8ef4b48533d13c481?utm_campaign=1052&utm_source=git)** | Dallas County, TX | On Site | Dec 01 |
-| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Accounting Intern](https://jobright.ai/jobs/info/692e1150ef4b48533d13c42e?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 01 |
-| **[Kautex Textron](https://www.kautex.com)** | **[2026 Internship: Procurement (Troy, MI)](https://jobright.ai/jobs/info/692e2d8efa28370be26a20ed?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Dec 01 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Accounting Intern / Full-Time](https://jobright.ai/jobs/info/692e0fe3fa28370be26a0c35?utm_campaign=1052&utm_source=git)** | Phelps Health Hospital | On Site | Dec 01 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance MBA Summer 2026 Intern (MBA - Santa Clara, CA)](https://jobright.ai/jobs/info/692e3dd2fa28370be26a2a65?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Dec 01 |
-| **[Lennox](http://www.lennox.com)** | **[Corporate Audit Intern Summer 2026](https://jobright.ai/jobs/info/692e2ba14c474121999d6e5f?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
