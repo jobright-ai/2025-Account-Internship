@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/69038f9163502c0aded69db0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Dec 03 |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Finance Intern - Spring 2026](https://jobright.ai/jobs/info/6930000d4c474121999e38ee?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 03 |
+| **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- Deposit Operations](https://jobright.ai/jobs/info/692ff0f24c474121999e34e7?utm_campaign=1052&utm_source=git)** | Maryville, TN | On Site | Dec 03 |
+| **[Bender Companies](https://www.bender-companies.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/692fec304c474121999e3309?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[MiddleGround Capital](https://www.middlegroundcapital.com/)** | **[Summer Analyst Intern, Investment (2026)](https://jobright.ai/jobs/info/692fe995fa28370be26ae2e4?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Dec 02 |
+| **[MetaSource](http://www.metasource.com/)** | **[Accounting Student or Intern (FT or PT Flexible, Remote)](https://jobright.ai/jobs/info/69300506fa28370be26aeafc?utm_campaign=1052&utm_source=git)** | Draper, UT | Remote | Dec 02 |
+| **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- Accounting](https://jobright.ai/jobs/info/69300502ef4b48533d14a06e?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Dec 02 |
+| ↳ | **[2026 Summer Intern- Treasury Management](https://jobright.ai/jobs/info/692ff5a4fa28370be26ae677?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Dec 02 |
 | **[Valorantum Capital](valorantumcapital.us)** | **[Tax Intern – Public Accounting & Tax Compliance](https://jobright.ai/jobs/info/692fd1d14c474121999e2ac8?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 02 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance MBA Intern (Austin, TX)](https://jobright.ai/jobs/info/692fc7804c474121999e2706?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 02 |
 | **[Intuit](https://www.intuit.com)** | **[UR Events - Summer 2026 MBA Finance Intern](https://jobright.ai/jobs/info/692fc46fef4b48533d148bb0?utm_campaign=1052&utm_source=git)** | Mountain View, CA | On Site | Dec 02 |
@@ -81,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Equity Research Analyst Summer Internship Program 2027 New York](https://jobright.ai/jobs/info/692fdf594c474121999e2e68?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Investments & Development Internship](https://jobright.ai/jobs/info/692fa2d74c474121999e144c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Warranty Audit](https://jobright.ai/jobs/info/692fa1d14c474121999e13bc?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Dec 02 |
-| **[Wall Street Express](www.wallstreet-express.com)** | **[Investment Banking Internship (Remote)](https://jobright.ai/jobs/info/692fe06cfa28370be26adfb3?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 02 |
 | **[iCapital](https://icapital.com)** | **[Corporate Finance - Summer 2026 Intern](https://jobright.ai/jobs/info/692fcce0fa28370be26ad91c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Accounting](https://jobright.ai/jobs/info/692f9ffb4c474121999e123d?utm_campaign=1052&utm_source=git)** | Mineral Wells, TX | On Site | Dec 02 |
 | **[American National](https://www.americannational.com)** | **[Finance – Strategic Initiatives Intern](https://jobright.ai/jobs/info/692fca2fef4b48533d148e56?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[James River Insurance Company](http://www.jamesriverins.com/)** | **[Intern (Finance)](https://jobright.ai/jobs/info/692f76c0fa28370be26aa70d?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Dec 02 |
 | **[Cencora](http://www.cencora.com)** | **[Tax Analyst Intern](https://jobright.ai/jobs/info/692fb19e4c474121999e1d28?utm_campaign=1052&utm_source=git)** | United, PA | On Site | Dec 02 |
 | **[TransUnion](http://www.transunion.com)** | **[Accounts Recievable - Corporate (B2B) Collections Internship - Summer 2026](https://jobright.ai/jobs/info/692f57bbfa28370be26a916e?utm_campaign=1052&utm_source=git)** | Chicago, Illinois | On Site | Dec 02 |
-| **[Encova Insurance](https://www.encova.com)** | **[Intern, Product Actuarial](https://jobright.ai/jobs/info/6920d6183f782d2f1afcc019?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Dec 02 |
-| **[J-IMPACT](olami.org)** | **[J-IMPACT Winter Finance and Business Leaders Networking Internship (Paid)](https://jobright.ai/jobs/info/692f7318fa28370be26aa387?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[RBC](https://www.rbc.com)** | **[Manager, Credit Structures Intern](https://jobright.ai/jobs/info/692f7b264c474121999df856?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 02 |
-| ↳ | **[Manager, Credit Structures Intern O.N.E](https://jobright.ai/jobs/info/692fa5194c474121999e1630?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 02 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern](https://jobright.ai/jobs/info/692fb96bfa28370be26ad107?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[COLASKA INC](https://colaska.com/)** | **[Colaska Accounting Intern - Anchorage, AK 1](https://jobright.ai/jobs/info/69252839d47de4798eccd91e?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
