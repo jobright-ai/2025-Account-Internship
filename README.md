@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBRE](https://www.cbre.com)** | **[Intern - Valuation & Advisory Services](https://jobright.ai/jobs/info/69312a99ef4b48533d152c60?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Dec 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Finance Coop - Grid Automation](https://jobright.ai/jobs/info/69311335fa28370be26b6b37?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 03 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/69310d38fa28370be26b67b4?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6931098cef4b48533d151c71?utm_campaign=1052&utm_source=git)** | One Bush Street, San Francisco, CA, 94104, US | On Site | Dec 03 |
@@ -88,11 +89,11 @@ For a complete list, click the following sortable link below:
 | **[Withum](http://www.withum.com)** | **[Tax Verification Interns- Winter 2026](https://jobright.ai/jobs/info/6931205bef4b48533d15295f?utm_campaign=1052&utm_source=git)** | Princeton, CA | On Site | Dec 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Tax Winter Intern - Private Client Services](https://jobright.ai/jobs/info/6930f9564c474121999eadae?utm_campaign=1052&utm_source=git)** | La Jolla, CA | On Site | Dec 03 |
 | **[Smith & Wesson](http://www.smith-wesson.com/)** | **[Procurement Internship - Spring Semester 2026](https://jobright.ai/jobs/info/693117a2ef4b48533d152470?utm_campaign=1052&utm_source=git)** | Maryville, TN, 37801-1826, United States | On Site | Dec 03 |
+| **[MAI Capital Management](https://mai.capital)** | **[Intern - Wealth Management](https://jobright.ai/jobs/info/693129deef4b48533d152c0d?utm_campaign=1052&utm_source=git)** | Independence, OH, US | On Site | Dec 03 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Intern - Kiewit Mining Group (Summer 2026)](https://jobright.ai/jobs/info/6930f042ef4b48533d150e79?utm_campaign=1052&utm_source=git)** | Lone Tree, CO | On Site | Dec 03 |
 | ↳ | **[Finance Intern - Kiewit Mining Group (Summer 2026)](https://jobright.ai/jobs/info/6930f4764c474121999eabcc?utm_campaign=1052&utm_source=git)** | Craig, CO | On Site | Dec 03 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Finance (Orders to Cash) Intern (Summer 2026)](https://jobright.ai/jobs/info/6930cfb34c474121999e9319?utm_campaign=1052&utm_source=git)** | Marysville, OH | Hybrid | Dec 03 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Ceded Re Reporting and Analytics Intern](https://jobright.ai/jobs/info/6930b491ef4b48533d14e0c6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 03 |
-| **[Etched](https://www.etched.com)** | **[Finance Intern](https://jobright.ai/jobs/info/693120754c474121999ec363?utm_campaign=1052&utm_source=git)** | San Jose | On Site | Dec 03 |
 | **[Push Operations](http://www.pushoperations.com)** | **[Payroll Accounting Intern](https://jobright.ai/jobs/info/6917dead15b415636717c4dd?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 03 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Payroll Accounting](https://jobright.ai/jobs/info/6930ee40fa28370be26b5535?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Dec 03 |
 | ↳ | **[Summer Intern, Lease Accounting](https://jobright.ai/jobs/info/6930f3de4c474121999eab56?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Dec 03 |
@@ -113,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[MAI Capital Management](https://mai.capital)** | **[Intern - Wealth Management](https://jobright.ai/jobs/info/6930b7affa28370be26b2c9b?utm_campaign=1052&utm_source=git)** | Independence, OH | On Site | Dec 03 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Junior Analyst, Real Estate Appraisal Services](https://jobright.ai/jobs/info/6930b5a54c474121999e7ce5?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 03 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6931028efa28370be26b6221?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Dec 03 |
+| **[Jain Global](https://www.jainglobal.com)** | **[Commodities Intern (Summer 2026 – Houston/New York Office)](https://jobright.ai/jobs/info/69312363ef4b48533d152a56?utm_campaign=1052&utm_source=git)** | Houston Office | On Site | Dec 03 |
 | **[Davenport & Company LLC](http://www.investdavenport.com)** | **[2026 Public Finance Summer Internship](https://jobright.ai/jobs/info/6930b260ef4b48533d14dede?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | **[Mastercard](http://www.mastercard.com)** | **[Financial Planning & Analysis Intern, Summer 2026 - Purchase, NY](https://jobright.ai/jobs/info/6930d2bdef4b48533d14fb10?utm_campaign=1052&utm_source=git)** | Purchase, NY | Hybrid | Dec 03 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Credit and Collateral Risk Intern](https://jobright.ai/jobs/info/6930b0eeef4b48533d14ddaa?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6930bd64ef4b48533d14e956?utm_campaign=1052&utm_source=git)** | Secaucus, NJ | On Site | Dec 03 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/693076704c474121999e5790?utm_campaign=1052&utm_source=git)** | Dalton, GA | Hybrid | Dec 03 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69307517fa28370be26b0619?utm_campaign=1052&utm_source=git)** | Ames, IA | Hybrid | Dec 03 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/693074664c474121999e56e8?utm_campaign=1052&utm_source=git)** | Albany, OR | Hybrid | Dec 03 |
-| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Accounting Intern II](https://jobright.ai/jobs/info/69307451ef4b48533d14bbb4?utm_campaign=1052&utm_source=git)** | United States-Texas-Temple | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
