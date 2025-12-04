@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UFP Industries](https://www.ufpi.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/6931911c3b6d6f265f4eae07?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Dec 04 |
+| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a68d3d758f2e4ac3fe5718?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | On Site | Dec 04 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68cf1d43846f0b04af67f65f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Finance Internship](https://jobright.ai/jobs/info/693173f54c474121999ef9e4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 04 |
+| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68a65749b6a3617d7fa76f8c?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 04 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68c2a7cb63829b0a8a4fb90c?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68c2a213b535a221b153d938?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 04 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68c29a6d03b99f6b34297195?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68c299268753a565272fc2f6?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 04 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/68c2a87b5001f8077bf5cf7a?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Tax Intern – Business & Financial Analysis](https://jobright.ai/jobs/info/693185713b6d6f265f4eab05?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Remote | Dec 04 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Tax Intern, Summer 2027](https://jobright.ai/jobs/info/69314c984c474121999ed089?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Dec 04 |
 | **[City National Bank](http://www.cnb.com)** | **[Intern - Credit Solutions](https://jobright.ai/jobs/info/69314c924c474121999ed086?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[Baseline Fitness](https://www.planetfitness.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69314282fa28370be26b7ca1?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | On Site | Dec 04 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Financial Instruments & Technology](https://jobright.ai/jobs/info/6930b381fa28370be26b2891?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Accounting - Intern](https://jobright.ai/jobs/info/6930cf47ef4b48533d14f7c0?utm_campaign=1052&utm_source=git)** | Crawfordsville, IN | On Site | Dec 03 |
 | **[York Catholic District School Board](http://www.ycdsb.ca)** | **[Manager, Regional Internal Audit Team - Contrat](https://jobright.ai/jobs/info/6930cfa14c474121999e9303?utm_campaign=1052&utm_source=git)** | Aurora, Ontario, Canada | On Site | Dec 03 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Tax Intern – Business Analytics & Compliance](https://jobright.ai/jobs/info/6930cf5aef4b48533d14f7d1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Dec 03 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Finance](https://jobright.ai/jobs/info/69308e24fa28370be26b0fa6?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Dec 03 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Conversion - Raytheon Finance Analyst II - Onsite (TX)](https://jobright.ai/jobs/info/6930ac7cef4b48533d14db3f?utm_campaign=1052&utm_source=git)** | TX190: 2501 West University, McKinney 2501 West University  , McKinney, TX, 75070 USA | Hybrid | Dec 03 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Northern MN](https://jobright.ai/jobs/info/68bf7a01702aa35207aa688e?utm_campaign=1052&utm_source=git)** | St Cloud, MN | On Site | Dec 03 |
-| **[Marmon Utility](http://marmonutility.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6930aa95ef4b48533d14d98d?utm_campaign=1052&utm_source=git)** | Milford, NH | On Site | Dec 03 |
-| **[Corgan](http://www.corgan.com/)** | **[Accounting Internship / Spring 2026](https://jobright.ai/jobs/info/6930b2e4fa28370be26b27d7?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Property Underwriting Summer Intern](https://jobright.ai/jobs/info/6930b21cfa28370be26b271e?utm_campaign=1052&utm_source=git)** | New Jersey, United States | Remote | Dec 03 |
-| **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/691129c4183be660d267ad61?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 03 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Finance Intern, 2026](https://jobright.ai/jobs/info/6930b647ef4b48533d14e254?utm_campaign=1052&utm_source=git)** | 436 Walnut Street, Philadelphia, PA, 19106, US | On Site | Dec 03 |
-| **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Corporate Finance, Transaction Advisory - Intern](https://jobright.ai/jobs/info/693081904c474121999e5b15?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
