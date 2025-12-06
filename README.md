@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Winter/Spring Value-Based Platform Internship](https://jobright.ai/jobs/info/6933adea764507023d1b8398?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Dec 05 |
+| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Investment Operations Analyst Intern](https://jobright.ai/jobs/info/692ee6b5fa28370be26a6460?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 05 |
 | **[Jabil](https://www.jabil.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/693393b3f131d96e4846489f?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Dec 05 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69338d38764507023d1b6c29?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69338c30764507023d1b6b83?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 05 |
+| **[Nienhuis Financial Group Llc](https://www.nfgllc.com/)** | **[Paid Internship: Accounting - Compilation and Review](https://jobright.ai/jobs/info/6933a91aa0dde7020e2f042a?utm_campaign=1052&utm_source=git)** | Grandville, Michigan, United States | On Site | Dec 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Inter: Internal Auditor - SOX](https://jobright.ai/jobs/info/6933aa77a0dde7020e2f0550?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Tax Summer Intern - Transfer Pricing](https://jobright.ai/jobs/info/6933897e764507023d1b69ad?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 05 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/693388e8f131d96e484642ca?utm_campaign=1052&utm_source=git)** | North Vernon, IN | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69338790a0dde7020e2eeeca?utm_campaign=1052&utm_source=git)** | Belleville, IL | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69338739a0dde7020e2eee8e?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Dec 05 |
 | **[The Miller Hull Partnership, LLP](http://millerhull.com)** | **[Accounting Assistant - 6-month Internship](https://jobright.ai/jobs/info/693386c5a0dde7020e2eee37?utm_campaign=1052&utm_source=git)** | Seattle,WA,US | On Site | Dec 05 |
+| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Finance and Accounting](https://jobright.ai/jobs/info/6933ab75a0dde7020e2f05c7?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Dec 05 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69338547764507023d1b66ba?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69338414a0dde7020e2eec2f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 05 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Walnut Creek](https://jobright.ai/jobs/info/6933803bf131d96e48463e51?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 05 |
@@ -90,11 +95,10 @@ For a complete list, click the following sortable link below:
 | **[Avidex](http://www.avidex.com/)** | **[Finance and Accounting Intern - II](https://jobright.ai/jobs/info/693350cd764507023d1b41b7?utm_campaign=1052&utm_source=git)** | Cary, NC, US | On Site | Dec 05 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Treasury](https://jobright.ai/jobs/info/69334e96764507023d1b3f95?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Dec 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Manitoba - Winter 2026](https://jobright.ai/jobs/info/693370df764507023d1b5ae0?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Dec 05 |
-| ↳ | **[Co-op or Intern, Financial Reporting & Insights - Manitoba - Winter 2026](https://jobright.ai/jobs/info/6933704e764507023d1b5a62?utm_campaign=1052&utm_source=git)** | Brandon, Manitoba, Canada | Hybrid | Dec 05 |
 | ↳ | **[Co-op or Intern, Financial Reporting & Insights - Manitoba - Winter 2026](https://jobright.ai/jobs/info/69336ec5f131d96e4846344f?utm_campaign=1052&utm_source=git)** | Pembina Valley Region, Manitoba, Canada | Hybrid | Dec 05 |
+| ↳ | **[Co-op or Intern, Financial Reporting & Insights - Manitoba - Winter 2026](https://jobright.ai/jobs/info/6933704e764507023d1b5a62?utm_campaign=1052&utm_source=git)** | Brandon, Manitoba, Canada | Hybrid | Dec 05 |
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Internal Audit Manager (SOX Compliance)](https://jobright.ai/jobs/info/69334a53a0dde7020e2ec361?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Dec 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6933486ca0dde7020e2ec20a?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Dec 05 |
-| **[Crowe](https://www.crowe.com/)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/69334757a0dde7020e2ec179?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Dec 05 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Accounting Systems](https://jobright.ai/jobs/info/69336be0764507023d1b5745?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 05 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/69336a81764507023d1b5696?utm_campaign=1052&utm_source=git)** | Strathroy-Caradoc, Ontario, Canada | On Site | Dec 05 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Product Actuarial](https://jobright.ai/jobs/info/6933a231a0dde7020e2efe4e?utm_campaign=1052&utm_source=git)** | Charleston, WV | Hybrid | Dec 05 |
@@ -124,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Deal Services Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/69335aff764507023d1b4b6c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[Gonzalez Companies, LLC](https://www.gonzalezcos.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69335650a0dde7020e2ecc75?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6933514ef131d96e48461dcb?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 05 |
+| ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69335425764507023d1b44d8?utm_campaign=1052&utm_source=git)** | North Vernon, IN | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69334ed1f131d96e48461b46?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69335356a0dde7020e2eca7e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 05 |
-| ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69335425764507023d1b44d8?utm_campaign=1052&utm_source=git)** | North Vernon, IN | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/693358b9f131d96e48462496?utm_campaign=1052&utm_source=git)** | Belleville, IL | On Site | Dec 05 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/693342cef131d96e48461420?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 05 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Tax Summer Intern - Transfer Pricing](https://jobright.ai/jobs/info/69332379764507023d1b27b9?utm_campaign=1052&utm_source=git)** | Chicago | On Site | Dec 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/693311c4a0dde7020e2ea404?utm_campaign=1052&utm_source=git)** | Murray, UT | Hybrid | Dec 05 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/693311c0f131d96e4845f928?utm_campaign=1052&utm_source=git)** | Niagara Falls, NY | Hybrid | Dec 05 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 05 |
-| **[Cabot](https://thecabotcollection.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6933111ca0dde7020e2ea390?utm_campaign=1052&utm_source=git)** | Inverness, Nova Scotia, Canada | On Site | Dec 05 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6933105df131d96e4845f87d?utm_campaign=1052&utm_source=git)** | Titusville, FL | Hybrid | Dec 05 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69330fc4f131d96e4845f83c?utm_campaign=1052&utm_source=git)** | Delano, CA | Hybrid | Dec 05 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/693338bff131d96e48460cd3?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
