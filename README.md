@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Landmark National Bank](http://investor.banklandmark.com/)** | **[Commercial Banking Intern (42280)](https://jobright.ai/jobs/info/693474a8f131d96e4846abe2?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Dec 06 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Finance (Information Systems)](https://jobright.ai/jobs/info/68fc277c93c49825ab10a4d4?utm_campaign=1052&utm_source=git)** | Arlington, TX | Hybrid | Dec 06 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Audit Internship](https://jobright.ai/jobs/info/69346d55a0dde7020e2f5677?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 06 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Internal Audit](https://jobright.ai/jobs/info/69184f11bcdbf3560c9d1564?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Dec 06 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Technology Intern - Summer 2027](https://jobright.ai/jobs/info/68cda80bb2a74e1837eda6f2?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Dec 06 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 Accounting Analyst Internship](https://jobright.ai/jobs/info/68c88515f9c6ff7aedf0f8b9?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Dec 06 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68c7ab95c96a22563ecf40e4?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Dec 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/69212ebfa49a885af9a43b6a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 06 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/68c31e025001f8077bf611dd?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 06 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69345e08f131d96e4846a7bc?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/68ddd99a09bda65a4b62472e?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Dec 06 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Finance Intern - Summer '26](https://jobright.ai/jobs/info/68fb5fec4129dd33cd131d3d?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Dec 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/69181c4915b415636717ebaa?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Tax Assistant Intern](https://jobright.ai/jobs/info/6933f2da764507023d1bae0d?utm_campaign=1052&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Dec 06 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/6933f1f6f131d96e484688f3?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Dec 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Banking Analyst Summer Internship Program 2027 Houston](https://jobright.ai/jobs/info/6933f1acf131d96e484688d3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 06 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/6933f198764507023d1bad8b?utm_campaign=1052&utm_source=git)** | Chapel Hill, NC | On Site | Dec 06 |
-| ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/6933f0a0764507023d1bad38?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Dec 06 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Tax Intern – Advisory & Tax Strategy](https://jobright.ai/jobs/info/6933ecbb764507023d1bac15?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
