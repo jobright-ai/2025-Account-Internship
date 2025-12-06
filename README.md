@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern](https://jobright.ai/jobs/info/6934970e764507023d1bd808?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/693490d0764507023d1bd6d1?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 06 |
+| **[Trajan Wealth LLC](https://trajanwealth.com)** | **[Tax Preparation Internship - 25](https://jobright.ai/jobs/info/69348d2ba0dde7020e2f5c6e?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 06 |
 | **[Landmark National Bank](http://investor.banklandmark.com/)** | **[Commercial Banking Intern (42280)](https://jobright.ai/jobs/info/693474a8f131d96e4846abe2?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Dec 06 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Finance (Information Systems)](https://jobright.ai/jobs/info/68fc277c93c49825ab10a4d4?utm_campaign=1052&utm_source=git)** | Arlington, TX | Hybrid | Dec 06 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Audit Internship](https://jobright.ai/jobs/info/69346d55a0dde7020e2f5677?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 06 |
@@ -138,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Procurement Internship - Summer 2026](https://jobright.ai/jobs/info/68eb864276a1db7c598609ec?utm_campaign=1052&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Finance Intern Summer 2026](https://jobright.ai/jobs/info/68c7cc475c38e536d41a6f56?utm_campaign=1052&utm_source=git)** | New Albany, OH | On Site | Dec 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Payments Manager](https://jobright.ai/jobs/info/68e053cbf758fe1f97e4c71d?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[2026 Brazil Equity Capital Markets Internship Program](https://jobright.ai/jobs/info/69172e9a3ea85638ae1c8a02?utm_campaign=1052&utm_source=git)** | Greater São Paulo Area | On Site | Dec 06 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Tax Internship](https://jobright.ai/jobs/info/6917ef3645fb6f5ead8a0012?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/68f6c0ae9a63986de75820b2?utm_campaign=1052&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7ba4ed627244576e2e372?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f81233dd7158bbcaac64?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Dec 06 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7bd7c33dd7158bbca927d?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a6d133dd7158bbca8955?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 06 |
-| **[MAPCO Express](https://www.mapcorewards.com)** | **[Accounting Intern - Retail - Spring 2026](https://jobright.ai/jobs/info/6933f9cca0dde7020e2f37ad?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA | On Site | Dec 06 |
-| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Tax Assistant Intern](https://jobright.ai/jobs/info/6933f2da764507023d1bae0d?utm_campaign=1052&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Dec 06 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/6933f1f6f131d96e484688f3?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Dec 06 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Banking Analyst Summer Internship Program 2027 Houston](https://jobright.ai/jobs/info/6933f1acf131d96e484688d3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
