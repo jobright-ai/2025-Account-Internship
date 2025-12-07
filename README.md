@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Corporate Accounting & Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68c4e7b07d0db4114272ebf4?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Dec 06 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Owensboro, KY Summer 2026)](https://jobright.ai/jobs/info/68c49ceee471ef3ce16d7b23?utm_campaign=1052&utm_source=git)** | Owensboro, KY | On Site | Dec 06 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - (Madison and Milwaukee) Wisconsin](https://jobright.ai/jobs/info/68def7c644d32141e0c0462f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 06 |
-| **[Freudenberg Sealing Technologies](https://www.fst.com/)** | **[Accounts Receivable Intern - Winter/Spring Semester](https://jobright.ai/jobs/info/68fc1f8f93c49825ab109ebe?utm_campaign=1052&utm_source=git)** | Manchester, NH | On Site | Dec 06 |
 | **[Lazard Asset Management](https://www.lazardassetmanagement.com)** | **[Audit Intern (New York)](https://jobright.ai/jobs/info/68fb9b46f55bb021a889abf1?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Dec 06 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Accounting Intern - Wealthspire (Melville, NY)](https://jobright.ai/jobs/info/68defb6009bda65a4b62f7ac?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Dec 06 |
 | **[iCapital](https://icapital.com)** | **[Fund Finance Intern](https://jobright.ai/jobs/info/6917f742bcdbf3560c9cd16f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f81233dd7158bbcaac64?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Dec 06 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7bd7c33dd7158bbca927d?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a6d133dd7158bbca8955?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 06 |
+| **[MAPCO Express](https://www.mapcorewards.com)** | **[Accounting Intern - Retail - Spring 2026](https://jobright.ai/jobs/info/6933f9cca0dde7020e2f37ad?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
