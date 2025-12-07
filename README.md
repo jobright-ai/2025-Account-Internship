@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemstone](https://cemstone.com/)** | **[Corporate Accounting Intern 2026](https://jobright.ai/jobs/info/69354718f131d96e4846dc0d?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Dec 07 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Dec 07 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/69352c4ba0dde7020e2f7ab9?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Dec 06 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/69350052a0dde7020e2f707e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 06 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Finance - Local Government Summer Intern](https://jobright.ai/jobs/info/6934fc88764507023d1beabf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IR Next Program Associate - Finance](https://jobright.ai/jobs/info/691ac41515b415636718a756?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | Dec 06 |
 | ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/691a9b0715b41563671893ea?utm_campaign=1052&utm_source=git)** | Davidson, NC | Remote | Dec 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/691acc1515b415636718a92a?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 06 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IR Next Rotational Program - Finance](https://jobright.ai/jobs/info/691aa5bfbcdbf3560c9d9604?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | Dec 06 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f81233dd7158bbcaac64?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
