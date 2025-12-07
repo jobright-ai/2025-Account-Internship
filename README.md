@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 07 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/6935b968f131d96e4846eeac?utm_campaign=1052&utm_source=git)** | Newark, NJ | Remote | Dec 07 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern](https://jobright.ai/jobs/info/6935b924764507023d1c0f8b?utm_campaign=1052&utm_source=git)** | Honolulu County, HI | Remote | Dec 07 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4acd731e5763f188e28aa?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6935b11aa0dde7020e2f937b?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 07 |
+| **[RCLCO](https://www.rclco.com)** | **[2026 Summer Intern, RCLCO Fund Advisors](https://jobright.ai/jobs/info/68d5e9ce1f7fb2169ab14a1c?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Dec 07 |
+| **[Blue Ventis](blueventis.us)** | **[Tax Intern – Risk Management & Tax Advisory](https://jobright.ai/jobs/info/6935ad45f131d96e4846ecd5?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 07 |
 | **[VertoTech](vertotech.us)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/6935a297f131d96e4846ebcd?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Dec 07 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Dec 07 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Assurance Intern](https://jobright.ai/jobs/info/69359e18f131d96e4846eb5d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Dec 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6917820b15b4156367178685?utm_campaign=1052&utm_source=git)** | Schiller Park, IL | On Site | Dec 06 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[PLC Accounting - Summer Internship 2026 1](https://jobright.ai/jobs/info/69188b4a15b4156367182b84?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Gallagher](http://www.ajg.com)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/69178bbe15b4156367178dbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 06 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68cc42b17342c7623ae61db0?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Dec 06 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Milwaukee, WI](https://jobright.ai/jobs/info/69345257a0dde7020e2f51bd?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
-| **[Hexion Inc.](https://www.hexion.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/691ac3c1bcdbf3560c9da443?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Dec 06 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/691ae14815b415636718b784?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Dec 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/69316bedfa28370be26b97d9?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Dec 06 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Akron, OH Summer 2026)](https://jobright.ai/jobs/info/68fbc6734129dd33cd1348f2?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Dec 06 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Tax Intern – Financial Reporting & Compliance](https://jobright.ai/jobs/info/69344bdf764507023d1bca4a?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
