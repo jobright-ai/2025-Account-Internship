@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Irvine/Spring 2026)](https://jobright.ai/jobs/info/6934f9aca0dde7020e2f6e62?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Dec 06 |
+| **[ARCHIMED](http://www.archimed.group)** | **[Private Equity Internship (Investment Team) - Summer Analyst 2026](https://jobright.ai/jobs/info/6934f81ba0dde7020e2f6db2?utm_campaign=1052&utm_source=git)** | New York County, NY | On Site | Dec 06 |
+| **[Powell Industries Inc.](https://powellindustries.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/6934f544f131d96e4846c3cc?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 06 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6934e1c3764507023d1be28c?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Dec 06 |
 | **[Virtualitics](https://www.virtualitics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6934de48764507023d1be21e?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 06 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/693490d0764507023d1bd6d1?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Trajan Wealth LLC](https://trajanwealth.com)** | **[Tax Preparation Internship - 25](https://jobright.ai/jobs/info/69348d2ba0dde7020e2f5c6e?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 06 |
@@ -101,8 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - West Bridgewater, MA](https://jobright.ai/jobs/info/6933ba31f131d96e48466573?utm_campaign=1052&utm_source=git)** | West Bridgewater, MA | On Site | Dec 06 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/691651969c388539cbdf9d89?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 06 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - New York City, NY](https://jobright.ai/jobs/info/68def7bea125e75c422b8ad6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Internship Program](https://jobright.ai/jobs/info/6917e2c845fb6f5ead89f8aa?utm_campaign=1052&utm_source=git)** | Hauppauge, NY | On Site | Dec 06 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Annapolis and Fulton](https://jobright.ai/jobs/info/68fc4a2e93c49825ab10b89f?utm_campaign=1052&utm_source=git)** | Annapolis, MD | On Site | Dec 06 |
+| ↳ | **[2026 Wealth Management Intern - Annapolis and Fulton](https://jobright.ai/jobs/info/68fc4a2e93c49825ab10b89f?utm_campaign=1052&utm_source=git)** | Annapolis, MD | On Site | Dec 06 |
 | ↳ | **[2026 Investment Intern - New York, NY](https://jobright.ai/jobs/info/68fc47be93c49825ab10b6bd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/69343c64a0dde7020e2f4c58?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Dec 06 |
 | **[Fortitude Re](https://fortitude-re.com)** | **[Investments Intern - Summer 2026](https://jobright.ai/jobs/info/6917a2aebcdbf3560c9c9a70?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/691a9b0715b41563671893ea?utm_campaign=1052&utm_source=git)** | Davidson, NC | Remote | Dec 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/691acc1515b415636718a92a?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 06 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IR Next Rotational Program - Finance](https://jobright.ai/jobs/info/691aa5bfbcdbf3560c9d9604?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | Dec 06 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f81233dd7158bbcaac64?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Dec 06 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7bd7c33dd7158bbca927d?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a6d133dd7158bbca8955?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
