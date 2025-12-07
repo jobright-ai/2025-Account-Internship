@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Plastics](https://www.americanplasticsllc.com/)** | **[Finance Internship Paid](https://jobright.ai/jobs/info/6935dab0f131d96e4846f2fb?utm_campaign=1052&utm_source=git)** | Simpsonville, SC | On Site | Dec 07 |
+| **[Doyon, Limited](http://www.doyon.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6935d509764507023d1c124f?utm_campaign=1052&utm_source=git)** | Fairbanks, AK | On Site | Dec 07 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/6935cb14764507023d1c10e6?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Dec 07 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68e9ccd1cdf8d94b293a273b?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Dec 07 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/6935b968f131d96e4846eeac?utm_campaign=1052&utm_source=git)** | Newark, NJ | Remote | Dec 07 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern](https://jobright.ai/jobs/info/6935b924764507023d1c0f8b?utm_campaign=1052&utm_source=git)** | Honolulu County, HI | Remote | Dec 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Payroll - Summer Internship 2026](https://jobright.ai/jobs/info/69188af545fb6f5ead8a5d37?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Accounting Intern- Summer 2026 Kendallville](https://jobright.ai/jobs/info/6917f643bcdbf3560c9cd0e7?utm_campaign=1052&utm_source=git)** | Kendallville, IN | On Site | Dec 06 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe9494129dd33cd136418?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Dec 06 |
-| **[Fortitude Re](https://fortitude-re.com)** | **[Investments Intern - Winter](https://jobright.ai/jobs/info/691777553ea85638ae1cad4b?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Dec 06 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6917820b15b4156367178685?utm_campaign=1052&utm_source=git)** | Schiller Park, IL | On Site | Dec 06 |
-| **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[PLC Accounting - Summer Internship 2026 1](https://jobright.ai/jobs/info/69188b4a15b4156367182b84?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
-| **[Gallagher](http://www.ajg.com)** | **[Actuarial Intern GSIP](https://jobright.ai/jobs/info/69178bbe15b4156367178dbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
