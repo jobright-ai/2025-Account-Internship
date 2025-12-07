@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern](https://jobright.ai/jobs/info/6934970e764507023d1bd808?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Virtualitics](https://www.virtualitics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6934de48764507023d1be21e?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 06 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/693490d0764507023d1bd6d1?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Trajan Wealth LLC](https://trajanwealth.com)** | **[Tax Preparation Internship - 25](https://jobright.ai/jobs/info/69348d2ba0dde7020e2f5c6e?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 06 |
 | **[Landmark National Bank](http://investor.banklandmark.com/)** | **[Commercial Banking Intern (42280)](https://jobright.ai/jobs/info/693474a8f131d96e4846abe2?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Dec 06 |
@@ -121,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Internal Auditor - Administrative Officer](https://jobright.ai/jobs/info/6934306ef131d96e48469e97?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Dec 06 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Fund Accounting Summer Internship - 2026](https://jobright.ai/jobs/info/6934302df131d96e48469e7e?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 06 |
 | **[Precision Castparts](http://precast.com)** | **[Financial Planning & Analysis (FP&A) Intern (Co-Op) - December 2025 - June 2026](https://jobright.ai/jobs/info/691786c5bcdbf3560c9c892a?utm_campaign=1052&utm_source=git)** | Lake Oswego, OR | On Site | Dec 06 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Finance Internship (Summer 2026)](https://jobright.ai/jobs/info/6934ccc9764507023d1bdf41?utm_campaign=1052&utm_source=git)** | Mooresville, NC | On Site | Dec 06 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Dec 06 |
 | **[Nicola Wealth](http://www.nicolawealth.com)** | **[Asset Management Operations Co-op](https://jobright.ai/jobs/info/6918010abcdbf3560c9cd925?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 06 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (La Crosse, WI Summer 2026)](https://jobright.ai/jobs/info/68c7b78ec008cf3402c8f7d6?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7f81233dd7158bbcaac64?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Dec 06 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7bd7c33dd7158bbca927d?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a6d133dd7158bbca8955?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 06 |
-| **[MAPCO Express](https://www.mapcorewards.com)** | **[Accounting Intern - Retail - Spring 2026](https://jobright.ai/jobs/info/6933f9cca0dde7020e2f37ad?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
