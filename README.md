@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/69352c4ba0dde7020e2f7ab9?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Dec 06 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/69350052a0dde7020e2f707e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 06 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Finance - Local Government Summer Intern](https://jobright.ai/jobs/info/6934fc88764507023d1beabf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
-| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Irvine/Spring 2026)](https://jobright.ai/jobs/info/6934f9aca0dde7020e2f6e62?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Dec 06 |
 | **[ARCHIMED](http://www.archimed.group)** | **[Private Equity Internship (Investment Team) - Summer Analyst 2026](https://jobright.ai/jobs/info/6934f81ba0dde7020e2f6db2?utm_campaign=1052&utm_source=git)** | New York County, NY | On Site | Dec 06 |
 | **[Powell Industries Inc.](https://powellindustries.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/6934f544f131d96e4846c3cc?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 06 |
 | **[Virtualitics](https://www.virtualitics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6934de48764507023d1be21e?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Dec 06 |
