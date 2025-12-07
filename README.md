@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reshy.io](https://reshy.io/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6935e618a0dde7020e2f9917?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 07 |
+| **[Timberline Bank](https://www.timberlinebank.com)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/6935e322f131d96e4846f3f5?utm_campaign=1052&utm_source=git)** | Grand Junction, CO | On Site | Dec 07 |
 | **[American Plastics](https://www.americanplasticsllc.com/)** | **[Finance Internship Paid](https://jobright.ai/jobs/info/6935dab0f131d96e4846f2fb?utm_campaign=1052&utm_source=git)** | Simpsonville, SC | On Site | Dec 07 |
 | **[Doyon, Limited](http://www.doyon.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6935d509764507023d1c124f?utm_campaign=1052&utm_source=git)** | Fairbanks, AK | On Site | Dec 07 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/6935cb14764507023d1c10e6?utm_campaign=1052&utm_source=git)** | Illinois, United States | Remote | Dec 07 |
@@ -131,10 +133,8 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fc5d4693c49825ab10c744?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Dec 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7ab6ed627244576e2debe?utm_campaign=1052&utm_source=git)** | Burlington, VT | On Site | Dec 07 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Financial Investigations and Provider Review Undergraduate Intern](https://jobright.ai/jobs/info/6933e1c4f131d96e48467f6a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 07 |
-| **[Orvanta](orvanta.us)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/69355504764507023d1c0250?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Dec 07 |
 | **[Cemstone](https://cemstone.com/)** | **[Corporate Accounting Intern 2026](https://jobright.ai/jobs/info/69354718f131d96e4846dc0d?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Dec 07 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Dec 07 |
-| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/69352c4ba0dde7020e2f7ab9?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Dec 06 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/69350052a0dde7020e2f707e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 06 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Finance - Local Government Summer Intern](https://jobright.ai/jobs/info/6934fc88764507023d1beabf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | **[ARCHIMED](http://www.archimed.group)** | **[Private Equity Internship (Investment Team) - Summer Analyst 2026](https://jobright.ai/jobs/info/6934f81ba0dde7020e2f6db2?utm_campaign=1052&utm_source=git)** | New York County, NY | On Site | Dec 06 |
