@@ -57,7 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370f4daabec14a727c3cba?utm_campaign=1052&utm_source=git)** | Beverly, MA | Hybrid | Dec 08 |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Advisor Development Program and Internship - Richmond, VA](https://jobright.ai/jobs/info/693729271c1c2161c13f1012?utm_campaign=1052&utm_source=git)** | Richmond, Virginia, United States | On Site | Dec 08 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Fund Financial Reporting](https://jobright.ai/jobs/info/693728d91c1c2161c13f0fda?utm_campaign=1052&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cfbb99ec3563b0e0ac2?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Dec 08 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c3bf758fe1f97e5e90d?utm_campaign=1052&utm_source=git)** | Riverview, FL | On Site | Dec 08 |
+| **[Stockbridge](http://stockbridge.com/)** | **[Summer Analyst](https://jobright.ai/jobs/info/691c8f9222a2cb4b9bd1b556?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e381a8f758fe1f97e5eb39?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Dec 08 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37f161852e62f007fc3ac?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 08 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38653f758fe1f97e5eee3?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | On Site | Dec 08 |
+| **[NewDay USA](https://newdayusa.com/)** | **[Finance Internship - Full Time Position](https://jobright.ai/jobs/info/69371167a0dde7020e2fec1f?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Dec 08 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69371146aabec14a727c3d91?utm_campaign=1052&utm_source=git)** | Puyallup, WA | Hybrid | Dec 08 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69371136a0dde7020e2fec07?utm_campaign=1052&utm_source=git)** | San Bruno, CA | Hybrid | Dec 08 |
+| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Credit Management Administration](https://jobright.ai/jobs/info/6936f4cea0dde7020e2fdff0?utm_campaign=1052&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
+| ↳ | **[Intern, Credit Management Administration](https://jobright.ai/jobs/info/693702ec1c1c2161c13eff8c?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370fd1a0dde7020e2feb70?utm_campaign=1052&utm_source=git)** | Mableton, GA | Hybrid | Dec 08 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370f7ca0dde7020e2feb41?utm_campaign=1052&utm_source=git)** | Catonsville, MD | Hybrid | Dec 08 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370f4daabec14a727c3cba?utm_campaign=1052&utm_source=git)** | Beverly, MA | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370efda0dde7020e2feafe?utm_campaign=1052&utm_source=git)** | Edmonds, WA | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370e631c1c2161c13f0431?utm_campaign=1052&utm_source=git)** | Manassas, VA | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370e631c1c2161c13f0432?utm_campaign=1052&utm_source=git)** | Danville, VA | Hybrid | Dec 08 |
@@ -86,18 +101,19 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/693704c4aabec14a727c385f?utm_campaign=1052&utm_source=git)** | Palm Springs, CA | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Commercial Banking](https://jobright.ai/jobs/info/6937049c1c1c2161c13f004b?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6937044ea0dde7020e2fe678?utm_campaign=1052&utm_source=git)** | Greenacres, FL | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370421aabec14a727c37fb?utm_campaign=1052&utm_source=git)** | Freeport, NY | Hybrid | Dec 08 |
+| **[Spot Freight](https://spotinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/693724b01c1c2161c13f0e21?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 08 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370421aabec14a727c37fb?utm_campaign=1052&utm_source=git)** | Freeport, NY | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370399aabec14a727c37c7?utm_campaign=1052&utm_source=git)** | Delaware, OH | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370382a0dde7020e2fe60f?utm_campaign=1052&utm_source=git)** | Lombard, IL | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69370373aabec14a727c37ae?utm_campaign=1052&utm_source=git)** | Pearl City, HI | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6937036b1c1c2161c13effb9?utm_campaign=1052&utm_source=git)** | Holly Springs, NC | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/693703391c1c2161c13effa8?utm_campaign=1052&utm_source=git)** | Sicklerville, NJ | Hybrid | Dec 08 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Credit Management Administration](https://jobright.ai/jobs/info/693702ec1c1c2161c13eff8c?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/693702c11c1c2161c13eff76?utm_campaign=1052&utm_source=git)** | Huber Heights, OH | Hybrid | Dec 08 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/693702c11c1c2161c13eff76?utm_campaign=1052&utm_source=git)** | Huber Heights, OH | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/693702baa0dde7020e2fe5d6?utm_campaign=1052&utm_source=git)** | Linden, NJ | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6937027aa0dde7020e2fe5af?utm_campaign=1052&utm_source=git)** | Spanish Fork, UT | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Corporate/Specialty Banking](https://jobright.ai/jobs/info/6937022a1c1c2161c13eff1e?utm_campaign=1052&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90b99ec3563b0e0b2e?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Dec 08 |
+| **[SageSure](https://www.sagesure.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/693723951c1c2161c13f0dca?utm_campaign=1052&utm_source=git)** | Cheshire, CT | On Site | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/693701aeaabec14a727c36f5?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6937014c1c1c2161c13efeb6?utm_campaign=1052&utm_source=git)** | Lompoc, CA | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/693701331c1c2161c13efeab?utm_campaign=1052&utm_source=git)** | Channelview, TX | Hybrid | Dec 08 |
@@ -127,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fd28aabec14a727c3577?utm_campaign=1052&utm_source=git)** | West Babylon, NY | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fd261c1c2161c13efd5a?utm_campaign=1052&utm_source=git)** | Hicksville, NY | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fd17a0dde7020e2fe3be?utm_campaign=1052&utm_source=git)** | Oakley, CA | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fcf0aabec14a727c3565?utm_campaign=1052&utm_source=git)** | Sayreville, NJ | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fcf0aabec14a727c3566?utm_campaign=1052&utm_source=git)** | Waxahachie, TX | Hybrid | Dec 08 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fcf0aabec14a727c3565?utm_campaign=1052&utm_source=git)** | Sayreville, NJ | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fca81c1c2161c13efd42?utm_campaign=1052&utm_source=git)** | Moorhead, MN | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Enterprise Credit](https://jobright.ai/jobs/info/6936fca51c1c2161c13efd3f?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fbefaabec14a727c34fc?utm_campaign=1052&utm_source=git)** | Elmhurst, IL | Hybrid | Dec 08 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936faa9a0dde7020e2fe2d9?utm_campaign=1052&utm_source=git)** | Woodbridge, VA | Hybrid | Dec 08 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936fa911c1c2161c13efc8a?utm_campaign=1052&utm_source=git)** | Hackensack, NJ | Hybrid | Dec 08 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Procurement - Summer Internship 2026](https://jobright.ai/jobs/info/6920dc5aa49a885af9a40057?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Dec 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f9871c1c2161c13efc1f?utm_campaign=1052&utm_source=git)** | Mankato, MN | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f965a0dde7020e2fe26c?utm_campaign=1052&utm_source=git)** | Altamonte Springs, FL | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f941a0dde7020e2fe263?utm_campaign=1052&utm_source=git)** | Salem, MA | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f93f1c1c2161c13efc01?utm_campaign=1052&utm_source=git)** | Rohnert Park, CA | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f92f1c1c2161c13efbef?utm_campaign=1052&utm_source=git)** | Odenton, MD | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f917a0dde7020e2fe252?utm_campaign=1052&utm_source=git)** | Plainfield, IL | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f8d51c1c2161c13efbb5?utm_campaign=1052&utm_source=git)** | Clermont, FL | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f858a0dde7020e2fe214?utm_campaign=1052&utm_source=git)** | Brentwood, TN | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f7f61c1c2161c13efb5d?utm_campaign=1052&utm_source=git)** | North Lauderdale, FL | Hybrid | Dec 08 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6936f7ed1c1c2161c13efb5a?utm_campaign=1052&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Dec 08 |
-| **[MITRE](http://www.mitre.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6936f7e0aabec14a727c330c?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Dec 08 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6936f6f31c1c2161c13ef9c5?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Dec 08 |
-| **[Centene Corporation](http://www.centene.com)** | **[Accounting Intern (Graduate - Summer)](https://jobright.ai/jobs/info/6936f4e3aabec14a727c31b3?utm_campaign=1052&utm_source=git)** | Remote-MO | Remote | Dec 08 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Credit Management Administration](https://jobright.ai/jobs/info/6936f4cea0dde7020e2fdff0?utm_campaign=1052&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e3831eb99ec3563b0e0e53?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Dec 08 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e391cd1852e62f007fcce2?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
