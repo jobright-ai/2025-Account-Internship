@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Internal Audit (Equitable Audit Services)](https://jobright.ai/jobs/info/68ff667f0ab3b222462aafc8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 08 |
+| **[Orvanta](orvanta.us)** | **[Tax Intern – Economic & Financial Research](https://jobright.ai/jobs/info/6936d0011c1c2161c13eed37?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Remote | Dec 08 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6936cfccaabec14a727c260c?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Dec 08 |
+| **[Desjardins](https://www.desjardins.com)** | **[Internship, Corporate Finance](https://jobright.ai/jobs/info/6936ce64a0dde7020e2fd400?utm_campaign=1052&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Dec 08 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/6931735e3b6d6f265f4e9813?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 08 |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a91a296acf96396f724c78?utm_campaign=1052&utm_source=git)** | Greater Indianapolis | On Site | Dec 08 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Finance Intern](https://jobright.ai/jobs/info/6936c67fa0dde7020e2fd235?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 08 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Dec 08 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68cd0435e8e0b73af72bf91e?utm_campaign=1052&utm_source=git)** | Hopkins, SC | Hybrid | Dec 08 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6874ee1aae2f413e4a5a1daa?utm_campaign=1052&utm_source=git)** | New Castle County, DE | Hybrid | Dec 08 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c4bd63fce86561b9288d99?utm_campaign=1052&utm_source=git)** | Madison, PA | Hybrid | Dec 08 |
@@ -105,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/6935b968f131d96e4846eeac?utm_campaign=1052&utm_source=git)** | Newark, NJ | Remote | Dec 07 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4acd731e5763f188e28aa?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
 | **[RCLCO](https://www.rclco.com)** | **[2026 Summer Intern, RCLCO Fund Advisors](https://jobright.ai/jobs/info/68d5e9ce1f7fb2169ab14a1c?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Dec 07 |
-| **[Blue Ventis](blueventis.us)** | **[Tax Intern – Risk Management & Tax Advisory](https://jobright.ai/jobs/info/6935ad45f131d96e4846ecd5?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 07 |
+| **[Brown Edwards](https://becpas.com/)** | **[2026 Intern](https://jobright.ai/jobs/info/6936c37ca0dde7020e2fd149?utm_campaign=1052&utm_source=git)** | Lynchburg, VA | On Site | Dec 07 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Dec 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Reporting & Analytics (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fc3bcb93c49825ab10b0a4?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Dec 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/691ec22ea49a885af9a2aa3a?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
@@ -137,7 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Finance & Administration - Department of Revenue](https://jobright.ai/jobs/info/68fbba3a4129dd33cd134221?utm_campaign=1052&utm_source=git)** | Frankfort, KY | On Site | Dec 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cc0acf7342c7623ae5ddce?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Dec 07 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68cd97dab2a74e1837ed966a?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Dec 07 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a5cb33dd7158bbca883c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 07 |
+| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/6936c2c3aabec14a727c2224?utm_campaign=1052&utm_source=git)** | Ionia, MI | Hybrid | Dec 07 |
+| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7a5cb33dd7158bbca883c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 07 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7c12933dd7158bbca9440?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 07 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7ba9733dd7158bbca8f43?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 07 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7b8b3d627244576e2e25b?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c522f57d0db41142732c9b?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Dec 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68cecfa4846f0b04af67d298?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c5f4177d0db41142735637?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 07 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68a6c949b6a3617d7fa7aa3c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 07 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68fc1b1f93c49825ab109d47?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Dec 07 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e02d3b1852e62f007e834d?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Dec 07 |
-| **[Noble Corporation](http://www.noblecorp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68c8fa85983e6768bc55471b?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Dec 07 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Tax Intern](https://jobright.ai/jobs/info/68e02ec61852e62f007e84e7?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Dec 07 |
-| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/68c53096c96a22563ece7c81?utm_campaign=1052&utm_source=git)** | Jackson, MS | On Site | Dec 07 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Finance Intern](https://jobright.ai/jobs/info/691a883a15b41563671888c3?utm_campaign=1052&utm_source=git)** | Hunt Valley, MD | On Site | Dec 07 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/68c779f6db52c07d2884aeec?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 07 |
-| **[Crowe](https://www.crowe.com/)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/68a7bc2733dd7158bbca9104?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
