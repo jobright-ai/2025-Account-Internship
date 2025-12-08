@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Tax Technology & Business Operations](https://jobright.ai/jobs/info/69367808764507023d1c374c?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 07 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern – Economic & Financial Research](https://jobright.ai/jobs/info/693667db764507023d1c33d5?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Remote | Dec 07 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, Corporate Finance](https://jobright.ai/jobs/info/69366392a0dde7020e2fb5b1?utm_campaign=1052&utm_source=git)** | Montréal | Hybrid | Dec 07 |
 | **[Heart Aerospace](https://heartaerospace.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69365e66f131d96e484711a2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Bay Area, CA](https://jobright.ai/jobs/info/68e9ccd1cdf8d94b293a273b?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Dec 07 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Underwriting Summer Intern](https://jobright.ai/jobs/info/6935b968f131d96e4846eeac?utm_campaign=1052&utm_source=git)** | Newark, NJ | Remote | Dec 07 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern](https://jobright.ai/jobs/info/6935b924764507023d1c0f8b?utm_campaign=1052&utm_source=git)** | Honolulu County, HI | Remote | Dec 07 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4acd731e5763f188e28aa?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
 | **[RCLCO](https://www.rclco.com)** | **[2026 Summer Intern, RCLCO Fund Advisors](https://jobright.ai/jobs/info/68d5e9ce1f7fb2169ab14a1c?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Dec 07 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern – Risk Management & Tax Advisory](https://jobright.ai/jobs/info/6935ad45f131d96e4846ecd5?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 07 |
@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Reporting & Analytics (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fc3bcb93c49825ab10b0a4?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Dec 07 |
 | **[Horizon Lane](horizonlane.us)** | **[Tax Intern – Financial Planning & Tax Review](https://jobright.ai/jobs/info/69359d73a0dde7020e2f917b?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Dec 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/691ec22ea49a885af9a2aa3a?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/693672cfa0dde7020e2fba59?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Dec 07 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | Dec 07 |
-| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Finance Data Intern- Summer 2026](https://jobright.ai/jobs/info/69359a50f131d96e4846eadf?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 07 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Tax Analyst](https://jobright.ai/jobs/info/68c44d0ae396b25cb5c66ae0?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 07 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/693599f6a0dde7020e2f913a?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Hybrid | Dec 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe8d84129dd33cd1363a4?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Dec 07 |
