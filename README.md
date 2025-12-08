@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oakridge](https://oakridge.ltd)** | **[Private Equity Intern for Media](https://jobright.ai/jobs/info/69361137f131d96e4846f8fb?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Dec 07 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Tax Intern / Multiple Locations (Summer 2027)](https://jobright.ai/jobs/info/69362dbbf131d96e4846fd3f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Dec 07 |
 | **[Keystone Equities, LLC](http://www.keystoneequitiesllc.com/)** | **[Acquisitions Internship](https://jobright.ai/jobs/info/69360ad0f131d96e4846f84f?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Dec 07 |
 | **[Timberline Bank](https://www.timberlinebank.com)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/6935e322f131d96e4846f3f5?utm_campaign=1052&utm_source=git)** | Grand Junction, CO | On Site | Dec 07 |
 | **[American Plastics](https://www.americanplasticsllc.com/)** | **[Finance Internship Paid](https://jobright.ai/jobs/info/6935dab0f131d96e4846f2fb?utm_campaign=1052&utm_source=git)** | Simpsonville, SC | On Site | Dec 07 |
@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/68c4acd731e5763f188e28aa?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
 | **[RCLCO](https://www.rclco.com)** | **[2026 Summer Intern, RCLCO Fund Advisors](https://jobright.ai/jobs/info/68d5e9ce1f7fb2169ab14a1c?utm_campaign=1052&utm_source=git)** | Los Angeles | On Site | Dec 07 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern – Risk Management & Tax Advisory](https://jobright.ai/jobs/info/6935ad45f131d96e4846ecd5?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 07 |
-| **[VertoTech](vertotech.us)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/6935a297f131d96e4846ebcd?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Dec 07 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Dec 07 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Assurance Intern](https://jobright.ai/jobs/info/69359e18f131d96e4846eb5d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Dec 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Reporting & Analytics (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fc3bcb93c49825ab10b0a4?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Dec 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Accounting Intern- Summer 2026 Kendallville](https://jobright.ai/jobs/info/6917f643bcdbf3560c9cd0e7?utm_campaign=1052&utm_source=git)** | Kendallville, IN | On Site | Dec 06 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Treasury Operations (Hybrid)](https://jobright.ai/jobs/info/68fbe9494129dd33cd136418?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Dec 06 |
 | **[Fortitude Re](https://fortitude-re.com)** | **[Investments Intern - Winter](https://jobright.ai/jobs/info/691777553ea85638ae1cad4b?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Dec 06 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6917820b15b4156367178685?utm_campaign=1052&utm_source=git)** | Schiller Park, IL | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
