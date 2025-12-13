@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d3561aa598a08c3edfefb?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Dec 13 |
+| ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d2f5249a7695fbd03e331?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 13 |
+| **[Outlier AI](http://outlier.ai/)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693d2e8549a7695fbd03e2f4?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Dec 13 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- DC, Mortgage Banking](https://jobright.ai/jobs/info/6939a6eb56b68f3dc4e6fd6d?utm_campaign=1052&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Dec 13 |
+| **[Outlier AI](http://outlier.ai/)** | **[Tax Intern (Remote)](https://jobright.ai/jobs/info/693d2b7649a7695fbd03df75?utm_campaign=1052&utm_source=git)** | El Paso, TX | Remote | Dec 13 |
+| **[ISC Constructors, L.L.C.](http://www.iscgrp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/693d2b5e49a7695fbd03de6e?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Dec 13 |
+| **[Outlier AI](http://outlier.ai/)** | **[Audit Intern (Remote)](https://jobright.ai/jobs/info/693d2b4549a7695fbd03de05?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Dec 13 |
+| ↳ | **[Audit Intern (Remote)](https://jobright.ai/jobs/info/693d2b42aa598a08c3ede299?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 13 |
+| ↳ | **[Audit Intern (Remote)](https://jobright.ai/jobs/info/693d2af750bbaf765050494c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Remote | Dec 13 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Asset Management & Investments, San Diego (Summer 2026)](https://jobright.ai/jobs/info/693a2b6648a8ce22990e245c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
+| **[Outlier AI](http://outlier.ai/)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693d302550bbaf7650505a71?utm_campaign=1052&utm_source=git)** | Omaha, NE | Remote | Dec 12 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 12 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Des Moines](https://jobright.ai/jobs/info/693d0dbfaa598a08c3edd5c4?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | Hybrid | Dec 12 |
 | ↳ | **[Intern Tax Summer 2027 / Madison](https://jobright.ai/jobs/info/693cfc1550bbaf7650502fa9?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Dec 12 |
@@ -83,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693cceae49a7695fbd0385bf?utm_campaign=1052&utm_source=git)** | New Kensington, PA 15068 | On Site | Dec 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693cce35aa598a08c3ed9c44?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15221 | On Site | Dec 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccd8c50bbaf76504ffda1?utm_campaign=1052&utm_source=git)** | McKeesport, PA 15132 | On Site | Dec 12 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccd5149a7695fbd03851d?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15210 | On Site | Dec 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccd5149a7695fbd03851c?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15221 | On Site | Dec 12 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccd5149a7695fbd03851d?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15210 | On Site | Dec 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccd0aaa598a08c3ed9ba6?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15222 | On Site | Dec 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693cccd150bbaf76504ffd34?utm_campaign=1052&utm_source=git)** | Moon Township, PA 15108 | On Site | Dec 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccca450bbaf76504ffd24?utm_campaign=1052&utm_source=git)** | Monaca, PA 15061 | On Site | Dec 12 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Finance Intern](https://jobright.ai/jobs/info/693c660d49a7695fbd0332bc?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/693c805b50bbaf76504fb947?utm_campaign=1052&utm_source=git)** | Novi, MI | On Site | Dec 12 |
 | **[Doc Wealth](https://www.docwealth.io/)** | **[Tax Intern](https://jobright.ai/jobs/info/693ca316aa598a08c3ed8783?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 12 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[NAVER Ventures - VC Intern](https://jobright.ai/jobs/info/693c7b37aa598a08c3ed5484?utm_campaign=1052&utm_source=git)** | Redwood City, CA | On Site | Dec 12 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/693c79ceaa598a08c3ed539e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 12 |
-| **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/693c795a50bbaf76504fb5c9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 12 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Tax Intern](https://jobright.ai/jobs/info/693c927349a7695fbd034d53?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Dec 12 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Tax Intern – Advisory & Tax Strategy](https://jobright.ai/jobs/info/693c94baaa598a08c3ed6f12?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 12 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/693c74dc50bbaf76504fb32c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 12 |
-| **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Capital Markets](https://jobright.ai/jobs/info/693c719d49a7695fbd033874?utm_campaign=1052&utm_source=git)** | US-NJ-Camden | On Site | Dec 12 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GTA Office – Opportunities in Indirect Tax - Trade & Customs Intern - March 2026 - Fleming College Student](https://jobright.ai/jobs/info/693c939850bbaf76504fc9f1?utm_campaign=1052&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | Dec 12 |
-| ↳ | **[GTA Office – Opportunities in Indirect Tax - Trade & Customs – Summer Intern 2026](https://jobright.ai/jobs/info/693c964d50bbaf76504fd7a1?utm_campaign=1052&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | Dec 12 |
-| **[University of Phoenix](http://www.phoenix.edu)** | **[Internal Audit Summer 2026 Intern](https://jobright.ai/jobs/info/693c713350bbaf76504fb129?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
