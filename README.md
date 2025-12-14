@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QBE Insurance](http://www.qbe.com)** | **[Financial Lines Intern (Summer 2026)](https://jobright.ai/jobs/info/693ce0e350bbaf76505007e0?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
+| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693dff62aa598a08c3ee672b?utm_campaign=1052&utm_source=git)** | South Bend, IN | Remote | Dec 13 |
 | **[Valemont](https://www.linkedin.com/company/109316021)** | **[Private Equity Analyst Internship](https://jobright.ai/jobs/info/693dfc2e50bbaf765050c95d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 13 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Tax Intern](https://jobright.ai/jobs/info/693dfc1149a7695fbd044f36?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 13 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693df807aa598a08c3ee6652?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d3561aa598a08c3edfefb?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d2f5249a7695fbd03e331?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 13 |
 | **[Outlier AI](http://outlier.ai/)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693d2e8549a7695fbd03e2f4?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Dec 13 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- DC, Mortgage Banking](https://jobright.ai/jobs/info/6939a6eb56b68f3dc4e6fd6d?utm_campaign=1052&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Dec 13 |
-| **[Outlier AI](http://outlier.ai/)** | **[Tax Intern (Remote)](https://jobright.ai/jobs/info/693d2b7649a7695fbd03df75?utm_campaign=1052&utm_source=git)** | El Paso, TX | Remote | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
