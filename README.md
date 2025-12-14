@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/693e80f050bbaf76505135b7?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 14 |
+| **[Outlier AI](http://outlier.ai/)** | **[Audit Intern (Remote)](https://jobright.ai/jobs/info/693e76b5aa598a08c3eeb7bb?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Dec 14 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693e769449a7695fbd049f4b?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | Remote | Dec 14 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693e75ed50bbaf7650511a6d?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Remote | Dec 14 |
+| **[Southern States Cooperative](https://www.southernstates.com/farm-store/)** | **[Finance/Treasury Intern- Summer 2026](https://jobright.ai/jobs/info/693e71ec50bbaf7650511851?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Dec 14 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Tax Intern – Management Accounting & Tax](https://jobright.ai/jobs/info/693e5318aa598a08c3eeac98?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Dec 13 |
 | **[Arvento A](arventoa.us)** | **[Tax Intern – Financial Planning & Tax Review](https://jobright.ai/jobs/info/693e2435aa598a08c3ee8559?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Dec 13 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Financial Lines Intern (Summer 2026)](https://jobright.ai/jobs/info/693ce0e350bbaf76505007e0?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
@@ -100,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Finance/Accounting](https://jobright.ai/jobs/info/690405a9d64a22104aa9616d?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 13 |
 | **[Rabobank](http://www.rabobank.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68ccd202b274cd205ab4fa53?utm_campaign=1052&utm_source=git)** | Jonesboro, AR | Hybrid | Dec 13 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Internal Audit - Birmingham](https://jobright.ai/jobs/info/68cda1bdb2a74e1837eda306?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 13 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/693e687249a7695fbd049a2e?utm_campaign=1052&utm_source=git)** | Saginaw, MI | Hybrid | Dec 13 |
 | **[Generac](https://www.generac.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/693d808049a7695fbd040e85?utm_campaign=1052&utm_source=git)** | Pewaukee, WI | On Site | Dec 13 |
 | **[American Electric Power](http://aep.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69211e9ea49a885af9a430ae?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Dec 13 |
@@ -121,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6905ef8aff462851fe001b5a?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Dec 13 |
 | **[Santander](https://www.santander.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/693d673249a7695fbd040692?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[Rabobank](http://www.rabobank.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68cfb57c846f0b04af68488e?utm_campaign=1052&utm_source=git)** | Twin Falls, ID | Hybrid | Dec 13 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/693d63aaaa598a08c3ee0858?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 13 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Intern - Tysons Corner, VA](https://jobright.ai/jobs/info/69037f27d64a22104aa8fdd9?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Dec 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Corporate Real Estate (Summer 2026)](https://jobright.ai/jobs/info/68e7e54dcc49a84b7e0fefe5?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Dec 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future Finance Leaders Program - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/69216433a49a885af9a45883?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/691aa598bcdbf3560c9d95b8?utm_campaign=1052&utm_source=git)** | Colmar, PA | Hybrid | Dec 13 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/68d4fb35e678d65ec7d8a477?utm_campaign=1052&utm_source=git)** | South Portland, ME | On Site | Dec 13 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d39cbaa598a08c3ee0016?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d3561aa598a08c3edfefb?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/693d2f5249a7695fbd03e331?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 13 |
-| **[Outlier AI](http://outlier.ai/)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693d2e8549a7695fbd03e2f4?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Remote | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
