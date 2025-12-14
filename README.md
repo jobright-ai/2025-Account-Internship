@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arvento A](arventoa.us)** | **[Tax Intern – Financial Planning & Tax Review](https://jobright.ai/jobs/info/693e2435aa598a08c3ee8559?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Dec 13 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Financial Lines Intern (Summer 2026)](https://jobright.ai/jobs/info/693ce0e350bbaf76505007e0?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693dff62aa598a08c3ee672b?utm_campaign=1052&utm_source=git)** | South Bend, IN | Remote | Dec 13 |
 | **[Valemont](https://www.linkedin.com/company/109316021)** | **[Private Equity Analyst Internship](https://jobright.ai/jobs/info/693dfc2e50bbaf765050c95d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 13 |
@@ -81,11 +82,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Growth Markets](https://jobright.ai/jobs/info/68c91271f9c6ff7aedf1783b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[2026 Summer Intern - Trade Floor Operations Analyst](https://jobright.ai/jobs/info/693417b6a0dde7020e2f4187?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Commercial Finance - Syosset, NY](https://jobright.ai/jobs/info/693db39450bbaf765050a724?utm_campaign=1052&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Portfolio Management Intern (4 Months)](https://jobright.ai/jobs/info/693da2d150bbaf765050a46a?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Portfolio Management Intern (4 Months)](https://jobright.ai/jobs/info/693da17caa598a08c3ee4350?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Tax Intern – Finance, Accounting & Tax Services](https://jobright.ai/jobs/info/693d937249a7695fbd0411c5?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Dec 13 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Internal Audit](https://jobright.ai/jobs/info/68afae74f20641371441f84c?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | On Site | Dec 13 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68c25ad233864f172f9bfc52?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 13 |
-| **[Stratify Edge](stratifyedge.us)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/693d913049a7695fbd04113c?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Dec 13 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Tax Intern, San Francisco](https://jobright.ai/jobs/info/6903cb1263502c0aded6c867?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/6903a2ca63502c0aded6a7d7?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Dec 13 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Corporate Treasury](https://jobright.ai/jobs/info/68e827acc4895107182c30e3?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 13 |
