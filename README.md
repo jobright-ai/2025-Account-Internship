@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Investor Relations Intern](https://jobright.ai/jobs/info/6917b1a0bcdbf3560c9ca54a?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6917c04dbcdbf3560c9cb02b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
+| **[Tanimura & Antle](http://taproduce.com)** | **[Finance Intern](https://jobright.ai/jobs/info/693f1563aa598a08c3ef13c1?utm_campaign=1052&utm_source=git)** | Salinas, CA | Hybrid | Dec 14 |
 | **[Velastra](velastra.us)** | **[Tax Intern – Public Accounting & Tax Compliance](https://jobright.ai/jobs/info/693ef7e2aa598a08c3ef1107?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 14 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Tax Intern Tax Technology and Business Operations](https://jobright.ai/jobs/info/693ef16baa598a08c3ef10bb?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Dec 14 |
 | **[Ventus REC Management](https://www.ventus-rec.com)** | **[Summer Internship](https://jobright.ai/jobs/info/693eee5949a7695fbd04f67f?utm_campaign=1052&utm_source=git)** | Collegeville, PA | Hybrid | Dec 14 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Zurich Insurance](http://www.zurich.com)** | **[Underwriting Internship (Summer 2026) - Maitland](https://jobright.ai/jobs/info/693edabf49a7695fbd04dc5b?utm_campaign=1052&utm_source=git)** | Maitland, FL | Hybrid | Dec 14 |
 | **[Brother USA](https://brother-usa.com)** | **[Senior Analyst, International Tax](https://jobright.ai/jobs/info/69054a51122e8474c78d820d?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Dec 14 |
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Los Angeles, CA](https://jobright.ai/jobs/info/69061ccb122e8474c78deedb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 14 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/693ed38949a7695fbd04dba4?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Dec 14 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/693ed34649a7695fbd04db9e?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Dec 14 |
 | **[Brother USA](https://brother-usa.com)** | **[Senior Analyst, International Tax](https://jobright.ai/jobs/info/690542fb122e8474c78d7ee6?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: U.S. Tax Summer Intern](https://jobright.ai/jobs/info/693ecceb49a7695fbd04db03?utm_campaign=1052&utm_source=git)** | Exton, PA | On Site | Dec 14 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, Alpharetta Office (2026 Summer)](https://jobright.ai/jobs/info/68ec9ffac26b9574506f57b9?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 14 |
 | **[American National](https://www.americannational.com)** | **[Internship - Actuarial, Annuity Analytics](https://jobright.ai/jobs/info/691fdb74a49a885af9a34c63?utm_campaign=1052&utm_source=git)** | League City, TX | On Site | Dec 14 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/693d34e349a7695fbd03e7fb?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Dec 14 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/693162043a5f32082f714c15?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Dec 14 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Dec 14 |
+| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/693162043a5f32082f714c15?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Dec 14 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68e9fd22cfc08e49089143c1?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Dec 14 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Palm Beach, Florida](https://jobright.ai/jobs/info/68e9da5d54fbf903f6a7f19e?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 14 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, NYC (2026 Summer)](https://jobright.ai/jobs/info/68ec8f7a1eecd439f43f9d8b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 14 |
@@ -142,7 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Growth Markets](https://jobright.ai/jobs/info/68c91271f9c6ff7aedf1783b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[2026 Summer Intern - Trade Floor Operations Analyst](https://jobright.ai/jobs/info/693417b6a0dde7020e2f4187?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Commercial Finance - Syosset, NY](https://jobright.ai/jobs/info/693db39450bbaf765050a724?utm_campaign=1052&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Portfolio Management Intern (4 Months)](https://jobright.ai/jobs/info/693da2d150bbaf765050a46a?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Portfolio Management Intern (4 Months)](https://jobright.ai/jobs/info/693da17caa598a08c3ee4350?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Tax Intern – Finance, Accounting & Tax Services](https://jobright.ai/jobs/info/693d937249a7695fbd0411c5?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Dec 13 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Internal Audit](https://jobright.ai/jobs/info/68afae74f20641371441f84c?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | On Site | Dec 13 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68c25ad233864f172f9bfc52?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Underwriting](https://jobright.ai/jobs/info/691fd2f13f782d2f1afc093e?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 13 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Cape Girardeau (Summer 2026)](https://jobright.ai/jobs/info/693d0bf949a7695fbd03bdc4?utm_campaign=1052&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 13 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/6903874ed64a22104aa9023a?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Dec 13 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Treasury Intern](https://jobright.ai/jobs/info/692102e6a49a885af9a4210d?utm_campaign=1052&utm_source=git)** | Erie, PA | On Site | Dec 13 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6920ca1c00c9ee50eaec8074?utm_campaign=1052&utm_source=git)** | Valhalla, NY | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
