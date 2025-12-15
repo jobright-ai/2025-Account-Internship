@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693f4df2aa598a08c3ef326f?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Dec 14 |
+| **[Cronus Capital Management LLC](www.cronusam.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/693f3fb350bbaf76505194e9?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Investor Relations Intern](https://jobright.ai/jobs/info/6917b1a0bcdbf3560c9ca54a?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6917c04dbcdbf3560c9cb02b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
 | **[Tanimura & Antle](http://taproduce.com)** | **[Finance Intern](https://jobright.ai/jobs/info/693f1563aa598a08c3ef13c1?utm_campaign=1052&utm_source=git)** | Salinas, CA | Hybrid | Dec 14 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Ventus REC Management](https://www.ventus-rec.com)** | **[Summer Internship](https://jobright.ai/jobs/info/693eee5949a7695fbd04f67f?utm_campaign=1052&utm_source=git)** | Collegeville, PA | Hybrid | Dec 14 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/693ee5afaa598a08c3eef6f6?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 14 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/693ee154aa598a08c3eef6b3?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 14 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Cost Analyst](https://jobright.ai/jobs/info/693ee00349a7695fbd04dd0c?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Dec 14 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Tax Intern – Business Operations & Tax Services](https://jobright.ai/jobs/info/693edeeb50bbaf7650515a9a?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Dec 14 |
 | **[Stratify Edge](stratifyedge.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/693edd28aa598a08c3eef63a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Dec 14 |
 | **[LumoraX](lumorax.us)** | **[Tax Intern – Corporate Finance & Taxation](https://jobright.ai/jobs/info/693edbdb50bbaf7650515a0b?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Dec 14 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, Alpharetta Office (2026 Summer)](https://jobright.ai/jobs/info/68ec9ffac26b9574506f57b9?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 14 |
 | **[American National](https://www.americannational.com)** | **[Internship - Actuarial, Annuity Analytics](https://jobright.ai/jobs/info/691fdb74a49a885af9a34c63?utm_campaign=1052&utm_source=git)** | League City, TX | On Site | Dec 14 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/693d34e349a7695fbd03e7fb?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Dec 14 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Dec 14 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/693162043a5f32082f714c15?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Dec 14 |
+| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68ede9a681fdd1626d3a0804?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Dec 14 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68e9fd22cfc08e49089143c1?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Dec 14 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Palm Beach, Florida](https://jobright.ai/jobs/info/68e9da5d54fbf903f6a7f19e?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 14 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, NYC (2026 Summer)](https://jobright.ai/jobs/info/68ec8f7a1eecd439f43f9d8b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 14 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Winter Audit Intern (2026) - Woodcliff Lake, NJ](https://jobright.ai/jobs/info/68cc1b4a7342c7623ae5f232?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ | On Site | Dec 14 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2027](https://jobright.ai/jobs/info/68ccc76cfa466330fef90fcd?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Public Accounting Internship – (Full-Time / Summer 2026)](https://jobright.ai/jobs/info/693a7f11f4e44c4d629d2839?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 14 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/693e80f050bbaf76505135b7?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Audit Intern (Remote)](https://jobright.ai/jobs/info/693e76b5aa598a08c3eeb7bb?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Dec 14 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693e769449a7695fbd049f4b?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | Remote | Dec 14 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/693e75ed50bbaf7650511a6d?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Remote | Dec 14 |
@@ -144,7 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Growth Markets](https://jobright.ai/jobs/info/68c91271f9c6ff7aedf1783b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[2026 Summer Intern - Trade Floor Operations Analyst](https://jobright.ai/jobs/info/693417b6a0dde7020e2f4187?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Commercial Finance - Syosset, NY](https://jobright.ai/jobs/info/693db39450bbaf765050a724?utm_campaign=1052&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Portfolio Management Intern (4 Months)](https://jobright.ai/jobs/info/693da17caa598a08c3ee4350?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Portfolio Management Intern (4 Months)](https://jobright.ai/jobs/info/693da2d150bbaf765050a46a?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Tax Intern – Finance, Accounting & Tax Services](https://jobright.ai/jobs/info/693d937249a7695fbd0411c5?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Dec 13 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Internal Audit](https://jobright.ai/jobs/info/68afae74f20641371441f84c?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | On Site | Dec 13 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Summer 2026](https://jobright.ai/jobs/info/68c25ad233864f172f9bfc52?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 13 |
