@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[2026 Leadership Program and 2027 Rotational Accounting Internship - San Francisco, San Jose, or San Diego](https://jobright.ai/jobs/info/6940f08050bbaf76505306bc?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Dec 15 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Fort Wayne](https://jobright.ai/jobs/info/6940ee1350bbaf765053066d?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | Hybrid | Dec 15 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Finance Intern](https://jobright.ai/jobs/info/6940e91750bbaf765052f136?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Dec 15 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CAO, Global Procurement Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6940e49a49a7695fbd0668ae?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 15 |
+| **[Genesys](https://www.genesys.com)** | **[Intern, Global Tax Accounting and Reporting](https://jobright.ai/jobs/info/68f6c51376a51a4307bde1e4?utm_campaign=1052&utm_source=git)** | Indiana, United States | Hybrid | Dec 15 |
+| ↳ | **[Intern, Global Tax Accounting and Reporting](https://jobright.ai/jobs/info/68f62d1676a51a4307bd881f?utm_campaign=1052&utm_source=git)** | Arizona, United States | Hybrid | Dec 15 |
+| ↳ | **[Intern, Global Tax Accounting and Reporting](https://jobright.ai/jobs/info/68f17020e6870116b1f5920e?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Dec 15 |
 | **[GROB Systems, Inc](https://grobsystems.com)** | **[Finance Intern - Spring 2026](https://jobright.ai/jobs/info/6940ca0350bbaf765052caaf?utm_campaign=1052&utm_source=git)** | Bluffton, OH | On Site | Dec 15 |
 | ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6940c91950bbaf765052c744?utm_campaign=1052&utm_source=git)** | Bluffton, OH | On Site | Dec 15 |
 | **[Hightower](https://hightoweraccess.com)** | **[Summer 2026 Internship: Finance & Real Estate - Financial Reporting/Treasury](https://jobright.ai/jobs/info/6940c86349a7695fbd06417a?utm_campaign=1052&utm_source=git)** | 200 W Madison St, Chicago, IL 60606, USA | On Site | Dec 15 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/6940e91250bbaf765052f101?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Dec 15 |
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Procurement Estimation Co-op](https://jobright.ai/jobs/info/6940c18550bbaf765052beb1?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | On Site | Dec 15 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6940c0c150bbaf765052be5d?utm_campaign=1052&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 15 |
 | **[PHINIA](https://phinia.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6940bd8950bbaf765052bc4b?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Dec 15 |
@@ -83,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Covia](https://www.coviacorp.com/)** | **[FP&A Internship Summer 2026](https://jobright.ai/jobs/info/691f761ca49a885af9a303b6?utm_campaign=1052&utm_source=git)** | Concord, NC | Hybrid | Dec 15 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Wichita](https://jobright.ai/jobs/info/6940aa2550bbaf765052b1d1?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Dec 15 |
+| **[LWCC](https://www.lwcc.com/)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/6940d8cc49a7695fbd0661f4?utm_campaign=1052&utm_source=git)** | Louisiana Workers' Compensation Corporation, 2237 S. Acadian Thruway, Baton Rouge, Louisiana, United States of America | On Site | Dec 15 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Financial Controls](https://jobright.ai/jobs/info/6940a96aaa598a08c3f04cd7?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Dec 15 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940ce8750bbaf765052d3a6?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 15 |
 | ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940cefa49a7695fbd0651d1?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
@@ -93,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern San Jose CA](https://jobright.ai/jobs/info/690a12ce4a1b456627b04228?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Dec 15 |
 | ↳ | **[Commercial Banking Intern Costa Mesa CA](https://jobright.ai/jobs/info/690782e763502c0aded87bf0?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | On Site | Dec 15 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Finance](https://jobright.ai/jobs/info/6940a1da49a7695fbd062ce9?utm_campaign=1052&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 15 |
-| **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940c51849a7695fbd063fa9?utm_campaign=1052&utm_source=git)** | US-NC-Charlotte | On Site | Dec 15 |
-| ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940bf2349a7695fbd063c37?utm_campaign=1052&utm_source=git)** | US-MN-Rochester | On Site | Dec 15 |
+| **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940bf2349a7695fbd063c37?utm_campaign=1052&utm_source=git)** | US-MN-Rochester | On Site | Dec 15 |
 | ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940bdd449a7695fbd063b88?utm_campaign=1052&utm_source=git)** | US-OH-Columbus | On Site | Dec 15 |
+| ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940c51849a7695fbd063fa9?utm_campaign=1052&utm_source=git)** | US-NC-Charlotte | On Site | Dec 15 |
 | ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6940bebd50bbaf765052bd15?utm_campaign=1052&utm_source=git)** | US-NY-Albany | On Site | Dec 15 |
 | **[Sanhua International USA](https://www.sanhuausa.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6940c21eaa598a08c3f05abd?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 15 |
 | **[Wilton Re](http://www.wiltonre.com)** | **[Actuarial Intern, Asset Modeling– Summer 2026](https://jobright.ai/jobs/info/6940a10249a7695fbd062c4c?utm_campaign=1052&utm_source=git)** | Norwalk, CT | Hybrid | Dec 15 |
@@ -122,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Invoicing and Collection Operations](https://jobright.ai/jobs/info/69408e7850bbaf7650529ed3?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 15 |
 | **[StandardAero](http://www.standardaero.com/)** | **[LEAP Commercial Analyst Intern](https://jobright.ai/jobs/info/6940b3caaa598a08c3f0526b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Dec 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6940a9c9aa598a08c3f04d27?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Dec 15 |
-| ↳ | **[Core Tax Intern - Winter 2027 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6940b51aaa598a08c3f05387?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | Hybrid | Dec 15 |
 | ↳ | **[Assurance Intern - Winter 2027 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6940b32050bbaf765052b6be?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | Hybrid | Dec 15 |
+| ↳ | **[Core Tax Intern - Winter 2027 (Grand Rapids/Kalamazoo)](https://jobright.ai/jobs/info/6940b51aaa598a08c3f05387?utm_campaign=1052&utm_source=git)** | Kalamazoo, MI | Hybrid | Dec 15 |
 | **[Barrett Industries](https://barrettindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69408baa49a7695fbd061da9?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 15 |
 | **[Wilton Re](http://www.wiltonre.com)** | **[Investments Intern – Summer 2026](https://jobright.ai/jobs/info/6940b0ab50bbaf765052b513?utm_campaign=1052&utm_source=git)** | Norwalk, CT | Hybrid | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Cost Accounting Intern - Data Analyst](https://jobright.ai/jobs/info/69408907aa598a08c3f0363a?utm_campaign=1052&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Treasury)](https://jobright.ai/jobs/info/694078c950bbaf765052788f?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Dec 15 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Internal Audit - Treasury Internship](https://jobright.ai/jobs/info/6938a285aabec14a727d8c12?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 15 |
 | **[PMMC](http://www.pmmconline.com)** | **[Recovery Analyst Internship](https://jobright.ai/jobs/info/692f02e84c474121999dbc4a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Dec 15 |
-| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Tax Intern](https://jobright.ai/jobs/info/6940773450bbaf7650527675?utm_campaign=1052&utm_source=git)** | Campbell, CA | Hybrid | Dec 15 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - New York, NY](https://jobright.ai/jobs/info/694074b6aa598a08c3f01246?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 15 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Greenville)](https://jobright.ai/jobs/info/694095a749a7695fbd062555?utm_campaign=1052&utm_source=git)** | 31 325 W McBee Ave, Greenville, SC, 29601, US | On Site | Dec 15 |
-| **[Corsair](http://www.corsair.com)** | **[Cost Accounting Intern - Data Analyst](https://jobright.ai/jobs/info/6940742a49a7695fbd05f4b0?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/694073d1aa598a08c3f01177?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Counterparty Credit Risk Intern (4 Months)](https://jobright.ai/jobs/info/69409553aa598a08c3f040c4?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 15 |
-| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Supply Chain Finance Internship](https://jobright.ai/jobs/info/69409fb0aa598a08c3f0476d?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 15 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship – Sunrise, FL](https://jobright.ai/jobs/info/6903a51063502c0aded6a96d?utm_campaign=1052&utm_source=git)** | Sunrise, FL | Hybrid | Dec 15 |
-| ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/690394b4d64a22104aa90a18?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
