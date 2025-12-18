@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Credit](https://jobright.ai/jobs/info/6943cd19dd382f5f5669f3c7?utm_campaign=1052&utm_source=git)** | Maryland Heights, Missouri | On Site | Dec 18 |
+| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/6943bfe3dd382f5f5669d4ad?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Dec 18 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 17 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern – Economic & Financial Research](https://jobright.ai/jobs/info/69439eebdd382f5f5669bc31?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Remote | Dec 17 |
 | **[Andersen Consulting](http://www.andersenconsulting.com)** | **[Intern – Tax Services – Spring 2027 – (Hybrid)](https://jobright.ai/jobs/info/69439d6cdd382f5f5669bba7?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
+| **[JOBS by allUP](https://www.allup.world)** | **[Venture Capital Intern (Data & Analytics) at ff Venture Capital](https://jobright.ai/jobs/info/6943baf950bbaf765055b586?utm_campaign=1052&utm_source=git)** | Remote job | Remote | Dec 17 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/694394c094730b739876c484?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 17 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Tax Technology & Business Operations](https://jobright.ai/jobs/info/694394bd94730b739876c482?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MBA, Strategic Finance](https://jobright.ai/jobs/info/691d3e1c7481340785ed5542?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fef350bbaf765054d591?utm_campaign=1052&utm_source=git)** | Jenks, OK | Hybrid | Dec 17 |
 | **[Liquidnet](http://www.liquidnet.com)** | **[Equities Sales & Trading Intern, Liquidnet](https://jobright.ai/jobs/info/69431efcdd382f5f566911e1?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 17 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fe4edd382f5f5668f603?utm_campaign=1052&utm_source=git)** | South Portland, ME | Hybrid | Dec 17 |
-| **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Construction Finance - Summer Internship](https://jobright.ai/jobs/info/6943213d50bbaf765054f984?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fd5b50bbaf765054d31f?utm_campaign=1052&utm_source=git)** | Troy, OH | Hybrid | Dec 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fc3550bbaf765054d113?utm_campaign=1052&utm_source=git)** | Vernon Hills, IL | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
