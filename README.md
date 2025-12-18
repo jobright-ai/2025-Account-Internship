@@ -57,12 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FINEXITY](https://finexity.com)** | **[Intern / Student Investment Management (m/w/d)](https://jobright.ai/jobs/info/694452f3dd382f5f566a6df3?utm_campaign=1052&utm_source=git)** | Deutschlandweit (Remote) | Remote | Dec 18 |
+| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/694452badd382f5f566a6db8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 18 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6944523750bbaf7650564f8c?utm_campaign=1052&utm_source=git)** | Boston | On Site | Dec 18 |
+| **[Harmony Biosciences](https://www.harmonybiosciences.com)** | **[Summer Intern - Accounting, Revenue](https://jobright.ai/jobs/info/6944500450bbaf7650564e30?utm_campaign=1052&utm_source=git)** | Plymouth Meeting, PA | On Site | Dec 18 |
+| **[Verus Aerospace](https://verusaerospace.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69444d3fdd382f5f566a6991?utm_campaign=1052&utm_source=git)** | Arden Engineering Inc. | On Site | Dec 18 |
+| **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/694449a494730b73987765de?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Dec 18 |
+| **[Harmony Biosciences](https://www.harmonybiosciences.com)** | **[Summer Intern - Accounting, Accounts Payable](https://jobright.ai/jobs/info/694444f394730b7398775b70?utm_campaign=1052&utm_source=git)** | Plymouth Meeting, PA | On Site | Dec 18 |
+| **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/6944438650bbaf7650562f4f?utm_campaign=1052&utm_source=git)** | Western Springs, IL | On Site | Dec 18 |
+| **[Havarti Risk](https://havarti-risk.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694441cbdd382f5f566a491e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/69443a5d94730b73987755c2?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 18 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Wealth Management, Planning & Trust Services Group (New York City)](https://jobright.ai/jobs/info/6944387e94730b7398775408?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/69443856dd382f5f566a42ca?utm_campaign=1052&utm_source=git)** | Boston | On Site | Dec 18 |
 | ↳ | **[International Tax Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/6944381550bbaf7650562765?utm_campaign=1052&utm_source=git)** | New York | On Site | Dec 18 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/694437c3dd382f5f566a4277?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Wealth Management, Planning and Trust Services Group (Wilmington, DE)](https://jobright.ai/jobs/info/6944378694730b739877522f?utm_campaign=1052&utm_source=git)** | Wilmington, DE | Hybrid | Dec 18 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Data Intern-Summer 2026](https://jobright.ai/jobs/info/6944509550bbaf7650564e78?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Dec 18 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Financial Analyst - May 2026 (4 Month)](https://jobright.ai/jobs/info/6944337094730b7398775159?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Dec 18 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6944322c94730b73987750b1?utm_campaign=1052&utm_source=git)** | Norco, CA | Hybrid | Dec 18 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944322250bbaf7650562561?utm_campaign=1052&utm_source=git)** | Carteret, NJ | Hybrid | Dec 18 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/694431d850bbaf7650562544?utm_campaign=1052&utm_source=git)** | Lafayette, CA | Hybrid | Dec 18 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944328150bbaf765056258e?utm_campaign=1052&utm_source=git)** | Caledonia, WI | Hybrid | Dec 18 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944358d50bbaf76505626e6?utm_campaign=1052&utm_source=git)** | Corsicana, TX | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/694431e950bbaf765056254d?utm_campaign=1052&utm_source=git)** | Brandon, MS | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944354e94730b73987751fb?utm_campaign=1052&utm_source=git)** | Newberg, OR | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944317edd382f5f566a3fde?utm_campaign=1052&utm_source=git)** | Chanhassen, MN | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/694435ac50bbaf76505626f2?utm_campaign=1052&utm_source=git)** | Austin, MN | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944347094730b73987751b7?utm_campaign=1052&utm_source=git)** | Leland, NC | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944340394730b739877519b?utm_campaign=1052&utm_source=git)** | Medford, NY | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944374edd382f5f566a4232?utm_campaign=1052&utm_source=git)** | Cliffside Park, NJ | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69443801dd382f5f566a4299?utm_campaign=1052&utm_source=git)** | Bailey's Crossroads, VA | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944362add382f5f566a41b4?utm_campaign=1052&utm_source=git)** | Forest Grove, OR | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/694436eedd382f5f566a41fd?utm_campaign=1052&utm_source=git)** | Palm City, FL | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
