@@ -57,7 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd49?utm_campaign=1052&utm_source=git)** | Florence, SC | On Site | Dec 18 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed11546e5b153e5a60252?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed524e0db92422580bf3c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed29b46e5b153e5a60621?utm_campaign=1052&utm_source=git)** | Bloomington, MN | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedc2146e5b153e5a60abe?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed949e0db92422580c0d3?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed23246e5b153e5a6054c?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Dec 18 |
+| **[Brighton Jones](http://brightonjones.com)** | **[Summer Tax Internship: June - August 2026](https://jobright.ai/jobs/info/690bc054d046ab6061ce7416?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed398d078b81ad160fc9d?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed398d078b81ad160fc9e?utm_campaign=1052&utm_source=git)** | Trevose, PA | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed55ce0db92422580bf9c?utm_campaign=1052&utm_source=git)** | Westborough, MA | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3fcd078b81ad160fd55?utm_campaign=1052&utm_source=git)** | Medina, OH | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed488e0db92422580be12?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3ced078b81ad160fd04?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 18 |
+| ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece63e0db92422580b9b2?utm_campaign=1052&utm_source=git)** | Westborough, MA | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbc?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 18 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Audit Summer Intern](https://jobright.ai/jobs/info/690a1d44bcccf20de59df119?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Dec 18 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2f7d078b81ad160fb9a?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eecf5ae0db92422580ba7f?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 18 |
+| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed405e0db92422580bd49?utm_campaign=1052&utm_source=git)** | Florence, SC | On Site | Dec 18 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2d746e5b153e5a606ad?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 18 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed35cd078b81ad160fc32?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Dec 18 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed0f346e5b153e5a60207?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | On Site | Dec 18 |
@@ -107,6 +125,9 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/6933eeb6f131d96e48468447?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68b73302f4e41a61efd9665f?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | Dec 18 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Finance & Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d79c747796a83635f08824?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Dec 18 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/68d2fef6f0d9af73038de0b9?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
+| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68d303238c62e63bc7fdcd62?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
+| ↳ | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68d2f0ea8c62e63bc7fdbcb9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Analyst Intern](https://jobright.ai/jobs/info/68d19769cece431f8b585898?utm_campaign=1052&utm_source=git)** | Carlisle, PA | Hybrid | Dec 18 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/690bb919d046ab6061ce6d59?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Analyst Intern](https://jobright.ai/jobs/info/691ec09609cc522e8773be2f?utm_campaign=1052&utm_source=git)** | Salisbury, NC | Hybrid | Dec 18 |
@@ -136,25 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/6943bfe3dd382f5f5669d4ad?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO | On Site | Dec 18 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Business Tax Analyst - Tax & Legal - Co-op/Intern Fall 2026 - Saskatchewan](https://jobright.ai/jobs/info/6943dc3c50bbaf765055e061?utm_campaign=1052&utm_source=git)** | Regina, Saskatchewan, Canada | Hybrid | Dec 18 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6943d0bfdd382f5f5669f791?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 17 |
-| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 17 |
-| **[Blue Ventis](blueventis.us)** | **[Tax Intern – Economic & Financial Research](https://jobright.ai/jobs/info/69439eebdd382f5f5669bc31?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Remote | Dec 17 |
-| **[Andersen Consulting](http://www.andersenconsulting.com)** | **[Intern – Tax Services – Spring 2027 – (Hybrid)](https://jobright.ai/jobs/info/69439d6cdd382f5f5669bba7?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
-| **[JOBS by allUP](https://www.allup.world)** | **[Venture Capital Intern (Data & Analytics) at ff Venture Capital](https://jobright.ai/jobs/info/6943baf950bbaf765055b586?utm_campaign=1052&utm_source=git)** | Remote job | Remote | Dec 17 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/694394c094730b739876c484?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 17 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Tax Technology & Business Operations](https://jobright.ai/jobs/info/694394bd94730b739876c482?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 17 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MBA, Strategic Finance](https://jobright.ai/jobs/info/691d3e1c7481340785ed5542?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
-| **[Border States](https://www.borderstates.com)** | **[BSC Intern - Financial Acctg](https://jobright.ai/jobs/info/6943873a94730b739876a3b5?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Dec 17 |
-| **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Analyst, San Francisco Healthcare (North America - 2027)](https://jobright.ai/jobs/info/694383a7dd382f5f56699237?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
-| ↳ | **[Banking - Capital Markets, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/694382c294730b739876a07e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 17 |
-| **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694381f0dd382f5f5669903c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 17 |
-| **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Analyst, Chicago - US, 2027](https://jobright.ai/jobs/info/69438135dd382f5f56698fda?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Project Finance Portfolio Management](https://jobright.ai/jobs/info/6943800b50bbaf76505573ae?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
-| **[Citi](https://www.citi.com)** | **[Banking - Corporate Banking, Summer Analyst, San Francisco - US, 2027](https://jobright.ai/jobs/info/69437ed850bbaf7650557295?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
-| ↳ | **[Banking - Investment Banking, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/69437dd194730b7398769b9b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 17 |
-| ↳ | **[Banking - Corporate Banking, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/69437db3dd382f5f56698e01?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 17 |
-| ↳ | **[Banking - Corporate Banking, Summer Analyst, Houston - US, 2027](https://jobright.ai/jobs/info/69437d4050bbaf7650557140?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 17 |
-| ↳ | **[Banking - Investment Banking, Summer Analyst, San Francisco Technology (North America - 2027)](https://jobright.ai/jobs/info/69437ce394730b7398769ae6?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6943797694730b73987697fc?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Hybrid | Dec 17 |
-| **[Highgate](https://www.highgate.com)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/6943791594730b739876979f?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 17 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Real Estate Financial Analyst MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6943772394730b7398769669?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
