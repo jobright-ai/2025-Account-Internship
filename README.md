@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 17 |
+| **[Blue Ventis](blueventis.us)** | **[Tax Intern – Economic & Financial Research](https://jobright.ai/jobs/info/69439eebdd382f5f5669bc31?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Remote | Dec 17 |
+| **[Andersen Consulting](http://www.andersenconsulting.com)** | **[Intern – Tax Services – Spring 2027 – (Hybrid)](https://jobright.ai/jobs/info/69439d6cdd382f5f5669bba7?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Fort Worth](https://jobright.ai/jobs/info/694394c094730b739876c484?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 17 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Tax Technology & Business Operations](https://jobright.ai/jobs/info/694394bd94730b739876c482?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 17 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MBA, Strategic Finance](https://jobright.ai/jobs/info/691d3e1c7481340785ed5542?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 17 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Global Investment Intern-Credit Research](https://jobright.ai/jobs/info/69436a1394730b73987682db?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
 | ↳ | **[2026 Summer Global Investments Intern- Investments](https://jobright.ai/jobs/info/694369d6dd382f5f56697517?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
 | **[Multimatic](https://www.multimatic.com/)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/691e3be3a49a885af9a26a51?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Dec 17 |
-| **[Arvento A](arventoa.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69438a9250bbaf765055802a?utm_campaign=1052&utm_source=git)** | Durham, NC | Remote | Dec 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Accounts Payable Intern, NA](https://jobright.ai/jobs/info/6943615994730b73987673ea?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 17 |
 | **[CRH](http://crh.com)** | **[Enterprise Business Services (EBS) Summer Intern](https://jobright.ai/jobs/info/69435def94730b7398766cf1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | **[First Guaranty Bank](https://www.fgb.net/)** | **[Credit Intern](https://jobright.ai/jobs/info/694383b994730b739876a102?utm_campaign=1052&utm_source=git)** | Hammond, LA | On Site | Dec 17 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[White Cap](https://www.whitecap.com/)** | **[Field Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/6943479d50bbaf7650552d48?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | **[GoodLeap](https://www.goodleap.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6943291e50bbaf76505501b8?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Dec 17 |
 | **[Global Partners LP](http://www.globalp.com)** | **[IT Intern](https://jobright.ai/jobs/info/6943563150bbaf765055376d?utm_campaign=1052&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 17 |
-| ↳ | **[Network IT Intern](https://jobright.ai/jobs/info/69435269dd382f5f566950b2?utm_campaign=1052&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 17 |
 | ↳ | **[Retail Systems Support Specialist Intern](https://jobright.ai/jobs/info/694348eddd382f5f5669491e?utm_campaign=1052&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 17 |
+| ↳ | **[Network IT Intern](https://jobright.ai/jobs/info/69435269dd382f5f566950b2?utm_campaign=1052&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 17 |
 | **[Knife River Corporation](https://www.kniferiver.com/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6943268050bbaf765054fe99?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Dec 17 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2026 - Real Estate Asset Management](https://jobright.ai/jobs/info/694347a9dd382f5f5669483c?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Dec 17 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Treasury Analyst Intern - Winter 2026](https://jobright.ai/jobs/info/694324fa94730b7398762677?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Construction Finance - Summer Internship](https://jobright.ai/jobs/info/6943213d50bbaf765054f984?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fd5b50bbaf765054d31f?utm_campaign=1052&utm_source=git)** | Troy, OH | Hybrid | Dec 17 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fc3550bbaf765054d113?utm_campaign=1052&utm_source=git)** | Vernon Hills, IL | Hybrid | Dec 17 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Finance / Accounting](https://jobright.ai/jobs/info/694318e094730b7398761ad4?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Dec 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6942fb81dd382f5f5668f249?utm_campaign=1052&utm_source=git)** | Tumwater, WA | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
