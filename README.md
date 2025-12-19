@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](https://www.continental.com)** | **[Intern - Corporate Accounting, Year-Round](https://jobright.ai/jobs/info/6944b0f894730b739877f4fd?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | Hybrid | Dec 18 |
+| **[Sunset Studios](http://sgsandsbs.com)** | **[2026 NextGen Summer Internship - Studio Finance - Los Angeles](https://jobright.ai/jobs/info/6944b00f94730b739877f431?utm_campaign=1052&utm_source=git)** | Los Angeles, California | On Site | Dec 18 |
+| **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Financial Analyst/BP&A Support (Omaha, NE)](https://jobright.ai/jobs/info/6944ae8350bbaf765056c629?utm_campaign=1052&utm_source=git)** | Omaha Metropolitan Area | On Site | Dec 18 |
 | **[Northeast Ohio Regional Sewer District](http://www.neorsd.org)** | **[Audit Intern](https://jobright.ai/jobs/info/68fbd114f55bb021a889cc8c?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 18 |
 | **[Sunset Studios](http://sgsandsbs.com)** | **[2026 NextGen Summer Internship - Studio Finance - Los Angeles](https://jobright.ai/jobs/info/69449fac94730b739877d06e?utm_campaign=1052&utm_source=git)** | West Hollywood, CA | On Site | Dec 18 |
 | **[CRH](http://crh.com)** | **[EPM Financial Analyst Intern](https://jobright.ai/jobs/info/69449f0394730b739877d033?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
@@ -83,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Planning](https://jobright.ai/jobs/info/6944851850bbaf7650569476?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 18 |
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Investments - Los Angeles](https://jobright.ai/jobs/info/69448360dd382f5f566aafec?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[Zoetis](https://www.zoetis.com)** | **[Intern-ERP Finance Product](https://jobright.ai/jobs/info/6944829a94730b739877bf06?utm_campaign=1052&utm_source=git)** | Parsippany | On Site | Dec 18 |
-| ↳ | **[Intern-ERP Finance Product](https://jobright.ai/jobs/info/6944820250bbaf765056930e?utm_campaign=1052&utm_source=git)** | Parsippany | On Site | Dec 18 |
+| ↳ | **[Intern-ERP Finance Product](https://jobright.ai/jobs/info/694481ae50bbaf76505692b7?utm_campaign=1052&utm_source=git)** | Parsippany | On Site | Dec 18 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Winter 2027/ Omaha](https://jobright.ai/jobs/info/69449f0da7227b3ece6637ff?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Dec 18 |
 | **[Babcock & Wilcox](https://www.babcock.com)** | **[Senior Manager, Internal Audit](https://jobright.ai/jobs/info/69448141dd382f5f566aade4?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Dec 18 |
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Accounting - Los Angeles](https://jobright.ai/jobs/info/6944803cdd382f5f566aad08?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Lead GL Accounting Technician FT – 6568](https://jobright.ai/jobs/info/6944735950bbaf7650567883?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Dec 18 |
 | **[FINEXITY](https://finexity.com)** | **[Intern / Student Investment Management (m/w/d)](https://jobright.ai/jobs/info/694452f3dd382f5f566a6df3?utm_campaign=1052&utm_source=git)** | Deutschlandweit (Remote) | Remote | Dec 18 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/694452badd382f5f566a6db8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6944523750bbaf7650564f8c?utm_campaign=1052&utm_source=git)** | Boston | On Site | Dec 18 |
 | **[Global Partners LP](http://www.globalp.com)** | **[National Wholesale Intern](https://jobright.ai/jobs/info/69447585dd382f5f566aa029?utm_campaign=1052&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 18 |
 | **[Harmony Biosciences](https://www.harmonybiosciences.com)** | **[Summer Intern - Accounting, Revenue](https://jobright.ai/jobs/info/6944500450bbaf7650564e30?utm_campaign=1052&utm_source=git)** | Plymouth Meeting, PA | On Site | Dec 18 |
 | **[BMO](http://www.bmo.com)** | **[Credit Analyst Intern, Business Banking Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69447a97dd382f5f566aa756?utm_campaign=1052&utm_source=git)** | Mississauga, ON, CAN | On Site | Dec 18 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/6944438650bbaf7650562f4f?utm_campaign=1052&utm_source=git)** | Western Springs, IL | On Site | Dec 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Summer 2027](https://jobright.ai/jobs/info/694461b9dd382f5f566a7ab1?utm_campaign=1052&utm_source=git)** | US-MT-Missoula | On Site | Dec 18 |
 | **[Havarti Risk](https://havarti-risk.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694441cbdd382f5f566a491e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/694463f494730b7398778c70?utm_campaign=1052&utm_source=git)** | Boston | On Site | Dec 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694463d5dd382f5f566a7edf?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | Dec 18 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Wealth Management, Planning & Trust Services Group (New York City)](https://jobright.ai/jobs/info/6944387e94730b7398775408?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/69443856dd382f5f566a42ca?utm_campaign=1052&utm_source=git)** | Boston | On Site | Dec 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944302f94730b7398774fc0?utm_campaign=1052&utm_source=git)** | Hercules, CA | Hybrid | Dec 18 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69443022dd382f5f566a3f40?utm_campaign=1052&utm_source=git)** | Trussville, AL | Hybrid | Dec 18 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6944301a94730b7398774fb6?utm_campaign=1052&utm_source=git)** | Elmira, NY | Hybrid | Dec 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69442fc850bbaf765056245c?utm_campaign=1052&utm_source=git)** | Franklin, IN | Hybrid | Dec 18 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febc?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Dec 18 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69442f9bdd382f5f566a3f22?utm_campaign=1052&utm_source=git)** | Auburn, NY | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
