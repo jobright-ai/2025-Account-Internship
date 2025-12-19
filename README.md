@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Tax Intern – Financial Planning & Tax Review](https://jobright.ai/jobs/info/6945051ea7227b3ece66a867?utm_campaign=1052&utm_source=git)** | McLean, VA | Remote | Dec 18 |
 | **[American Realty Advisors](http://www.aracapital.com/)** | **[2026 Spring Intern, Investments](https://jobright.ai/jobs/info/6944ff93a7227b3ece66a496?utm_campaign=1052&utm_source=git)** | Headquarters, 515 S Flower St, Los Angeles, California, United States of America | On Site | Dec 18 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Intern](https://jobright.ai/jobs/info/6944f3f1a7227b3ece669eee?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Dec 18 |
+| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Treasury Intern](https://jobright.ai/jobs/info/694509fba7227b3ece66ac5f?utm_campaign=1052&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
+| ↳ | **[Revenue Accounting Intern](https://jobright.ai/jobs/info/69450ee5a7227b3ece66aee6?utm_campaign=1052&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/6944e5bc50bbaf765056ebd1?utm_campaign=1052&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 18 |
 | **[Comerica Bank](https://www.comerica.com)** | **[Commercial Banking Intern Detroit, MI](https://jobright.ai/jobs/info/6944e257a7227b3ece667fc1?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Mortgage Banking, Denver](https://jobright.ai/jobs/info/6941e77950bbaf765053b221?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Dec 18 |
@@ -120,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Planning](https://jobright.ai/jobs/info/6944851850bbaf7650569476?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 18 |
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Investments - Los Angeles](https://jobright.ai/jobs/info/69448360dd382f5f566aafec?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[Zoetis](https://www.zoetis.com)** | **[Intern-ERP Finance Product](https://jobright.ai/jobs/info/6944829a94730b739877bf06?utm_campaign=1052&utm_source=git)** | Parsippany | On Site | Dec 18 |
-| ↳ | **[Intern-ERP Finance Product](https://jobright.ai/jobs/info/694481ae50bbaf76505692b7?utm_campaign=1052&utm_source=git)** | Parsippany | On Site | Dec 18 |
+| ↳ | **[Intern-ERP Finance Product](https://jobright.ai/jobs/info/6944820250bbaf765056930e?utm_campaign=1052&utm_source=git)** | Parsippany | On Site | Dec 18 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Winter 2027/ Omaha](https://jobright.ai/jobs/info/69449f0da7227b3ece6637ff?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Dec 18 |
 | **[Babcock & Wilcox](https://www.babcock.com)** | **[Senior Manager, Internal Audit](https://jobright.ai/jobs/info/69448141dd382f5f566aade4?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Dec 18 |
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Accounting - Los Angeles](https://jobright.ai/jobs/info/6944803cdd382f5f566aad08?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[WM](https://www.wm.com/)** | **[Renewable Energy Finance MBA Intern](https://jobright.ai/jobs/info/6944617694730b73987789de?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 18 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/694460c950bbaf7650565dc7?utm_campaign=1052&utm_source=git)** | Tulsa | On Site | Dec 18 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Inventory Control Analyst Intern](https://jobright.ai/jobs/info/69448235dd382f5f566aaead?utm_campaign=1052&utm_source=git)** | Ripon, WI | On Site | Dec 18 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer DRPA Finance Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/69445bd894730b73987784a0?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Lead GL Accounting Technician FT – 6568](https://jobright.ai/jobs/info/6944735950bbaf7650567883?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Dec 18 |
-| **[FINEXITY](https://finexity.com)** | **[Intern / Student Investment Management (m/w/d)](https://jobright.ai/jobs/info/694452f3dd382f5f566a6df3?utm_campaign=1052&utm_source=git)** | Deutschlandweit (Remote) | Remote | Dec 18 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/694452badd382f5f566a6db8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| **[Global Partners LP](http://www.globalp.com)** | **[National Wholesale Intern](https://jobright.ai/jobs/info/69447585dd382f5f566aa029?utm_campaign=1052&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 18 |
-| **[Harmony Biosciences](https://www.harmonybiosciences.com)** | **[Summer Intern - Accounting, Revenue](https://jobright.ai/jobs/info/6944500450bbaf7650564e30?utm_campaign=1052&utm_source=git)** | Plymouth Meeting, PA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
