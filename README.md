@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arvento A](arventoa.us)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6946d10963141d1884568041?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 20 |
+| **[sunday](https://sundayapp.com)** | **[US Finance Intern](https://jobright.ai/jobs/info/6946d0df63141d1884568039?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Expert Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/6946bb0dd1953b5d11bfe523?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | Remote | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd9fa9821486c423c7c6d?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Dec 20 |
 | **[Heritage Holding](http://heritage-holding.com)** | **[Private Equity Spring Analyst](https://jobright.ai/jobs/info/6946b8ef63141d188456762d?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 20 |
@@ -94,14 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Clarios](https://www.clarios.com/)** | **[Finance Intern - Geneva, IL (Summer 2026)](https://jobright.ai/jobs/info/690d2a0a221b890c278041ae?utm_campaign=1052&utm_source=git)** | Geneva, IL | On Site | Dec 20 |
 | **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/691e759ba49a885af9a28b74?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Intern](https://jobright.ai/jobs/info/6946b57a7d506e3808f21822?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Dec 20 |
-| **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f1ba82f462172a5a7dbc52?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Dec 20 |
-| ↳ | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 20 |
+| **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 20 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern – Treasury](https://jobright.ai/jobs/info/6933a21ba0dde7020e2efdf2?utm_campaign=1052&utm_source=git)** | Warren, MI | Hybrid | Dec 20 |
 | **[Emerson](http://www.emerson.com)** | **[Finance Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2119221b890c27803a52?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Dec 20 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15c40e6870116b1f5798a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 20 |
 | ↳ | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f33e6870116b1f57ecd?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 20 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Accounting Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69467ae77d506e3808f1e2da?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 20 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68afe469e723db6c9b7b4980?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 20 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Finance](https://jobright.ai/jobs/info/6929f92ffa28370be2695ed4?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[The Ridge Hotel Lake Geneva](http://www.ridgelakegeneva.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694672c47d506e3808f1e054?utm_campaign=1052&utm_source=git)** | Lake Geneva, WI | On Site | Dec 20 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Internal Audit Director](https://jobright.ai/jobs/info/694623d1d1953b5d11bf3ee1?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Dec 19 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6946236763141d188455cf72?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Winter/Spring Value-Based Platform Internship](https://jobright.ai/jobs/info/6933adea764507023d1b8398?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Dec 19 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/694621a3d1953b5d11bf3da2?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69461fdc7d506e3808f172cb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69461d6c63141d188455ca3e?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Dec 19 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69461947d1953b5d11bf36ca?utm_campaign=1052&utm_source=git)** | Stratford, Ontario, Canada | On Site | Dec 19 |
@@ -134,6 +133,8 @@ For a complete list, click the following sortable link below:
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Tax Accountant Internship (Paid)](https://jobright.ai/jobs/info/69460a7b7d506e3808f16134?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Regulated Intern](https://jobright.ai/jobs/info/694609cf63141d188455b935?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Retirement & Private Wealth Finance Intern](https://jobright.ai/jobs/info/694609837d506e3808f160cc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 19 |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/694608ac7d506e3808f16002?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/694605317d506e3808f15768?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Dec 19 |
 | **[The Boldt Company](https://www.boldt.com)** | **[Accounting & Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6946045763141d188455ae8f?utm_campaign=1052&utm_source=git)** | Appleton, WI 54911, USA | On Site | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Business Banking](https://jobright.ai/jobs/info/6945f0c47d506e3808f131e7?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Internal Audit, Intern](https://jobright.ai/jobs/info/6945f83fd1953b5d11bf0286?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 19 |
 | **[Lyft](https://www.lyft.com/)** | **[FP&A Intern (Summer 2026)](https://jobright.ai/jobs/info/6945f4ab63141d1884558b5f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Loan Services Audit Internship](https://jobright.ai/jobs/info/6945f45763141d1884558b39?utm_campaign=1052&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
-| **[The Boldt Company](https://www.boldt.com)** | **[Accounting & Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6945f45663141d1884558b38?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
