@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69485a6163141d188458030d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69481a0b7d506e3808f35f95?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Dec 21 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assurance Intern](https://jobright.ai/jobs/info/69480bacd1953b5d11c12bb8?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Dec 21 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/694809d57d506e3808f35a46?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/691e759ba49a885af9a28b74?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 20 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern – Treasury](https://jobright.ai/jobs/info/6933a21ba0dde7020e2efdf2?utm_campaign=1052&utm_source=git)** | Warren, MI | Hybrid | Dec 20 |
-| **[Emerson](http://www.emerson.com)** | **[Finance Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2119221b890c27803a52?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
