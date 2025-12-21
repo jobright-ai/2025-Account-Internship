@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[Finance & Strategic Funding Analyst Intern (Remote)](https://jobright.ai/jobs/info/694712737d506e3808f271a4?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Democratic Party of Wisconsin](https://wisdems.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/69470f1763141d188456cc6f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 20 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Capital Finance Intern](https://jobright.ai/jobs/info/692f90014c474121999e0694?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | Dec 20 |
 | ↳ | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
@@ -86,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/692a77b666796e3028f8f11c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 20 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Capital Markets Group Analyst](https://jobright.ai/jobs/info/693fbd9750bbaf765051ea41?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6931736f3b6d6f265f4e9869?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Dec 20 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6944d417a7227b3ece66792a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/68c7a93e7d0db4114273f1c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Dec 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/694249c250bbaf76505441ef?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 20 |
@@ -126,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Internal Audit Director](https://jobright.ai/jobs/info/694623d1d1953b5d11bf3ee1?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Dec 19 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6946236763141d188455cf72?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Winter/Spring Value-Based Platform Internship](https://jobright.ai/jobs/info/6933adea764507023d1b8398?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Dec 19 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/694621a3d1953b5d11bf3da2?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69461fdc7d506e3808f172cb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69461d6c63141d188455ca3e?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Dec 19 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69461947d1953b5d11bf36ca?utm_campaign=1052&utm_source=git)** | Stratford, Ontario, Canada | On Site | Dec 19 |
@@ -141,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Tax Accountant Internship (Paid)](https://jobright.ai/jobs/info/69460a7b7d506e3808f16134?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Regulated Intern](https://jobright.ai/jobs/info/694609cf63141d188455b935?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Retirement & Private Wealth Finance Intern](https://jobright.ai/jobs/info/694609837d506e3808f160cc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 19 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/694605317d506e3808f15768?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/694608ac7d506e3808f16002?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Dec 19 |
 | **[The Boldt Company](https://www.boldt.com)** | **[Accounting & Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6946045763141d188455ae8f?utm_campaign=1052&utm_source=git)** | Appleton, WI 54911, USA | On Site | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Business Banking](https://jobright.ai/jobs/info/6945f0c47d506e3808f131e7?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6945fc47d1953b5d11bf0ca5?utm_campaign=1052&utm_source=git)** | 1381 Old Mill Circle Suite 200 | On Site | Dec 19 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/6945fb4363141d1884559875?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 19 |
 | **[The Ridge Hotel Lake Geneva](http://www.ridgelakegeneva.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945fb3d7d506e3808f13fdd?utm_campaign=1052&utm_source=git)** | Destination Geneva National, 1221 Geneva National Ave S, Lake Geneva, Wisconsin, United States of America | On Site | Dec 19 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6945fa3cd1953b5d11bf076e?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
