@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – Trading Analyst, US](https://jobright.ai/jobs/info/6933c0e3764507023d1b9063?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Trade Floor Operations Analyst](https://jobright.ai/jobs/info/693417b6a0dde7020e2f4187?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
+| ↳ | **[2026 Summer Intern – Trading Analyst, US](https://jobright.ai/jobs/info/6933c0e3764507023d1b9063?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
 | ↳ | **[2026 Summer Intern – Private Strategies Analyst, US](https://jobright.ai/jobs/info/694747a07d506e3808f29bba?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
 | **[Democratic Party of Wisconsin](https://wisdems.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/69470f1763141d188456cc6f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 20 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Capital Finance Intern](https://jobright.ai/jobs/info/692f90014c474121999e0694?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | Dec 20 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Analyst Intern](https://jobright.ai/jobs/info/692df209fa28370be269fa54?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Dec 20 |
 | ↳ | **[Comcast Finance Analyst Intern](https://jobright.ai/jobs/info/692fd45efa28370be26adc0e?utm_campaign=1052&utm_source=git)** | Trevose, PA | On Site | Dec 20 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Fund Advisory Internship -](https://jobright.ai/jobs/info/6946e6df63141d188456a210?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Dec 20 |
-| **[Arvento A](arventoa.us)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6946d10963141d1884568041?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 20 |
 | **[sunday](https://sundayapp.com)** | **[US Finance Intern](https://jobright.ai/jobs/info/6946d0df63141d1884568039?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Expert Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/6946bb0dd1953b5d11bfe523?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | Remote | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd9fa9821486c423c7c6d?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Dec 20 |
@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Commodities Pricing & Risk Management Intern](https://jobright.ai/jobs/info/68cd3ab6e23def7af55b705c?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Dec 20 |
 | **[Desjardins](https://www.desjardins.com)** | **[Directeur principal ou directrice principale, Évaluation des contrôles internes technologiques-FR](https://jobright.ai/jobs/info/6935286e764507023d1bf4b2?utm_campaign=1052&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Dec 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69461dd57d506e3808f16f15?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Dec 20 |
-| **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/690d606b221b890c27806302?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[KKR](http://www.kkr.com)** | **[China Internship - Private Equity - Shanghai or Beijing](https://jobright.ai/jobs/info/6929db1c4c474121999ca81e?utm_campaign=1052&utm_source=git)** | Shanghai, VA | On Site | Dec 20 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Denver, CO](https://jobright.ai/jobs/info/68f16dc0ef766b3f0fd0df88?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/692ac9074c474121999ccb81?utm_campaign=1052&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Dec 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/6945fb4363141d1884559875?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 19 |
 | **[The Ridge Hotel Lake Geneva](http://www.ridgelakegeneva.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945fb3d7d506e3808f13fdd?utm_campaign=1052&utm_source=git)** | Destination Geneva National, 1221 Geneva National Ave S, Lake Geneva, Wisconsin, United States of America | On Site | Dec 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6945fa3cd1953b5d11bf076e?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 19 |
+| **[Architect of the Capitol](http://www.aoc.gov/)** | **[Summer Internship (Accounting Aide)](https://jobright.ai/jobs/info/6945fa2d7d506e3808f13d77?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
