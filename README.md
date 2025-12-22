@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Align Technology](http://www.aligntech.com)** | **[Commercial Finance Intern - North America](https://jobright.ai/jobs/info/6948bad57d506e3808f3ed06?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Dec 21 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Finance Intern](https://jobright.ai/jobs/info/6948cf7c63141d1884586b80?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Dec 21 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/6945fb4363141d1884559875?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 21 |
+| **[Align Technology](http://www.aligntech.com)** | **[Commercial Finance Intern - North America](https://jobright.ai/jobs/info/6948b41fd1953b5d11c1bb94?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Dec 21 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Accounting](https://jobright.ai/jobs/info/6924dffdc0cefa13343e3234?utm_campaign=1052&utm_source=git)** | Fort Madison, IA | On Site | Dec 21 |
 | **[First Bank (FBNC)](https://localfirstbank.com)** | **[First Bank Office Intern- Credit Analyst (Greenville SC)](https://jobright.ai/jobs/info/6948a18563141d1884584965?utm_campaign=1052&utm_source=git)** | Greenville, SC, US | On Site | Dec 21 |
 | **[Sorren](https://sorren.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6948a02ad1953b5d11c1ad19?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | Hybrid | Dec 21 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690eaa1e221b890c27810747?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Dec 21 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 Finance Analyst Internship](https://jobright.ai/jobs/info/690e85e3d046ab6061cfe7f1?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Dec 21 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/69476d6e63141d18845715de?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
-| ↳ | **[Summer Associate Internship (Internal Audit – Operational Audit)](https://jobright.ai/jobs/info/691cfa6abcdbf3560c9ebeb8?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit – Operational Audit)](https://jobright.ai/jobs/info/691cfa6abcdbf3560c9ebeb8?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
+| ↳ | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/69476d6e63141d18845715de?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/6922b3e238cd5478a8d54c39?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
 | ↳ | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/691d006fff7024498416ccb3?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Valuation Services](https://jobright.ai/jobs/info/6933d700f131d96e48467960?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6947c6857d506e3808f32852?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 21 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Analyst Intern, Valuations & Opinions Group](https://jobright.ai/jobs/info/6947754c63141d1884571e15?utm_campaign=1052&utm_source=git)** | Atlanta GA | On Site | Dec 20 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Accounting Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6948b6f77d506e3808f3e820?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Trade Floor Operations Analyst](https://jobright.ai/jobs/info/693417b6a0dde7020e2f4187?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
 | ↳ | **[2026 Summer Intern – Trading Analyst, US](https://jobright.ai/jobs/info/6933c0e3764507023d1b9063?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
 | ↳ | **[2026 Summer Intern – Private Strategies Analyst, US](https://jobright.ai/jobs/info/694747a07d506e3808f29bba?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/6934ffe4a0dde7020e2f6fe1?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 20 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69462f1f63141d188455ea9a?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Dec 20 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/693179a44c474121999f070e?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Dec 20 |
-| **[American National](https://www.americannational.com)** | **[Internship - Corporate Finance](https://jobright.ai/jobs/info/691d0e4c22a2cb4b9bd2041a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
