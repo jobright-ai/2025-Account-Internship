@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Bank (FBNC)](https://localfirstbank.com)** | **[First Bank Office Intern- Credit Analyst (Greenville SC)](https://jobright.ai/jobs/info/6948a18563141d1884584965?utm_campaign=1052&utm_source=git)** | Greenville, SC, US | On Site | Dec 21 |
+| **[Sorren](https://sorren.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6948a02ad1953b5d11c1ad19?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | Hybrid | Dec 21 |
+| **[First Bank (FBNC)](https://localfirstbank.com)** | **[First Bank Office Intern- Credit Analyst (Greenville SC)](https://jobright.ai/jobs/info/69489fa67d506e3808f3d8a2?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Dec 21 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69485a6163141d188458030d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assurance Intern](https://jobright.ai/jobs/info/69480bacd1953b5d11c12bb8?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68bb7a748043103d4f228e81?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clarios](https://www.clarios.com/)** | **[Finance Intern - Geneva, IL (Summer 2026)](https://jobright.ai/jobs/info/690d2a0a221b890c278041ae?utm_campaign=1052&utm_source=git)** | Geneva, IL | On Site | Dec 20 |
 | **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/691e759ba49a885af9a28b74?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 20 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern – Treasury](https://jobright.ai/jobs/info/6933a21ba0dde7020e2efdf2?utm_campaign=1052&utm_source=git)** | Warren, MI | Hybrid | Dec 20 |
-| **[Emerson](http://www.emerson.com)** | **[Finance Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2119221b890c27803a52?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
