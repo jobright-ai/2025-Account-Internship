@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Pricing Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6948d6f17d506e3808f418e3?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 22 |
+| **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Tax Intern - Not-For-Profit (2026) - Harrison, NY](https://jobright.ai/jobs/info/68b9d8fa8043103d4f21af6a?utm_campaign=1052&utm_source=git)** | Harrison, NY | Hybrid | Dec 22 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Cleveland or Akron)](https://jobright.ai/jobs/info/68c8e5f8f9c6ff7aedf141a0?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Dec 22 |
+| **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Accounting (La Crosse, WI)](https://jobright.ai/jobs/info/69427d0c50bbaf7650546d89?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Commercial Banking Analyst - Internship/Co-op - Summer 2026 - Montreal](https://jobright.ai/jobs/info/6949092bd1953b5d11c21229?utm_campaign=1052&utm_source=git)** | Pointe-Claire, Quebec, Canada | On Site | Dec 22 |
 | ↳ | **[Commercial Banking Analyst - Internship/Co-op - Summer 2026 - Langley](https://jobright.ai/jobs/info/694908ded1953b5d11c2121f?utm_campaign=1052&utm_source=git)** | City of Langley, British Columbia, Canada | On Site | Dec 22 |
 | ↳ | **[GBM  - Internal Controls - Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/6949083563141d188458acc5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -78,14 +82,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern, Accounting](https://jobright.ai/jobs/info/6948ec0663141d1884589654?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 21 |
 | ↳ | **[Finance Intern, Supply Chain](https://jobright.ai/jobs/info/6948eadd7d506e3808f42426?utm_campaign=1052&utm_source=git)** | 01757 | On Site | Dec 21 |
 | ↳ | **[Finance Intern, FP&A](https://jobright.ai/jobs/info/6948fb9cd1953b5d11c20b84?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 21 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/6948dec77d506e3808f41c89?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Dec 21 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/6945fb4363141d1884559875?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 21 |
 | **[Align Technology](http://www.aligntech.com)** | **[Commercial Finance Intern - North America](https://jobright.ai/jobs/info/6948bad57d506e3808f3ed06?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Dec 21 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Accounting](https://jobright.ai/jobs/info/6924dffdc0cefa13343e3234?utm_campaign=1052&utm_source=git)** | Fort Madison, IA | On Site | Dec 21 |
 | **[First Bank (FBNC)](https://localfirstbank.com)** | **[First Bank Office Intern- Credit Analyst (Greenville SC)](https://jobright.ai/jobs/info/6948a18563141d1884584965?utm_campaign=1052&utm_source=git)** | Greenville, SC, US | On Site | Dec 21 |
 | **[Sorren](https://sorren.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6948a02ad1953b5d11c1ad19?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | Hybrid | Dec 21 |
 | **[First Bank (FBNC)](https://localfirstbank.com)** | **[First Bank Office Intern- Credit Analyst (Greenville SC)](https://jobright.ai/jobs/info/69489fa67d506e3808f3d8a2?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Dec 21 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69485a6163141d188458030d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68bb7a748043103d4f228e81?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting Intern 2026](https://jobright.ai/jobs/info/694801be63141d188457bdeb?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 21 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690ea850d046ab6061cffd55?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 21 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Banner Health](https://www.bannerhealth.com)** | **[Accounting Finance Intern Undergraduate](https://jobright.ai/jobs/info/6947c6857d506e3808f32852?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Dec 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 21 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/694904ebd1953b5d11c20f1f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 21 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Finance Data Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6948e7537d506e3808f4232b?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 20 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Analyst Intern, Valuations & Opinions Group](https://jobright.ai/jobs/info/6947754c63141d1884571e15?utm_campaign=1052&utm_source=git)** | Atlanta GA | On Site | Dec 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Trade Floor Operations Analyst](https://jobright.ai/jobs/info/693417b6a0dde7020e2f4187?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
 | ↳ | **[2026 Summer Intern – Trading Analyst, US](https://jobright.ai/jobs/info/6933c0e3764507023d1b9063?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heritage Holding](http://heritage-holding.com)** | **[Private Equity Spring Analyst](https://jobright.ai/jobs/info/6946b8ef63141d188456762d?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
 | **[Univest](http://www.univest.net/)** | **[Agricultural Lending Portfolio Management Intern - Summer 2026](https://jobright.ai/jobs/info/690d6004d046ab6061cf5b12?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Dec 20 |
-| **[Brookfield](https://bam.brookfield.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/69439678dd382f5f5669b6d1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
