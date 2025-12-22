@@ -58,9 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69485a6163141d188458030d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 21 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69481a0b7d506e3808f35f95?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | Dec 21 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assurance Intern](https://jobright.ai/jobs/info/69480bacd1953b5d11c12bb8?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Remote | Dec 21 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/694809d57d506e3808f35a46?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/68bb7a748043103d4f228e81?utm_campaign=1052&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting Intern 2026](https://jobright.ai/jobs/info/694801be63141d188457bdeb?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 21 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690ea850d046ab6061cffd55?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 21 |
@@ -68,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70ea345853d0e39ccc94b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Acquisition Intern](https://jobright.ai/jobs/info/690eaa1e221b890c27810747?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Dec 21 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 Finance Analyst Internship](https://jobright.ai/jobs/info/690e85e3d046ab6061cfe7f1?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Dec 21 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/69476d6e63141d18845715de?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
-| ↳ | **[Summer Associate Internship (Internal Audit – Operational Audit)](https://jobright.ai/jobs/info/691cfa6abcdbf3560c9ebeb8?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit – Operational Audit)](https://jobright.ai/jobs/info/691cfa6abcdbf3560c9ebeb8?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
+| ↳ | **[Summer Associate Internship (Mortgage Reporting Specialist)](https://jobright.ai/jobs/info/69476d6e63141d18845715de?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/6922b3e238cd5478a8d54c39?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
 | ↳ | **[Summer Associate Internship (Internal Audit - Strategic Audit)](https://jobright.ai/jobs/info/691d006fff7024498416ccb3?utm_campaign=1052&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Valuation Services](https://jobright.ai/jobs/info/6933d700f131d96e48467960?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/691e759ba49a885af9a28b74?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 20 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern – Treasury](https://jobright.ai/jobs/info/6933a21ba0dde7020e2efdf2?utm_campaign=1052&utm_source=git)** | Warren, MI | Hybrid | Dec 20 |
+| **[Emerson](http://www.emerson.com)** | **[Finance Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2119221b890c27803a52?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
