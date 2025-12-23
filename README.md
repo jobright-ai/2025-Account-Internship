@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Pricing Analyst (Onsite)](https://jobright.ai/jobs/info/694a2b1463141d188459dca8?utm_campaign=1052&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Dec 22 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | ↳ | **[Comcast Capital Finance Intern](https://jobright.ai/jobs/info/692f90014c474121999e0694?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | Dec 22 |
 | **[Ardian](https://www.ardian.com/)** | **[Co-Investment Intern (Private Equity) - Summer 2026 / New York](https://jobright.ai/jobs/info/694a223ac6f0e2546cef2c90?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
@@ -105,18 +104,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[G&A FP&A Intern](https://jobright.ai/jobs/info/694a05acc6f0e2546ceeef19?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | ↳ | **[Owner Services and Global Rental Operations Accounting Intern](https://jobright.ai/jobs/info/694a06acc6f0e2546ceef1ea?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | **[CRH](http://crh.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6949fd5363141d18845982e4?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 22 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[FP&A Consolidations Intern](https://jobright.ai/jobs/info/694a067163141d1884599c21?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6949fe12c6f0e2546ceed9fb?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6949fe12c6f0e2546ceed9fb?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
+| ↳ | **[FP&A Consolidations Intern](https://jobright.ai/jobs/info/694a067163141d1884599c21?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | **[CRH](http://crh.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6949fddf63141d188459847e?utm_campaign=1052&utm_source=git)** | Telford, PA | On Site | Dec 22 |
 | **[The Scion Group](http://thesciongroup.com)** | **[Revenue Analytics Intern](https://jobright.ai/jobs/info/694a0ee97d506e3808f53f0b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 22 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, Procure to Pay Transformation](https://jobright.ai/jobs/info/694a16cac6f0e2546cef1b75?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 22 |
-| ↳ | **[Finance Intern, Procure to Pay Transformation](https://jobright.ai/jobs/info/694a02377d506e3808f51eea?utm_campaign=1052&utm_source=git)** | 01757 | On Site | Dec 22 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, Procure to Pay Transformation](https://jobright.ai/jobs/info/694a02377d506e3808f51eea?utm_campaign=1052&utm_source=git)** | 01757 | On Site | Dec 22 |
+| ↳ | **[Finance Intern, Procure to Pay Transformation](https://jobright.ai/jobs/info/694a16cac6f0e2546cef1b75?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 22 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Intern/Co-Op - Shareholder Reporting](https://jobright.ai/jobs/info/6949ffb3c6f0e2546ceede2d?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 22 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Winter 2026 Tax Internship - Salinas](https://jobright.ai/jobs/info/694a0bfe63141d188459aa4e?utm_campaign=1052&utm_source=git)** | USA CA Salinas | On Site | Dec 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694a13e6c6f0e2546cef14b6?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Winter 2027 (NYC)](https://jobright.ai/jobs/info/694a1056c6f0e2546cef0c35?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Dec 22 |
-| ↳ | **[Assurance Intern - Summer 2027 (Long Island)](https://jobright.ai/jobs/info/694a0cd07d506e3808f53a0a?utm_campaign=1052&utm_source=git)** | 25 201 Old Country Road, Melville, NY, 11747, US | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Financial Services - Winter 2027 (NYC)](https://jobright.ai/jobs/info/694a004263141d1884598bfd?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Dec 22 |
+| ↳ | **[Assurance Intern - Summer 2027 (Long Island)](https://jobright.ai/jobs/info/694a0cd07d506e3808f53a0a?utm_campaign=1052&utm_source=git)** | 25 201 Old Country Road, Melville, NY, 11747, US | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Financial Services - Summer 2027 (NYC)](https://jobright.ai/jobs/info/6949f6e563141d18845979cc?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Non-Profit Services - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694a0448c6f0e2546ceeeb28?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Summer 2027 (Long Island)](https://jobright.ai/jobs/info/6949ffcf7d506e3808f517a4?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Dec 22 |
@@ -127,9 +126,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Financial Services - Winter 2027 (NYC)](https://jobright.ai/jobs/info/694a0236c6f0e2546ceee53d?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Foodservice Finance Intern](https://jobright.ai/jobs/info/694a016b7d506e3808f51cb8?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Dec 22 |
 | ↳ | **[Consumer Finance Intern](https://jobright.ai/jobs/info/6949f4167d506e3808f5047a?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Dec 22 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Winter 2027 (NYC)](https://jobright.ai/jobs/info/694a0ab4c6f0e2546ceefc1d?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
-| ↳ | **[Assurance Intern - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694a1d0563141d188459cd42?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
+| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694a1d0563141d188459cd42?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Financial Services - Winter 2027 (NYC)](https://jobright.ai/jobs/info/694a19887d506e3808f5551e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
+| ↳ | **[Assurance Intern - Winter 2027 (NYC)](https://jobright.ai/jobs/info/694a0ab4c6f0e2546ceefc1d?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Financial Services - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694a0fe37d506e3808f541ac?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Summer 2027 (Long Island)](https://jobright.ai/jobs/info/694a0bf1c6f0e2546ceefe1f?utm_campaign=1052&utm_source=git)** | Melville, NY, United States | On Site | Dec 22 |
 | ↳ | **[Assurance Intern - Non-Profit Services - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694a1e5563141d188459ce77?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Dec 22 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Ratings Analytical Intern](https://jobright.ai/jobs/info/694a145663141d188459c0d5?utm_campaign=1052&utm_source=git)** | Colorado, US | Hybrid | Dec 22 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship – Boca Raton, FL](https://jobright.ai/jobs/info/6903874ed64a22104aa9023a?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Part Time IMG Research Summer Intern](https://jobright.ai/jobs/info/694a012c63141d1884598efe?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Dec 22 |
+| ↳ | **[Commercial Banking Summer Intern](https://jobright.ai/jobs/info/694a08067d506e3808f52deb?utm_campaign=1052&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 22 |
+| ↳ | **[Portfolio Risk Summer Intern](https://jobright.ai/jobs/info/694a0717c6f0e2546ceef2f9?utm_campaign=1052&utm_source=git)** | Norwood, MA, United States | On Site | Dec 22 |
 | ↳ | **[Commercial Banking Summer Intern](https://jobright.ai/jobs/info/694a0aa3c6f0e2546ceefc09?utm_campaign=1052&utm_source=git)** | Brockton, MA, United States | On Site | Dec 22 |
-| ↳ | **[Commercial Banking Summer Intern](https://jobright.ai/jobs/info/694a09777d506e3808f531a7?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
