@@ -57,12 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, IR](https://jobright.ai/jobs/info/694b44c43019f50a4fe6607b?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 23 |
+| **[Grindr](http://www.grindr.com)** | **[Tax Intern](https://jobright.ai/jobs/info/694b60b81a572a617dddb20f?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 23 |
+| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Waters Division](https://jobright.ai/jobs/info/694b5ae65d731211346fe2d1?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Global Audit Technology, Risk & Analytics Intern](https://jobright.ai/jobs/info/694b588a5d731211346fe1a5?utm_campaign=1052&utm_source=git)** | Redwood City, CA | On Site | Dec 23 |
+| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Treasury/Tax](https://jobright.ai/jobs/info/694b585bd64ebf28d8210eb0?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Global Wholesale Operations - Tax and Accounting Internship/Co-Op - Fall 2026 (12 months)](https://jobright.ai/jobs/info/694b56211a572a617dddabc5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
+| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Procurement](https://jobright.ai/jobs/info/694b55885d731211346fdfa5?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
+| ↳ | **[Finance Intern, Integration](https://jobright.ai/jobs/info/694b54635d731211346fdf00?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
+| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694b5382d64ebf28d8210bdc?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | On Site | Dec 23 |
+| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Bio US](https://jobright.ai/jobs/info/694b527dd64ebf28d8210b3b?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
+| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694b522fd64ebf28d8210b06?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Dec 23 |
+| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, IR](https://jobright.ai/jobs/info/694b522ed64ebf28d8210b03?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
+| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/694b5207d64ebf28d8210ae7?utm_campaign=1052&utm_source=git)** | Tecumseh, MI | On Site | Dec 23 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/694b49bc1224705e900271ee?utm_campaign=1052&utm_source=git)** | Taylor, MI | On Site | Dec 23 |
+| **[HLB Gross Collins, P.C.](http://hlbgrosscollins.com)** | **[Tax Internship](https://jobright.ai/jobs/info/694b48e03019f50a4fe66307?utm_campaign=1052&utm_source=git)** | Kennesaw, GA | On Site | Dec 23 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, Integration](https://jobright.ai/jobs/info/694b48b74b53a1551f951030?utm_campaign=1052&utm_source=git)** | 01757 | On Site | Dec 23 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Commercial Banking](https://jobright.ai/jobs/info/694b47f93019f50a4fe66276?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Dec 23 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, Procurement](https://jobright.ai/jobs/info/694b472f4b53a1551f950f7a?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 23 |
+| ↳ | **[Finance Intern, IR](https://jobright.ai/jobs/info/694b44c43019f50a4fe6607b?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 23 |
 | ↳ | **[Finance Intern, Treasury/Tax](https://jobright.ai/jobs/info/694b44784b53a1551f950e0a?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 23 |
 | **[HLB Gross Collins, P.C.](http://hlbgrosscollins.com)** | **[Audit Internship](https://jobright.ai/jobs/info/694b43a33019f50a4fe65ff8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
+| **[Foursquare ITP](https://www.foursquareitp.com/)** | **[Operations, Finance, and Accounting Intern](https://jobright.ai/jobs/info/694b60445d731211346fe62b?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Dec 23 |
+| **[Diversify Advisor Network](https://joindiversify.com/)** | **[Portfolio Analyst Intern](https://jobright.ai/jobs/info/694b59b45d731211346fe239?utm_campaign=1052&utm_source=git)** | Sandy, Utah, United States | On Site | Dec 23 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2026 Staff Accountant Intern - Andover](https://jobright.ai/jobs/info/694b36c83019f50a4fe64116?utm_campaign=1052&utm_source=git)** | Andover, MA | Hybrid | Dec 23 |
+| **[HLB Gross Collins, P.C.](http://hlbgrosscollins.com)** | **[Tax Internship](https://jobright.ai/jobs/info/694b5e655d731211346fe4fa?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/694b34e51224705e90024ea3?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 23 |
 | ↳ | **[Intern - Tax](https://jobright.ai/jobs/info/694b340d1224705e90024e37?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 23 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, Integration](https://jobright.ai/jobs/info/694b53aed64ebf28d8210bf9?utm_campaign=1052&utm_source=git)** | US-MA-Milford | On Site | Dec 23 |
+| ↳ | **[Finance Intern, Waters Division](https://jobright.ai/jobs/info/694b5d05d64ebf28d821113f?utm_campaign=1052&utm_source=git)** | 01757 | On Site | Dec 23 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Commercial Banking](https://jobright.ai/jobs/info/694b2c4b1224705e90024ba7?utm_campaign=1052&utm_source=git)** | Chicago 525 Monroe | On Site | Dec 23 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern - Financial Services - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694b2c023019f50a4fe63cee?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[VEIT](http://veitusa.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/694b2bfa3019f50a4fe63cea?utm_campaign=1052&utm_source=git)** | Rogers, MN | On Site | Dec 23 |
@@ -135,26 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adef467a69734cac5fed4?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | Remote | Dec 23 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694ade721224705e90020233?utm_campaign=1052&utm_source=git)** | Peoria, IL | Remote | Dec 23 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adcc61224705e90020185?utm_campaign=1052&utm_source=git)** | Enterprise, NV | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adc9c67a69734cac5fdfc?utm_campaign=1052&utm_source=git)** | Eugene, OR | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adc063019f50a4fe5f2a5?utm_campaign=1052&utm_source=git)** | Montgomery, AL | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adbad3019f50a4fe5f274?utm_campaign=1052&utm_source=git)** | Green Bay, WI | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adb973019f50a4fe5f268?utm_campaign=1052&utm_source=git)** | Killeen, TX | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694adb6b1224705e9002010e?utm_campaign=1052&utm_source=git)** | Glendale, AZ | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b027d1224705e90021864?utm_campaign=1052&utm_source=git)** | Deltona, FL | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694af9c91224705e900210ad?utm_campaign=1052&utm_source=git)** | Clarksville, TN | Remote | Dec 23 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Risk & Operations Audit Intern](https://jobright.ai/jobs/info/694b02b41224705e90021896?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Dec 23 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b060a3019f50a4fe60cff?utm_campaign=1052&utm_source=git)** | Spring Valley, NV | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694afcb667a69734cac60fbc?utm_campaign=1052&utm_source=git)** | Hialeah, FL | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694af8641224705e90020f7b?utm_campaign=1052&utm_source=git)** | San Bernardino, CA | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694afbbb1224705e90021271?utm_campaign=1052&utm_source=git)** | Gulfport, MS | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b00b067a69734cac61300?utm_campaign=1052&utm_source=git)** | Garland, TX | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b09be3019f50a4fe60fb4?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b03701224705e90021931?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b006567a69734cac612ce?utm_campaign=1052&utm_source=git)** | Fargo, ND | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694b026d67a69734cac6147c?utm_campaign=1052&utm_source=git)** | Brownsville, TX | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694ada9c67a69734cac5fd2d?utm_campaign=1052&utm_source=git)** | Columbus, GA | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694ad91d67a69734cac5fc95?utm_campaign=1052&utm_source=git)** | Flint, MI | Remote | Dec 23 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/694ad8de1224705e9002003e?utm_campaign=1052&utm_source=git)** | Arlington, VA | Remote | Dec 23 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern - Financial Services - Summer 2027 (NYC)](https://jobright.ai/jobs/info/694b064c1224705e90021ae7?utm_campaign=1052&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Dec 23 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/694ad88f1224705e90020022?utm_campaign=1052&utm_source=git)** | Rockford, IL | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
