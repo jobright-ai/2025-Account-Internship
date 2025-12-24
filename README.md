@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c26ccd64ebf28d821cfaf?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
+| **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Credit Intern](https://jobright.ai/jobs/info/694c42a41a572a617dde7847?utm_campaign=1052&utm_source=git)** | Ballston Spa,NY,US | On Site | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c4190d64ebf28d821d852?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Finance](https://jobright.ai/jobs/info/694c3eaa5d7312113470ac97?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/694c3d9fd64ebf28d821d655?utm_campaign=1052&utm_source=git)** | Capital District | On Site | Dec 24 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/694c35ae1a572a617dde71ac?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c29b45d7312113470a5fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| ↳ | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c26ccd64ebf28d821cfaf?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Market Risk Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1e755d7312113470a0b2?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Credit Risk Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c1de85d73121134709db5?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | ↳ | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c1c7ad64ebf28d821c617?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
@@ -72,11 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Horizon Lane](horizonlane.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/694c15491a572a617dde51c4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern – Corporate Finance & Taxation](https://jobright.ai/jobs/info/694c1238d64ebf28d821b1f6?utm_campaign=1052&utm_source=git)** | Dallas County, TX | On Site | Dec 24 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Finance Intern](https://jobright.ai/jobs/info/694c10c05d73121134708688?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Dec 24 |
-| **[Exaquant](https://exaquant.com/)** | **[Finance Analyst (Spring 2026)](https://jobright.ai/jobs/info/694c0f2b1a572a617dde5021?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/694c0b511a572a617dde4f14?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Dec 24 |
 | **[First Business Bank](http://firstbusiness.bank)** | **[Financial Accountant Internship](https://jobright.ai/jobs/info/693c643c49a7695fbd033254?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Dec 24 |
 | **[AT&T](https://www.att.com/)** | **[Senior Associate FLDP Financial Analysis - Internship](https://jobright.ai/jobs/info/694c07711a572a617dde4d86?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 24 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/694c04145d73121134708227?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Southeast District (Summer 2026) 1](https://jobright.ai/jobs/info/6912b73ac98948514c47d99b?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Dec 24 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Warranty Audit](https://jobright.ai/jobs/info/692fa1d14c474121999e13bc?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Dec 24 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Accounting - Summer Internship 2026](https://jobright.ai/jobs/info/6912c4cbc98948514c47dedf?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 24 |
@@ -135,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/694bb9d0d64ebf28d82169f8?utm_campaign=1052&utm_source=git)** | Arden Hills, MN | On Site | Dec 24 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Winter/Spring Value-Based Platform Internship](https://jobright.ai/jobs/info/6933adea764507023d1b8398?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Dec 24 |
 | **[Crest Vale](crestvale.us)** | **[Audit Intern](https://jobright.ai/jobs/info/694bd5295d73121134705945?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 24 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Intern](https://jobright.ai/jobs/info/694bb6c5d64ebf28d82164f6?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Finance Operations Administrator - Intern](https://jobright.ai/jobs/info/694bb1a9d64ebf28d821631b?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Bender Companies](https://www.bender-companies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694ba47a5d73121134703202?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/694b9bdb5d73121134702f0f?utm_campaign=1052&utm_source=git)** | Arden Hills, MN (USA) | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Global Audit Technology, Risk & Analytics Intern](https://jobright.ai/jobs/info/694b588a5d731211346fe1a5?utm_campaign=1052&utm_source=git)** | Redwood City, CA | On Site | Dec 23 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Wholesale Operations - Tax and Accounting Internship/Co-Op - Fall 2026 (12 months)](https://jobright.ai/jobs/info/694b56211a572a617dddabc5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Procurement](https://jobright.ai/jobs/info/694b55885d731211346fdfa5?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
-| ↳ | **[Finance Intern, Integration](https://jobright.ai/jobs/info/694b54635d731211346fdf00?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
-| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694b5382d64ebf28d8210bdc?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | On Site | Dec 23 |
-| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Bio US](https://jobright.ai/jobs/info/694b527dd64ebf28d8210b3b?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
