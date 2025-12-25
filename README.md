@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6913b258e344172248f735bd?utm_campaign=1052&utm_source=git)** | Rochester, NH | Hybrid | Dec 25 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Credit and Collateral Risk Intern](https://jobright.ai/jobs/info/6930b0eeef4b48533d14ddaa?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
+| ↳ | **[Long-Term Model Risk Intern](https://jobright.ai/jobs/info/6930b89c4c474121999e7fe2?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
+| **[Davenport & Company LLC](http://www.investdavenport.com)** | **[2026 Public Finance Summer Internship](https://jobright.ai/jobs/info/69424842bdcf884a5ade318f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Risk Management Graduate Intern – Quantitative- Summer 2026](https://jobright.ai/jobs/info/68cd5b56e23def7af55b894c?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Dec 25 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Credit Risk Intern](https://jobright.ai/jobs/info/6933ba3ea0dde7020e2f145c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Finance Reporting & Applications Intern](https://jobright.ai/jobs/info/691de9d8ad5a517034797dab?utm_campaign=1052&utm_source=git)** | Quincy, MA | Hybrid | Dec 25 |
+| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Accounting Intern II](https://jobright.ai/jobs/info/69309feafa28370be26b1a46?utm_campaign=1052&utm_source=git)** | Temple, TX | On Site | Dec 25 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6931614efa28370be26b88f4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
 | **[Maximus](http://www.maximus.com/)** | **[Corporate Finance and Accounting Internship](https://jobright.ai/jobs/info/694d06aef5bef51c96eab9b2?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Dec 25 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[Revenue Accounting Intern (Summer 2026, In Person - San Francisco)](https://jobright.ai/jobs/info/694d05c9d4a7df7a06723291?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
 | **[Continental](https://www.continental.com)** | **[Intern - Credit Analyst, Year-Round](https://jobright.ai/jobs/info/69334253a0dde7020e2ebe5f?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Dec 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69126796c98948514c47b6d7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Cleveland)](https://jobright.ai/jobs/info/68c64daddb52c07d28846cd4?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Dec 24 |
 | **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Treasury Intern](https://jobright.ai/jobs/info/692f6fb6ef4b48533d145524?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 24 |
-| **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2026](https://jobright.ai/jobs/info/691254dbc98948514c47a9b2?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 24 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Los Angeles Summer 2027](https://jobright.ai/jobs/info/69128090ea9ab01b82bf3317?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
-| **[Waterton](https://www.waterton.com/)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/69123a64d1047e3565cfa767?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69126afeea9ab01b82bf27cc?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 24 |
-| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Internal Audit Intern (Spring & Summer 2026)](https://jobright.ai/jobs/info/693e7f9650bbaf765051343f?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Dec 24 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69127eafea9ab01b82bf3271?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 24 |
-| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Investment Operations, Reporting and AI](https://jobright.ai/jobs/info/69436f74dd382f5f56697ec2?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 24 |
-| **[Xylem](https://heimplanet.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6933f8ab764507023d1bb1f3?utm_campaign=1052&utm_source=git)** | Bridgeport, NJ | On Site | Dec 24 |
-| **[Dyno Nobel](http://www.dynonobel.com)** | **[Procurement Intern - Vendor Management (Summer 2026)](https://jobright.ai/jobs/info/692fdbdeef4b48533d14940c?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
