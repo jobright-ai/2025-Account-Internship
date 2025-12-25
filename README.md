@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Corporate Finance and Accounting Internship](https://jobright.ai/jobs/info/694d06aef5bef51c96eab9b2?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Dec 25 |
+| **[Paramount Global](https://www.paramountglobal.com/)** | **[Revenue Accounting Intern (Summer 2026, In Person - San Francisco)](https://jobright.ai/jobs/info/694d05c9d4a7df7a06723291?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
 | **[Continental](https://www.continental.com)** | **[Intern - Credit Analyst, Year-Round](https://jobright.ai/jobs/info/69334253a0dde7020e2ebe5f?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Dec 24 |
 | **[SAV (Scale Asia Ventures)](https://www.sav.vc/)** | **[VC Investment Intern](https://jobright.ai/jobs/info/694cccc5d4a7df7a067216f2?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 24 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/694ca992f5bef51c96ea683d?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Dec 24 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/694c543f1a572a617dde8a1d?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Dec 24 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691d49430b7dff73415020bd?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 24 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Technology-Driven Tax Intern](https://jobright.ai/jobs/info/694c4eb41a572a617dde7fd0?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 24 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/694c4c5bd64ebf28d821df50?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 24 |
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Credit Intern](https://jobright.ai/jobs/info/694c42a41a572a617dde7847?utm_campaign=1052&utm_source=git)** | Ballston Spa,NY,US | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c4190d64ebf28d821d852?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Finance](https://jobright.ai/jobs/info/694c3eaa5d7312113470ac97?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 24 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[West Central Equipment](http://www.westcentraleq.com)** | **[Accounting Internship (Paid)](https://jobright.ai/jobs/info/694c0299d64ebf28d821ad2b?utm_campaign=1052&utm_source=git)** | New Alexandria - New Alexandria, PA 15670 | On Site | Dec 24 |
 | **[American National](https://www.americannational.com)** | **[Finance – Strategic Initiatives Intern](https://jobright.ai/jobs/info/692fca2fef4b48533d148e56?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Teleflex](http://www.teleflex.com)** | **[Tax Intern - Spring 2026](https://jobright.ai/jobs/info/692f4cdcef4b48533d1440c3?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Dec 24 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/694cc4c1f5bef51c96ea87e1?utm_campaign=1052&utm_source=git)** | La Crosse, WI | Hybrid | Dec 24 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Financial Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/692f8c7a4c474121999e046a?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Dec 24 |
 | **[NextDecade](https://www.next-decade.com/)** | **[Summer 2026 Accounting & Finance Internship](https://jobright.ai/jobs/info/691246c5c98948514c47a140?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Engineering Division Accounting](https://jobright.ai/jobs/info/692fa72fef4b48533d147d21?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Dec 24 |
