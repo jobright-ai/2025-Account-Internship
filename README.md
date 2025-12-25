@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/694d63ddd4a7df7a0672807b?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 25 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/694d7799f5bef51c96eb0aa4?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 25 |
+| **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694d8ea2f5bef51c96eb155a?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Dec 25 |
+| **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/694d7799f5bef51c96eb0aa4?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 25 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/694d6f9229655e4dd657626b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 25 |
 | **[Arvento A](arventoa.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/694d7259d4a7df7a067282c6?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 25 |
 | **[Fyntrix One](fyntrixone.us)** | **[Tax Intern](https://jobright.ai/jobs/info/694d75a9d4a7df7a067283b4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Accounts Payable Analyst - Intern](https://jobright.ai/jobs/info/694c5a60d64ebf28d821fe05?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/694c543f1a572a617dde8a1d?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Dec 24 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691d49430b7dff73415020bd?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 24 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Technology-Driven Tax Intern](https://jobright.ai/jobs/info/694c4eb41a572a617dde7fd0?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 24 |
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Credit Intern](https://jobright.ai/jobs/info/694c42a41a572a617dde7847?utm_campaign=1052&utm_source=git)** | Ballston Spa,NY,US | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c4190d64ebf28d821d852?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Finance](https://jobright.ai/jobs/info/694c3eaa5d7312113470ac97?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694c170ed64ebf28d821b336?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 24 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern – Corporate Finance & Taxation](https://jobright.ai/jobs/info/694c1238d64ebf28d821b1f6?utm_campaign=1052&utm_source=git)** | Dallas County, TX | On Site | Dec 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/694c0b511a572a617dde4f14?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Dec 24 |
-| **[First Business Bank](http://firstbusiness.bank)** | **[Financial Accountant Internship](https://jobright.ai/jobs/info/693c643c49a7695fbd033254?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
