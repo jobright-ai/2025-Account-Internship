@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Real Property Management Express](https://expressrpm.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/694ca992f5bef51c96ea683d?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Dec 24 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 24 |
 | **[Northmarq](http://www.northmarq.com)** | **[Multifamily Investment Sales Summer 2026 Internship](https://jobright.ai/jobs/info/694c88051a572a617ddeacf9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
 | ↳ | **[Multifamily Investment Sales Summer 2026 Internship](https://jobright.ai/jobs/info/694c84cbd64ebf28d8220c5d?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Dec 24 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Business & Financial Analysis](https://jobright.ai/jobs/info/694c74651a572a617ddea4f9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Senior Associate, Capital Markets Operations (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c649bd64ebf28d82201d7?utm_campaign=1052&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Managed Logistics Finance Internship](https://jobright.ai/jobs/info/694c4972d64ebf28d821dd31?utm_campaign=1052&utm_source=git)** | Lowell, AR | On Site | Dec 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/694c5f4cd64ebf28d821ff2f?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Dec 24 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/694c5a77d64ebf28d821fe09?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Accounts Payable Analyst - Intern](https://jobright.ai/jobs/info/694c5a60d64ebf28d821fe05?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/694c543f1a572a617dde8a1d?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Dec 24 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691d49430b7dff73415020bd?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Investment Operations, Reporting and AI](https://jobright.ai/jobs/info/69436f74dd382f5f56697ec2?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 24 |
 | **[Xylem](https://heimplanet.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6933f8ab764507023d1bb1f3?utm_campaign=1052&utm_source=git)** | Bridgeport, NJ | On Site | Dec 24 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Procurement Intern - Vendor Management (Summer 2026)](https://jobright.ai/jobs/info/692fdbdeef4b48533d14940c?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
-| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/694bb9d0d64ebf28d82169f8?utm_campaign=1052&utm_source=git)** | Arden Hills, MN | On Site | Dec 24 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Winter/Spring Value-Based Platform Internship](https://jobright.ai/jobs/info/6933adea764507023d1b8398?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Dec 24 |
-| **[Crest Vale](crestvale.us)** | **[Audit Intern](https://jobright.ai/jobs/info/694bd5295d73121134705945?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
