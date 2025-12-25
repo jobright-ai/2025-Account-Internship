@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/694d63ddd4a7df7a0672807b?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 25 |
+| **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/694da892d4a7df7a0672ab35?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
+| ↳ | **[Environmental Social & Governance Intern - Summer 2026](https://jobright.ai/jobs/info/694da64929655e4dd657897d?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 25 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694d8ea2f5bef51c96eb155a?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/694d7799f5bef51c96eb0aa4?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 25 |
@@ -142,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Analyst Intern](https://jobright.ai/jobs/info/692df209fa28370be269fa54?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Dec 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/694c3d9fd64ebf28d821d655?utm_campaign=1052&utm_source=git)** | Capital District | On Site | Dec 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Analyst Intern](https://jobright.ai/jobs/info/692fd45efa28370be26adc0e?utm_campaign=1052&utm_source=git)** | Trevose, PA | On Site | Dec 24 |
+| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Investment Operations Analyst Intern](https://jobright.ai/jobs/info/692ee6b5fa28370be26a6460?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 24 |
 | **[Gensco Inc](https://gensco.com/)** | **[Corporate Intern - Accounting](https://jobright.ai/jobs/info/694c4b7f1a572a617dde7d85?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c29b45d7312113470a5fd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | ↳ | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c26ccd64ebf28d821cfaf?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1b665d73121134709180?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1ae35d73121134708f07?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Market Risk Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c19b1d64ebf28d821b83e?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694c170ed64ebf28d821b336?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 24 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern – Corporate Finance & Taxation](https://jobright.ai/jobs/info/694c1238d64ebf28d821b1f6?utm_campaign=1052&utm_source=git)** | Dallas County, TX | On Site | Dec 24 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/694c0b511a572a617dde4f14?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
