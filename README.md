@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](https://www.continental.com)** | **[Intern - Credit Analyst, Year-Round](https://jobright.ai/jobs/info/69334253a0dde7020e2ebe5f?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Dec 24 |
 | **[SAV (Scale Asia Ventures)](https://www.sav.vc/)** | **[VC Investment Intern](https://jobright.ai/jobs/info/694cccc5d4a7df7a067216f2?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 24 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/694ca992f5bef51c96ea683d?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Dec 24 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 24 |
 | **[Northmarq](http://www.northmarq.com)** | **[Multifamily Investment Sales Summer 2026 Internship](https://jobright.ai/jobs/info/694c88051a572a617ddeacf9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
 | ↳ | **[Multifamily Investment Sales Summer 2026 Internship](https://jobright.ai/jobs/info/694c84cbd64ebf28d8220c5d?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Dec 24 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Business & Financial Analysis](https://jobright.ai/jobs/info/694c74651a572a617ddea4f9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/694c6f005d7312113470da02?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Credit Analyst Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6bcd5d7312113470d993?utm_campaign=1052&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/694c694ed64ebf28d82202d7?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Dec 24 |
@@ -92,8 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Credit Risk Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1c5dd64ebf28d821c554?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Finance Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c1c045d7312113470954c?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | ↳ | **[Finance Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1b665d73121134709180?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
-| **[Orvanta](orvanta.us)** | **[Tax Intern – Corporate Tax & Business Analysis](https://jobright.ai/jobs/info/694c1b56d64ebf28d821c01a?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 24 |
-| **[BMO](http://www.bmo.com)** | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1ae35d73121134708f07?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
+| ↳ | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1ae35d73121134708f07?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/694c1a7b5d73121134708dd4?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Market Risk Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c19b1d64ebf28d821b83e?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694c170ed64ebf28d821b336?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69127eafea9ab01b82bf3271?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Investment Operations, Reporting and AI](https://jobright.ai/jobs/info/69436f74dd382f5f56697ec2?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 24 |
 | **[Xylem](https://heimplanet.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6933f8ab764507023d1bb1f3?utm_campaign=1052&utm_source=git)** | Bridgeport, NJ | On Site | Dec 24 |
+| **[Dyno Nobel](http://www.dynonobel.com)** | **[Procurement Intern - Vendor Management (Summer 2026)](https://jobright.ai/jobs/info/692fdbdeef4b48533d14940c?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
