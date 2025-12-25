@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Business & Financial Analysis](https://jobright.ai/jobs/info/694c74651a572a617ddea4f9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
+| **[TransPerfect](http://www.transperfect.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/694c6f005d7312113470da02?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
+| **[BMO](http://www.bmo.com)** | **[Credit Analyst Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6bcd5d7312113470d993?utm_campaign=1052&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/694c694ed64ebf28d82202d7?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Dec 24 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Private Equity M&A Intern, Summer 2026](https://jobright.ai/jobs/info/694c67fe1a572a617ddea2b1?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Dec 24 |
+| **[BMO](http://www.bmo.com)** | **[Senior Associate, Capital Markets Operations (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c649bd64ebf28d82201d7?utm_campaign=1052&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Managed Logistics Finance Internship](https://jobright.ai/jobs/info/694c4972d64ebf28d821dd31?utm_campaign=1052&utm_source=git)** | Lowell, AR | On Site | Dec 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/694c5f4cd64ebf28d821ff2f?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Dec 24 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/694c5a77d64ebf28d821fe09?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Accounts Payable Analyst - Intern](https://jobright.ai/jobs/info/694c5a60d64ebf28d821fe05?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691d49430b7dff73415020bd?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 24 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Technology-Driven Tax Intern](https://jobright.ai/jobs/info/694c4eb41a572a617dde7fd0?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 24 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/694c4c5bd64ebf28d821df50?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 24 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Managed Logistics Finance Internship](https://jobright.ai/jobs/info/694c4972d64ebf28d821dd31?utm_campaign=1052&utm_source=git)** | Lowell, AR | On Site | Dec 24 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/694c478f5d7312113470b21c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Credit Intern](https://jobright.ai/jobs/info/694c42a41a572a617dde7847?utm_campaign=1052&utm_source=git)** | Ballston Spa,NY,US | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/694c4190d64ebf28d821d852?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
@@ -100,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Revenue Cycle Internship](https://jobright.ai/jobs/info/68f83e54a628d10664e80c71?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 24 |
 | **[Archer](https://www.archer.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694be6d71a572a617dde2e30?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | **[iCapital](https://icapital.com)** | **[Investment Strategy - Summer 2026 Intern](https://jobright.ai/jobs/info/6912d00ac98948514c47e3a2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Accounting and finance intern](https://jobright.ai/jobs/info/694bf62a5d73121134707b70?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | On Site | Dec 24 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Accounting](https://jobright.ai/jobs/info/692f9ffb4c474121999e123d?utm_campaign=1052&utm_source=git)** | Mineral Wells, TX | On Site | Dec 24 |
 | **[iCapital](https://icapital.com)** | **[Corporate Finance - Summer 2026 Intern](https://jobright.ai/jobs/info/692fcce0fa28370be26ad91c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[West Central Equipment](http://www.westcentraleq.com)** | **[Accounting Internship (Paid)](https://jobright.ai/jobs/info/694c0299d64ebf28d821ad2b?utm_campaign=1052&utm_source=git)** | New Alexandria - New Alexandria, PA 15670 | On Site | Dec 24 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Crest Vale](crestvale.us)** | **[Audit Intern](https://jobright.ai/jobs/info/694bd5295d73121134705945?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Finance Operations Administrator - Intern](https://jobright.ai/jobs/info/694bb1a9d64ebf28d821631b?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Bender Companies](https://www.bender-companies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694ba47a5d73121134703202?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
+| **[Strattec Security Corporation](http://www.strattec.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/694bbb36d64ebf28d8216c64?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/694b9bdb5d73121134702f0f?utm_campaign=1052&utm_source=git)** | Arden Hills, MN (USA) | On Site | Dec 23 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Credit & Collections - Intern](https://jobright.ai/jobs/info/694bb7e91a572a617dde069c?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
-| ↳ | **[Accounts Payable - Intern](https://jobright.ai/jobs/info/694bb98e1a572a617dde0972?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
-| **[Strattec Security Corporation](http://www.strattec.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/694bb76e5d73121134703985?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 23 |
-| **[Archer](https://www.archer.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694b93441a572a617dddf632?utm_campaign=1052&utm_source=git)** | San Jose, California, United States | On Site | Dec 23 |
-| **[Waters Corporation](http://www.waters.com)** | **[Finance Intern, Treasury/Tax](https://jobright.ai/jobs/info/694b585bd64ebf28d8210eb0?utm_campaign=1052&utm_source=git)** | Milford, MA | On Site | Dec 23 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[Finance Intern, TA Instruments](https://jobright.ai/jobs/info/694b6b84d64ebf28d82122b2?utm_campaign=1052&utm_source=git)** | New Castle, DE | On Site | Dec 23 |
-| **[Ibotta](https://home.ibotta.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694b6b355d731211346ff5b5?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Dec 23 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Accounting Student](https://jobright.ai/jobs/info/694b6af0d64ebf28d8212268?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
