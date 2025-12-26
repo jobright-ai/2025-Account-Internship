@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Capital Finance Intern](https://jobright.ai/jobs/info/692f90014c474121999e0694?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | Dec 25 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694d8ea2f5bef51c96eb155a?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/694d7799f5bef51c96eb0aa4?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 25 |
 | **[Fyntrix One](fyntrixone.us)** | **[Tax Intern](https://jobright.ai/jobs/info/694d75a9d4a7df7a067283b4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/6945f2f1d1953b5d11befcbf?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Dec 25 |
 | **[Stellantis](https://www.stellantis.com/)** | **[STAGE : Assistant Gestion de Projets Finance](https://jobright.ai/jobs/info/68e513fe1852e62f0080b7f9?utm_campaign=1052&utm_source=git)** | Campus Green, MD | On Site | Dec 25 |
@@ -90,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern – Spring 2027 – Bethlehem, PA](https://jobright.ai/jobs/info/68f9e3a68a7359609b8c75b1?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Dec 25 |
 | **[Withum](http://www.withum.com)** | **[Tax Verification Interns- Winter 2026](https://jobright.ai/jobs/info/6931205bef4b48533d15295f?utm_campaign=1052&utm_source=git)** | Princeton, CA | On Site | Dec 25 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2026 / Audit Intern / Ohio (47165)](https://jobright.ai/jobs/info/68f8dc6aa628d10664e860a9?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Dec 25 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68ce4ae9fb49c96ca6e9e944?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
-| ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a492e0541cc3479840c638?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Dec 25 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a492e0541cc3479840c638?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Dec 25 |
+| ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68ce4ae9fb49c96ca6e9e944?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
 | ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49723541cc3479840c798?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Dec 25 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Model Risk Intern](https://jobright.ai/jobs/info/6930d341ef4b48533d14fb60?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Financial Planning & Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6930a6cf4c474121999e7192?utm_campaign=1052&utm_source=git)** | Schiller Park, IL | On Site | Dec 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1ae35d73121134708f07?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Market Risk Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c19b1d64ebf28d821b83e?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694c170ed64ebf28d821b336?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 24 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Tax Intern – Corporate Finance & Taxation](https://jobright.ai/jobs/info/694c1238d64ebf28d821b1f6?utm_campaign=1052&utm_source=git)** | Dallas County, TX | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
