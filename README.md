@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/694d8ea2f5bef51c96eb155a?utm_campaign=1052&utm_source=git)** | Manitowoc, WI | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/694d7799f5bef51c96eb0aa4?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 25 |
-| **[Arvento A](arventoa.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/694d7259d4a7df7a067282c6?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 25 |
 | **[Fyntrix One](fyntrixone.us)** | **[Tax Intern](https://jobright.ai/jobs/info/694d75a9d4a7df7a067283b4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/6945f2f1d1953b5d11befcbf?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Dec 25 |
 | **[Stellantis](https://www.stellantis.com/)** | **[STAGE : Assistant Gestion de Projets Finance](https://jobright.ai/jobs/info/68e513fe1852e62f0080b7f9?utm_campaign=1052&utm_source=git)** | Campus Green, MD | On Site | Dec 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1b665d73121134709180?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1ae35d73121134708f07?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Market Risk Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c19b1d64ebf28d821b83e?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694c170ed64ebf28d821b336?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
