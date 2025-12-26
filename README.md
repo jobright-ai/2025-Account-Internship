@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Scion Group](http://thesciongroup.com)** | **[Revenue Analytics Intern](https://jobright.ai/jobs/info/694a0ee97d506e3808f53f0b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 25 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/694da892d4a7df7a0672ab35?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
 | ↳ | **[Environmental Social & Governance Intern - Summer 2026](https://jobright.ai/jobs/info/694da64929655e4dd657897d?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 25 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern – Spring 2027 – Bethlehem, PA](https://jobright.ai/jobs/info/68f9e3a68a7359609b8c75b1?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Dec 25 |
 | **[Withum](http://www.withum.com)** | **[Tax Verification Interns- Winter 2026](https://jobright.ai/jobs/info/6931205bef4b48533d15295f?utm_campaign=1052&utm_source=git)** | Princeton, CA | On Site | Dec 25 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2026 / Audit Intern / Ohio (47165)](https://jobright.ai/jobs/info/68f8dc6aa628d10664e860a9?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Dec 25 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a492e0541cc3479840c638?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Dec 25 |
-| ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68ce4ae9fb49c96ca6e9e944?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68ce4ae9fb49c96ca6e9e944?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
+| ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a492e0541cc3479840c638?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Dec 25 |
 | ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49723541cc3479840c798?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Dec 25 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Model Risk Intern](https://jobright.ai/jobs/info/6930d341ef4b48533d14fb60?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Financial Planning & Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6930a6cf4c474121999e7192?utm_campaign=1052&utm_source=git)** | Schiller Park, IL | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1b665d73121134709180?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Audit Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1ae35d73121134708f07?utm_campaign=1052&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | ↳ | **[Market Risk Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c19b1d64ebf28d821b83e?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/694c170ed64ebf28d821b336?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
