@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[Finance & Strategic Funding Analyst Intern (Remote)](https://jobright.ai/jobs/info/694ee190a2668b7f54522589?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Data Intern summer-2026](https://jobright.ai/jobs/info/694ef50fa2668b7f54523992?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/694ee90dce13cd10565723f6?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 26 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Intern](https://jobright.ai/jobs/info/694ed0e629655e4dd65867b8?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Accounting/Finance](https://jobright.ai/jobs/info/694ecdab29655e4dd6586763?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Finance Intern](https://jobright.ai/jobs/info/694eccd529655e4dd658672e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
 | **[Barnes](https://www.onebarnes.com)** | **[Intern, Finance Indirect](https://jobright.ai/jobs/info/694ec2f929655e4dd6586575?utm_campaign=1052&utm_source=git)** | East Hartford, CT | On Site | Dec 26 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Finance Intern](https://jobright.ai/jobs/info/694ebd3dce13cd10565708d7?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Internship](https://jobright.ai/jobs/info/694eba5b29655e4dd658494c?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Accounting/Finance](https://jobright.ai/jobs/info/694eb8c8a2668b7f5451fe80?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/694eb88ba2668b7f5451fe54?utm_campaign=1052&utm_source=git)** | 519 - CORP INTERNAL AUDITING68 Jonspin Road | Hybrid | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Scion Group](http://thesciongroup.com)** | **[Revenue Analytics Intern](https://jobright.ai/jobs/info/694a0ee97d506e3808f53f0b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 25 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/694da892d4a7df7a0672ab35?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
 | ↳ | **[Environmental Social & Governance Intern - Summer 2026](https://jobright.ai/jobs/info/694da64929655e4dd657897d?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
