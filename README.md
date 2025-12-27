@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694469aadd382f5f566a894c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/694f47e029655e4dd658c10e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f46fdce13cd10565771c2?utm_campaign=1052&utm_source=git)** | Chippewa Falls, WI | On Site | Dec 26 |
+| ↳ | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f445ba2668b7f54527751?utm_campaign=1052&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/694f370e29655e4dd658b7e6?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/694f274c29655e4dd6589a19?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Dec 26 |
 | **[Precision Castparts](http://precast.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694f2368a2668b7f54525017?utm_campaign=1052&utm_source=git)** | Lake Oswego, OR | On Site | Dec 26 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Procurement](https://jobright.ai/jobs/info/69326cfe764507023d1ae779?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Accounting Intern – Accounting](https://jobright.ai/jobs/info/68c2337263b706703e112491?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Dec 26 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Loan Review & Commercial Lending Intern - Summer 2026](https://jobright.ai/jobs/info/6933e204f131d96e484680a6?utm_campaign=1052&utm_source=git)** | Lees Summit, MO | On Site | Dec 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/694dfe5029655e4dd657c733?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Dec 26 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69321b9fd0010831497bfaa1?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Tax Intern / Ohio (47170)](https://jobright.ai/jobs/info/68bf84718e65e77df55bb05d?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Dec 26 |
 | **[Burford Capital](http://www.burfordcapital.com)** | **[Summer Analyst Internship](https://jobright.ai/jobs/info/6931d522d0010831497bc258?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 26 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2026](https://jobright.ai/jobs/info/6914e74c9c388539cbdee68f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 26 |
 | **[Air Products](https://www.airproducts.com/)** | **[Summer Intern - Accounting (Internal Audit) FY26](https://jobright.ai/jobs/info/68c9138cf9c6ff7aedf17a99?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Dec 26 |
 | **[Vistar](http://www.vistar.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694764607d506e3808f2ac45?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Dec 26 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (El Paso, TX)](https://jobright.ai/jobs/info/6931fb8a4c474121999f52ee?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Dec 26 |
-| ↳ | **[Tax Intern - Spring 2026 (Albuquerque, NM)](https://jobright.ai/jobs/info/693202b74c474121999f5a6a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Albuquerque, NM)](https://jobright.ai/jobs/info/693202b74c474121999f5a6a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
+| ↳ | **[Tax Intern - Spring 2026 (El Paso, TX)](https://jobright.ai/jobs/info/6931fb8a4c474121999f52ee?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Dec 26 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Tax Intern](https://jobright.ai/jobs/info/694e9f95a2668b7f5451fa91?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Dec 26 |
 | **[Amlan International](https://us-en.amlan.com/)** | **[Finance Intern (Summer)](https://jobright.ai/jobs/info/694e4f10f5bef51c96eba143?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[Kalmar](https://www.kalmarglobal.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/694e4105f5bef51c96eb9d8e?utm_campaign=1052&utm_source=git)** | Ottawa, KS | On Site | Dec 26 |
 | **[The Scion Group](http://thesciongroup.com)** | **[Revenue Analytics Intern](https://jobright.ai/jobs/info/694a0ee97d506e3808f53f0b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 25 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/694da892d4a7df7a0672ab35?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
-| ↳ | **[Environmental Social & Governance Intern - Summer 2026](https://jobright.ai/jobs/info/694da64929655e4dd657897d?utm_campaign=1052&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Intern](https://jobright.ai/jobs/info/693d0f9249a7695fbd03bf3e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Dec 25 |
-| ↳ | **[Comcast Capital Finance Intern](https://jobright.ai/jobs/info/692f90014c474121999e0694?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
