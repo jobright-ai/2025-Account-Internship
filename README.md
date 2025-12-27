@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I](https://jobright.ai/jobs/info/69504c7e29655e4dd65992b5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
+| **[Cronus Capital Management LLC](www.cronusam.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/695049cb29655e4dd6599295?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 27 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/695049baa2668b7f54534c19?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 27 |
+| **[The Duracell Company](http://www.duracell.com)** | **[Financial Analysis Intern](https://jobright.ai/jobs/info/69503c3229655e4dd659775b?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Project Brains](https://www.projectbrains.io)** | **[Ops Intern](https://jobright.ai/jobs/info/695038dc29655e4dd6597680?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Remote | Dec 27 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Financial Analysis Intern](https://jobright.ai/jobs/info/695037c1ce13cd105658278d?utm_campaign=1052&utm_source=git)** | 135 South LaSalle Street, Suite 2250, Chicago, Illinois, 60604, US | On Site | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Trade Support Analyst](https://jobright.ai/jobs/info/69502d6cce13cd105658222a?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
@@ -74,8 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/6916f3f49c388539cbe00b74?utm_campaign=1052&utm_source=git)** | Carleton Place, Ontario, Canada | On Site | Dec 27 |
 | ↳ | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/69171dd73ea85638ae1c7f40?utm_campaign=1052&utm_source=git)** | Morrisburg, Ontario, Canada | On Site | Dec 27 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cea481dbd9fb154ede19ac?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
-| **[Dealer Tire](http://dealertire.com)** | **[Tax Intern (Cleveland, OH)](https://jobright.ai/jobs/info/694fe61ace13cd105657fe6c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 27 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/694fe4ebce13cd105657fe50?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/6933ea5af131d96e4846832e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Dec 27 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cbb0f79e3a822f5d24a893?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6934f799a0dde7020e2f6d31?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[IT Financial Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6914dc986f36db06ef04946c?utm_campaign=1052&utm_source=git)** | Montpelier, VT | On Site | Dec 26 |
 | ↳ | **[IT Financial Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6914cf29286ccf0a151288f9?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Dec 26 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68f9029da628d10664e87cf9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
-| **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/68bf8889702aa35207aa732b?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/68db07216df7b8311bb157e2?utm_campaign=1052&utm_source=git)** | Folsom, NJ | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
