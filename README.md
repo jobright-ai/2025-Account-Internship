@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Accounting Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/693343c6f131d96e484614a5?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 27 |
+| **[Cerity Partners](https://ceritypartners.com/)** | **[Summer Tax Intern](https://jobright.ai/jobs/info/68c32d9463829b0a8a5008db?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Dec 27 |
+| **[Speedwell Construction, Inc.](https://speedwellconstruction.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/68f90c726de2db04dc3e4b79?utm_campaign=1052&utm_source=git)** | Manheim, PA | On Site | Dec 27 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[Tax Internship](https://jobright.ai/jobs/info/6917ef3645fb6f5ead8a0012?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Dec 27 |
+| **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f99221cadb2e5a06a65db2?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | On Site | Dec 27 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Undergrad Finance Summer Internship - Parsippany, NJ](https://jobright.ai/jobs/info/691aa2f515b41563671898db?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Dec 27 |
+| **[Lazard](http://www.lazard.com)** | **[2026 Financial Advisory Summer Analyst Program - Shareholder Advisory & Activism Defense](https://jobright.ai/jobs/info/694b8e7c1a572a617dddf2a5?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 27 |
+| **[Segal](https://www.segalco.com)** | **[Actuarial Internship (2026)](https://jobright.ai/jobs/info/68fdb4e6e0c73b3a11194652?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
+| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Underwriting Internship - Summer '26 (Eagan, MN)](https://jobright.ai/jobs/info/69166c12286ccf0a15135c12?utm_campaign=1052&utm_source=git)** | Eagan, MN | On Site | Dec 27 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68f94690a628d10664e8b5ed?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
+| **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, Tax](https://jobright.ai/jobs/info/69326871f131d96e4845bef2?utm_campaign=1052&utm_source=git)** | Newton, MA | On Site | Dec 27 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Delivery Group Internship – Philadelphia - 2026](https://jobright.ai/jobs/info/691709623ea85638ae1c70a5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 27 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Finance](https://jobright.ai/jobs/info/6945bd1663141d1884554a19?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Dec 27 |
+| **[Christensen Farms](https://www.christensenfarms.com)** | **[Finance Internship](https://jobright.ai/jobs/info/694fadd3ce13cd105657d7bc?utm_campaign=1052&utm_source=git)** | Sleepy Eye, MN | On Site | Dec 27 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 27 |
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Accounting Intern-Summer 2026](https://jobright.ai/jobs/info/694f9300a2668b7f5452bc2b?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 27 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/694f8bd8a2668b7f5452b9ae?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68f93c72a628d10664e8ac80?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 | **[Vistar](http://www.vistar.com)** | **[Finance Systems Intern](https://jobright.ai/jobs/info/6932577d764507023d1ad647?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Dec 26 |
 | **[Invenergy](https://invenergy.com)** | **[Intern, Treasury](https://jobright.ai/jobs/info/6932091fd0010831497be87f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/691a9adbbcdbf3560c9d91df?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 26 |
-| **[Everest](https://www.everestglobal.com/)** | **[2026 Underwriting Internship Program - Miami, FL](https://jobright.ai/jobs/info/6905e430122e8474c78dcbde?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Dec 26 |
-| **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/68cc73a716d00d2beeb1fdb4?utm_campaign=1052&utm_source=git)** | San Jose, CA | Remote | Dec 26 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Austin)](https://jobright.ai/jobs/info/68cafc0a9e3a822f5d240cf6?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Dec 26 |
-| **[Ferrara](https://www.ferrara.com)** | **[Finance Internship Summer Program 2026](https://jobright.ai/jobs/info/691ae687bcdbf3560c9db5f8?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
-| **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2026](https://jobright.ai/jobs/info/6914e74c9c388539cbdee68f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 26 |
-| **[Air Products](https://www.airproducts.com/)** | **[Summer Intern - Accounting (Internal Audit) FY26](https://jobright.ai/jobs/info/68c9138cf9c6ff7aedf17a99?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Dec 26 |
-| **[Vistar](http://www.vistar.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694764607d506e3808f2ac45?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Dec 26 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (El Paso, TX)](https://jobright.ai/jobs/info/6931fb8a4c474121999f52ee?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Dec 26 |
-| ↳ | **[Tax Intern - Spring 2026 (Albuquerque, NM)](https://jobright.ai/jobs/info/693202b74c474121999f5a6a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
-| **[TalentSphere Global](talentsphereglobal.us)** | **[Tax Intern](https://jobright.ai/jobs/info/694e9f95a2668b7f5451fa91?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Dec 26 |
-| **[Amlan International](https://us-en.amlan.com/)** | **[Finance Intern (Summer)](https://jobright.ai/jobs/info/694e4f10f5bef51c96eba143?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
-| **[Kalmar](https://www.kalmarglobal.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/694e4105f5bef51c96eb9d8e?utm_campaign=1052&utm_source=git)** | Ottawa, KS | On Site | Dec 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/694f679c29655e4dd658ee9f?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
