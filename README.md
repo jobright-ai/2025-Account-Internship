@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6933486ca0dde7020e2ec20a?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Dec 27 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/691a95e815b4156367189133?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Dec 27 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/6948b81ed1953b5d11c1bc70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Financial Analyst Summer Intern 2026](https://jobright.ai/jobs/info/69336d87a0dde7020e2ede1f?utm_campaign=1052&utm_source=git)** | Armonk, NY | On Site | Dec 27 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Beachwood, OH](https://jobright.ai/jobs/info/68df11ee5ab4977c2e94ec01?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | Dec 27 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/69168bf79c388539cbdfc7cd?utm_campaign=1052&utm_source=git)** | Camp Hill, PA | Hybrid | Dec 27 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Public Valuations Intern - Summer 2026](https://jobright.ai/jobs/info/693320c3f131d96e4845ff77?utm_campaign=1052&utm_source=git)** | Wellesley, MA | Hybrid | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copeland Buhl](http://copelandbuhl.com)** | **[Spring 2027 Tax Intern](https://jobright.ai/jobs/info/68c077c3702aa35207aad4b8?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Dec 26 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Corporate Intern - Finance Data Analyst](https://jobright.ai/jobs/info/68c0437b8e65e77df55bf8d1?utm_campaign=1052&utm_source=git)** | Lewisville, TX | On Site | Dec 26 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Revenue Management Analyst / July Start Date](https://jobright.ai/jobs/info/691a88ab15b4156367188a71?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/68ce326a1ad6b16f028a2d4d?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
