@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/694f8bd8a2668b7f5452b9ae?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Finance Department Intern](https://jobright.ai/jobs/info/694f6eaf29655e4dd658f3d7?utm_campaign=1052&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694469aadd382f5f566a894c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/694f47e029655e4dd658c10e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Data Intern summer-2026](https://jobright.ai/jobs/info/694ef50fa2668b7f54523992?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/694ee90dce13cd10565723f6?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Accounting/Finance](https://jobright.ai/jobs/info/694ecdab29655e4dd6586763?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Finance Intern](https://jobright.ai/jobs/info/694eccd529655e4dd658672e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
 | **[Barnes](https://www.onebarnes.com)** | **[Intern, Finance Indirect](https://jobright.ai/jobs/info/694ec2f929655e4dd6586575?utm_campaign=1052&utm_source=git)** | East Hartford, CT | On Site | Dec 26 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Finance Intern](https://jobright.ai/jobs/info/694ebd3dce13cd10565708d7?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 26 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Accounting/Finance](https://jobright.ai/jobs/info/694eb8c8a2668b7f5451fe80?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/694eb88ba2668b7f5451fe54?utm_campaign=1052&utm_source=git)** | 519 - CORP INTERNAL AUDITING68 Jonspin Road | Hybrid | Dec 26 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Valuation Advisory Services - VAS Summer 2026 Internship](https://jobright.ai/jobs/info/69321ac9fa28370be26c1f22?utm_campaign=1052&utm_source=git)** | Boston, NY | Hybrid | Dec 26 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Central WI](https://jobright.ai/jobs/info/69340ee6764507023d1bbbbf?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Dec 26 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69340ebe764507023d1bbb3b?utm_campaign=1052&utm_source=git)** | Lakeville, MA | Hybrid | Dec 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/694f7a4cce13cd105657ab3e?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Dec 26 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Restructuring and Dispute Resolution Advisory Services - RDR Summer 2026 Internship](https://jobright.ai/jobs/info/693223a3fa28370be26c26d0?utm_campaign=1052&utm_source=git)** | Boston, NY | Hybrid | Dec 26 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/68bf877c5c5d5f14f46d7b93?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ba22998043103d4f21db00?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 26 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2026](https://jobright.ai/jobs/info/6914e74c9c388539cbdee68f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 26 |
 | **[Air Products](https://www.airproducts.com/)** | **[Summer Intern - Accounting (Internal Audit) FY26](https://jobright.ai/jobs/info/68c9138cf9c6ff7aedf17a99?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Dec 26 |
 | **[Vistar](http://www.vistar.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694764607d506e3808f2ac45?utm_campaign=1052&utm_source=git)** | Englewood, CO | On Site | Dec 26 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (El Paso, TX)](https://jobright.ai/jobs/info/6931fb8a4c474121999f52ee?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Dec 26 |
-| ↳ | **[Tax Intern - Spring 2026 (Albuquerque, NM)](https://jobright.ai/jobs/info/693202b74c474121999f5a6a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2026 (Albuquerque, NM)](https://jobright.ai/jobs/info/693202b74c474121999f5a6a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
+| ↳ | **[Tax Intern - Spring 2026 (El Paso, TX)](https://jobright.ai/jobs/info/6931fb8a4c474121999f52ee?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Dec 26 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Tax Intern](https://jobright.ai/jobs/info/694e9f95a2668b7f5451fa91?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Dec 26 |
 | **[Amlan International](https://us-en.amlan.com/)** | **[Finance Intern (Summer)](https://jobright.ai/jobs/info/694e4f10f5bef51c96eba143?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
-| **[Kalmar](https://www.kalmarglobal.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/694e4105f5bef51c96eb9d8e?utm_campaign=1052&utm_source=git)** | Ottawa, KS | On Site | Dec 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/694f679c29655e4dd658ee9f?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
