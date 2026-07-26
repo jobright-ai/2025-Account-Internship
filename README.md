@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69b9cb1e56973837413f55f1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Commercial Tax](https://jobright.ai/jobs/info/6a5b07904da96a42cfd98cfc?utm_campaign=1052&utm_source=git)** | Merrimack, NH, United States | On Site | Jul 26 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6a55cce4ec54dd532d813ae5?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 26 |
 | **[Synergy Wealth Solutions](https://www.synergywealthsolutions.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a355823ce501060b5cf3e16?utm_campaign=1052&utm_source=git)** | Chesterfield, MO, United States | On Site | Jul 25 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a28e8b62d6c332ee52e8bae?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 25 |
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e39a343eef4fb0a9ec2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | ↳ | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d17e6942c746fa694e32?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 25 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a4bd042c2d11a6a46678c17?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a5cd1c5c8e3a473cb8b30aa?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e29552a5bf580012cb68?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e277366bb95ba555087c?utm_campaign=1052&utm_source=git)** | 300 East Main St., Norfolk, VA, 23510, US | On Site | Jul 25 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a57a65ef7517b519ad5b890?utm_campaign=1052&utm_source=git)** | Latham, NY, United States | On Site | Jul 25 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862032?utm_campaign=1052&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862044?utm_campaign=1052&utm_source=git)** | Paradise Valley, AZ, United States | On Site | Jul 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf4c?utm_campaign=1052&utm_source=git)** | Glendale, AZ, United States | On Site | Jul 24 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862048?utm_campaign=1052&utm_source=git)** | Goodyear, AZ, United States | On Site | Jul 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6880c94629ad6b2744adbf56?utm_campaign=1052&utm_source=git)** | Gilbert, AZ, United States | On Site | Jul 24 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862048?utm_campaign=1052&utm_source=git)** | Goodyear, AZ, United States | On Site | Jul 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf5f?utm_campaign=1052&utm_source=git)** | Avondale, AZ, United States | On Site | Jul 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f710086203b?utm_campaign=1052&utm_source=git)** | Peoria, AZ, United States | On Site | Jul 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a362873f6b55d12c7922109?utm_campaign=1052&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verdantas](https://www.verdantas.com)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a637dbf8d53603449602944?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Jul 24 |
 | **[H&CO](http://floridacpa.com)** | **[Finance Intern / GBS](https://jobright.ai/jobs/info/6a63cdf68d536034496046df?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 24 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Controlling](https://jobright.ai/jobs/info/6a63ccc4979290281c704337?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 24 |
-| **[Mercuria](http://www.mercuria.com)** | **[Mercuria Energy Americas — Spring & Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a63c9235c7e2d715ebadf1d?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
