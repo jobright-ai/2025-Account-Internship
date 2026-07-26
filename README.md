@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6a55cce4ec54dd532d813ae5?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 26 |
 | **[Synergy Wealth Solutions](https://www.synergywealthsolutions.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a355823ce501060b5cf3e16?utm_campaign=1052&utm_source=git)** | Chesterfield, MO, United States | On Site | Jul 25 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/6a54a6598ef95364ead96403?utm_campaign=1052&utm_source=git)** | White Plains, NY, United States | Hybrid | Jul 25 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a5337c88576ec69c014f0f5?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 25 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Eton Advisors Group LLC](https://etonadvisors.com/)** | **[Accounting Intern (Fall 2026) (Part-Time)](https://jobright.ai/jobs/info/6a62749e07e15f1ab0e465d8?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[NORF Companies - Real Estate Development MBA Intern](https://jobright.ai/jobs/info/6a526b189fbdab22fe13b6ed?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 25 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/6a2ba9e2d3ec8317fe1491d2?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jul 25 |
+| **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement](https://jobright.ai/jobs/info/6a2b5a381de59e0682a8937b?utm_campaign=1052&utm_source=git)** | Montreal (St. Laurent), Canada | Hybrid | Jul 25 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Finance/Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a62f55232abf9182432c55e?utm_campaign=1052&utm_source=git)** | Racine, WI, United States | On Site | Jul 25 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/6a2b0dc1d3ec8317fe146e11?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jul 25 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Natural Resources Investments, Latin America (May – August 2027)](https://jobright.ai/jobs/info/6a47d81f3dbab558e29ab488?utm_campaign=1052&utm_source=git)** | Montreal, Canada | On Site | Jul 25 |
@@ -104,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a28e8b62d6c332ee52e8bae?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 25 |
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e39a343eef4fb0a9ec2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | ↳ | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d17e6942c746fa694e32?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 25 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a4bd042c2d11a6a46678c17?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e29552a5bf580012cb68?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
+| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a5cd1c5c8e3a473cb8b30aa?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e277366bb95ba555087c?utm_campaign=1052&utm_source=git)** | 300 East Main St., Norfolk, VA, 23510, US | On Site | Jul 25 |
-| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e29552a5bf580012cb68?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a57a65ef7517b519ad5b890?utm_campaign=1052&utm_source=git)** | Latham, NY, United States | On Site | Jul 25 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Cincinnati, OH](https://jobright.ai/jobs/info/6a5edeb9f3674a0545d2b36f?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5e861a050c423c792efc3a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Controlling](https://jobright.ai/jobs/info/6a63ccc4979290281c704337?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 24 |
 | **[Mercuria](http://www.mercuria.com)** | **[Mercuria Energy Americas — Spring & Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a63c9235c7e2d715ebadf1d?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a51371d02522b5b722e8726?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 24 |
-| **[L'Alliance New York](https://lallianceny.org)** | **[Accounting & Administrative Finance Intern](https://jobright.ai/jobs/info/6a63c7210c8e2b4f36dcfc31?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
-| **[Gesture](https://gesture.vip)** | **[Finance Intern](https://jobright.ai/jobs/info/6a63c704979290281c70410c?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
