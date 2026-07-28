@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swiss Re](http://www.swissre.com)** | **[Actuarial Intern (Fall 2026) Job Details / Swiss Re](https://jobright.ai/jobs/info/6a68a93ee53d5546ebf58d67?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 28 |
+| ↳ | **[P&C Actuarial Intern (Fall 2026) Job Details / Swiss Re](https://jobright.ai/jobs/info/6a68a8817926035e0958632b?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 28 |
+| **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Accounting Internship](https://jobright.ai/jobs/info/6a55f2f810c4d945d8646048?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 28 |
+| **[COARE Beheer](http://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6a560eecf7517b519ad538ab?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 28 |
+| **[The Nash Group • Certified Public Accountants](https://nashgroupcpas.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55efef21f64463ad350c7d?utm_campaign=1052&utm_source=git)** | Fircrest, WA, United States | On Site | Jul 28 |
+| **[Nuverum Ventures](https://www.nuverum.com/)** | **[Capital Advisory Fall Intern](https://jobright.ai/jobs/info/6a689c6268652d68b31492ea?utm_campaign=1052&utm_source=git)** | New York City metropolitan area, United States | Remote | Jul 28 |
 | **[Robinson Helicopter Company](http://robinsonheli.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a53fd35c8eb0843027ae678?utm_campaign=1052&utm_source=git)** | Torrance, CA 90505, United States | On Site | Jul 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Florham Park (49592)](https://jobright.ai/jobs/info/6a57f1728f51964c04045db1?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 28 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a55f7cfefb06a45240d269c?utm_campaign=1052&utm_source=git)** | Orange Park, FL, United States | On Site | Jul 28 |
-| **[KEATING](http://keatinginc.com)** | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a570f1521f64463ad357bb0?utm_campaign=1052&utm_source=git)** | Manhattan, KS, United States | On Site | Jul 28 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Rochester, MN](https://jobright.ai/jobs/info/6a6877caa6b8730e3b123e91?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Hybrid | Jul 28 |
 | ↳ | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/6a6877c85f2a9115e18d8405?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 28 |
 | ↳ | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a6877c3c1787161d1444a91?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
@@ -111,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Controlling Intern](https://jobright.ai/jobs/info/6a67fb3fd0fb4c3df393fa29?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
 | **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 27 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a4dd8a6d27b2c4dda9b8b3e?utm_campaign=1052&utm_source=git)** | Washington, D.C. Metro (Bethesda), United States of America | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110b178e364789ca5871b?utm_campaign=1052&utm_source=git)** | Atlanta (Alpharetta), United States of America | On Site | Jul 27 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
+| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110b178e364789ca5871b?utm_campaign=1052&utm_source=git)** | Atlanta (Alpharetta), United States of America | On Site | Jul 27 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Finance Intern](https://jobright.ai/jobs/info/6a68014b2bf1fb2b71928029?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Fifth Third Bank](http://53.com)** | **[2027 IT Audit Intern](https://jobright.ai/jobs/info/6a67af43d0fb4c3df393e3b2?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
 | ↳ | **[2027 Financial Audit Intern](https://jobright.ai/jobs/info/6a67b54cd0fb4c3df393e51a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a57ea348f51964c04045941?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[First Business Bank](http://firstbusiness.bank)** | **[Investment Intern](https://jobright.ai/jobs/info/6a679e783b5e6b116a54fa04?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Jul 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/6a55f9bd392ae330b30e8668?utm_campaign=1052&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Jul 27 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 27 |
-| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 27 |
-| **[Oxford Properties Group](http://www.oxfordproperties.com)** | **[Intern, Real Estate Asset Management (Summer 2027)](https://jobright.ai/jobs/info/6a6795eb872eb74f9ead9d90?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| ↳ | **[Intern, Real Estate Investments (Summer 2027)](https://jobright.ai/jobs/info/6a6795e3d0fb4c3df393d9b5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Student Accounting Intern](https://jobright.ai/jobs/info/6a679534d0fb4c3df393d98a?utm_campaign=1052&utm_source=git)** | St. Paul, MN, United States | On Site | Jul 27 |
-| **[The Nichols Accounting Group P.C.](https://www.nicholsaccounting.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a6262fcc28982326de966d0?utm_campaign=1052&utm_source=git)** | Nampa, ID, United States | On Site | Jul 27 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
