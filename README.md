@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KEATING](http://keatinginc.com)** | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a570f1521f64463ad357bb0?utm_campaign=1052&utm_source=git)** | Manhattan, KS, United States | On Site | Jul 28 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Rochester, MN](https://jobright.ai/jobs/info/6a6877caa6b8730e3b123e91?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Hybrid | Jul 28 |
+| ↳ | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/6a6877c85f2a9115e18d8405?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 28 |
+| ↳ | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a6877c3c1787161d1444a91?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
+| ↳ | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/6a6877c2c1787161d1444a90?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Jul 28 |
+| ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a687694aa309c3828dede9c?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a53375b8576ec69c014f0cc?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/6a56096310c4d945d8647133?utm_campaign=1052&utm_source=git)** | White Plains, NY, United States | Hybrid | Jul 28 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Indianapolis, IN](https://jobright.ai/jobs/info/6a55d509ec54dd532d814798?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 28 |
 | **[MetaSource](http://www.metasource.com/)** | **[Accounting Student or Intern (Part Time Flexible, Remote)](https://jobright.ai/jobs/info/6a67ac63d0fb4c3df393e2d5?utm_campaign=1052&utm_source=git)** | Utah, United States | Remote | Jul 28 |
@@ -99,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Jul 27 |
 | **[Davenport & Company LLC](http://www.investdavenport.com)** | **[2027 Public Finance Summer Internship](https://jobright.ai/jobs/info/6a4fb4f44649561ec08aea3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Controlling Intern](https://jobright.ai/jobs/info/6a67fb3fd0fb4c3df393fa29?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
-| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a4dd8a6d27b2c4dda9b8b3e?utm_campaign=1052&utm_source=git)** | Washington, D.C. Metro (Bethesda), United States of America | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 27 |
+| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110b178e364789ca5871b?utm_campaign=1052&utm_source=git)** | Atlanta (Alpharetta), United States of America | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
+| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a4dd8a6d27b2c4dda9b8b3e?utm_campaign=1052&utm_source=git)** | Washington, D.C. Metro (Bethesda), United States of America | On Site | Jul 27 |
+| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 27 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Finance Intern](https://jobright.ai/jobs/info/6a68014b2bf1fb2b71928029?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Fifth Third Bank](http://53.com)** | **[2027 IT Audit Intern](https://jobright.ai/jobs/info/6a67af43d0fb4c3df393e3b2?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
 | ↳ | **[2027 Financial Audit Intern](https://jobright.ai/jobs/info/6a67b54cd0fb4c3df393e51a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Graham Allen Partners](https://www.graham-allen.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a54fa9fae07d60a8d00e194?utm_campaign=1052&utm_source=git)** | South Bend, IN, United States | On Site | Jul 27 |
 | **[DunlapSLK](https://dunlapslk.com/)** | **[Intern](https://jobright.ai/jobs/info/6a678a92d0fb4c3df393d58d?utm_campaign=1052&utm_source=git)** | Chalfont, PA, United States | On Site | Jul 27 |
 | **[ELO CPAs & Advisors](https://www.elocpa.com/)** | **[Internship - Multiple Locations](https://jobright.ai/jobs/info/6a678a5d2bda4d2842854643?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 27 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Operations and Innovation Intern](https://jobright.ai/jobs/info/6a67861cd0fb4c3df393d36c?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
-| **[Christianson CPAs & Consultants](https://www.christiansoncpa.com/)** | **[Accounting Internship - 2027](https://jobright.ai/jobs/info/6a3f4da7122f340d29cf624b?utm_campaign=1052&utm_source=git)** | Willmar, MN, United States | On Site | Jul 27 |
-| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a54f2514119652ff3862584?utm_campaign=1052&utm_source=git)** | Midland, MI, United States | On Site | Jul 27 |
-| **[SVA | A Professional Services Company](https://www.sva.com/)** | **[Accounting Intern (Spring 2027)](https://jobright.ai/jobs/info/6a48fd2ef9cbb100d1ab3327?utm_campaign=1052&utm_source=git)** | Brookfield, Wisconsin, United States | On Site | Jul 27 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Accounting & Finance Development Program Intern (Undergraduate)](https://jobright.ai/jobs/info/6a677a7e5d2a117fb9ceb949?utm_campaign=1052&utm_source=git)** | North Chicago, IL, United States | Remote | Jul 27 |
-| ↳ | **[2027 Accounting & Finance Development Program Intern (Undergraduate)](https://jobright.ai/jobs/info/6a677a702bf1fb2b7192549b?utm_campaign=1052&utm_source=git)** | North Chicago, IL, United States | Hybrid | Jul 27 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a6779e23b5e6b116a54ee2d?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
