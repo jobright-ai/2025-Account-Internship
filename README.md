@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a6929443b549b0b531d437a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance Intern (MBA - Santa Clara, CA)](https://jobright.ai/jobs/info/6a692773b22f1b56a602afbd?utm_campaign=1052&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 28 |
+| ↳ | **[Finance Intern (MBA - Austin, TX)](https://jobright.ai/jobs/info/6a69276b3b549b0b531d4237?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 28 |
+| **[Bank of China USA](https://www.bocusa.com)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a56a63910c4d945d864b26f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
+| **[Devil's Thumb Ranch Resort & Spa](https://www.devilsthumbranch.com)** | **[Finance/Accounting Intern](https://jobright.ai/jobs/info/6a69225e3b549b0b531d4108?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a55beaeef22935f2e3f68c1?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 28 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/6a691fc836d36c1ff29984a1?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 28 |
 | ↳ | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/6a691fc2ceb2691dfb2077e9?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Jul 28 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Jul 27 |
 | **[Davenport & Company LLC](https://www.investdavenport.com/)** | **[2027 Public Finance Summer Internship](https://jobright.ai/jobs/info/6a4fb4f44649561ec08aea3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Controlling Intern](https://jobright.ai/jobs/info/6a67fb3fd0fb4c3df393fa29?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
-| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 27 |
+| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 27 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a4dd8a6d27b2c4dda9b8b3e?utm_campaign=1052&utm_source=git)** | Washington, D.C. Metro (Bethesda), United States of America | On Site | Jul 27 |
+| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110b178e364789ca5871b?utm_campaign=1052&utm_source=git)** | Atlanta (Alpharetta), United States of America | On Site | Jul 27 |
-| **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Finance Intern](https://jobright.ai/jobs/info/6a68014b2bf1fb2b71928029?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Fifth Third Bank](http://53.com)** | **[2027 IT Audit Intern](https://jobright.ai/jobs/info/6a67af43d0fb4c3df393e3b2?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
-| ↳ | **[2027 Financial Audit Intern](https://jobright.ai/jobs/info/6a67b54cd0fb4c3df393e51a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
-| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Audit Internship - Fall 2027](https://jobright.ai/jobs/info/6a67f8da2bda4d2842856856?utm_campaign=1052&utm_source=git)** | St George, Vermont, United States | Remote | Jul 27 |
-| **[Spruce Street Compliance](https://www.sprucestreetcomp.com/)** | **[Fall 2026 Campaign Finance Intern](https://jobright.ai/jobs/info/6a67a0092bf1fb2b719260cc?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
