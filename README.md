@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship – US - Summer 2027](https://jobright.ai/jobs/info/6a6a2965c63ba56308f51951?utm_campaign=1052&utm_source=git)** | Schenectady, NY, United States | On Site | Jul 29 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6a6a3257c63ba56308f51e0f?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Remote | Jul 29 |
 | **[G3](https://g3translate.com/)** | **[Administrative Intern (December 2026)](https://jobright.ai/jobs/info/6a57ae80a791c6211bf0009a?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 29 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Finance Internship](https://jobright.ai/jobs/info/6a60bd13c752926c22681f89?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Global Accounts Pricing Intern (Fall: Now >through Nov 2026)](https://jobright.ai/jobs/info/6a5a90a7856af468ab009340?utm_campaign=1052&utm_source=git)** | Morrisville, NC, United States | Hybrid | Jul 29 |
 | ↳ | **[Expense Control Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6a2aca19d76667a2abdfec?utm_campaign=1052&utm_source=git)** | Morrisville, NC, United States | On Site | Jul 29 |
 | **[Series Next Solutions](https://seriesnextsolutions.com/)** | **[Accounting and FP&A Internship (client-facing)](https://jobright.ai/jobs/info/6a57840810c4d945d864e87e?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 29 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship – US - Summer 2027](https://jobright.ai/jobs/info/6a6a2965c63ba56308f51951?utm_campaign=1052&utm_source=git)** | Schenectady, NY, United States | On Site | Jul 29 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Financial Data Analyst Internship](https://jobright.ai/jobs/info/6a6a26c0c63ba56308f51880?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 29 |
 | **[Sikich](http://www.sikich.com)** | **[Spring 2027 Audit Intern (Not-For-Profit)](https://jobright.ai/jobs/info/6a6a258fc63ba56308f517d5?utm_campaign=1052&utm_source=git)** | Naperville, IL, United States | Hybrid | Jul 29 |
 | **[Elevate Financial Planning and Wealth Management](elevatefpwm.com)** | **[Financial Advisory Internship](https://jobright.ai/jobs/info/6a6a245b16c69119640fc8ee?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Jul 29 |
@@ -104,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Internship, Accounting - Hartford, CT](https://jobright.ai/jobs/info/6a435fdae09ecb4959644583?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Accounting & Finance Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a690ee005bae84301b5a373?utm_campaign=1052&utm_source=git)** | Lithia, FL, United States | Hybrid | Jul 28 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
-| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 28 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69173136d36c1ff29981d8?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a693c0336d36c1ff2998de4?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 28 |
