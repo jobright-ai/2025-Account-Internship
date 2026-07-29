@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern - Summer 2027 - Seattle, WA](https://jobright.ai/jobs/info/6a6953365d01972698ee7a4f?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 28 |
 | **[Chevron](http://www.chevron.com)** | **[2026-2027 Supply & Trading TAMU TRIP Program Intern](https://jobright.ai/jobs/info/6a5e3595f3674a0545d27979?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jul 28 |
 | **[ALPFA Baltimore Chapter](https://www.alpfa.org/baltimore-professional-chapter)** | **[2027 Audit Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a69710d5f8d2a1f3a112125?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 28 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Finance TV Distribution & Networks](https://jobright.ai/jobs/info/6a696bb878c2a406e51aaf76?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 28 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Internship, Accounting - Hartford, CT](https://jobright.ai/jobs/info/6a435fdae09ecb4959644583?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Accounting & Finance Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a690ee005bae84301b5a373?utm_campaign=1052&utm_source=git)** | Lithia, FL, United States | Hybrid | Jul 28 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern - Summer 2027 - Seattle, WA](https://jobright.ai/jobs/info/6a6953365d01972698ee7a4f?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 28 |
 | **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 28 |
@@ -80,8 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (MBA - Austin, TX)](https://jobright.ai/jobs/info/6a69276b3b549b0b531d4237?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 28 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a56a63910c4d945d864b26f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a55beaeef22935f2e3f68c1?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 28 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/6a691fc2ceb2691dfb2077e9?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Jul 28 |
-| ↳ | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a691f3f05bae84301b5aa19?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a691f3f05bae84301b5aa19?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Accounting Policy](https://jobright.ai/jobs/info/6a691a60b22f1b56a602acb8?utm_campaign=1052&utm_source=git)** | Topeka, KS, United States | Remote | Jul 28 |
 | **[Landscape Workshop](http://landscapeworkshop.com)** | **[Administrative and Accounting Intern](https://jobright.ai/jobs/info/6a6942be3b549b0b531d4aa6?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 28 |
 | **[Tang Capital Management, LLC](https://tangcapital.bamboohr.com/jobs/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6a6913493b549b0b531d3baa?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6846186eaf5519573a5f21?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a68461357cfac3b21913e63?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6842d86eaf5519573a5ee3?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC, United States | Hybrid | Jul 27 |
+| ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6842c89cca8c76d3ccea71?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
