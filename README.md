@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voltus](https://www.voltus.co)** | **[Energy Markets Intern (MISO)](https://jobright.ai/jobs/info/6a6a20378693c23e7fb78da5?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/6a31471735e80310003a6350?utm_campaign=1052&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 29 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a44f31df1ab552f90d07961?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 29 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a50b8c0f08ee8320766bcde?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 29 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Internship, Accounting - Hartford, CT](https://jobright.ai/jobs/info/6a435fdae09ecb4959644583?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Accounting & Finance Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a690ee005bae84301b5a373?utm_campaign=1052&utm_source=git)** | Lithia, FL, United States | Hybrid | Jul 28 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
-| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 28 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Intern](https://jobright.ai/jobs/info/6a68f01b5d01972698ee55ba?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 28 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69173136d36c1ff29981d8?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Capital Markets Audit Intern - Spring 2027 (Melville, NY)](https://jobright.ai/jobs/info/6a6909ba5d01972698ee6095?utm_campaign=1052&utm_source=git)** | Melville, NY, United States | On Site | Jul 28 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Development Finance, Data Management and Economics Analysis Intern (Home-based)](https://jobright.ai/jobs/info/6a690898ceb2691dfb206e78?utm_campaign=1052&utm_source=git)** | Kansas, United States | Remote | Jul 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Budget & Management Services Intern](https://jobright.ai/jobs/info/6a6903a605bae84301b59f1a?utm_campaign=1052&utm_source=git)** | Greensboro, NC, United States | Hybrid | Jul 28 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68d4f3b22f1b56a6028e0d?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
-| ↳ | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68ce9a36d36c1ff2996308?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68ce9a36d36c1ff2996308?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
+| ↳ | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68d4f3b22f1b56a6028e0d?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Reimbursement Intern Winter 2027](https://jobright.ai/jobs/info/6a68ed3e05bae84301b5960e?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 28 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[2027 Actuarial Intern - Remote](https://jobright.ai/jobs/info/6a67bc96872eb74f9eadaad2?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Jul 28 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Accounting Intern (Part-Time)](https://jobright.ai/jobs/info/6a68cadb5d01972698ee44cc?utm_campaign=1052&utm_source=git)** | Manhattan, New York, United States | On Site | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a685e03abe8ae03a4722dae?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | Remote | Jul 28 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a685da16eaf5519573a63b6?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a685d1eef09852f833e8145?utm_campaign=1052&utm_source=git)** | Burlington, MA, United States | Hybrid | Jul 28 |
-| ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a685cffabe8ae03a4722d6f?utm_campaign=1052&utm_source=git)** | The Woodlands, TX, United States | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
