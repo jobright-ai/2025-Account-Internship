@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Tampa, FL)](https://jobright.ai/jobs/info/6a4d5b65d27b2c4dda9b7364?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 29 |
+| **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Spring 2027](https://jobright.ai/jobs/info/6a51a7ee02522b5b722e94ba?utm_campaign=1052&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jul 29 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a69c82b09998f68b5a6da43?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 29 |
+| ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a69c817c63ba56308f4ff29?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 29 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a51fa7678e364789ca5eea9?utm_campaign=1052&utm_source=git)** | Canton, MI, United States | On Site | Jul 29 |
 | **[Festo USA](http://www.festo.com/us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69b4cf0b42f866b619510e?utm_campaign=1052&utm_source=git)** | Islandia, NY, United States | Hybrid | Jul 29 |
 | **[Galaxy Distribution](https://www.linkedin.com/company/92637478)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/6a69acff47d8280e278501d6?utm_campaign=1052&utm_source=git)** | Memphis, TN, United States | On Site | Jul 29 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Internship, Accounting - Hartford, CT](https://jobright.ai/jobs/info/6a435fdae09ecb4959644583?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Accounting & Finance Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a690ee005bae84301b5a373?utm_campaign=1052&utm_source=git)** | Lithia, FL, United States | Hybrid | Jul 28 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
-| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 28 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Intern](https://jobright.ai/jobs/info/6a68f01b5d01972698ee55ba?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 28 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69173136d36c1ff29981d8?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e9?utm_campaign=1052&utm_source=git)** | Latham, NY, United States | On Site | Jul 27 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6869513ce1ac3805d0eb11?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a686cbd5f2a9115e18d811f?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 27 |
-| ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6868a23be3367461e05ad5?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 27 |
-| ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6867e00fd0c22fa643d3e5?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 27 |
-| ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6849056eaf5519573a5fbc?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 27 |
-| ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a68b937207d4f2e632e4527?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | Remote | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
