@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69173136d36c1ff29981d8?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
+| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a693c0336d36c1ff2998de4?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 28 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[BSH (Bosch) Intern, Credit](https://jobright.ai/jobs/info/6a69395f36d36c1ff2998d7c?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | Hybrid | Jul 28 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Curio Fund Operations](https://jobright.ai/jobs/info/6a4412f157ffc220294062e9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 28 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Huntsville, AL](https://jobright.ai/jobs/info/6a5ec181f3674a0545d2ad86?utm_campaign=1052&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 28 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Tax Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a5d5d01972698ee681a?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
 | ↳ | **[Cost Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a583b549b0b531d3f26?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a691861b22f1b56a602abd1?utm_campaign=1052&utm_source=git)** | Schaumburg, IL, United States | Hybrid | Jul 28 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69173136d36c1ff29981d8?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
 | **[Tang Capital Management, LLC](https://tangcapital.bamboohr.com/jobs/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6a6913493b549b0b531d3baa?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a6912495d01972698ee6419?utm_campaign=1052&utm_source=git)** | Schaumburg, IL, United States | Hybrid | Jul 28 |
 | **[Walker & Armstrong LLP](https://www.wa-cpas.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a3ea8b4ce7cce40b3421292?utm_campaign=1052&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Jul 27 |
 | **[Davenport & Company LLC](https://www.investdavenport.com/)** | **[2027 Public Finance Summer Internship](https://jobright.ai/jobs/info/6a4fb4f44649561ec08aea3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Controlling Intern](https://jobright.ai/jobs/info/6a67fb3fd0fb4c3df393fa29?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
-| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
