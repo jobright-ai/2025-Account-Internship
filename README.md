@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[BSH (Bosch) Intern, Credit](https://jobright.ai/jobs/info/6a69395f36d36c1ff2998d7c?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | Hybrid | Jul 28 |
+| **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Curio Fund Operations](https://jobright.ai/jobs/info/6a4412f157ffc220294062e9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 28 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Huntsville, AL](https://jobright.ai/jobs/info/6a5ec181f3674a0545d2ad86?utm_campaign=1052&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 28 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a6929443b549b0b531d437a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Finance Intern (MBA - Santa Clara, CA)](https://jobright.ai/jobs/info/6a692773b22f1b56a602afbd?utm_campaign=1052&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 28 |
 | ↳ | **[Finance Intern (MBA - Austin, TX)](https://jobright.ai/jobs/info/6a69276b3b549b0b531d4237?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 28 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Capital Markets Audit Intern - Spring 2027 (Melville, NY)](https://jobright.ai/jobs/info/6a6909ba5d01972698ee6095?utm_campaign=1052&utm_source=git)** | Melville, NY, United States | On Site | Jul 28 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Development Finance, Data Management and Economics Analysis Intern (Home-based)](https://jobright.ai/jobs/info/6a690898ceb2691dfb206e78?utm_campaign=1052&utm_source=git)** | Kansas, United States | Remote | Jul 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Budget & Management Services Intern](https://jobright.ai/jobs/info/6a6903a605bae84301b59f1a?utm_campaign=1052&utm_source=git)** | Greensboro, NC, United States | Hybrid | Jul 28 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68d4f3b22f1b56a6028e0d?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
-| ↳ | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68ce9a36d36c1ff2996308?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68ce9a36d36c1ff2996308?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
+| ↳ | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68d4f3b22f1b56a6028e0d?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Intern](https://jobright.ai/jobs/info/6a68f01b5d01972698ee55ba?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 28 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Reimbursement Intern Winter 2027](https://jobright.ai/jobs/info/6a68ed3e05bae84301b5960e?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 28 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[2027 Actuarial Intern - Remote](https://jobright.ai/jobs/info/6a67bc96872eb74f9eadaad2?utm_campaign=1052&utm_source=git)** | Arizona, United States | Remote | Jul 28 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Jul 27 |
 | **[Davenport & Company LLC](https://www.investdavenport.com/)** | **[2027 Public Finance Summer Internship](https://jobright.ai/jobs/info/6a4fb4f44649561ec08aea3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Controlling Intern](https://jobright.ai/jobs/info/6a67fb3fd0fb4c3df393fa29?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
-| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a4dd8a6d27b2c4dda9b8b3e?utm_campaign=1052&utm_source=git)** | Washington, D.C. Metro (Bethesda), United States of America | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110b178e364789ca5871b?utm_campaign=1052&utm_source=git)** | Atlanta (Alpharetta), United States of America | On Site | Jul 27 |
+| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
