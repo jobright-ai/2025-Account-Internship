@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Tax Intern- Winter 2028](https://jobright.ai/jobs/info/6a614aefab9bd4676324abc0?utm_campaign=1052&utm_source=git)** | St George, Vermont, United States | On Site | Jul 29 |
 | **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 29 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6a585cfd72fe7a7b98dcddbe?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 29 |
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas) Job Details / Popular](https://jobright.ai/jobs/info/6a571270f7517b519ad58fc1?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 29 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a638bb50c8e2b4f36dce5ac?utm_campaign=1052&utm_source=git)** | Reston, VA, United States | On Site | Jul 29 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/6a6aa2d019d76667a2ac095c?utm_campaign=1052&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 29 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a6a68ec0b42f866b61989c5?utm_campaign=1052&utm_source=git)** | Sanford, FL, United States | On Site | Jul 29 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
-| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a6a947cc63ba56308f53e84?utm_campaign=1052&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Jul 29 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Accounting Intern (Part-Time)](https://jobright.ai/jobs/info/6a68cadb5d01972698ee44cc?utm_campaign=1052&utm_source=git)** | Manhattan, New York, United States | On Site | Jul 29 |
 | **[Voltus](https://www.voltus.co)** | **[Energy Markets Intern (MISO)](https://jobright.ai/jobs/info/6a6a20378693c23e7fb78da5?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 29 |
@@ -117,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Financial Data Analyst Internship](https://jobright.ai/jobs/info/6a6a42bd8693c23e7fb79b1d?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 29 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Financial Services Intern](https://jobright.ai/jobs/info/6a42c2121cc9cc2b12fecbd8?utm_campaign=1052&utm_source=git)** | Brooklyn, New York, United States | On Site | Jul 29 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Finance Internship – US - Summer 2027](https://jobright.ai/jobs/info/6a6a2965c63ba56308f51951?utm_campaign=1052&utm_source=git)** | Schenectady, NY, United States | On Site | Jul 29 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 29 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 29 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6a6a3257c63ba56308f51e0f?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Remote | Jul 29 |
 | **[G3](https://g3translate.com/)** | **[Administrative Intern (December 2026)](https://jobright.ai/jobs/info/6a57ae80a791c6211bf0009a?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 29 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Finance Internship](https://jobright.ai/jobs/info/6a60bd13c752926c22681f89?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chevron](http://www.chevron.com)** | **[2026-2027 Supply & Trading TAMU TRIP Program Intern](https://jobright.ai/jobs/info/6a5e3595f3674a0545d27979?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jul 28 |
 | **[Texas Instruments](http://www.ti.com)** | **[Tax Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a5d5d01972698ee681a?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
 | ↳ | **[Cost Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a583b549b0b531d3f26?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
-| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
