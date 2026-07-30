@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forte Capital Group](https://www.fortecapitalgroup.com)** | **[Wealth Management Intern – Fall 2026](https://jobright.ai/jobs/info/6a6b74cd57120971bf3a6e36?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[Corient](https://corient.com)** | **[Portfolio Implementation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5838fa72fe7a7b98dcd7b7?utm_campaign=1052&utm_source=git)** | US-TX-Dallas-5950 Sherry-0600, United States of America | Hybrid | Jul 30 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a6b6e76acb0a61f9dbc0c0a?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 30 |
 | ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a6b6ddc32f9300c3a3dec71?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 30 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2027 Tax Internship- Chicago](https://jobright.ai/jobs/info/6a612ee2ab14335fc0f16a00?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
+| **[Corient](https://corient.com)** | **[Individual Equity Strategy Intern (Summer 2027)](https://jobright.ai/jobs/info/6a51917778e364789ca5a436?utm_campaign=1052&utm_source=git)** | US-MA-Boston-1 Post Office-2400, United States of America | Hybrid | Jul 30 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Deutsche Bank Internship Program - Investment Bank: Investment Bank Coverage - Jacksonville 2027 - Fall hiring](https://jobright.ai/jobs/info/6a6b662257120971bf3a695c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 30 |
 | **[ProMedica](https://www.promedica.org)** | **[Internal Audit Internship](https://jobright.ai/jobs/info/6a6b65a932f9300c3a3de9a8?utm_campaign=1052&utm_source=git)** | Toledo, OH, United States | On Site | Jul 30 |
 | **[Abdo](https://abdosolutions.com)** | **[Accounting Nonprofit Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6a6b63755c54bc4752ce8a44?utm_campaign=1052&utm_source=git)** | Edina, MN, United States | Hybrid | Jul 30 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a638bb50c8e2b4f36dce5ac?utm_campaign=1052&utm_source=git)** | Reston, VA, United States | On Site | Jul 29 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/6a6aa2d019d76667a2ac095c?utm_campaign=1052&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 29 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a6a68ec0b42f866b61989c5?utm_campaign=1052&utm_source=git)** | Sanford, FL, United States | On Site | Jul 29 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
-| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a6a947cc63ba56308f53e84?utm_campaign=1052&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Jul 29 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Accounting Intern (Part-Time)](https://jobright.ai/jobs/info/6a68cadb5d01972698ee44cc?utm_campaign=1052&utm_source=git)** | Manhattan, New York, United States | On Site | Jul 29 |
 | **[Voltus](https://www.voltus.co)** | **[Energy Markets Intern (MISO)](https://jobright.ai/jobs/info/6a6a20378693c23e7fb78da5?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a6a5e87c63ba56308f52ce9?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Finance TV Distribution & Networks](https://jobright.ai/jobs/info/6a696bb878c2a406e51aaf76?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 29 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2027 Tax Internship- Denver](https://jobright.ai/jobs/info/6a625aeec28982326de96285?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 29 |
-| **[Louisiana Blue](https://lablue.com)** | **[CW Provider Reimbursement Intern](https://jobright.ai/jobs/info/6a6a4fb548355b3f12bf03cc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 29 |
-| **[Barnes Dennig](http://barnesdennig.com)** | **[Audit  Internship / January-April (Winter) 2027 - Cincinnati, OH](https://jobright.ai/jobs/info/6a57bc97a791c6211bf00bd8?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
