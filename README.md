@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enlyte](https://www.enlyte.com/)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6a6ad53e2674685f04ac0650?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Remote | Jul 29 |
+| **[Baratz & Associates, P.A.](https://www.baratzcpa.com/)** | **[Busy Season Tax Intern, Marlton, NJ - 2027](https://jobright.ai/jobs/info/6a585dab72fe7a7b98dcde52?utm_campaign=1052&utm_source=git)** | Marlton, NJ, United States | On Site | Jul 29 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Portfolio Management Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a625994d5caab4af8bad5ae?utm_campaign=1052&utm_source=git)** | Carmel, IN, United States | On Site | Jul 29 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Budget Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a5820de68d16a30e2411d6c?utm_campaign=1052&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 29 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Investment Management Intern](https://jobright.ai/jobs/info/6a6aadc148355b3f12bf1e92?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a638bb50c8e2b4f36dce5ac?utm_campaign=1052&utm_source=git)** | Reston, VA, United States | On Site | Jul 29 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/6a6aa2d019d76667a2ac095c?utm_campaign=1052&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 29 |
-| **[Bluebono](https://www.bluebono.com/)** | **[Real Estate Finance & Data Analytics Intern](https://jobright.ai/jobs/info/6a6aa18b19d76667a2ac092c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 29 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a6a68ec0b42f866b61989c5?utm_campaign=1052&utm_source=git)** | Sanford, FL, United States | On Site | Jul 29 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
-| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a6a947cc63ba56308f53e84?utm_campaign=1052&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Jul 29 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Accounting Intern (Part-Time)](https://jobright.ai/jobs/info/6a68cadb5d01972698ee44cc?utm_campaign=1052&utm_source=git)** | Manhattan, New York, United States | On Site | Jul 29 |
 | **[Voltus](https://www.voltus.co)** | **[Energy Markets Intern (MISO)](https://jobright.ai/jobs/info/6a6a20378693c23e7fb78da5?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
 | **[Ricoh Colombia](https://www.ricoh-usa.com/)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a9680c63ba56308f53f18?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 28 |
-| **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
