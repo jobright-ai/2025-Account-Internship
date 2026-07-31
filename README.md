@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CF Private Equity](https://www.cfprivateequity.com)** | **[Summer Intern 2027-PE Real Asset & Sustainability Investments Team](https://jobright.ai/jobs/info/6a6cd7bc5c54bc4752cefadf?utm_campaign=1052&utm_source=git)** | Norwalk, CT, United States | On Site | Jul 31 |
+| **[LvlUp Ventures](https://www.lvlup.vc/)** | **[VC Intern (Fall)](https://jobright.ai/jobs/info/6a6cd3bfba7efe79c2f66d89?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 31 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Portfolio Valuation](https://jobright.ai/jobs/info/6a6cbec15c54bc4752cef037?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Jul 31 |
+| **[RWE](https://www.rwe.com)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6a6cd0eaacb0a61f9dbc737d?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[dnata](http://www.dnata.com/)** | **[HDQ Financial Analyst Intern](https://jobright.ai/jobs/info/6a6ccf4057120971bf3ad3a9?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 31 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Accounting Paid Internship](https://jobright.ai/jobs/info/6a6ccb1aacb0a61f9dbc70ff?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH, United States | On Site | Jul 31 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5a381763a8f619507c5b13?utm_campaign=1052&utm_source=git)** | Grandville, MI, United States | On Site | Jul 31 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Actuarial Corporate Internship](https://jobright.ai/jobs/info/6a6cc81eacb0a61f9dbc6f24?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | Hybrid | Jul 31 |
 | **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 31 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 31 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Portfolio Valuation](https://jobright.ai/jobs/info/6a6cbec15c54bc4752cef037?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Jul 31 |
 | **[Mishimoto](https://mishimoto.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a6cac6e32f9300c3a3e469e?utm_campaign=1052&utm_source=git)** | Garnet Valley, PA, United States | On Site | Jul 31 |
 | **[UofL Health](https://uoflhealth.org)** | **[Intern, Finance, UofL Health](https://jobright.ai/jobs/info/6a6ca92a57120971bf3ac57b?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 31 |
 | **[Prosperl CPA PC](https://www.prosperlcpa.com/)** | **[Tax Strategy Intern *Must have Accounting Degree by 12/2026](https://jobright.ai/jobs/info/6a6745812bf1fb2b719247fc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 31 |
@@ -120,7 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Audit Intern - IT / Apply Now](https://jobright.ai/jobs/info/6a6c0c215c54bc4752cec42d?utm_campaign=1052&utm_source=git)** | Cary, NC, United States | Hybrid | Jul 30 |
 | ↳ | **[Internal Audit Intern - AI & Workflow Design / Apply Now](https://jobright.ai/jobs/info/6a6c0c15acb0a61f9dbc40de?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance &amp; Accounting](https://jobright.ai/jobs/info/6a6b7bf65c54bc4752ce930d?utm_campaign=1052&utm_source=git)** | Elyria, OH, United States | On Site | Jul 30 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 30 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 30 |
 | **[Northmarq](http://www.northmarq.com)** | **[Internship Pipeline](https://jobright.ai/jobs/info/6a53b05c8576ec69c0150999?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 30 |
 | **[Gabriel, Roeder, Smith & Company](https://www.grsconsulting.com/)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/6a51e6cb78e364789ca5e958?utm_campaign=1052&utm_source=git)** | Southfield, MI, United States | On Site | Jul 30 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Austin](https://jobright.ai/jobs/info/6a51b6cf78e364789ca5b6cc?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 30 |
@@ -132,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a6be5daacb0a61f9dbc363e?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[U.S. Energy](https://www.us-energy.com/)** | **[Accounting and Finance Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6be5da32f9300c3a3e171d?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[U.S. Lubricants](https://www.uslube.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a6be5d2c00ae03109f86849?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
-| **[U.S. AutoForce](https://www.usautoforce.com)** | **[Real Estate Intern - U.S. AutoForce](https://jobright.ai/jobs/info/6a6ba519c00ae03109f85283?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
-| ↳ | **[S&OP / Inventory Health Intern – U.S. AutoForce](https://jobright.ai/jobs/info/6a6ba4b457120971bf3a80ec?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
+| **[U.S. AutoForce](https://www.usautoforce.com)** | **[S&OP / Inventory Health Intern – U.S. AutoForce](https://jobright.ai/jobs/info/6a6ba4b457120971bf3a80ec?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
+| ↳ | **[Real Estate Intern - U.S. AutoForce](https://jobright.ai/jobs/info/6a6ba519c00ae03109f85283?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | ↳ | **[Financial Planning & Analysis Intern - U.S. AutoForce](https://jobright.ai/jobs/info/6a6ba4aa57120971bf3a80e8?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | ↳ | **[Accounting Intern - U.S. AutoForce](https://jobright.ai/jobs/info/6a6ba4ba5c54bc4752cea2fd?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[KCI Construction Company](http://kciconstruction.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a6b9ad657120971bf3a7d25?utm_campaign=1052&utm_source=git)** | Creve Coeur, MO, United States | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MetLife](http://www.metlife.com)** | **[Internal Audit Intern - Finance](https://jobright.ai/jobs/info/6a6bb1beacb0a61f9dbc2548?utm_campaign=1052&utm_source=git)** | Warren, NJ, United States | Hybrid | Jul 30 |
 | ↳ | **[Internal Audit Intern - IT](https://jobright.ai/jobs/info/6a6bb05e32f9300c3a3e0509?utm_campaign=1052&utm_source=git)** | Cary, NC, United States | Hybrid | Jul 30 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[Accounting Intern - Part Time During School Year (San Diego)](https://jobright.ai/jobs/info/6a6bb05cc00ae03109f85618?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
-| **[GBQ Partners](http://gbq.com)** | **[Summer Intern 2027](https://jobright.ai/jobs/info/6a57ce44f7517b519ad5d38a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 30 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Local Receivables](https://jobright.ai/jobs/info/6a6bae2a32f9300c3a3e03e9?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 30 |
-| **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Fairport, NY (On-Site)](https://jobright.ai/jobs/info/6a432fbac8bca56ab22460b2?utm_campaign=1052&utm_source=git)** | Fairport, NY, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
