@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DRW](http://drw.com/)** | **[Venture Capital Analyst Intern](https://jobright.ai/jobs/info/6a54f4e62084cd792b4753cd?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Personal Debt Solutions - Edmonton & Calgary - September 2026](https://jobright.ai/jobs/info/6a5f76e8b0f20036bc6310d5?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | Hybrid | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Accounting (MBA Students)](https://jobright.ai/jobs/info/6a6c152f5c54bc4752cec74b?utm_campaign=1052&utm_source=git)** | Aliso Viejo, CA, United States | Hybrid | Jul 30 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a6c14a4acb0a61f9dbc43ad?utm_campaign=1052&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 30 |
 | **[MetLife](http://www.metlife.com)** | **[Internal Audit Intern - Finance / Apply Now](https://jobright.ai/jobs/info/6a6c0c49c00ae03109f87374?utm_campaign=1052&utm_source=git)** | Warren, NJ, United States | Hybrid | Jul 30 |
@@ -141,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Wichita](https://jobright.ai/jobs/info/6a6b7fa932f9300c3a3df3a9?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 30 |
 | **[Commonfund](http://www.commonfund.org/Pages/default.aspx)** | **[Summer Intern 2027-Private Capital Real Assets & Sustainability](https://jobright.ai/jobs/info/6a6b7ce5acb0a61f9dbc1193?utm_campaign=1052&utm_source=git)** | Norwalk, CT, United States | On Site | Jul 30 |
 | **[The Hartford](https://www.thehartford.com)** | **[Intern, Actuarial Student Program (Summer 2027)](https://jobright.ai/jobs/info/6a6b7accc00ae03109f84244?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 30 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jul 30 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a5b920f3ac7627fe9008a6e?utm_campaign=1052&utm_source=git)** | Zephyrhills, FL, United States | On Site | Jul 30 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jul 30 |
 | **[Corient](https://corient.com)** | **[Portfolio Implementation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4f2adb397d8d353c28b4a6?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 30 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Planning Internship Spring Semester 2027 - Paid (2027 Seniors!)](https://jobright.ai/jobs/info/6a6b6319acb0a61f9dbc0815?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 30 |
 | **[Corient](https://corient.com)** | **[Individual Equity Strategy Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4f296b0ea38951a6ff56c1?utm_campaign=1052&utm_source=git)** | Post, OR, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Deutsche Bank Internship Program - Investment Bank: Investment Bank Coverage - Jacksonville 2027 - Fall hiring](https://jobright.ai/jobs/info/6a6b662257120971bf3a695c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 30 |
 | **[ProMedica](https://www.promedica.org)** | **[Internal Audit Internship](https://jobright.ai/jobs/info/6a6b65a932f9300c3a3de9a8?utm_campaign=1052&utm_source=git)** | Toledo, OH, United States | On Site | Jul 30 |
 | **[Abdo](https://abdosolutions.com)** | **[Accounting Nonprofit Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6a6b63755c54bc4752ce8a44?utm_campaign=1052&utm_source=git)** | Edina, MN, United States | Hybrid | Jul 30 |
-| ↳ | **[Accounting Nonprofit Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6a6b6363acb0a61f9dbc0835?utm_campaign=1052&utm_source=git)** | Mankato, MN, United States | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
