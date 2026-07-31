@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Spring 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/6a562bc410c4d945d8647e2b?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
+| **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[POOL: RedTire Program Finance Analyst Student Intern](https://jobright.ai/jobs/info/6a6c4d8a57120971bf3ab167?utm_campaign=1052&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 31 |
+| **[Koch](https://www.kochinc.com)** | **[Summer 2027 Accounting Analyst Internship](https://jobright.ai/jobs/info/6a562bbdf7517b519ad53fbe?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
+| ↳ | **[Spring 2027 Tax Internship (Atlanta)](https://jobright.ai/jobs/info/6a6c49a6c00ae03109f881d8?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 31 |
+| ↳ | **[Summer 2027 Risk Analyst Intern](https://jobright.ai/jobs/info/6a6c497fc00ae03109f881c0?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
+| ↳ | **[Summer 2027 Finance Analyst Internship](https://jobright.ai/jobs/info/6a562bbef7517b519ad53fc1?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a5846568f51964c0404776a?utm_campaign=1052&utm_source=git)** | Naples, FL, United States | On Site | Jul 30 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a6bbc2157120971bf3a8a28?utm_campaign=1052&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 30 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Boston](https://jobright.ai/jobs/info/6a6c2c37ca1f9338465fe277?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Joplin](https://jobright.ai/jobs/info/6a6c4c34c00ae03109f882c0?utm_campaign=1052&utm_source=git)** | Joplin, MO, United States | On Site | Jul 30 |
+| ↳ | **[Intern Tax Summer 2027 / Boston](https://jobright.ai/jobs/info/6a6c2c37ca1f9338465fe277?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
 | **[The Dutch Group](https://www.thedutchgroup.net)** | **[Fall 2026 Accounting Intern](https://jobright.ai/jobs/info/6a6c2b0c5c54bc4752cecc40?utm_campaign=1052&utm_source=git)** | Columbus, MS, United States | On Site | Jul 30 |
 | **[MEC General Contractors](https://mec-gc.com/)** | **[Commercial Construction Accounting Intern - Melbourne](https://jobright.ai/jobs/info/6a6c2a0257120971bf3aa9da?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 30 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Research Analyst (Spring 2027)](https://jobright.ai/jobs/info/6a6c29e132f9300c3a3e29c8?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 30 |
@@ -72,7 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Audit Intern - AI & Workflow Design / Apply Now](https://jobright.ai/jobs/info/6a6c0c15acb0a61f9dbc40de?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Bancroft](https://www.bancroft.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5d883d4da96a42cfd9eafb?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, United States | Hybrid | Jul 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance &amp; Accounting](https://jobright.ai/jobs/info/6a6b7bf65c54bc4752ce930d?utm_campaign=1052&utm_source=git)** | Elyria, OH, United States | On Site | Jul 30 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 30 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 30 |
 | **[Northmarq](http://www.northmarq.com)** | **[Internship Pipeline](https://jobright.ai/jobs/info/6a53b05c8576ec69c0150999?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 30 |
 | **[Gabriel, Roeder, Smith & Company](https://www.grsconsulting.com/)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/6a51e6cb78e364789ca5e958?utm_campaign=1052&utm_source=git)** | Southfield, MI, United States | On Site | Jul 30 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Austin](https://jobright.ai/jobs/info/6a51b6cf78e364789ca5b6cc?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 30 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Commonfund](http://www.commonfund.org/Pages/default.aspx)** | **[Summer Intern 2027-Private Capital Real Assets & Sustainability](https://jobright.ai/jobs/info/6a6b7ce5acb0a61f9dbc1193?utm_campaign=1052&utm_source=git)** | Norwalk, CT, United States | On Site | Jul 30 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/69ebaf2816b2612c2a11de56?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jul 30 |
 | **[The Hartford](https://www.thehartford.com)** | **[Intern, Actuarial Student Program (Summer 2027)](https://jobright.ai/jobs/info/6a6b7accc00ae03109f84244?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 30 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a5b920f3ac7627fe9008a6e?utm_campaign=1052&utm_source=git)** | Zephyrhills, FL, United States | On Site | Jul 30 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jul 30 |
-| **[Corient](https://corient.com)** | **[Portfolio Implementation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4f2adb397d8d353c28b4a6?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 30 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Planning Internship Spring Semester 2027 - Paid (2027 Seniors!)](https://jobright.ai/jobs/info/6a6b6319acb0a61f9dbc0815?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 30 |
-| **[Corient](https://corient.com)** | **[Individual Equity Strategy Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4f296b0ea38951a6ff56c1?utm_campaign=1052&utm_source=git)** | Post, OR, United States | On Site | Jul 30 |
-| **[BMW Group](http://www.bmwgroup.com)** | **[Customer Payments & Operations Intern (12 Months)](https://jobright.ai/jobs/info/6a5fc142f68dd368023e8839?utm_campaign=1052&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Jul 30 |
-| **[Corient](https://corient.com)** | **[Portfolio Implementation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5838fa72fe7a7b98dcd7b7?utm_campaign=1052&utm_source=git)** | US-TX-Dallas-5950 Sherry-0600, United States of America | Hybrid | Jul 30 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a6b6e76acb0a61f9dbc0c0a?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 30 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
