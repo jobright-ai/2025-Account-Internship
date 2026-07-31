@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilton](https://www.hilton.com/en/)** | **[Finance Intern - Hilton Hawaiian Village Waikiki Beach Resort](https://jobright.ai/jobs/info/6a6d236d5c54bc4752cf161d?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 31 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship- Project Finance Portfolio Management](https://jobright.ai/jobs/info/6a6d1bdbba7efe79c2f68818?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
+| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US Finance Summer Internship Program](https://jobright.ai/jobs/info/6a6ce15f5c54bc4752cefdaf?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Accounting Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6d0902ca1f9338466021be?utm_campaign=1052&utm_source=git)** | Spartanburg, SC, United States | On Site | Jul 31 |
 | **[Long-Lewis Automotive Group](https://longlewisauto.com/)** | **[AP/AR Accounting Intern](https://jobright.ai/jobs/info/6a6d08bfca1f933846602189?utm_campaign=1052&utm_source=git)** | Florence, AL, United States | On Site | Jul 31 |
 | **[RWE](https://www.rwe.com)** | **[Financial Reporting Intern, Fall 2026](https://jobright.ai/jobs/info/6a6d073c5c54bc4752cf0b1a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
@@ -75,14 +78,13 @@ For a complete list, click the following sortable link below:
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a54f27c268af95237be84c0?utm_campaign=1052&utm_source=git)** | Fredericksburg, VA, United States | On Site | Jul 31 |
 | **[Packsize](https://www.packsize.com)** | **[Accounts Receivable and Treasury Intern](https://jobright.ai/jobs/info/6a6c9fa857120971bf3ac2b5?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 31 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a503f32fc327f422fef85c8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States of America | On Site | Jul 31 |
-| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US Finance Summer Internship Program](https://jobright.ai/jobs/info/6a6ce15f5c54bc4752cefdaf?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2028 / Boston](https://jobright.ai/jobs/info/6a6cdb94acb0a61f9dbc78c9?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | ↳ | **[Intern Tax Summer 2027 / Boston](https://jobright.ai/jobs/info/6a6cdb85ba7efe79c2f670b3?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | ↳ | **[Intern Tax Winter 2027 / Joplin at Forvis Mazars](https://jobright.ai/jobs/info/6a6cdb7bca1f9338466011a6?utm_campaign=1052&utm_source=git)** | Joplin, MO, United States | On Site | Jul 31 |
 | ↳ | **[Intern Tax Winter 2027 / Wichita](https://jobright.ai/jobs/info/6a6cdb77ba7efe79c2f670aa?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
 | **[CF Private Equity](https://www.cfprivateequity.com)** | **[Summer Intern 2027-PE Real Asset & Sustainability Investments Team](https://jobright.ai/jobs/info/6a6cd7bc5c54bc4752cefadf?utm_campaign=1052&utm_source=git)** | Norwalk, CT, United States | On Site | Jul 31 |
 | **[LvlUp Ventures](https://www.lvlup.vc/)** | **[VC Intern (Fall)](https://jobright.ai/jobs/info/6a6cd3bfba7efe79c2f66d89?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 31 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Portfolio Valuation](https://jobright.ai/jobs/info/6a6cbdb85c54bc4752ceefee?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Jul 31 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Portfolio Valuation](https://jobright.ai/jobs/info/6a6cbbe4ba7efe79c2f663e8?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Jul 31 |
 | **[RWE](https://www.rwe.com)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6a6cd0eaacb0a61f9dbc737d?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a35557ece501060b5cf3d0f?utm_campaign=1052&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 31 |
 | **[dnata](http://www.dnata.com/)** | **[HDQ Financial Analyst Intern](https://jobright.ai/jobs/info/6a6ccf4057120971bf3ad3a9?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 31 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5a381763a8f619507c5b13?utm_campaign=1052&utm_source=git)** | Grandville, MI, United States | On Site | Jul 31 |
 | **[Silvus Technologies](http://silvustechnologies.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6cc8cb5c54bc4752cef321?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Actuarial Corporate Internship](https://jobright.ai/jobs/info/6a6cc81eacb0a61f9dbc6f24?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | Hybrid | Jul 31 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 31 |
-| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 31 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 31 |
+| ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 31 |
 | **[Mishimoto](https://mishimoto.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a6cac6e32f9300c3a3e469e?utm_campaign=1052&utm_source=git)** | Garnet Valley, PA, United States | On Site | Jul 31 |
 | **[UofL Health](https://uoflhealth.org)** | **[Intern, Finance, UofL Health](https://jobright.ai/jobs/info/6a6ca92a57120971bf3ac57b?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 31 |
 | **[Prosperl CPA PC](https://www.prosperlcpa.com/)** | **[Tax Strategy Intern *Must have Accounting Degree by 12/2026](https://jobright.ai/jobs/info/6a6745812bf1fb2b719247fc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/6a6be5e457120971bf3a971c?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[U.S. Energy](https://www.us-energy.com/)** | **[Finance Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6be5e357120971bf3a971a?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a6be5daacb0a61f9dbc363e?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
-| **[U.S. Energy](https://www.us-energy.com/)** | **[Accounting and Finance Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6be5da32f9300c3a3e171d?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
-| **[U.S. Lubricants](https://www.uslube.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a6be5d2c00ae03109f86849?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
