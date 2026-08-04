@@ -57,18 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/6a5612bce9b77f668bd61518?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Aug 04 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / Worcester (49594)](https://jobright.ai/jobs/info/6a556ba62084cd792b4789d2?utm_campaign=1052&utm_source=git)** | Worcester, MA, United States | On Site | Aug 04 |
+| **[Citadel Securities](https://www.citadelsecurities.com)** | **[Designated Market Maker (DMM) Trader – Intern (US)](https://jobright.ai/jobs/info/6a71de1ccb96192a3684a5d0?utm_campaign=1052&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 04 |
+| ↳ | **[Credit & Rates Rotational Trader – Intern (US)](https://jobright.ai/jobs/info/6a71dca502d93145bf890ddc?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
+| **[Citadel](https://www.citadel.com)** | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a6fdcc8ad0fe2053db9fdb0?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
+| ↳ | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a607b3471c79e639619b684?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
+| **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Trader – Intern (US)](https://jobright.ai/jobs/info/6a71dbc902d93145bf890db4?utm_campaign=1052&utm_source=git)** | New York City, New York, United States | On Site | Aug 04 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a4c0c015d7b097d2df3f379?utm_campaign=1052&utm_source=git)** | New York | On Site | Aug 04 |
+| ↳ | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a6929443b549b0b531d437a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
+| ↳ | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a5c86b4686b4755d1e1bf1d?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | ↳ | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a57ea348f51964c04045941?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | ↳ | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a57790810c4d945d864e47f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
-| ↳ | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a585e479838a11e5d837b0c?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
-| ↳ | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a6929443b549b0b531d437a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Accounting & Finance Development Program Intern (Undergraduate)](https://jobright.ai/jobs/info/6a71d57ae2b7476e7b20f730?utm_campaign=1052&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 04 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/699085420f6f7e7a2cecf9e9?utm_campaign=1052&utm_source=git)** | Minth North America, Inc., Wixom, MI, US | On Site | Aug 04 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5de737f29acc1a11744a9e?utm_campaign=1052&utm_source=git)** | Wixom, MI, United States | On Site | Aug 04 |
 | **[Advantax, Inc.](http://www.advantax.com/)** | **[Property Tax Intern](https://jobright.ai/jobs/info/6a38c87af6b55d12c7925e5a?utm_campaign=1052&utm_source=git)** | Elgin, IL, United States | On Site | Aug 04 |
-| **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5551d72084cd792b477c25?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
-| ↳ | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5cdf0a686b4755d1e1c98d?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
+| **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5cdf0a686b4755d1e1c98d?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
 | ↳ | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a66fab087cef057612d0da1?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
+| ↳ | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5551d72084cd792b477c25?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
 | **[DRW](http://drw.com/)** | **[Quantitative Trading Analyst Intern](https://jobright.ai/jobs/info/6a54f9d3268af95237be86b9?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6a06d4c833c2ed3770bc9758?utm_campaign=1052&utm_source=git)** | Cleveland, US | Hybrid | Aug 04 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a71b69645b6af1c30dba7d6?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 04 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hard Rock Casino Rockford](https://hardrockcasinorockford.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a7176a371acd469eeda2feb?utm_campaign=1052&utm_source=git)** | Rockford, IL, United States | On Site | Aug 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Commercial Banking Intern Atlanta, GA](https://jobright.ai/jobs/info/6a71767571acd469eeda2f87?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern  Richmond, VA](https://jobright.ai/jobs/info/6a71767dee751e0c79343cba?utm_campaign=1052&utm_source=git)** | Richmond, CA, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/6a71766802d93145bf88f859?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Raleigh, NC](https://jobright.ai/jobs/info/6a7176a002d93145bf88f8e4?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Denver, CO](https://jobright.ai/jobs/info/6a71766671acd469eeda2f62?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Orlando, FL](https://jobright.ai/jobs/info/6a717a5a02d93145bf88f995?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Charlotte, NC](https://jobright.ai/jobs/info/6a71766acb96192a36848f7c?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Austin, TX](https://jobright.ai/jobs/info/6a717673cb96192a36848f91?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027  Commercial Banking Intern Tampa, FL](https://jobright.ai/jobs/info/6a717a53ee751e0c79343d6b?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Greenville, SC](https://jobright.ai/jobs/info/6a7176a89a0ca4480c7d45db?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Aug 03 |
-| **[Transamerica](http://www.transamerica.com)** | **[Actuarial Intern (Summer 2027)](https://jobright.ai/jobs/info/6a717667e2b7476e7b20e3aa?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA, United States | Hybrid | Aug 03 |
-| **[Baker Tilly US](https://bakertilly.az)** | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71049771acd469eeda157f?utm_campaign=1052&utm_source=git)** | Tewksbury, MA, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Orlando, FL](https://jobright.ai/jobs/info/6a717a5a02d93145bf88f995?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Denver, CO](https://jobright.ai/jobs/info/6a71766671acd469eeda2f62?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
