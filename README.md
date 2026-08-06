@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting  (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/6a51d1a98d7d3e6cf1cc35e2?utm_campaign=1052&utm_source=git)** | Fort St. John, British Columbia, Canada | On Site | Aug 05 |
-| ↳ | **[Intern, Assurance and Accounting](https://jobright.ai/jobs/info/6a738ed46a034212ea0284b7?utm_campaign=1052&utm_source=git)** | Sudbury, ON, Canada | On Site | Aug 05 |
-| ↳ | **[Intern, Assurance and Accounting  (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/6a5e4c78f3674a0545d280fe?utm_campaign=1052&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | Aug 05 |
+| **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting](https://jobright.ai/jobs/info/6a738ed46a034212ea0284b7?utm_campaign=1052&utm_source=git)** | Sudbury, ON, Canada | On Site | Aug 05 |
+| ↳ | **[Intern, Assurance and Accounting  (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/6a05a29af3d6cc51d638a1ef?utm_campaign=1052&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | Aug 05 |
+| ↳ | **[Intern, Assurance and Accounting  (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/6a51d1a98d7d3e6cf1cc35e2?utm_campaign=1052&utm_source=git)** | Fort St. John, British Columbia, Canada | On Site | Aug 05 |
 | ↳ | **[Intern or Co-op Student, Assurance and Accounting (Winter 2028)](https://jobright.ai/jobs/info/6a73a6c46a034212ea028ed6?utm_campaign=1052&utm_source=git)** | Courtenay, BC, Canada | On Site | Aug 05 |
 | ↳ | **[Intern or Co-op Student, US Corporate Tax (January 2027)](https://jobright.ai/jobs/info/6a73a6c132ebbc14ffb50651?utm_campaign=1052&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 05 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Finance (Summer 2027)](https://jobright.ai/jobs/info/6a73d79d32ebbc14ffb512b9?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
@@ -104,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6a735d5732ebbc14ffb4e6e3?utm_campaign=1052&utm_source=git)** | Norman, OK, United States | On Site | Aug 05 |
 | ↳ | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6a7360068cd88e7ccbf57f7e?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 05 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Loan Accounting Intern](https://jobright.ai/jobs/info/6a735ebb1ce9647cdbca7a4b?utm_campaign=1052&utm_source=git)** | Spokane, WA, United States | On Site | Aug 05 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (Abilene)](https://jobright.ai/jobs/info/6a735d62e55c73319eb16bf6?utm_campaign=1052&utm_source=git)** | Abilene, TX, United States | On Site | Aug 05 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (Abilene)](https://jobright.ai/jobs/info/6a7360041ce9647cdbca7ad4?utm_campaign=1052&utm_source=git)** | Abilene, TX, United States | On Site | Aug 05 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | Aug 05 |
 | ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Aug 05 |
 | **[Restaurant Associates](http://www.restaurantassociates.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a73824032ebbc14ffb4f665?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 05 |
@@ -118,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[Heartland Security Insurance Group](http://www.heartlandsig.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a73763032ebbc14ffb4f199?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Aug 05 |
 | **[Purvis, Gray & Company, LLP ~ Certified Public Accountants](https://www.purvisgray.com)** | **[Audit Internship](https://jobright.ai/jobs/info/6a7375721ce9647cdbca8439?utm_campaign=1052&utm_source=git)** | Gainesville, FL, United States | On Site | Aug 05 |
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/6a739df16a034212ea028a46?utm_campaign=1052&utm_source=git)** | Ocala, FL, United States | On Site | Aug 05 |
-| ↳ | **[Tax Internship](https://jobright.ai/jobs/info/6a739df132ebbc14ffb50174?utm_campaign=1052&utm_source=git)** | Ocala, FL, United States | On Site | Aug 05 |
-| ↳ | **[Audit Internship](https://jobright.ai/jobs/info/6a739deb1ce9647cdbca9408?utm_campaign=1052&utm_source=git)** | Sarasota, FL, United States | On Site | Aug 05 |
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/6a739e0032ebbc14ffb50180?utm_campaign=1052&utm_source=git)** | Tallahassee, FL, United States | On Site | Aug 05 |
+| ↳ | **[Audit Internship](https://jobright.ai/jobs/info/6a739deb1ce9647cdbca9408?utm_campaign=1052&utm_source=git)** | Sarasota, FL, United States | On Site | Aug 05 |
+| ↳ | **[Tax Internship](https://jobright.ai/jobs/info/6a739df132ebbc14ffb50174?utm_campaign=1052&utm_source=git)** | Ocala, FL, United States | On Site | Aug 05 |
 | **[High Tide Theatrical](hightidesgf.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6a7372d46a034212ea0279d2?utm_campaign=1052&utm_source=git)** | Springfield, Missouri, United States | Hybrid | Aug 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a736f9e1ce9647cdbca8244?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a736c218dc3d52d8ed9f50e?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 05 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a721158cb96192a3684bcda?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a720e8ccb96192a3684bb3e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Winter -Summer 2027 College Financial Advisor internship](https://jobright.ai/jobs/info/6a736a168dc3d52d8ed9f3ec?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/6a734f238cd88e7ccbf57934?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 05 |
 | **[GECU](http://gecu.com)** | **[GECU Intern - Treasury](https://jobright.ai/jobs/info/6a73acde1ce9647cdbca9a8e?utm_campaign=1052&utm_source=git)** | El Paso, TX, United States | On Site | Aug 05 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Planning Internship Spring Semester 2027 - Paid (2026/2027 Seniors!)](https://jobright.ai/jobs/info/6a6b6319acb0a61f9dbc0815?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Aug 05 |
 | **[Maven](http://mavenmachines.com)** | **[Trader Summer Internship Chicago 2027](https://jobright.ai/jobs/info/6a733fa91ce9647cdbca6e95?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Maven Securities](https://www.mavensecurities.com)** | **[Trader Summer Internship Chicago 2027](https://jobright.ai/jobs/info/6a733f02e55c73319eb16004?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642ab10c4d945d864850b?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a564297e9b77f668bd6213d?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c1efb06a45240d487d?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 05 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c1efb06a45240d487d?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a68d55005bae84301b58a52?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a68d5335d01972698ee493e?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a62c9cb7c70964cbb0543c9?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 05 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a68d5383b549b0b531d219e?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
