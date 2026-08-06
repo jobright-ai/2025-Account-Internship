@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a53a9a9d007ee02d95fc232?utm_campaign=1052&utm_source=git)** | Salem, OH, United States | On Site | Aug 05 |
 | **[Satellite Shelters Inc.](http://satelliteco.com)** | **[Account Payable Intern](https://jobright.ai/jobs/info/6a736c918dc3d52d8ed9f543?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 05 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73b7248dc3d52d8eda1218?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 05 |
 | **[Regions Bank](http://www.regions.com)** | **[2027 ETP Intern - Internal Audit, Birmingham, AL](https://jobright.ai/jobs/info/6a73a927e55c73319eb18bdb?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 05 |
@@ -75,12 +76,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern or Co-op Student, Assurance and Accounting (Winter 2028)](https://jobright.ai/jobs/info/6a73a6c1e55c73319eb18b50?utm_campaign=1052&utm_source=git)** | Victoria, BC, Canada | On Site | Aug 05 |
 | **[First Tennessee Human Resource Agency (FTHRA)](https://fthra.org/)** | **[Accounting Intern - Paid - Fall Internship](https://jobright.ai/jobs/info/6a73a3d2e55c73319eb18a2e?utm_campaign=1052&utm_source=git)** | Johnson City, TN, United States | On Site | Aug 05 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73a2958cd88e7ccbf59b7b?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
-| ↳ | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73a292e55c73319eb18986?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 05 |
 | ↳ | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73a28f6a034212ea028d07?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 05 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a73954b8cd88e7ccbf594e5?utm_campaign=1052&utm_source=git)** | Green Bay, WI, United States | Hybrid | Aug 05 |
 | **[Steve Brown Apartments](https://stevebrownapts.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a739fe7e55c73319eb187cd?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Aug 05 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Aug 05 |
-| ↳ | **[Intern, Accounts Payable](https://jobright.ai/jobs/info/6a734fb51ce9647cdbca74f7?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 05 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Aug 05 |
+| ↳ | **[Intern, Accounts Payable](https://jobright.ai/jobs/info/6a7351cd32ebbc14ffb4e301?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 05 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a739c6d32ebbc14ffb500bd?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 05 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Raleigh, NC)](https://jobright.ai/jobs/info/6a7399608dc3d52d8eda0672?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 05 |
 | ↳ | **[Tax Intern - Spring 2027 (Wilson, NC)](https://jobright.ai/jobs/info/6a739956e55c73319eb184ce?utm_campaign=1052&utm_source=git)** | Wilson, NC, United States | On Site | Aug 05 |
@@ -93,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Elior](https://www.elior.fr/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a7393631ce9647cdbca8ff9?utm_campaign=1052&utm_source=git)** | Greater Houston, United States | Hybrid | Aug 05 |
 | **[The Dermot Company](http://dermotcompany.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a73490e8cd88e7ccbf57644?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting](https://jobright.ai/jobs/info/6a738ed46a034212ea0284b7?utm_campaign=1052&utm_source=git)** | Sudbury, ON, Canada | On Site | Aug 05 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6a735d5732ebbc14ffb4e6e3?utm_campaign=1052&utm_source=git)** | Norman, OK, United States | On Site | Aug 05 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6a735fd532ebbc14ffb4e7bb?utm_campaign=1052&utm_source=git)** | Norman, OK, United States | On Site | Aug 05 |
 | ↳ | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6a7360068cd88e7ccbf57f7e?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 05 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Loan Accounting Intern](https://jobright.ai/jobs/info/6a735ebb1ce9647cdbca7a4b?utm_campaign=1052&utm_source=git)** | Spokane, WA, United States | On Site | Aug 05 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (Abilene)](https://jobright.ai/jobs/info/6a7359866a034212ea026f24?utm_campaign=1052&utm_source=git)** | Abilene, TX, United States | On Site | Aug 05 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (Abilene)](https://jobright.ai/jobs/info/6a735d62e55c73319eb16bf6?utm_campaign=1052&utm_source=git)** | Abilene, TX, United States | On Site | Aug 05 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | Aug 05 |
 | ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Aug 05 |
 | **[Restaurant Associates](http://www.restaurantassociates.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a73824032ebbc14ffb4f665?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 05 |
@@ -118,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2028 / Boston](https://jobright.ai/jobs/info/6a7372a58dc3d52d8ed9f7f1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a736f9e1ce9647cdbca8244?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a736c218dc3d52d8ed9f50e?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 05 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a720e8ccb96192a3684bb3e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a72105245b6af1c30dbc56b?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Winter -Summer 2027 College Financial Advisor internship](https://jobright.ai/jobs/info/6a736a168dc3d52d8ed9f3ec?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/6a734f238cd88e7ccbf57934?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 05 |
 | **[GECU](http://gecu.com)** | **[GECU Intern - Treasury](https://jobright.ai/jobs/info/6a73acde1ce9647cdbca9a8e?utm_campaign=1052&utm_source=git)** | El Paso, TX, United States | On Site | Aug 05 |
@@ -146,15 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Planning Internship Spring Semester 2027 - Paid (2026/2027 Seniors!)](https://jobright.ai/jobs/info/6a6b6319acb0a61f9dbc0815?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Aug 05 |
 | **[Maven](http://mavenmachines.com)** | **[Trader Summer Internship Chicago 2027](https://jobright.ai/jobs/info/6a733fa91ce9647cdbca6e95?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Maven Securities](https://www.mavensecurities.com)** | **[Trader Summer Internship Chicago 2027](https://jobright.ai/jobs/info/6a733f02e55c73319eb16004?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a62c9cb7c70964cbb0543c9?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a68d55005bae84301b58a52?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642ab10c4d945d864850b?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 05 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a68d5335d01972698ee493e?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c1efb06a45240d487d?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 05 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56425c21f64463ad3533d2?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | On Site | Aug 05 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a68d5383b549b0b531d219e?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56425c21f64463ad3533d2?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c1efb06a45240d487d?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 05 |
+| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a68d55005bae84301b58a52?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
 | ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a6615820c8e2b4f36dd4a7e?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 05 |
+| ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a68d51e3b549b0b531d218e?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 05 |
 | ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a598f7e3ac7627fe9fffdde?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 05 |
-| ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c053b3962b910aeea8?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 05 |
 | ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a56427df7517b519ad5468c?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
