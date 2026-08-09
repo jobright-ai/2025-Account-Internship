@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a7823bdbb6ca93ae5615ac8?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 08 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (NYC)](https://jobright.ai/jobs/info/6a78086b67a1ad0bc53cd4a0?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | ↳ | **[Assurance Intern - Financial Services - Winter 2027 (NYC)](https://jobright.ai/jobs/info/6a7819437b3417772adeb4b7?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | **[JamisonMoneyFarmer PC](http://jmf.com)** | **[College Graduates](https://jobright.ai/jobs/info/6a77a7717b3417772adea9f9?utm_campaign=1052&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Aug 08 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Outsourced Accounting Services Fall 2027 / Springfield](https://jobright.ai/jobs/info/6a776b1967a1ad0bc53cc6af?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Aug 08 |
 | ↳ | **[Intern Tax Winter 2027 / Branson](https://jobright.ai/jobs/info/6a776b1767a1ad0bc53cc6ae?utm_campaign=1052&utm_source=git)** | Branson, MO, United States | On Site | Aug 08 |
 | ↳ | **[Intern Outsourced Accounting Services Winter 2027 / Springfield](https://jobright.ai/jobs/info/6a776b177b3417772adea5ca?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Aug 08 |
-| ↳ | **[Intern Outsourced Accounting Services Fall 2026 / Joplin](https://jobright.ai/jobs/info/6a776b14bb6ca93ae56149fd?utm_campaign=1052&utm_source=git)** | Joplin, MO, United States | On Site | Aug 08 |
 | ↳ | **[Intern Tax Winter 2028 / Springfield](https://jobright.ai/jobs/info/6a776b1467a1ad0bc53cc6ac?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Aug 08 |
+| ↳ | **[Intern Outsourced Accounting Services Fall 2026 / Joplin](https://jobright.ai/jobs/info/6a776b14bb6ca93ae56149fd?utm_campaign=1052&utm_source=git)** | Joplin, MO, United States | On Site | Aug 08 |
 | ↳ | **[Intern Outsourced Accounting Services Summer 2027 / Springfield](https://jobright.ai/jobs/info/6a776b1367a1ad0bc53cc6ab?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Aug 08 |
 | ↳ | **[Intern Audit Winter 2028 / Springfield](https://jobright.ai/jobs/info/6a776b11b17cba5690360420?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Aug 08 |
 | ↳ | **[Intern Tax Summer 2027 / Springfield](https://jobright.ai/jobs/info/6a776b10b17cba569036041c?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Aug 08 |
@@ -116,7 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a955d686b4755d1e16150?utm_campaign=1052&utm_source=git)** | Springfield, OH, United States | On Site | Aug 08 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73b7248dc3d52d8eda1218?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a513c56bf63b66c7997a114?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | On Site | Aug 08 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73a28f6a034212ea028d07?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 08 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a782d88b17cba569036140d?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 08 |
+| ↳ | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a73a28f6a034212ea028d07?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 08 |
 | ↳ | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a76f13abb6ca93ae5613f4f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 08 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a52e359d007ee02d95f9794?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 08 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Medicaid Billing Administrator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a76ed3c7b3417772ade9b0f?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Aug 08 |
@@ -129,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a75e12fb17cba569035b5ac?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 07 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Analyst - Internal Audit, Assurance - Co-op/Intern - 2027 - Vancouver](https://jobright.ai/jobs/info/6a769740b17cba569035ea1d?utm_campaign=1052&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Aug 07 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Assurance and Accounting (2027)](https://jobright.ai/jobs/info/6a77e255bb6ca93ae56154d4?utm_campaign=1052&utm_source=git)** | Timmins, Ontario, Canada | On Site | Aug 07 |
-| **[Medtronic](https://www.medtronic.com)** | **[Finance Intern - Summer 2027](https://jobright.ai/jobs/info/6a70ac40cb96192a36844ccf?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 07 |
+| **[Medtronic](https://www.medtronic.com)** | **[Finance Intern - Summer 2027](https://jobright.ai/jobs/info/6a70b265357dfc6ff2b3a6cc?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 07 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[Risk Services (Non-CPA) - Actuarial Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a762ae3bb6ca93ae56114e6?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 | ↳ | **[Deal Advisory (CPA) - Transaction Services Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a7629a97b3417772ade70d8?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 | ↳ | **[Deal Advisory - Valuations - Dispute Advisory Services Intern/Co-op - Toronto - Summer or Fall 2027](https://jobright.ai/jobs/info/6a765b9fb17cba569035de29?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Accounting Intern - Cincinnati](https://jobright.ai/jobs/info/6a763a4a7b3417772ade750b?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 07 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/6a76388aa26ccc369f8344be?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 07 |
 | **[IRA Financial](https://www.irafinancialgroup.com/)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a76233467a1ad0bc53c8ec7?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD, United States | On Site | Aug 07 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Corporate Finance - Summer 2027](https://jobright.ai/jobs/info/6a7630f37b3417772ade72f5?utm_campaign=1052&utm_source=git)** | Northfield, IL, United States | On Site | Aug 07 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Assurance Intern (Reno, NV)](https://jobright.ai/jobs/info/6a760a3abb6ca93ae5610907?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
