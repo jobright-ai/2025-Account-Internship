@@ -57,28 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[IT Internal Audit Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7ec85be2030208f276a7ec?utm_campaign=1052&utm_source=git)** | Newark, NJ, United States | Remote | Aug 14 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax, Or CAS)](https://jobright.ai/jobs/info/6a7ec7dce51a1e18a240ee8a?utm_campaign=1052&utm_source=git)** | Fargo, ND, United States | On Site | Aug 14 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Baltimore)](https://jobright.ai/jobs/info/69efee77fbe0994a40eb9a2b?utm_campaign=1052&utm_source=git)** | 700 E Pratt Street, Baltimore, MD, 21202, US | On Site | Aug 14 |
+| **[UHY-US](https://uhy-us.com/)** | **[2027 TRC Fall Internship - St. Louis, Kansas City, or Nashville](https://jobright.ai/jobs/info/6a4637750dd56c76cc2f76d4?utm_campaign=1052&utm_source=git)** | St. Louis Maplewood, MO, United States of America | On Site | Aug 14 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax, Or CAS)](https://jobright.ai/jobs/info/6a7ed70a179e4f7b7e8d8c7a?utm_campaign=1052&utm_source=git)** | Fargo, ND, United States | On Site | Aug 14 |
+| ↳ | **[Assurance/Tax Intern (Phoenix)](https://jobright.ai/jobs/info/6a7ece24179e4f7b7e8d89cf?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 14 |
 | **[Texas Instruments](http://www.ti.com)** | **[Cost Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a583b549b0b531d3f26?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | ↳ | **[Tax Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a5d5d01972698ee681a?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | **[Mapfre](https://www.mapfre.com)** | **[Acturial Intern - Summer 2027](https://jobright.ai/jobs/info/6a7e9e5de2030208f276a187?utm_campaign=1052&utm_source=git)** | Webster, MA, United States | On Site | Aug 14 |
-| **[ITW](http://www.itw.com/)** | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a7e6941b56bea5779c05c05?utm_campaign=1052&utm_source=git)** | Glenview, IL, United States | Hybrid | Aug 13 |
-| **[Crowe](https://www.crowe.com)** | **[Audit IT Assurance Intern Summer 2027](https://jobright.ai/jobs/info/6a7e35530cd4a0703257ea26?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
-| ↳ | **[Tax Intern Winter 2028](https://jobright.ai/jobs/info/6a7e273eb56bea5779c04066?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 13 |
-| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a527ae8e726ec56126a3437?utm_campaign=1052&utm_source=git)** | Chicago IL USA, United States of America | Hybrid | Aug 13 |
+| **[Washington National Insurance Company](http://www.washingtonnational.com/)** | **[Internal Audit Intern 2027 - REMOTE](https://jobright.ai/jobs/info/6a7ed123e2030208f276aa87?utm_campaign=1052&utm_source=git)** | Carmel, IN, United States | Remote | Aug 13 |
+| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2028](https://jobright.ai/jobs/info/6a7e2760b56bea5779c0408c?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Aug 13 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8b?utm_campaign=1052&utm_source=git)** | Chicago IL USA, US | On Site | Aug 13 |
 | ↳ | **[Tax Intern Summer 2027](https://jobright.ai/jobs/info/6a7e35630cd4a0703257ea31?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Remote | Aug 13 |
-| ↳ | **[Audit Intern Winter 2028](https://jobright.ai/jobs/info/6a7e2760b56bea5779c0408c?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Aug 13 |
+| ↳ | **[Tax Intern Winter 2028](https://jobright.ai/jobs/info/6a7e273eb56bea5779c04066?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 13 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a527ae8e726ec56126a3437?utm_campaign=1052&utm_source=git)** | Chicago IL USA, United States of America | Hybrid | Aug 13 |
+| ↳ | **[Audit IT Assurance Intern Summer 2027](https://jobright.ai/jobs/info/6a7e35530cd4a0703257ea26?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
+| **[ITW](http://www.itw.com/)** | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a7e6941b56bea5779c05c05?utm_campaign=1052&utm_source=git)** | Glenview, IL, United States | Hybrid | Aug 13 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Accounting and Advisory Services Intern](https://jobright.ai/jobs/info/6a7e9ff019ce4e6e9d933d19?utm_campaign=1052&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 13 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2027 - Finance](https://jobright.ai/jobs/info/6a7e8746b56bea5779c0649d?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Aug 13 |
 | ↳ | **[Internship Summer 2027 - Accounting](https://jobright.ai/jobs/info/6a7e873419ce4e6e9d933974?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Aug 13 |
 | **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110cebf63b66c79978894?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
-| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Aug 13 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a4dd8a6d27b2c4dda9b8b3e?utm_campaign=1052&utm_source=git)** | Washington, D.C. Metro (Bethesda), United States of America | On Site | Aug 13 |
+| ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a50ec3478e364789ca574c6?utm_campaign=1052&utm_source=git)** | Kansas City, Kansas, United States | On Site | Aug 13 |
 | ↳ | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a5110b178e364789ca5871b?utm_campaign=1052&utm_source=git)** | Atlanta (Alpharetta), United States of America | On Site | Aug 13 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Assurance/Tax Intern (Phoenix)](https://jobright.ai/jobs/info/6a7e472719ce4e6e9d9325c8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 13 |
-| ↳ | **[Accounting Intern (Assurance, Tax, Or CAS)](https://jobright.ai/jobs/info/6a70a5d1cb96192a3684491e?utm_campaign=1052&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 13 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Accounting Intern (Assurance, Tax, Or CAS)](https://jobright.ai/jobs/info/6a70a4261003bd7b70d6b918?utm_campaign=1052&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 13 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern- State and Local tax (SALT)](https://jobright.ai/jobs/info/6a7de1ff19ce4e6e9d930012?utm_campaign=1052&utm_source=git)** | Shreveport, LA, United States | On Site | Aug 13 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Audit Intern - Winter 2026/2027 Job Details / Perdue Farms](https://jobright.ai/jobs/info/6a7e6644e2030208f2769243?utm_campaign=1052&utm_source=git)** | Salisbury, MD, United States | On Site | Aug 13 |
 | ↳ | **[Audit Intern Job Details / Perdue Farms](https://jobright.ai/jobs/info/6a7e663419ce4e6e9d932c9c?utm_campaign=1052&utm_source=git)** | Salisbury, MD, United States | On Site | Aug 13 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - World Bank Treasury Intern](https://jobright.ai/jobs/info/6a7e5cc9b56bea5779c0531e?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[Crowe](https://www.crowe.com)** | **[Audit Intern Summer 2027](https://jobright.ai/jobs/info/6a7e01bf0cd4a0703257d106?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | **[The Standard](https://www.standard.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/6a7ec43c179e4f7b7e8d85d7?utm_campaign=1052&utm_source=git)** | Portland, OR, United States | Remote | Aug 13 |
+| **[City of Irvine](https://www.cityofirvine.org)** | **[ACCOUNTING TECHNICIAN APPRENTICESHIP](https://jobright.ai/jobs/info/6a7eda7e19ce4e6e9d934960?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Aug 13 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Retirement Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a7e1b94b56bea5779c03d45?utm_campaign=1052&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 13 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Internal Audit Intern 2027 - REMOTE](https://jobright.ai/jobs/info/6a7e10fcad9ff00c26ba9a7f?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Resonance Partners](https://www.resopartners.com/)** | **[Private Equity Internship Program / 081326](https://jobright.ai/jobs/info/6a7e72fdb56bea5779c06097?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 13 |
@@ -126,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0d10d54d9320363687eb3b?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2028 / Colorado Springs](https://jobright.ai/jobs/info/6a7dff660cd4a0703257d056?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
 | ↳ | **[Intern Audit Winter 2028 / Colorado Springs](https://jobright.ai/jobs/info/6a7dff5d0cd4a0703257d04f?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
-| ↳ | **[Intern Audit Winter 2028 / Denver](https://jobright.ai/jobs/info/6a7dff52e51a1e18a240b5d5?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 13 |
 | ↳ | **[Intern Audit Summer 2028 / Denver](https://jobright.ai/jobs/info/6a7dff52b56bea5779c02dda?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 13 |
+| ↳ | **[Intern Audit Winter 2028 / Denver](https://jobright.ai/jobs/info/6a7dff52e51a1e18a240b5d5?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 13 |
 | ↳ | **[Intern Tax Summer 2027 / Colorado Springs](https://jobright.ai/jobs/info/6a7dff5119ce4e6e9d930977?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
 | ↳ | **[Intern Tax Winter 2028 / Austin](https://jobright.ai/jobs/info/6a7dff4e0cd4a0703257d04c?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | ↳ | **[Intern Tax Summer 2027 / Denver](https://jobright.ai/jobs/info/6a7dff4c0cd4a0703257d04a?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 13 |
@@ -143,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Fund Financial Operations Intern (San Antonio, TX)](https://jobright.ai/jobs/info/6a209616338c01230511a2c2?utm_campaign=1052&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Aug 13 |
 | **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027 & 2028)](https://jobright.ai/jobs/info/6a7df7bbad9ff00c26ba9406?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Dallas)](https://jobright.ai/jobs/info/6a7df6dcb56bea5779c02b27?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
-| **[Etched](https://www.etched.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a58ce7f63a8f619507be53e?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Aug 13 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a1aef1d6b135014dbc8cb5e?utm_campaign=1052&utm_source=git)** | San Jose | On Site | Aug 13 |
+| **[Etched](https://www.etched.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1aef1d6b135014dbc8cb5e?utm_campaign=1052&utm_source=git)** | San Jose | On Site | Aug 13 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a58ce7f63a8f619507be53e?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Aug 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Fort Worth)](https://jobright.ai/jobs/info/6a7df6c6ad9ff00c26ba93c4?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 13 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2028 (Dallas)](https://jobright.ai/jobs/info/6a7df6b8e2030208f2766bba?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2028 (Dallas)](https://jobright.ai/jobs/info/6a7df65eb56bea5779c02b09?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Beyond Risk](https://www.beyondrisk.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a7e5b1e0cd4a0703257f53c?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Aug 13 |
 | **[Level Group Ltd.](https://level-ltd.com)** | **[Fall Internship](https://jobright.ai/jobs/info/6a7df3fb0cd4a0703257cba4?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Aug 13 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Fund Financial Operations Intern (San Antonio, TX)](https://jobright.ai/jobs/info/6a557ff02084cd792b478eb0?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 13 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Dallas)](https://jobright.ai/jobs/info/6a7def16e51a1e18a240b05c?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2026 - Finance Intern](https://jobright.ai/jobs/info/6a7dde3de51a1e18a240aba8?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
-| **[Southern Farm Bureau Casualty Insurance Company](https://w3.sfbcic.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a7dea9e0cd4a0703257c7ba?utm_campaign=1052&utm_source=git)** | Jackson, MS, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
