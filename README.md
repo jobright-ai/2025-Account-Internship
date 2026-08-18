@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Financial and Regulatory Planning](https://jobright.ai/jobs/info/6a84b950e459fa3baa8603b4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 18 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Public Investments - Credit Investment Intern MBA/MS, Summer 2027](https://jobright.ai/jobs/info/6a84b5f37b33d72276257aa7?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 18 |
+| **[Avery Dennison](http://www.averydennison.com)** | **[Accounting Co-op - Spring 2027](https://jobright.ai/jobs/info/6a84b56dd34f700f87fba51a?utm_campaign=1052&utm_source=git)** | Mentor, OH, United States | On Site | Aug 18 |
+| **[Siemens](https://www.siemens.com)** | **[Financial Technologies (Treasury) Internship- Americas](https://jobright.ai/jobs/info/6a84b564d34f700f87fba515?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 18 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Internal Audit Internship](https://jobright.ai/jobs/info/6a84b2f5d34f700f87fba45d?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN, United States | On Site | Aug 18 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Interns - Equipment Finance](https://jobright.ai/jobs/info/6a8495d8e459fa3baa85f533?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 18 |
 | ↳ | **[Summer 2027 Interns - Corporate Client Coverage](https://jobright.ai/jobs/info/6a8495c0e12474455273b3b1?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 18 |
 | **[Zipline](https://www.zipline.com/)** | **[Accounting Intern (Spring 2027)](https://jobright.ai/jobs/info/6a84a918e459fa3baa85fd67?utm_campaign=1052&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 18 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Aon](http://www.aon.com)** | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a685da16eaf5519573a63b6?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 18 |
 | **[Oliver, Rainey & Wojtek, LLP](https://orw.cpa/)** | **[Tax Intern (Spring 2028)](https://jobright.ai/jobs/info/6a846f892f4f0014cae206ef?utm_campaign=1052&utm_source=git)** | San Angelo, TX, United States | On Site | Aug 18 |
 | **[Doane Grant Thornton LLP](https://www.doanegrantthornton.ca/)** | **[Co-op, Research and Development & Government Incentives [Winter 2027 - 8 month term]](https://jobright.ai/jobs/info/6a846f7c2f4f0014cae206dc?utm_campaign=1052&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 18 |
-| ↳ | **[Co-op, US Corporate Tax [Spring 2027]](https://jobright.ai/jobs/info/6a846f3b2f4f0014cae206af?utm_campaign=1052&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 18 |
 | ↳ | **[Co-op, Indirect Tax [Winter 2027]](https://jobright.ai/jobs/info/6a846f3b2f4f0014cae206ae?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 18 |
+| ↳ | **[Co-op, US Corporate Tax [Spring 2027]](https://jobright.ai/jobs/info/6a846f3b2f4f0014cae206af?utm_campaign=1052&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 18 |
 | ↳ | **[Co-op, US Corporate Tax [Winter 2027]](https://jobright.ai/jobs/info/6a846f2458ded76ad8fe70c1?utm_campaign=1052&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 18 |
 | ↳ | **[Co-op, Indirect Tax [Spring 2027]](https://jobright.ai/jobs/info/6a846f1c58ded76ad8fe70b1?utm_campaign=1052&utm_source=git)** | Markham, ON, Canada | On Site | Aug 18 |
 | ↳ | **[Co-op, US Corporate Tax [Winter 2027]](https://jobright.ai/jobs/info/6a846f0ce459fa3baa85e355?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 18 |
@@ -135,9 +140,9 @@ For a complete list, click the following sortable link below:
 | **[Seven Measures](https://www.sevenmeasures.com)** | **[2027 Investment Analyst Intern](https://jobright.ai/jobs/info/6a844fabe459fa3baa85d8ee?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a8420df0b610f7a3d0e40ae?utm_campaign=1052&utm_source=git)** | Greenville, TX, United States | On Site | Aug 18 |
 | ↳ | **[Program Finance Intern](https://jobright.ai/jobs/info/6a8375d02dbaf907b0768f05?utm_campaign=1052&utm_source=git)** | Plano, TX, United States | On Site | Aug 18 |
-| ↳ | **[Program Finance Intern](https://jobright.ai/jobs/info/6a84214485e0d023aaea2966?utm_campaign=1052&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 18 |
-| ↳ | **[Intern, Program Finance](https://jobright.ai/jobs/info/6a83764cb5a0ac0e84a2614c?utm_campaign=1052&utm_source=git)** | Palm Bay, FL, United States | On Site | Aug 18 |
 | ↳ | **[Program Finance Intern](https://jobright.ai/jobs/info/6a8420cf8d793736c6133d24?utm_campaign=1052&utm_source=git)** | Palm Bay, FL, United States | On Site | Aug 18 |
+| ↳ | **[Intern, Program Finance](https://jobright.ai/jobs/info/6a83764cb5a0ac0e84a2614c?utm_campaign=1052&utm_source=git)** | Palm Bay, FL, United States | On Site | Aug 18 |
+| ↳ | **[Program Finance Intern](https://jobright.ai/jobs/info/6a84214485e0d023aaea2966?utm_campaign=1052&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 18 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Investment Banking Summer Associate Program - Early Careers](https://jobright.ai/jobs/info/6a83195e1081a745e970cd54?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Indigenous (First Nation, Metis & Inuit) Co-op/Intern - Multiple Locations - Multiple Business Areas](https://jobright.ai/jobs/info/6a842861e1247445527390e8?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | Hybrid | Aug 18 |
 | ↳ | **[Indigenous (First Nation, Metis & Inuit) Co-op/Intern - Multiple Locations - Multiple Business Areas](https://jobright.ai/jobs/info/6a8426b585e0d023aaea2b08?utm_campaign=1052&utm_source=git)** | Regina, SK, Canada | On Site | Aug 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/6a2d4d23fc0644749054c13d?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Aug 18 |
 | **[Health Choice Network](http://www.hcnetwork.org/)** | **[Jr. Research Financial Data Analyst](https://jobright.ai/jobs/info/6a846138e124744552739d73?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Anderson Injury Lawyers](https://maafirm.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a83823c3eeac101cfaa066b?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 18 |
-| **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a8042cbe51a1e18a2418675?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 18 |
-| **[PBS39](https://www.wlvt.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a846841d34f700f87fb84f4?utm_campaign=1052&utm_source=git)** | Bethlehem, PA, United States | On Site | Aug 18 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Indigenous (First Nation, Metis & Inuit) Co-op/Intern - Multiple Locations - Multiple Business Areas](https://jobright.ai/jobs/info/6a84747fe12474455273a52b?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 18 |
-| ↳ | **[Indigenous (First Nation, Metis & Inuit) Co-op/Intern - Multiple Locations - Multiple Business Areas](https://jobright.ai/jobs/info/6a842cfee12474455273918c?utm_campaign=1052&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 18 |
-| ↳ | **[Indigenous (First Nation, Metis & Inuit) Co-op/Intern - Multiple Locations - Multiple Business Areas](https://jobright.ai/jobs/info/6a842aefe459fa3baa85d289?utm_campaign=1052&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
