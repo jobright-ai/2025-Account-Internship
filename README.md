@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maven Securities](https://www.mavensecurities.com)** | **[Trader Summer Internship Chicago 2027](https://jobright.ai/jobs/info/6a733f02e55c73319eb16004?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 22 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2027 Private Equity Summer Analyst](https://jobright.ai/jobs/info/6a3e321ad261407de9802a8d?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 22 |
 | **[Succession AI](https://successionai.org)** | **[M&A Intern](https://jobright.ai/jobs/info/6a880b8ad34f700f87fc7515?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 22 |
 | **[Connor, Clark & Lunn Infrastructure](https://www.cclgroup.com/CCLInfrastructure)** | **[Intern, Quantitative Equity Analyst](https://jobright.ai/jobs/info/6a71b20b71acd469eeda3c51?utm_campaign=1052&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Aug 22 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[EQ Capital Partners](eqcapitalpartners.ca)** | **[Investment Banking Fall Analyst Intern](https://jobright.ai/jobs/info/6a89cc61680f314a29d3f5e5?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 22 |
 | **[Packsize](https://www.packsize.com)** | **[Accounts Receivable and Treasury Intern](https://jobright.ai/jobs/info/6a6c9fa857120971bf3ac2b5?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 22 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Global Procurement Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fdbcde3717f9e9b8737?utm_campaign=1052&utm_source=git)** | Middleton, WI, United States | On Site | Aug 22 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Aug 22 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Aug 22 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Aug 22 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a6cb85f57120971bf3acb3f?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Aug 22 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Reimbursement Intern Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a886f09680f314a29d3beaa?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Aug 22 |
@@ -108,17 +109,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern – Global Wealth Management, Private Family Capital Analyst, US](https://jobright.ai/jobs/info/6a897e7fd34f700f87fcb989?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 21 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Intern Finance Specialist (SAP) – 2027](https://jobright.ai/jobs/info/6a8a1390680f314a29d3fbf0?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 21 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Tax Winter Intern - Affordable Housing](https://jobright.ai/jobs/info/6a52ae5e9fbdab22fe13c960?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 21 |
-| ↳ | **[2028 Assurance Winter Intern – Affordable Housing Group](https://jobright.ai/jobs/info/6a88d64be8b6601d12908ff4?utm_campaign=1052&utm_source=git)** | Birmingham, Alabama, United States | On Site | Aug 21 |
 | ↳ | **[2027 Assurance Winter Intern - Affordable Housing](https://jobright.ai/jobs/info/6a886bca4afae74a0834b94d?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 21 |
+| ↳ | **[2028 Assurance Winter Intern – Affordable Housing Group](https://jobright.ai/jobs/info/6a88d64be8b6601d12908ff4?utm_campaign=1052&utm_source=git)** | Birmingham, Alabama, United States | On Site | Aug 21 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Winter 2027 - North Texas](https://jobright.ai/jobs/info/6a88b0f34afae74a0834d0b5?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Aug 21 |
 | **[Chubb](https://chubb.com)** | **[Actuarial Internship](https://jobright.ai/jobs/info/6a88af88e8b6601d1290817d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Accounts Receivable Clerk](https://jobright.ai/jobs/info/6a88d86625fc4e7ae3db2b20?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 21 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Accounts Receivable Clerk](https://jobright.ai/jobs/info/6a88d83acde3717f9e9b7789?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 21 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2028 / Greensboro NC](https://jobright.ai/jobs/info/6a88b560e8b6601d12908332?utm_campaign=1052&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 21 |
-| ↳ | **[Intern Tax Summer 2027 / Charleston, WV](https://jobright.ai/jobs/info/6a88b577680f314a29d3d630?utm_campaign=1052&utm_source=git)** | Charleston, WV, United States | On Site | Aug 21 |
-| ↳ | **[Intern Audit Winter 2028 / Greenville NC](https://jobright.ai/jobs/info/6a88b55ee8b6601d12908330?utm_campaign=1052&utm_source=git)** | Greenville, NC, United States | On Site | Aug 21 |
-| ↳ | **[Intern Tax Winter 2028 / Greenville NC](https://jobright.ai/jobs/info/6a88b55d4afae74a0834d1ee?utm_campaign=1052&utm_source=git)** | Greenville, NC, United States | On Site | Aug 21 |
 | ↳ | **[Intern Audit Winter 2028 / Greensboro NC](https://jobright.ai/jobs/info/6a88b55dcde3717f9e9b6a71?utm_campaign=1052&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 21 |
+| ↳ | **[Intern Audit Winter 2028 / Greenville NC](https://jobright.ai/jobs/info/6a88b55ee8b6601d12908330?utm_campaign=1052&utm_source=git)** | Greenville, NC, United States | On Site | Aug 21 |
+| ↳ | **[Intern Tax Summer 2027 / Charleston, WV](https://jobright.ai/jobs/info/6a88b577680f314a29d3d630?utm_campaign=1052&utm_source=git)** | Charleston, WV, United States | On Site | Aug 21 |
+| ↳ | **[Intern Tax Winter 2028 / Greenville NC](https://jobright.ai/jobs/info/6a88b55d4afae74a0834d1ee?utm_campaign=1052&utm_source=git)** | Greenville, NC, United States | On Site | Aug 21 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Finance & Accounting Summer 2027 Internship (Euclid, OH)](https://jobright.ai/jobs/info/6a88bce64afae74a0834d5bc?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 21 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2027 / Raleigh](https://jobright.ai/jobs/info/6a88b56ce8b6601d1290833c?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 21 |
 | ↳ | **[Intern Tax Winter 2028 / Raleigh NC](https://jobright.ai/jobs/info/6a88b55f25fc4e7ae3db1dc7?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Spring Joint Venture Internship](https://jobright.ai/jobs/info/6a887de74afae74a0834bf03?utm_campaign=1052&utm_source=git)** | Fort Wright, KY, United States | On Site | Aug 21 |
 | **[ATLAS Navigators, LLC](https://atlasfirms.com/)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a88a3f14afae74a0834cbe9?utm_campaign=1052&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 21 |
 | ↳ | **[2027 Audit Internship](https://jobright.ai/jobs/info/6a88a3ea680f314a29d3d039?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 21 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a88a3db25fc4e7ae3db17d4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
