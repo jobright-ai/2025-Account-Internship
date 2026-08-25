@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a8d6c5a2f736c304f2a96ef?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 25 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States](https://jobright.ai/jobs/info/6a70171f41b41d325296dd36?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
+| **[Munich Re Automation Solutions](http://www.munichre.com/automation-solutions)** | **[Actuarial Intern, US Life (2027 Summer - New York)](https://jobright.ai/jobs/info/6a8d6ae625fc4e7ae3dbbf4c?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/6a8d6847a5639a4810325cf3?utm_campaign=1052&utm_source=git)** | Kohler, WI, United States | On Site | Aug 25 |
 | **[DESRI](https://www.desri.com)** | **[Commercial Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8ca545581f2d7bfdfe4e90?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[Generac](https://www.generac.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/6a8c89321d96e6541c8c176a?utm_campaign=1052&utm_source=git)** | Waukesha, WI, United States | On Site | Aug 25 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a70c3afe2b7476e7b20ab10?utm_campaign=1052&utm_source=git)** | Rockford, IL, United States | On Site | Aug 25 |
@@ -65,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Economic Valuation Services - Business Modeling Services / New York Summer 2028](https://jobright.ai/jobs/info/6a8ce62a581f2d7bfdfe63cd?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | ↳ | **[Tax Intern, Indirect Tax Technology / Philadelphia Summer 2028](https://jobright.ai/jobs/info/6a8ce63ecde3717f9e9bfad8?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 25 |
 | ↳ | **[Tax Seasonal Intern, State and Local Tax - New York Financial Services / New York Fall 2027](https://jobright.ai/jobs/info/6a8ce686581f2d7bfdfe642f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
-| ↳ | **[Tax Intern / Miami Winter 2028](https://jobright.ai/jobs/info/6a8d02401d96e6541c8c3b87?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 25 |
 | ↳ | **[Tax Intern / Birmingham Winter 2028](https://jobright.ai/jobs/info/6a8ce63a581f2d7bfdfe63e0?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 25 |
+| ↳ | **[Tax Intern / Miami Winter 2028](https://jobright.ai/jobs/info/6a8d02401d96e6541c8c3b87?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Aug 25 |
 | ↳ | **[Tax Intern / Tampa Winter 2028](https://jobright.ai/jobs/info/6a8ce64325fc4e7ae3dbaeba?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Aug 25 |
 | ↳ | **[Tax Intern / Fort Worth Summer 2028](https://jobright.ai/jobs/info/6a8ce630d34f700f87fd31f6?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 25 |
 | ↳ | **[Tax Intern / Kansas City Winter 2028](https://jobright.ai/jobs/info/6a8ce6501d96e6541c8c3786?utm_campaign=1052&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 25 |
@@ -80,9 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a8d5c1447679c68bf5e2be3?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | ↳ | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a8d5c0e2f736c304f2a9463?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 25 |
 | ↳ | **[Financial Planning & Analysis - Finance Intern / North America](https://jobright.ai/jobs/info/6a8d5c09a5639a4810325b56?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 25 |
-| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
+| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 25 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
 | ↳ | **[Audit Intern Winter 2028](https://jobright.ai/jobs/info/6a7e2760b56bea5779c0408c?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 25 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 25 |
 | **[Trillium Trading](https://www.trlm.com)** | **[Summer 2027 Equity Trader Internship](https://jobright.ai/jobs/info/6a637ede0c8e2b4f36dce2dc?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 25 |
 | **[PIMCO](http://www.pimco.com)** | **[2027&nbsp;Summer Intern - Global Wealth Management,&nbsp;Strategic Accounts&nbsp;Analyst, US&nbsp;&nbsp;](https://jobright.ai/jobs/info/6a8d5406a5639a481032596b?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | ↳ | **[2027&nbsp;Summer Intern – Global Wealth&nbsp;Management, Private Family Capital Analyst, US&nbsp;](https://jobright.ai/jobs/info/6a8d53fe2f736c304f2a929f?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 25 |
@@ -109,11 +113,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / New York Summer 2028](https://jobright.ai/jobs/info/6a8d228e25fc4e7ae3dbb775?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | ↳ | **[Intern, Economic Valuation Services - Valuation / Atlanta Summer 2028](https://jobright.ai/jobs/info/6a8d228ed34f700f87fd3b0b?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 24 |
 | ↳ | **[Intern, Economic Valuation Services - Portfolio Valuation / New York Summer 2028](https://jobright.ai/jobs/info/6a8d228e25fc4e7ae3dbb776?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Economic Valuation Services - Complex Securities / New York Winter 2028](https://jobright.ai/jobs/info/6a8d228d581f2d7bfdfe6cc4?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Portland Summer 2028](https://jobright.ai/jobs/info/6a8d228dd34f700f87fd3b0a?utm_campaign=1052&utm_source=git)** | Portland, OR, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Economic Valuation Services - Complex Securities / New York Winter 2028](https://jobright.ai/jobs/info/6a8d228d581f2d7bfdfe6cc4?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Cleveland Summer 2028](https://jobright.ai/jobs/info/6a8d228c2f736c304f2a8e7c?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Boston Summer 2028](https://jobright.ai/jobs/info/6a8d228cd34f700f87fd3b08?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 24 |
 | ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Houston Summer 2028](https://jobright.ai/jobs/info/6a8d228c581f2d7bfdfe6cc2?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Boston Summer 2028](https://jobright.ai/jobs/info/6a8d228cd34f700f87fd3b08?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Chicago Summer 2028](https://jobright.ai/jobs/info/6a8d228b581f2d7bfdfe6cc1?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
 | ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Chicago Summer 2028](https://jobright.ai/jobs/info/6a8d228bd34f700f87fd3b07?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / St Louis Summer 2028](https://jobright.ai/jobs/info/6a8d228b2f736c304f2a8e7a?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 24 |
@@ -124,13 +128,13 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2028/ Atlanta](https://jobright.ai/jobs/info/6a8cfe44d34f700f87fd358a?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 24 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6a838aec9b859b227766fa08?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 24 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, Indirect Tax Technology / New York Summer 2027](https://jobright.ai/jobs/info/6a8d341625fc4e7ae3dbb8ab?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
-| ↳ | **[Tax Intern, Global Mobility Services / Houston Winter 2028](https://jobright.ai/jobs/info/6a8d340e2f736c304f2a8fca?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / New York Summer 2028](https://jobright.ai/jobs/info/6a8d340ccde3717f9e9c04fa?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern, Trust Tax / Tempe Summer 2028](https://jobright.ai/jobs/info/6a8d3410d34f700f87fd3c65?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / San Antonio Summer 2028](https://jobright.ai/jobs/info/6a8d340fa5639a48103256b6?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / New York Summer 2028](https://jobright.ai/jobs/info/6a8d340ccde3717f9e9c04fa?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
+| ↳ | **[Tax Intern, Global Mobility Services / Houston Winter 2028](https://jobright.ai/jobs/info/6a8d340e2f736c304f2a8fca?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Philadelphia Summer 2028](https://jobright.ai/jobs/info/6a8d340bcde3717f9e9c04f9?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 24 |
-| ↳ | **[Tax Intern, Global Mobility Services / Stamford Winter 2028](https://jobright.ai/jobs/info/6a8d1716cde3717f9e9c016b?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Raleigh Summer 2028](https://jobright.ai/jobs/info/6a8d1716cde3717f9e9c016a?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 24 |
+| ↳ | **[Tax Intern, Global Mobility Services / Stamford Winter 2028](https://jobright.ai/jobs/info/6a8d1716cde3717f9e9c016b?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Short Hills Summer 2028](https://jobright.ai/jobs/info/6a8d1715cde3717f9e9c0169?utm_campaign=1052&utm_source=git)** | Short Hills, NJ, United States | On Site | Aug 24 |
 | ↳ | **[Tax Seasonal Intern, State and Local Tax / Denver Winter 2027](https://jobright.ai/jobs/info/6a8d170a25fc4e7ae3dbb4fd?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Austin Summer 2028](https://jobright.ai/jobs/info/6a8d1703581f2d7bfdfe6a92?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Aug 24 |
@@ -140,21 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / San Francisco Summer 2028](https://jobright.ai/jobs/info/6a8d16fca5639a48103252eb?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Detroit Summer 2028](https://jobright.ai/jobs/info/6a8d16fc581f2d7bfdfe6a87?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Atlanta Summer 2028](https://jobright.ai/jobs/info/6a8d16fa581f2d7bfdfe6a81?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Ignition - Data & Analytics / New York Summer 2028](https://jobright.ai/jobs/info/6a8d16f9a5639a48103252e5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Economic Valuation Services, Real Estate / Philadelphia Winter 2028](https://jobright.ai/jobs/info/6a8d16f9cde3717f9e9c0159?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 24 |
 | ↳ | **[Tax Seasonal Intern, State and Local Tax - New York Financial Services / New York Fall 2027](https://jobright.ai/jobs/info/6a8d16f92f736c304f2a8c3b?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Economic Valuation Services, Real Estate / Philadelphia Winter 2028](https://jobright.ai/jobs/info/6a8d16f9cde3717f9e9c0159?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Ignition - Data & Analytics / New York Summer 2028](https://jobright.ai/jobs/info/6a8d16f9a5639a48103252e5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Baltimore Summer 2028](https://jobright.ai/jobs/info/6a8d16f8a5639a48103252e3?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Economic Valuation Services - Complex Securities / Boston Summer 2028](https://jobright.ai/jobs/info/6a8d16f7581f2d7bfdfe6a80?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Oklahoma City Summer 2028](https://jobright.ai/jobs/info/6a8d16f7cde3717f9e9c0155?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Economic Valuation Services - Complex Securities / Boston Summer 2028](https://jobright.ai/jobs/info/6a8d16f7581f2d7bfdfe6a80?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern, Indirect Tax Technology / Orlando Summer 2027](https://jobright.ai/jobs/info/6a8d16f625fc4e7ae3dbb4f1?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Honolulu Summer 2028](https://jobright.ai/jobs/info/6a8d16f5a5639a48103252e0?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern, Indirect Tax Technology / Nashville Summer 2028](https://jobright.ai/jobs/info/6a8d16f5581f2d7bfdfe6a7e?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Pittsburgh Summer 2028](https://jobright.ai/jobs/info/6a8d16f4581f2d7bfdfe6a79?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 24 |
-| ↳ | **[Tax Intern / Chicago Summer 2028](https://jobright.ai/jobs/info/6a8d16f3581f2d7bfdfe6a76?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / New York Winter 2028](https://jobright.ai/jobs/info/6a8d16f3cde3717f9e9c0151?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Ignition - Data & Analytics / Denver Summer 2028](https://jobright.ai/jobs/info/6a8d16f32f736c304f2a8c33?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern / Nashville Summer 2028](https://jobright.ai/jobs/info/6a8d16f3d34f700f87fd38b7?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Aug 24 |
-| ↳ | **[Tax Intern / Minneapolis Winter 2028](https://jobright.ai/jobs/info/6a8d16f3d34f700f87fd38b6?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 24 |
 | ↳ | **[Tax Intern, Indirect Tax Technology / Chicago Summer 2028](https://jobright.ai/jobs/info/6a8d16f32f736c304f2a8c34?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
-| ↳ | **[Intern, Ignition - Data & Analytics / Atlanta Summer 2028](https://jobright.ai/jobs/info/6a8d16f2a5639a48103252d9?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 24 |
+| ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / New York Winter 2028](https://jobright.ai/jobs/info/6a8d16f3cde3717f9e9c0151?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
