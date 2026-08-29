@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Accounting Intern - Asset Accounting (Fall 2026, Hybrid KY)](https://jobright.ai/jobs/info/6a92b04d3603630099196783?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | Hybrid | Aug 29 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a513c56bf63b66c7997a114?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | On Site | Aug 29 |
+| **[Ameren](http://ameren.com)** | **[Finance/Internal Audit Intern](https://jobright.ai/jobs/info/6a7632bbb17cba569035d1de?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 29 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Finance Reporting Intern](https://jobright.ai/jobs/info/6a9209429864261ccd2a005a?utm_campaign=1052&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92093c8e59685453378c5b?utm_campaign=1052&utm_source=git)** | Carlisle, PA, United States | Hybrid | Aug 29 |
+| ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92090b360363009919594b?utm_campaign=1052&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6a50f6b58d7d3e6cf1cbdb0a?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | On Site | Aug 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Accounting & Finance Student/Graduate Intern*](https://jobright.ai/jobs/info/6a928a8d8e596854533798c3?utm_campaign=1052&utm_source=git)** | San Bernardino, CA, United States | On Site | Aug 29 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a91b928c12c90443efc79a2?utm_campaign=1052&utm_source=git)** | London, ON, Canada | On Site | Aug 28 |
 | **[American Accounting Association](http://aaahq.org)** | **[Financial Advisor Training Program](https://jobright.ai/jobs/info/6a929078a27a2d3c9848bd7a?utm_campaign=1052&utm_source=git)** | West Mifflin, PA, United States | Hybrid | Aug 28 |
@@ -67,10 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920aefc12c90443efc940f?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 28 |
 | ↳ | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920aed9864261ccd2a00a3?utm_campaign=1052&utm_source=git)** | Alexandria, LA, United States | On Site | Aug 28 |
 | ↳ | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920ad4d18f75674827b2d2?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 28 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Finance Reporting Intern](https://jobright.ai/jobs/info/6a9209429864261ccd2a005a?utm_campaign=1052&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 28 |
-| ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92093c8e59685453378c5b?utm_campaign=1052&utm_source=git)** | Carlisle, PA, United States | Hybrid | Aug 28 |
-| ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92090b360363009919594b?utm_campaign=1052&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 28 |
-| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203e13603630099195873?utm_campaign=1052&utm_source=git)** | Alexandria, LA, United States | On Site | Aug 28 |
+| ↳ | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203e13603630099195873?utm_campaign=1052&utm_source=git)** | Alexandria, LA, United States | On Site | Aug 28 |
 | ↳ | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203c9a27a2d3c9848b00d?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 28 |
 | ↳ | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203c6c12c90443efc92d9?utm_campaign=1052&utm_source=git)** | Hammond, LA, United States | On Site | Aug 28 |
 | ↳ | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203c08e59685453378b94?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commodity Trading Analytics Internship Program](https://jobright.ai/jobs/info/6a91bfb09864261ccd29ecfb?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/6a582b3f8f51964c04047325?utm_campaign=1052&utm_source=git)** | Lost Hills, CA, United States | On Site | Aug 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2027 / Tax Intern / Woodland Hills (50756)](https://jobright.ai/jobs/info/6a91bf15a27a2d3c98489dca?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 28 |
-| ↳ | **[Summer Internship 2027 / Tax Intern / Philadelphia (50755)](https://jobright.ai/jobs/info/6a91bf06d18f756748279f45?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 28 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a91bedf3603630099194582?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 28 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Ridgeland)](https://jobright.ai/jobs/info/6a91bec5360363009919456e?utm_campaign=1052&utm_source=git)** | Ridgeland, MS, United States | On Site | Aug 28 |
-| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a3b2d96ad228f1262757?utm_campaign=1052&utm_source=git)** | South Portland, ME, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
