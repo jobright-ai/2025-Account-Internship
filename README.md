@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Accounting and Advisory Services Intern](https://jobright.ai/jobs/info/6a7e9ff019ce4e6e9d933d19?utm_campaign=1052&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Commercial Banking Summer Internship – Early Careers (NY)](https://jobright.ai/jobs/info/6a4617d4c2d11a6a4666b7e5?utm_campaign=1052&utm_source=git)** | NEW YORK, NY, United States of America | On Site | Aug 29 |
-| ↳ | **[2027 Finance Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a760b11a26ccc369f8335ee?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
+| **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/6a8d723cd34f700f87fd441e?utm_campaign=1052&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 29 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Finance Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a760b11a26ccc369f8335ee?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
 | **[The Bonadio Group](https://www.bonadio.com/)** | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672778237a036d5e1158?utm_campaign=1052&utm_source=git)** | Rochester, NY, United States of America | On Site | Aug 29 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Assurance Intern (Reno, NV)](https://jobright.ai/jobs/info/6a8283d9b5a0ac0e84a2137c?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Aug 29 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Aug 29 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Assurance Intern (Reno, NV)](https://jobright.ai/jobs/info/6a83e3b6f1685316891d39a0?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Aug 29 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Aug 29 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Aug 29 |
 | **[Equitable](https://equitable.com/)** | **[2027 Summer Intern -  Financial Risk](https://jobright.ai/jobs/info/6a92dd6d8e59685453379f25?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 29 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Corporate Finance - Summer 2027](https://jobright.ai/jobs/info/6a7639f567a1ad0bc53c952a?utm_campaign=1052&utm_source=git)** | Northfield, IL, United States | Remote | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027 (Gulfport)](https://jobright.ai/jobs/info/6a91d102d18f75674827a576?utm_campaign=1052&utm_source=git)** | Gulfport, MS, United States | On Site | Aug 28 |
 | ↳ | **[Assurance Intern - Summer 2027 (Memphis)](https://jobright.ai/jobs/info/6a91d0ffd18f75674827a574?utm_campaign=1052&utm_source=git)** | Memphis, TN, United States | On Site | Aug 28 |
 | ↳ | **[Assurance Intern - Winter 2028 (Columbus)](https://jobright.ai/jobs/info/6a91d0fb3603630099194bbe?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Aug 28 |
-| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Nashville)](https://jobright.ai/jobs/info/6a91d0f99864261ccd29f302?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Aug 28 |
-| **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Winter 2028](https://jobright.ai/jobs/info/6a91d06cc12c90443efc85d4?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
