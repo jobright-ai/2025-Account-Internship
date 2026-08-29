@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship 2027 / Tax Intern / Philadelphia (50755)](https://jobright.ai/jobs/info/6a91bf06d18f756748279f45?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 28 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a91bedf3603630099194582?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Ridgeland)](https://jobright.ai/jobs/info/6a91bec5360363009919456e?utm_campaign=1052&utm_source=git)** | Ridgeland, MS, United States | On Site | Aug 28 |
-| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a3bc8ffa38557e6ce263?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Aug 28 |
+| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a3b2d96ad228f1262757?utm_campaign=1052&utm_source=git)** | South Portland, ME, United States | On Site | Aug 28 |
+| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a214a1988648667624ea?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Aug 28 |
 | ↳ | **[Tax Internship – Spring 2028](https://jobright.ai/jobs/info/6a919a4e9864261ccd29dbf6?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 28 |
-| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a3b5d96ad228f1262759?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Aug 28 |
-| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a3b2d96ad228f1262757?utm_campaign=1052&utm_source=git)** | South Portland, ME, United States | On Site | Aug 28 |
+| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a3bc8ffa38557e6ce263?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Aug 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Metairie)](https://jobright.ai/jobs/info/6a91be59d18f756748279eed?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
