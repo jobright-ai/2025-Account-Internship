@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Accounting Intern - Asset Accounting (Fall 2026, Hybrid KY)](https://jobright.ai/jobs/info/6a92b04d3603630099196783?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | Hybrid | Aug 29 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a513c56bf63b66c7997a114?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | On Site | Aug 29 |
-| **[Ameren](http://ameren.com)** | **[Finance/Internal Audit Intern](https://jobright.ai/jobs/info/6a7632bbb17cba569035d1de?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 29 |
+| **[Ameren](http://ameren.com)** | **[Finance/Internal Audit Intern](https://jobright.ai/jobs/info/6a7632907b3417772ade7381?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 29 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Finance Reporting Intern](https://jobright.ai/jobs/info/6a9209429864261ccd2a005a?utm_campaign=1052&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92093c8e59685453378c5b?utm_campaign=1052&utm_source=git)** | Carlisle, PA, United States | Hybrid | Aug 29 |
 | ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92090b360363009919594b?utm_campaign=1052&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
