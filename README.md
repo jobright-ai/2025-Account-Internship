@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operation Smile](http://www.operationsmile.org)** | **[Accounts Assistant- Intern](https://jobright.ai/jobs/info/6a920f90d18f75674827b501?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 28 |
+| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920afe8e59685453378ca2?utm_campaign=1052&utm_source=git)** | Hammond, LA, United States | On Site | Aug 28 |
+| ↳ | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920aefc12c90443efc940f?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 28 |
+| ↳ | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920aed9864261ccd2a00a3?utm_campaign=1052&utm_source=git)** | Alexandria, LA, United States | On Site | Aug 28 |
+| ↳ | **[Audit + Assurance Intern Spring 2027](https://jobright.ai/jobs/info/6a920ad4d18f75674827b2d2?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 28 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Finance Reporting Intern](https://jobright.ai/jobs/info/6a9209429864261ccd2a005a?utm_campaign=1052&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 28 |
+| ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92093c8e59685453378c5b?utm_campaign=1052&utm_source=git)** | Carlisle, PA, United States | Hybrid | Aug 28 |
+| ↳ | **[Financial Assurance Intern](https://jobright.ai/jobs/info/6a92090b360363009919594b?utm_campaign=1052&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 28 |
 | **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203e13603630099195873?utm_campaign=1052&utm_source=git)** | Alexandria, LA, United States | On Site | Aug 28 |
 | ↳ | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203c9a27a2d3c9848b00d?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 28 |
 | ↳ | **[Tax Intern Spring 2027](https://jobright.ai/jobs/info/6a9203c6c12c90443efc92d9?utm_campaign=1052&utm_source=git)** | Hammond, LA, United States | On Site | Aug 28 |
@@ -142,19 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship 2027 / Tax Intern / Philadelphia (50755)](https://jobright.ai/jobs/info/6a91bf06d18f756748279f45?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 28 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Purchasing & Accounts Payable Intern, Restaurant Associates / Harvard Business School / Boston, MA](https://jobright.ai/jobs/info/6a91bedf3603630099194582?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Aug 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Ridgeland)](https://jobright.ai/jobs/info/6a91bec5360363009919456e?utm_campaign=1052&utm_source=git)** | Ridgeland, MS, United States | On Site | Aug 28 |
-| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a22cd96ad228f1262668?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Aug 28 |
+| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a214a1988648667624ea?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Aug 28 |
 | ↳ | **[Tax Internship – Spring 2028](https://jobright.ai/jobs/info/6a919a4e9864261ccd29dbf6?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 28 |
-| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a214a1988648667624ea?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Aug 28 |
+| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a22cd96ad228f1262668?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Aug 28 |
 | ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a2602e254e06fb9f2112?utm_campaign=1052&utm_source=git)** | South Portland, ME, United States | On Site | Aug 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Metairie)](https://jobright.ai/jobs/info/6a91be59d18f756748279eed?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Aug 28 |
 | **[Rudler,PSC](https://rudler.cpa)** | **[Tax Intern](https://jobright.ai/jobs/info/6a91be39d18f756748279ed5?utm_campaign=1052&utm_source=git)** | Fort Wright, KY, United States | On Site | Aug 28 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2027 – Actuarial US](https://jobright.ai/jobs/info/6a91bd978e596854533777e7?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 28 |
-| **[INTRUST Bank](https://www.intrustbank.com)** | **[Intern - Credit Services (Summer 2027)](https://jobright.ai/jobs/info/6a91bd909864261ccd29eaf8?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Aug 28 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Tax Compliance Internship](https://jobright.ai/jobs/info/6a91a99cc12c90443efc7429?utm_campaign=1052&utm_source=git)** | Des Moines, IA, United States | Hybrid | Aug 28 |
-| **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Specific Stop Loss Claim Auditor Intern](https://jobright.ai/jobs/info/6a91b6a9c12c90443efc7852?utm_campaign=1052&utm_source=git)** | United States | Remote | Aug 28 |
-| **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2027 - CPA](https://jobright.ai/jobs/info/6a91b97a9864261ccd29e6be?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 28 |
-| **[Gallagher, Flynn & Company, LLP](http://gfc.com)** | **[UVM GSB Tax Co-op - 2027](https://jobright.ai/jobs/info/6a91932f9864261ccd29d85c?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Aug 28 |
-| ↳ | **[UVM GSB Accounting Co-op - 2027](https://jobright.ai/jobs/info/6a91a0173603630099193712?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Aug 28 |
-| ↳ | **[Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a91a029a27a2d3c98488f25?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Aug 28 |
-| ↳ | **[Accounting Intern - Busy Season 2027](https://jobright.ai/jobs/info/6a91a019d18f756748279083?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
